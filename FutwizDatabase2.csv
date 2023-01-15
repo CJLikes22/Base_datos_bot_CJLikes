@@ -1,4 +1,4 @@
-ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,Defensa,Fisico
 0;pele;1354;https://www.futwiz.com/en/fifa23/player/pele/1354;98;icon;Icons;ICO;Brasil;95;96;93;96;60;76
 1;pele;19094;https://www.futwiz.com/en/fifa23/player/pele/19094;96;wcicon;Icons;ICO;Brasil;96;94;92;95;58;75
 2;zinedine zidane;1353;https://www.futwiz.com/en/fifa23/player/zinedine-zidane/1353;96;icon;Icons;ICO;Francia;85;92;96;95;75;86
@@ -149,6 +149,31 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 147;wayne rooney;1122;https://www.futwiz.com/en/fifa23/player/wayne-rooney/1122;91;icon;Icons;ICO;Inglaterra;89;92;83;88;55;89
 148;robin van persie;1119;https://www.futwiz.com/en/fifa23/player/robin-van-persie/1119;91;icon;Icons;ICO;Holanda;85;94;87;90;46;74
 149;karim benzema;54;https://www.futwiz.com/en/fifa23/player/karim-benzema/54;91;gold;Real Madrid;ESP 1;Francia;80;88;83;87;39;78
+150;robert lewandowski;53;https://www.futwiz.com/en/fifa23/player/robert-lewandowski/53;91;gold;FC Barcelona;ESP 1;Polonia;75;91;79;86;44;83
+151;kevin de bruyne;52;https://www.futwiz.com/en/fifa23/player/kevin-de-bruyne/52;91;gold;Manchester City;ENG 1;Belgica;74;88;93;87;64;77
+152;lionel messi;51;https://www.futwiz.com/en/fifa23/player/lionel-messi/51;91;gold;Paris SG;FRA 1;Argentina;81;89;90;94;34;64
+153;kylian mbappe;26;https://www.futwiz.com/en/fifa23/player/kylian-mbappe/26;91;gold;Paris SG;FRA 1;Francia;97;89;80;92;36;76
+154;diego forlan;2;https://www.futwiz.com/en/fifa23/player/diego-forlan/2;91;futherowc;Heroes;ESP 1;Uruguay;90;94;83;90;58;80
+155;rudi voller;1;https://www.futwiz.com/en/fifa23/player/rudi-voller/1;91;futherowc;Heroes;ITA 1;Alemania;91;94;78;90;49;87
+156;zlatan ibrahimovic;19394;https://www.futwiz.com/en/fifa23/player/zlatan-ibrahimovic/19394;90;cent;Milan;ITA 1;Suecia;90;91;83;87;37;90
+157;harry kane;19368;https://www.futwiz.com/en/fifa23/player/harry-kane/19368;90;goldif;Spurs;ENG 1;Inglaterra;70;92;84;84;48;83
+158;trent alexander-arnold;19344;https://www.futwiz.com/en/fifa23/player/trent-alexander-arnold/19344;90;cent;Liverpool;ENG 1;Inglaterra;90;72;92;84;85;81
+159;jadon sancho;19252;https://www.futwiz.com/en/fifa23/player/jadon-sancho/19252;90;wwreward;Manchester Utd;ENG 1;Inglaterra;87;83;88;92;40;71
+160;angel di maria;19213;https://www.futwiz.com/en/fifa23/player/angel-di-maria/19213;90;wctott;Juventus;ITA 1;Argentina;90;86;89;92;53;76
+161;phil foden;19192;https://www.futwiz.com/en/fifa23/player/phil-foden/19192;90;wctott;Manchester City;ENG 1;Inglaterra;88;85;87;93;62;67
+162;gheorghe hagi;19156;https://www.futwiz.com/en/fifa23/player/gheorghe-hagi/19156;90;wcicon;Icons;ICO;Rumania;85;88;90;89;42;65
+163;gary lineker;19155;https://www.futwiz.com/en/fifa23/player/gary-lineker/19155;90;wcicon;Icons;ICO;Inglaterra;89;90;72;85;37;75
+164;jude bellingham;19154;https://www.futwiz.com/en/fifa23/player/jude-bellingham/19154;90;wcphenoms;Borussia Dortmund;GER 1;Inglaterra;82;82;85;90;85;86
+165;roberto carlos;19119;https://www.futwiz.com/en/fifa23/player/roberto-carlos/19119;90;wcicon;Icons;ICO;Brasil;91;82;85;80;85;85
+166;andriy shevchenko;19118;https://www.futwiz.com/en/fifa23/player/andriy-shevchenko/19118;90;wcicon;Icons;ICO;Ucrania;86;91;73;86;35;75
+167;laurent blanc;19117;https://www.futwiz.com/en/fifa23/player/laurent-blanc/19117;90;wcicon;Icons;ICO;Francia;80;69;70;79;91;86
+168;bruno fernandes;19116;https://www.futwiz.com/en/fifa23/player/bruno-fernandes/19116;90;wcstories;Manchester Utd;ENG 1;Portugal;80;89;91;85;71;80
+169;bastian schweinsteiger;19106;https://www.futwiz.com/en/fifa23/player/bastian-schweinsteiger/19106;90;wcicon;Icons;ICO;Alemania;75;85;88;84;86;87
+170;petr cech;19096;https://www.futwiz.com/en/fifa23/player/petr-cech/19096;90;wcicon;Icons;ICO;Republica Checa;88;87;80;90;53;91
+171;patrick vieira;19089;https://www.futwiz.com/en/fifa23/player/patrick-vieira/19089;90;wcicon;Icons;ICO;Francia;84;78;81;84;88;90
+172;miroslav klose;19088;https://www.futwiz.com/en/fifa23/player/miroslav-klose/19088;90;wcicon;Icons;ICO;Alemania;86;88;75;82;42;80
+173;didier drogba;19087;https://www.futwiz.com/en/fifa23/player/didier-drogba/19087;90;wcicon;Icons;ICO;C. Marfil;88;91;76;81;47;89
+174;robin van persie;19086;https://www.futwiz.com/en/fifa23/player/robin-van-persie/19086;90;wcicon;Icons;ICO;Holanda;84;93;86;89;45;75
 175;michael laudrup;19085;https://www.futwiz.com/en/fifa23/player/michael-laudrup/19085;90;wcicon;Icons;ICO;Dinamarca;84;78;90;91;37;63
 176;marquinhos;19068;https://www.futwiz.com/en/fifa23/player/marquinhos/19068;90;roadtowc;Paris SG;FRA 1;Brasil;81;58;78;78;91;84
 177;luka modric;19067;https://www.futwiz.com/en/fifa23/player/luka-modric/19067;90;roadtowc;Real Madrid;ESP 1;Croacia;78;80;91;90;77;70
@@ -349,6 +374,31 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 372;cody gakpo;19196;https://www.futwiz.com/en/fifa23/player/cody-gakpo/19196;88;wctott;PSV;NED 1;Holanda;91;88;84;90;46;82
 373;diogo dalot;19195;https://www.futwiz.com/en/fifa23/player/diogo-dalot/19195;88;wctott;Manchester Utd;ENG 1;Portugal;89;73;85;88;85;87
 374;thiago silva;19194;https://www.futwiz.com/en/fifa23/player/thiago-silva/19194;88;wctott;Chelsea;ENG 1;Brasil;77;56;77;76;90;83
+375;mislav orsic;19188;https://www.futwiz.com/en/fifa23/player/mislav-orsic/19188;88;wcshowdown-up;Dinamo Zagreb;CRO 1;Croacia;95;88;81;85;64;71
+376;dusan vlahovic;19187;https://www.futwiz.com/en/fifa23/player/dusan-vlahovic/19187;88;wcphenoms;Juventus;ITA 1;Serbia;86;90;73;88;32;85
+377;youssouf fofana;19184;https://www.futwiz.com/en/fifa23/player/youssouf-fofana/19184;88;wcshowdown-up;AS Monaco;FRA 1;Francia;81;78;84;86;86;88
+378;enzo fernandez;19183;https://www.futwiz.com/en/fifa23/player/enzo-fernandez/19183;88;wcshowdown-up;SL Benfica;POR 1;Argentina;85;82;87;88;83;89
+379;youri tielemans;19175;https://www.futwiz.com/en/fifa23/player/youri-tielemans/19175;88;wcphenoms;Leicester City;ENG 1;Belgica;73;83;89;84;82;78
+380;bukayo saka;19161;https://www.futwiz.com/en/fifa23/player/bukayo-saka/19161;88;wcphenoms;Arsenal;ENG 1;Inglaterra;91;83;83;88;68;75
+381;eder militao;19160;https://www.futwiz.com/en/fifa23/player/eder-militao/19160;88;wcphenoms;Real Madrid;ESP 1;Brasil;87;52;75;76;88;86
+382;davor suker;19159;https://www.futwiz.com/en/fifa23/player/davor-suker/19159;88;wcicon;Icons;ICO;Croacia;86;91;81;90;44;76
+383;marcus thuram;19146;https://www.futwiz.com/en/fifa23/player/marcus-thuram/19146;88;wcshowdown-up;Mgladbach;GER 1;Francia;92;89;82;88;58;87
+384;marcos acuna;19142;https://www.futwiz.com/en/fifa23/player/marcos-acuna/19142;88;wcshowdown-up;Sevilla FC;ESP 1;Argentina;85;80;86;90;83;86
+385;hakim ziyech;19136;https://www.futwiz.com/en/fifa23/player/hakim-ziyech/19136;88;wcshowdown-up;Chelsea;ENG 1;Marruecos;86;85;91;87;55;70
+386;steven bergwijn;19130;https://www.futwiz.com/en/fifa23/player/steven-bergwijn/19130;88;wcshowdown-up;Ajax;NED 1;Holanda;94;87;84;91;50;80
+387;dani alves;19126;https://www.futwiz.com/en/fifa23/player/dani-alves/19126;88;wcstories;Brazil;WC;Brasil;90;78;89;86;85;82
+388;edinson cavani;19125;https://www.futwiz.com/en/fifa23/player/edinson-cavani/19125;88;wcstories;Uruguay;WC;Uruguay;87;90;75;88;58;83
+389;leroy sane;19124;https://www.futwiz.com/en/fifa23/player/leroy-sane/19124;88;wcstories;FC Bayern Munchen;GER 1;Alemania;92;87;85;89;42;72
+390;marcus rashford;19123;https://www.futwiz.com/en/fifa23/player/marcus-rashford/19123;88;wcstories;Manchester Utd;ENG 1;Inglaterra;92;87;82;86;50;81
+391;richarlison;19122;https://www.futwiz.com/en/fifa23/player/richarlison/19122;88;wcstories;Spurs;ENG 1;Brasil;89;87;80;88;61;86
+392;luis hernandez;19121;https://www.futwiz.com/en/fifa23/player/luis-hernandez/19121;88;wcicon;Icons;ICO;Mexico;92;88;73;88;48;69
+393;sergio busquets;19102;https://www.futwiz.com/en/fifa23/player/sergio-busquets/19102;88;roadtowc;FC Barcelona;ESP 1;España;77;80;86;87;88;83
+394;gianluca zambrotta;19097;https://www.futwiz.com/en/fifa23/player/gianluca-zambrotta/19097;88;wcicon;Icons;ICO;Italia;89;71;83;83;87;86
+395;georginio wijnaldum;19070;https://www.futwiz.com/en/fifa23/player/georginio-wijnaldum/19070;88;roadtowc;Roma FC;ITA 1;Holanda;78;80;85;88;85;86
+396;sofiane boufal;19050;https://www.futwiz.com/en/fifa23/player/sofiane-boufal/19050;88;ptg;Angers SCO;FRA 1;Marruecos;90;84;87;95;41;70
+397;christian pulisic;19035;https://www.futwiz.com/en/fifa23/player/christian-pulisic/19035;88;ptg;Chelsea;ENG 1;Estados Unidos;93;82;83;92;43;65
+398;joe cole;19034;https://www.futwiz.com/en/fifa23/player/joe-cole/19034;88;futherowc;Heroes;ENG 1;Inglaterra;90;86;87;91;52;72
+399;tim cahill;19031;https://www.futwiz.com/en/fifa23/player/tim-cahill/19031;88;futherowc;Heroes;MLS;Australia;87;88;79;85;65;90
 400;robbie keane;18993;https://www.futwiz.com/en/fifa23/player/robbie-keane/18993;88;futherowc;Heroes;ENG 1;Rep. Irlanda;90;91;78;91;47;79
 401;freddie ljungberg;18990;https://www.futwiz.com/en/fifa23/player/freddie-ljungberg/18990;88;futherowc;Heroes;ENG 1;Suecia;90;85;84;88;47;80
 402;jorge campos;18989;https://www.futwiz.com/en/fifa23/player/jorge-campos/18989;88;futherowc;Heroes;MLS;Mexico;95;85;82;91;86;82
