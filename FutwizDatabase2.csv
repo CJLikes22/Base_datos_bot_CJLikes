@@ -1,4 +1,4 @@
-ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,Defensa,Fisico
+ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;pele;17705;https://www.futwiz.com/en/fc24/player/pele/17705;95;icon;;;Brasil;93;94;91;94;58;74
 1;ronaldo nazario;17707;https://www.futwiz.com/en/fc24/player/ronaldo-nazario/17707;94;icon;;;Brasil;94;94;79;94;43;75
 2;zinedine zidane;17706;https://www.futwiz.com/en/fc24/player/zinedine-zidane/17706;94;icon;;;Francia;83;90;94;94;73;84
@@ -1793,7 +1793,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 1791;franco cervi;1278;https://www.futwiz.com/en/fc24/player/franco-cervi/1278;77;gold-nr;RC Celta;ESP 1;Argentina;88;67;72;80;55;53
 1792;trevoh chalobah;1277;https://www.futwiz.com/en/fc24/player/trevoh-chalobah/1277;77;gold-nr;Chelsea;ENG 1;Inglaterra;64;47;65;68;78;77
 1793;simone charley;1276;https://www.futwiz.com/en/fc24/player/simone-charley/1276;77;gold-nr;;;Estados Unidos;83;76;70;72;43;72
-1794;viktor claesson;1275;https://www.futwiz.com/en/fc24/player/viktor-claesson/1275;77;gold;F.C. KA,benhavn;DEN 1;Suecia;75;73;74;77;65;78
+1794;viktor claesson;1275;https://www.futwiz.com/en/fc24/player/viktor-claesson/1275;77;gold;F.C. KA;benhavn;DEN 1;Suecia;75;73;74;77;65;78
 1795;dodo;1274;https://www.futwiz.com/en/fc24/player/dodo/1274;77;gold;Fiorentina;ITA 1;Brasil;87;59;73;78;71;72
 1796;gia corley;1273;https://www.futwiz.com/en/fc24/player/gia-corley/1273;77;gold-nr;TSG Hoffenheim;;Estados Unidos;66;67;74;75;62;68
 1797;joaquin correa;1272;https://www.futwiz.com/en/fc24/player/joaquin-correa/1272;77;gold-nr;OM;FRA 1;Argentina;68;73;74;83;40;65
@@ -1919,7 +1919,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 1918;lucas villalba;1868;https://www.futwiz.com/en/fc24/player/lucas-villalba/1868;76;gold;Argentinos Jrs.;LIB;Argentina;82;58;70;73;77;75
 1919;kevin vogt;1867;https://www.futwiz.com/en/fc24/player/kevin-vogt/1867;76;gold-nr;TSG Hoffenheim;GER 1;Alemania;69;57;72;68;76;76
 1920;kai wagner;1866;https://www.futwiz.com/en/fc24/player/kai-wagner/1866;76;gold-nr;Philadelphia;MLS;Alemania;78;48;69;70;73;80
-1921;daniel wass;1865;https://www.futwiz.com/en/fc24/player/daniel-wass/1865;76;gold-nr;BrA,ndby IF;DEN 1;Dinamarca;71;75;78;75;73;75
+1921;daniel wass;1865;https://www.futwiz.com/en/fc24/player/daniel-wass/1865;76;gold-nr;BrA;ndby IF;DEN 1;Dinamarca;71;75;78;75;73;75
 1922;ashleigh weerden;1864;https://www.futwiz.com/en/fc24/player/ashleigh-weerden/1864;76;gold-nr;Ajax;;Holanda;81;72;67;80;34;64
 1923;danny welbeck;1863;https://www.futwiz.com/en/fc24/player/danny-welbeck/1863;76;gold-nr;Brighton;ENG 1;Inglaterra;68;73;70;76;42;71
 1924;silvan widmer;1862;https://www.futwiz.com/en/fc24/player/silvan-widmer/1862;76;gold-nr;1. FSV Mainz 05;GER 1;Suiza;77;62;71;73;71;78
@@ -1986,7 +1986,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 1985;medran;1801;https://www.futwiz.com/en/fc24/player/medran/1801;76;gold-nr;Al Taawoun;SAU 1;España;57;71;78;77;63;66
 1986;falone meffometou;1800;https://www.futwiz.com/en/fc24/player/falone-meffometou/1800;76;gold-nr;;;Camerun;64;56;67;70;77;74
 1987;jacqueline meisner;1799;https://www.futwiz.com/en/fc24/player/jacqueline-meisner/1799;76;gold-nr;;;Alemania;68;54;69;68;78;69
-1988;birger meling;1798;https://www.futwiz.com/en/fc24/player/birger-meling/1798;76;gold-nr;F.C. KA,benhavn;DEN 1;Noruega;81;55;71;75;70;66
+1988;birger meling;1798;https://www.futwiz.com/en/fc24/player/birger-meling/1798;76;gold-nr;F.C. KA;benhavn;DEN 1;Noruega;81;55;71;75;70;66
 1989;emily menges;1797;https://www.futwiz.com/en/fc24/player/emily-menges/1797;76;gold-nr;;;Estados Unidos;58;42;59;67;80;70
 1990;thomas meunier;1796;https://www.futwiz.com/en/fc24/player/thomas-meunier/1796;76;gold-nr;Borussia Dortmund;GER 1;Belgica;68;74;72;71;74;82
 1991;paulo victor;1795;https://www.futwiz.com/en/fc24/player/paulo-victor/1795;76;gold-nr;Ettifaq FC;SAU 1;Brasil;78;73;70;79;49;73
@@ -2296,7 +2296,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 2295;jose luis palomino;2323;https://www.futwiz.com/en/fc24/player/jose-luis-palomino/2323;75;gold-nr;Bergamo Calcio;ITA 1;Argentina;40;32;54;57;75;83
 2296;remko pasveer;2322;https://www.futwiz.com/en/fc24/player/remko-pasveer/2322;75;gold-nr;Ajax;NED 1;Holanda;73;75;80;75;33;77
 2297;strahinja pavlovic;2321;https://www.futwiz.com/en/fc24/player/strahinja-pavlovic/2321;75;gold-nr;RB Salzburg;AUT 1;Serbia;67;43;50;64;74;83
-2298;amahl pellegrino;2320;https://www.futwiz.com/en/fc24/player/amahl-pellegrino/2320;75;gold-nr;FK BodA,/Glimt;NOR 1;Noruega;84;74;70;73;40;60
+2298;amahl pellegrino;2320;https://www.futwiz.com/en/fc24/player/amahl-pellegrino/2320;75;gold-nr;FK BodA;/Glimt;NOR 1;Noruega;84;74;70;73;40;60
 2299;ruben pena;2319;https://www.futwiz.com/en/fc24/player/ruben-pena/2319;75;gold-nr;CA Osasuna;ESP 1;España;72;69;70;73;72;65
 2300;romain perraud;2318;https://www.futwiz.com/en/fc24/player/romain-perraud/2318;75;gold-nr;OGC Nice;FRA 1;Francia;70;72;73;75;72;72
 2301;bruno petkovic;2317;https://www.futwiz.com/en/fc24/player/bruno-petkovic/2317;75;gold-nr;Dinamo Zagreb;CRO 1;Croacia;72;72;77;78;39;76
@@ -2505,7 +2505,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 2504;mohamed elneny;2114;https://www.futwiz.com/en/fc24/player/mohamed-elneny/2114;75;gold-nr;Arsenal;ENG 1;Egipto;52;63;71;70;72;70
 2505;edu exposito;2113;https://www.futwiz.com/en/fc24/player/edu-exposito/2113;75;gold-nr;RCD Espanyol;ESP 2;España;65;74;74;76;71;70
 2506;paulo vitor;2112;https://www.futwiz.com/en/fc24/player/paulo-vitor/2112;75;gold-nr;Al Okhdood;SAU 1;Brasil;77;74;73;76;24;73
-2507;rasmus falk;2111;https://www.futwiz.com/en/fc24/player/rasmus-falk/2111;75;gold-nr;F.C. KA,benhavn;DEN 1;Dinamarca;73;56;72;80;66;67
+2507;rasmus falk;2111;https://www.futwiz.com/en/fc24/player/rasmus-falk/2111;75;gold-nr;F.C. KA;benhavn;DEN 1;Dinamarca;73;56;72;80;66;67
 2508;facundo farias;2110;https://www.futwiz.com/en/fc24/player/facundo-farias/2110;75;gold;Inter Miami CF;MLS;Argentina;86;72;68;83;39;70
 2509;helene fercocq;2109;https://www.futwiz.com/en/fc24/player/helene-fercocq/2109;75;gold-nr;;;Francia;57;47;64;64;77;76
 2510;charlotte fernandes;2108;https://www.futwiz.com/en/fc24/player/charlotte-fernandes/2108;75;gold-nr;;;Francia;62;53;68;67;73;67
@@ -2537,7 +2537,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 2536;erika gonzalez;2082;https://www.futwiz.com/en/fc24/player/erika-gonzalez/2082;75;gold-nr;Levante UD;;España;78;75;71;75;48;50
 2537;anthony gordon;2081;https://www.futwiz.com/en/fc24/player/anthony-gordon/2081;75;gold-nr;Newcastle Utd;ENG 1;Inglaterra;88;69;72;75;37;62
 2538;jeffrey gouweleeuw;2080;https://www.futwiz.com/en/fc24/player/jeffrey-gouweleeuw/2080;75;gold-nr;FC Augsburg;GER 1;Holanda;66;58;66;64;77;75
-2539;kamil grabara;2079;https://www.futwiz.com/en/fc24/player/kamil-grabara/2079;75;gold-nr;F.C. KA,benhavn;DEN 1;Polonia;76;75;72;76;42;75
+2539;kamil grabara;2079;https://www.futwiz.com/en/fc24/player/kamil-grabara/2079;75;gold-nr;F.C. KA;benhavn;DEN 1;Polonia;76;75;72;76;42;75
 2540;ivo grbic;2078;https://www.futwiz.com/en/fc24/player/ivo-grbic/2078;75;gold-nr;AtlA(c)tico de Madrid;ESP 1;Croacia;76;71;74;76;32;73
 2541;clement grenier;2077;https://www.futwiz.com/en/fc24/player/clement-grenier/2077;75;gold-nr;RCD Mallorca;ESP 1;Francia;36;73;79;74;62;68
 2542;hugo guillamon;2076;https://www.futwiz.com/en/fc24/player/hugo-guillamon/2076;75;gold-nr;Valencia CF;ESP 1;España;55;53;69;64;75;70
@@ -2610,7 +2610,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 2609;jean-ricner bellegarde;1999;https://www.futwiz.com/en/fc24/player/jean-ricner-bellegarde/1999;75;gold-nr;Strasbourg;FRA 1;Francia;77;62;72;77;70;72
 2610;fiamma benitez;1998;https://www.futwiz.com/en/fc24/player/fiamma-benitez/1998;75;gold-nr;Valencia CF;;España;77;67;72;78;51;67
 2611;nabil bentaleb;1997;https://www.futwiz.com/en/fc24/player/nabil-bentaleb/1997;75;gold-nr;LOSC Lille;FRA 1;Argelia;48;72;74;79;69;73
-2612;patrick berg;1996;https://www.futwiz.com/en/fc24/player/patrick-berg/1996;75;gold-nr;FK BodA,/Glimt;NOR 1;Noruega;71;61;72;72;69;77
+2612;patrick berg;1996;https://www.futwiz.com/en/fc24/player/patrick-berg/1996;75;gold-nr;FK BodA;/Glimt;NOR 1;Noruega;71;61;72;72;69;77
 2613;sander berge;1995;https://www.futwiz.com/en/fc24/player/sander-berge/1995;75;gold-nr;Burnley;ENG 1;Noruega;63;65;73;73;74;85
 2614;jordan beyer;1994;https://www.futwiz.com/en/fc24/player/jordan-beyer/1994;75;gold-nr;Burnley;ENG 1;Alemania;74;34;62;70;75;75
 2615;jaka bijol;1993;https://www.futwiz.com/en/fc24/player/jaka-bijol/1993;75;gold-nr;Udinese;ITA 1;Eslovenia;65;59;65;61;75;78
@@ -2941,7 +2941,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 2940;loreta kullashi;2706;https://www.futwiz.com/en/fc24/player/loreta-kullashi/2706;74;silver;FC RosengAY=rd;;Suecia;67;73;62;74;33;64
 2941;carlos lampe;2705;https://www.futwiz.com/en/fc24/player/carlos-lampe/2705;74;gold;BolAvar;LIB;Bolivia;72;73;69;75;34;76
 2942;jens stryger larsen;2704;https://www.futwiz.com/en/fc24/player/jens-stryger-larsen/2704;74;silver;Trabzonspor;TUR 1;Dinamarca;74;60;70;73;69;76
-2943;jordan larsson;2703;https://www.futwiz.com/en/fc24/player/jordan-larsson/2703;74;silver;F.C. KA,benhavn;DEN 1;Suecia;82;72;70;75;34;70
+2943;jordan larsson;2703;https://www.futwiz.com/en/fc24/player/jordan-larsson/2703;74;silver;F.C. KA;benhavn;DEN 1;Suecia;82;72;70;75;34;70
 2944;veronica latsko;2702;https://www.futwiz.com/en/fc24/player/veronica-latsko/2702;74;silver;;;Estados Unidos;68;73;70;73;41;66
 2945;melissa lawley;2701;https://www.futwiz.com/en/fc24/player/melissa-lawley/2701;74;silver;Liverpool;;Inglaterra;77;69;72;75;40;66
 2946;carrie lawrence;2700;https://www.futwiz.com/en/fc24/player/carrie-lawrence/2700;74;silver;;;Estados Unidos;67;42;63;62;75;70
@@ -3319,12 +3319,12 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3318;cote;3590;https://www.futwiz.com/en/fc24/player/cote/3590;73;silver;R. Sporting;ESP 2;España;64;54;77;71;71;68
 3319;bruno wilson;3589;https://www.futwiz.com/en/fc24/player/bruno-wilson/3589;73;silver;FC Vizela;POR 1;Portugal;50;30;45;49;75;79
 3320;manu vallejo;3588;https://www.futwiz.com/en/fc24/player/manu-vallejo/3588;73;silver;Real Zaragoza;ESP 2;España;75;74;68;75;43;62
-3321;nicolai vallys;3587;https://www.futwiz.com/en/fc24/player/nicolai-vallys/3587;73;silver;BrA,ndby IF;DEN 1;Dinamarca;81;67;70;74;38;76
+3321;nicolai vallys;3587;https://www.futwiz.com/en/fc24/player/nicolai-vallys/3587;73;silver;BrA;ndby IF;DEN 1;Dinamarca;81;67;70;74;38;76
 3322;sven van beek;3586;https://www.futwiz.com/en/fc24/player/sven-van-beek/3586;73;silver;sc Heerenveen;NED 1;Holanda;52;39;55;53;75;74
 3323;mick van buren;3585;https://www.futwiz.com/en/fc24/player/mick-van-buren/3585;73;silver;Slavia Praha;CZE 1;Holanda;77;73;64;72;36;73
 3324;vito van crooij;3584;https://www.futwiz.com/en/fc24/player/vito-van-crooij/3584;73;silver-nr;Sparta Rotterdam;NED 1;Holanda;79;69;70;71;40;70
 3325;michele vasconcelos;3583;https://www.futwiz.com/en/fc24/player/michele-vasconcelos/3583;73;silver;;;Estados Unidos;68;69;67;72;46;60
-3326;denis vavro;3582;https://www.futwiz.com/en/fc24/player/denis-vavro/3582;73;silver;F.C. KA,benhavn;DEN 1;Eslovaquia;67;58;59;61;71;82
+3326;denis vavro;3582;https://www.futwiz.com/en/fc24/player/denis-vavro/3582;73;silver;F.C. KA;benhavn;DEN 1;Eslovaquia;67;58;59;61;71;82
 3327;brandon vazquez;3581;https://www.futwiz.com/en/fc24/player/brandon-vazquez/3581;73;silver-nr;FC Cincinnati;MLS;Estados Unidos;76;71;54;66;34;77
 3328;gustavo velazquez;3580;https://www.futwiz.com/en/fc24/player/gustavo-velazquez/3580;73;gold;Newell's;SUD;Paraguay;74;31;47;55;72;78
 3329;milos veljkovic;3579;https://www.futwiz.com/en/fc24/player/milos-veljkovic/3579;73;silver;SV Werder Bremen;GER 1;Serbia;36;33;53;59;74;74
@@ -3401,7 +3401,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3400;chris ramos;3504;https://www.futwiz.com/en/fc24/player/chris-ramos/3504;73;silver;CA!diz CF;ESP 1;España;81;71;60;72;35;67
 3401;bart ramselaar;3503;https://www.futwiz.com/en/fc24/player/bart-ramselaar/3503;73;silver;FC Utrecht;NED 1;Holanda;83;71;68;75;52;67
 3402;federico rasmussen;3502;https://www.futwiz.com/en/fc24/player/federico-rasmussen/3502;73;silver;Godoy Cruz;ARG 1;Argentina;55;34;61;59;72;83
-3403;jacob rasmussen;3501;https://www.futwiz.com/en/fc24/player/jacob-rasmussen/3501;73;silver;BrA,ndby IF;DEN 1;Dinamarca;56;38;57;62;73;79
+3403;jacob rasmussen;3501;https://www.futwiz.com/en/fc24/player/jacob-rasmussen/3501;73;silver;BrA;ndby IF;DEN 1;Dinamarca;56;38;57;62;73;79
 3404;tim ream;3500;https://www.futwiz.com/en/fc24/player/tim-ream/3500;73;silver;Fulham;ENG 1;Estados Unidos;52;44;69;68;76;70
 3405;jeff reine-adelaide;3499;https://www.futwiz.com/en/fc24/player/jeff-reine-adelaide/3499;73;silver;OL;FRA 1;Francia;68;69;72;78;54;64
 3406;luiz junior;3498;https://www.futwiz.com/en/fc24/player/luiz-junior/3498;73;silver;FC FamalicAPSo;POR 1;Brasil;73;72;67;73;30;72
@@ -3423,7 +3423,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3422;emir sahiti;3482;https://www.futwiz.com/en/fc24/player/emir-sahiti/3482;73;silver;Hajduk Split;CRO 1;Kosovo;84;71;66;75;41;66
 3423;mamadou sakho;3481;https://www.futwiz.com/en/fc24/player/mamadou-sakho/3481;73;silver-nr;Montpellier;FRA 1;Francia;35;35;63;55;72;80
 3424;manolis saliakas;3480;https://www.futwiz.com/en/fc24/player/manolis-saliakas/3480;73;silver-nr;FC St. Pauli;GER 2;Grecia;68;57;66;68;66;68
-3425;ulrik saltnes;3479;https://www.futwiz.com/en/fc24/player/ulrik-saltnes/3479;73;silver;FK BodA,/Glimt;NOR 1;Noruega;75;65;70;72;69;84
+3425;ulrik saltnes;3479;https://www.futwiz.com/en/fc24/player/ulrik-saltnes/3479;73;silver;FK BodA;/Glimt;NOR 1;Noruega;75;65;70;72;69;84
 3426;lazar samardzic;3478;https://www.futwiz.com/en/fc24/player/lazar-samardzic/3478;73;silver;Udinese;ITA 1;Serbia;70;70;71;76;57;64
 3427;carlos sanchez;3477;https://www.futwiz.com/en/fc24/player/carlos-sanchez/3477;73;gold;PeA+-arol;SUD;Uruguay;71;74;75;73;60;67
 3428;ivan sanchez;3476;https://www.futwiz.com/en/fc24/player/ivan-sanchez/3476;73;silver;R. Valladolid CF;ESP 2;España;74;69;71;78;39;44
@@ -3543,7 +3543,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3542;rogerio;3362;https://www.futwiz.com/en/fc24/player/rogerio/3362;73;silver;VfL Wolfsburg;GER 1;Brasil;74;53;68;75;70;58
 3543;andre silva;3361;https://www.futwiz.com/en/fc24/player/andre-silva/3361;73;silver;VitA3ria SC;POR 1;Brasil;76;72;67;74;32;66
 3544;gaston olveira;3360;https://www.futwiz.com/en/fc24/player/gaston-olveira/3360;73;gold;Olimpia;LIB;Uruguay;72;75;57;73;19;70
-3545;ohi omoijuanfo;3359;https://www.futwiz.com/en/fc24/player/ohi-omoijuanfo/3359;73;silver;BrA,ndby IF;DEN 1;Noruega;75;73;63;70;44;76
+3545;ohi omoijuanfo;3359;https://www.futwiz.com/en/fc24/player/ohi-omoijuanfo/3359;73;silver;BrA;ndby IF;DEN 1;Noruega;75;73;63;70;44;76
 3546;abdulkadir omur;3358;https://www.futwiz.com/en/fc24/player/abdulkadir-omur/3358;73;silver;Trabzonspor;TUR 1;Turquia;84;67;72;81;53;57
 3547;paul ebere onuachu;3357;https://www.futwiz.com/en/fc24/player/paul-ebere-onuachu/3357;73;silver;Southampton;ENG 2;Nigeria;60;73;58;64;45;80
 3548;raphael onyedika;3356;https://www.futwiz.com/en/fc24/player/raphael-onyedika/3356;73;silver-nr;Club Brugge;BEL 1;Nigeria;74;53;63;70;70;78
@@ -3643,7 +3643,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3642;christopher lenz;3262;https://www.futwiz.com/en/fc24/player/christopher-lenz/3262;73;silver;RB Leipzig;GER 1;Alemania;70;42;67;69;72;70
 3643;sergio leon;3261;https://www.futwiz.com/en/fc24/player/sergio-leon/3261;73;silver;R. Valladolid CF;ESP 2;España;74;74;67;74;39;70
 3644;johann lepenant;3260;https://www.futwiz.com/en/fc24/player/johann-lepenant/3260;73;silver-nr;OL;FRA 1;Francia;70;44;67;71;69;70
-3645;lukas lerager;3259;https://www.futwiz.com/en/fc24/player/lukas-lerager/3259;73;silver;F.C. KA,benhavn;DEN 1;Dinamarca;68;69;69;69;72;82
+3645;lukas lerager;3259;https://www.futwiz.com/en/fc24/player/lukas-lerager/3259;73;silver;F.C. KA;benhavn;DEN 1;Dinamarca;68;69;69;69;72;82
 3646;rico lewis;3258;https://www.futwiz.com/en/fc24/player/rico-lewis/3258;73;silver-nr;Manchester City;ENG 1;Inglaterra;74;43;67;72;70;59
 3647;fiona liaigre;3257;https://www.futwiz.com/en/fc24/player/fiona-liaigre/3257;73;silver-nr;Bordeaux;;Francia;76;46;59;64;70;67
 3648;lisa lichtfus;3256;https://www.futwiz.com/en/fc24/player/lisa-lichtfus/3256;73;silver;;;Belgica;69;75;68;76;43;71
@@ -3679,19 +3679,19 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3678;emina ekic;3226;https://www.futwiz.com/en/fc24/player/emina-ekic/3226;73;silver;;;Estados Unidos;76;68;72;72;46;61
 3679;jurgen ekkelenkamp;3225;https://www.futwiz.com/en/fc24/player/jurgen-ekkelenkamp/3225;73;silver;Royal Antwerp FC;BEL 1;Holanda;52;69;72;73;62;74
 3680;nesryne el chad;3224;https://www.futwiz.com/en/fc24/player/nesryne-el-chad/3224;73;silver;LOSC Lille;;Marruecos;69;41;57;63;74;70
-3681;omar elabdellaoui;3223;https://www.futwiz.com/en/fc24/player/omar-elabdellaoui/3223;73;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;76;54;67;72;68;70
+3681;omar elabdellaoui;3223;https://www.futwiz.com/en/fc24/player/omar-elabdellaoui/3223;73;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;76;54;67;72;68;70
 3682;anthony elanga;3222;https://www.futwiz.com/en/fc24/player/anthony-elanga/3222;73;silver;Nott'm Forest;ENG 1;Suecia;87;66;64;73;38;58
 3683;ane elexpuru;3221;https://www.futwiz.com/en/fc24/player/ane-elexpuru/3221;73;silver;Athletic Club;;España;83;68;70;76;47;57
 3684;meschack elia;3220;https://www.futwiz.com/en/fc24/player/meschack-elia/3220;73;silver;BSC Young Boys;SUI 1;RD Congo;93;71;67;77;26;69
 3685;niclas eliasson;3219;https://www.futwiz.com/en/fc24/player/niclas-eliasson/3219;73;silver;AEK Athens;GRE 1;Suecia;88;61;69;76;41;65
 3686;jack elliott;3218;https://www.futwiz.com/en/fc24/player/jack-elliott/3218;73;silver;Philadelphia;MLS;Inglaterra;49;24;49;51;74;80
-3687;mohamed elyounoussi;3217;https://www.futwiz.com/en/fc24/player/mohamed-elyounoussi/3217;73;silver;F.C. KA,benhavn;DEN 1;Noruega;71;70;69;76;55;69
+3687;mohamed elyounoussi;3217;https://www.futwiz.com/en/fc24/player/mohamed-elyounoussi/3217;73;silver;F.C. KA;benhavn;DEN 1;Noruega;71;70;69;76;55;69
 3688;vivien endemann;3216;https://www.futwiz.com/en/fc24/player/vivien-endemann/3216;73;silver;VfL Wolfsburg;;Alemania;73;71;68;72;43;60
 3689;bjorn engels;3215;https://www.futwiz.com/en/fc24/player/bjorn-engels/3215;73;silver;Royal Antwerp FC;BEL 1;Belgica;51;44;60;52;74;72
 3690;romane enguehard;3214;https://www.futwiz.com/en/fc24/player/romane-enguehard/3214;73;silver;Havre AC;;Francia;67;66;71;75;70;63
 3691;thelma eninger;3213;https://www.futwiz.com/en/fc24/player/thelma-eninger/3213;73;silver;Stade de Reims;;Francia;68;70;73;77;53;48
 3692;bernardo espinosa;3212;https://www.futwiz.com/en/fc24/player/bernardo-espinosa/3212;73;silver;Girona FC;ESP 1;Colombia;36;44;59;50;73;75
-3693;hakon evjen;3211;https://www.futwiz.com/en/fc24/player/hakon-evjen/3211;73;silver;BrA,ndby IF;DEN 1;Noruega;86;62;67;76;56;63
+3693;hakon evjen;3211;https://www.futwiz.com/en/fc24/player/hakon-evjen/3211;73;silver;BrA;ndby IF;DEN 1;Noruega;86;62;67;76;56;63
 3694;abdessamad ezzalzouli;3210;https://www.futwiz.com/en/fc24/player/abdessamad-ezzalzouli/3210;73;silver;FC Barcelona;ESP 1;Marruecos;81;70;64;79;27;47
 3695;niamh fahey;3209;https://www.futwiz.com/en/fc24/player/niamh-fahey/3209;73;silver;Liverpool;;Rep. Irlanda;55;40;63;62;78;60
 3696;marouane fellaini;3208;https://www.futwiz.com/en/fc24/player/marouane-fellaini/3208;73;silver;Shandong Taishan;CHN 1;Belgica;34;71;69;68;72;86
@@ -3819,12 +3819,12 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3818;ava cook;3086;https://www.futwiz.com/en/fc24/player/ava-cook/3086;73;silver;;;Estados Unidos;75;73;68;71;38;60
 3819;enzo copetti;3085;https://www.futwiz.com/en/fc24/player/enzo-copetti/3085;73;silver;Charlotte FC;MLS;Argentina;82;71;64;68;50;87
 3820;jack cork;3084;https://www.futwiz.com/en/fc24/player/jack-cork/3084;73;silver;Burnley;ENG 1;Inglaterra;40;60;69;68;72;75
-3821;andreas cornelius;3083;https://www.futwiz.com/en/fc24/player/andreas-cornelius/3083;73;silver;F.C. KA,benhavn;DEN 1;Dinamarca;65;73;60;62;34;81
+3821;andreas cornelius;3083;https://www.futwiz.com/en/fc24/player/andreas-cornelius/3083;73;silver;F.C. KA;benhavn;DEN 1;Dinamarca;65;73;60;62;34;81
 3822;corpas;3082;https://www.futwiz.com/en/fc24/player/corpas/3082;73;silver;SD Eibar;ESP 2;España;89;67;69;74;36;62
 3823;benoit costil;3081;https://www.futwiz.com/en/fc24/player/benoit-costil/3081;73;silver;Salernitana;ITA 1;Francia;72;73;74;74;48;72
 3824;maxime crepeau;3080;https://www.futwiz.com/en/fc24/player/maxime-crepeau/3080;73;silver;LAFC;MLS;Canada;72;70;70;75;49;70
 3825;pejino;3079;https://www.futwiz.com/en/fc24/player/pejino/3079;73;silver;UD Las Palmas;ESP 1;España;92;74;68;74;36;60
-3826;diogo goncalves;3078;https://www.futwiz.com/en/fc24/player/diogo-goncalves/3078;73;silver;F.C. KA,benhavn;DEN 1;Portugal;82;71;68;74;61;69
+3826;diogo goncalves;3078;https://www.futwiz.com/en/fc24/player/diogo-goncalves/3078;73;silver;F.C. KA;benhavn;DEN 1;Portugal;82;71;68;74;61;69
 3827;joao victor;3077;https://www.futwiz.com/en/fc24/player/joao-victor/3077;73;silver;SL Benfica;POR 1;Brasil;76;50;52;57;73;76
 3828;oday dabbagh;3076;https://www.futwiz.com/en/fc24/player/oday-dabbagh/3076;73;silver;Sp. Charleroi;BEL 1;Aut. Palest.;73;75;58;67;35;74
 3829;colin dagba;3075;https://www.futwiz.com/en/fc24/player/colin-dagba/3075;73;silver-nr;Paris SG;FRA 1;Francia;75;56;69;74;69;59
@@ -3956,7 +3956,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 3955;simon zoller;17965;https://www.futwiz.com/en/fc24/player/simon-zoller/17965;72;silver;FC St. Pauli;GER 2;Alemania;68;73;65;73;39;66
 3956;paul akouokou;17964;https://www.futwiz.com/en/fc24/player/paul-akouokou/17964;72;silver;OL;FRA 1;C. Marfil;56;56;68;70;71;63
 3957;mattia aramu;17963;https://www.futwiz.com/en/fc24/player/mattia-aramu/17963;72;silver;Bari;ITA 2;Italia;74;63;73;75;52;60
-3958;sean klaiber;17962;https://www.futwiz.com/en/fc24/player/sean-klaiber/17962;72;silver;BrA,ndby IF;DEN 1;Surinam;79;63;68;65;68;78
+3958;sean klaiber;17962;https://www.futwiz.com/en/fc24/player/sean-klaiber/17962;72;silver;BrA;ndby IF;DEN 1;Surinam;79;63;68;65;68;78
 3959;billal brahimi;17961;https://www.futwiz.com/en/fc24/player/billal-brahimi/17961;72;silver-nr;Stade Brestois 29;FRA 1;Argelia;76;70;68;74;29;69
 3960;roman yaremchuk;17960;https://www.futwiz.com/en/fc24/player/roman-yaremchuk/17960;72;silver-nr;Valencia CF;ESP 1;Ucrania;73;71;68;67;44;73
 3961;alexander callens;17959;https://www.futwiz.com/en/fc24/player/alexander-callens/17959;72;silver-nr;AEK Athens;GRE 1;Peru;69;49;49;57;72;79
@@ -4290,7 +4290,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 4289;loris karius;4028;https://www.futwiz.com/en/fc24/player/loris-karius/4028;72;silver;Newcastle Utd;ENG 1;Alemania;75;66;72;75;55;70
 4290;ilan kebbal;4027;https://www.futwiz.com/en/fc24/player/ilan-kebbal/4027;72;silver;Paris FC;FRA 2;Argelia;78;65;67;76;24;54
 4291;devon kerr;4026;https://www.futwiz.com/en/fc24/player/devon-kerr/4026;72;silver;;;Canada;74;66;60;79;40;70
-4292;davit khocholava;4025;https://www.futwiz.com/en/fc24/player/davit-khocholava/4025;72;silver;F.C. KA,benhavn;DEN 1;Georgia;53;48;57;58;71;81
+4292;davit khocholava;4025;https://www.futwiz.com/en/fc24/player/davit-khocholava/4025;72;silver;F.C. KA;benhavn;DEN 1;Georgia;53;48;57;58;71;81
 4293;luca kilian;4024;https://www.futwiz.com/en/fc24/player/luca-kilian/4024;72;silver-nr;1. FC KAPln;GER 1;Alemania;69;39;56;54;72;77
 4294;emre kilinc;4023;https://www.futwiz.com/en/fc24/player/emre-kilinc/4023;72;silver;Samsunspor;TUR 1;Turquia;73;69;66;75;51;59
 4295;kim dong joon;4022;https://www.futwiz.com/en/fc24/player/kim-dong-joon/4022;72;silver;Jeju United;KOR 1;Rep. Corea;74;71;66;74;43;70
@@ -4316,7 +4316,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 4315;didier lamkel ze;4002;https://www.futwiz.com/en/fc24/player/didier-lamkel-ze/4002;72;silver;Hatayspor;TUR 1;Camerun;78;73;67;73;49;78
 4316;luca langoni;4001;https://www.futwiz.com/en/fc24/player/luca-langoni/4001;72;gold;Boca Juniors;LIB;Argentina;89;68;63;73;34;66
 4317;federico lanzillotta;4000;https://www.futwiz.com/en/fc24/player/federico-lanzillotta/4000;72;gold;Argentinos Jrs.;LIB;Argentina;73;68;65;74;45;72
-4318;rasmus lauritsen;3999;https://www.futwiz.com/en/fc24/player/rasmus-lauritsen/3999;72;silver;BrA,ndby IF;DEN 1;Dinamarca;58;41;58;53;73;76
+4318;rasmus lauritsen;3999;https://www.futwiz.com/en/fc24/player/rasmus-lauritsen/3999;72;silver;BrA;ndby IF;DEN 1;Dinamarca;58;41;58;53;73;76
 4319;valentino lazaro;3998;https://www.futwiz.com/en/fc24/player/valentino-lazaro/3998;72;silver;Torino;ITA 1;Austria;74;69;73;74;64;66
 4320;jean-louis leca;3997;https://www.futwiz.com/en/fc24/player/jean-louis-leca/3997;72;silver;RC Lens;FRA 1;Francia;70;70;74;72;41;71
 4321;lee chang geun;3996;https://www.futwiz.com/en/fc24/player/lee-chang-geun/3996;72;silver;Daejeon Citizen;KOR 1;Rep. Corea;70;72;64;74;45;70
@@ -4652,7 +4652,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 4651;muhamed besic;3666;https://www.futwiz.com/en/fc24/player/muhamed-besic/3666;72;silver-nr;FerencvA!rosi TC;HUN 1;Bosnia-H.;52;55;64;72;70;73
 4652;krystian bielik;3665;https://www.futwiz.com/en/fc24/player/krystian-bielik/3665;72;silver;Birmingham City;ENG 2;Polonia;57;46;63;67;71;77
 4653;jenna bike;3664;https://www.futwiz.com/en/fc24/player/jenna-bike/3664;72;silver;;;Estados Unidos;76;51;59;62;73;58
-4654;fredrik andre bjorkan;3663;https://www.futwiz.com/en/fc24/player/fredrik-andre-bjorkan/3663;72;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;80;53;62;72;66;72
+4654;fredrik andre bjorkan;3663;https://www.futwiz.com/en/fc24/player/fredrik-andre-bjorkan/3663;72;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;80;53;62;72;66;72
 4655;julie blakstad;3662;https://www.futwiz.com/en/fc24/player/julie-blakstad/3662;72;silver-nr;Manchester City;;Noruega;79;68;70;70;45;64
 4656;ninon blanchard;3661;https://www.futwiz.com/en/fc24/player/ninon-blanchard/3661;72;silver;AS Saint-Atienne;;Francia;66;51;59;62;73;68
 4657;gustavo blanco leschuk;3660;https://www.futwiz.com/en/fc24/player/gustavo-blanco-leschuk/3660;72;silver;SD Eibar;ESP 2;Argentina;64;70;56;66;36;81
@@ -4931,7 +4931,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 4930;anthony partipilo;4890;https://www.futwiz.com/en/fc24/player/anthony-partipilo/4890;71;silver;Parma;ITA 2;Italia;87;67;70;68;43;68
 4931;anthony patterson;4889;https://www.futwiz.com/en/fc24/player/anthony-patterson/4889;71;silver;Sunderland;ENG 2;Inglaterra;70;68;72;74;24;67
 4932;facundo pellistri;4888;https://www.futwiz.com/en/fc24/player/facundo-pellistri/4888;71;silver-nr;Manchester Utd;ENG 1;Uruguay;81;64;65;75;32;63
-4933;patrick pentz;4887;https://www.futwiz.com/en/fc24/player/patrick-pentz/4887;71;silver-nr;BrA,ndby IF;DEN 1;Austria;70;69;70;71;53;69
+4933;patrick pentz;4887;https://www.futwiz.com/en/fc24/player/patrick-pentz/4887;71;silver-nr;BrA;ndby IF;DEN 1;Austria;70;69;70;71;53;69
 4934;ricardo pepi;4886;https://www.futwiz.com/en/fc24/player/ricardo-pepi/4886;71;silver;PSV;NED 1;Estados Unidos;71;73;55;69;41;70
 4935;henrique araujo;4885;https://www.futwiz.com/en/fc24/player/henrique-araujo/4885;71;silver-nr;FC FamalicAPSo;POR 1;Portugal;70;71;56;65;27;70
 4936;matheus pereira;4884;https://www.futwiz.com/en/fc24/player/matheus-pereira/4884;71;silver;SD Eibar;ESP 2;Brasil;67;64;69;75;66;68
@@ -4995,7 +4995,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 4994;jeremy livolant;4826;https://www.futwiz.com/en/fc24/player/jeremy-livolant/4826;71;silver-nr;Bordeaux;FRA 2;Francia;78;71;66;72;57;70
 4995;robert ljubicic;4825;https://www.futwiz.com/en/fc24/player/robert-ljubicic/4825;71;silver-nr;Dinamo Zagreb;CRO 1;Croacia;73;57;67;72;64;74
 4996;danny loader;4824;https://www.futwiz.com/en/fc24/player/danny-loader/4824;71;silver;FC Porto;POR 1;Inglaterra;77;70;61;75;23;68
-4997;marius lode;4823;https://www.futwiz.com/en/fc24/player/marius-lode/4823;71;silver;FK BodA,/Glimt;NOR 1;Noruega;77;42;60;66;71;75
+4997;marius lode;4823;https://www.futwiz.com/en/fc24/player/marius-lode/4823;71;silver;FK BodA;/Glimt;NOR 1;Noruega;77;42;60;66;71;75
 4998;gaston lodico;4822;https://www.futwiz.com/en/fc24/player/gaston-lodico/4822;71;silver-nr;Instituto;ARG 1;Argentina;76;58;70;74;56;58
 4999;aaron long;4821;https://www.futwiz.com/en/fc24/player/aaron-long/4821;71;silver;LAFC;MLS;Estados Unidos;78;39;54;60;68;82
 5000;cadu;4820;https://www.futwiz.com/en/fc24/player/cadu/4820;71;silver-nr;Viktoria PlzeA;CZE 1;Brasil;75;65;69;73;66;62
@@ -5063,7 +5063,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 5062;antonio mirante;4758;https://www.futwiz.com/en/fc24/player/antonio-mirante/4758;71;silver;Milan;ITA 1;Italia;67;71;65;70;44;75
 5063;kento misao;4757;https://www.futwiz.com/en/fc24/player/kento-misao/4757;71;silver-nr;OH Leuven;BEL 1;Japon;74;49;65;70;69;74
 5064;samy mmaee;4756;https://www.futwiz.com/en/fc24/player/samy-mmaee/4756;71;silver;FerencvA!rosi TC;HUN 1;Marruecos;63;32;48;57;73;74
-5065;brede mathias moe;4755;https://www.futwiz.com/en/fc24/player/brede-mathias-moe/4755;71;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;67;43;53;59;70;78
+5065;brede mathias moe;4755;https://www.futwiz.com/en/fc24/player/brede-mathias-moe/4755;71;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;67;43;53;59;70;78
 5066;anuar;4754;https://www.futwiz.com/en/fc24/player/anuar/4754;71;silver;R. Valladolid CF;ESP 2;Marruecos;78;65;67;72;67;68
 5067;horatiu moldovan;4753;https://www.futwiz.com/en/fc24/player/horatiu-moldovan/4753;71;silver;FC Rapid 1923;ROM 1;Rumania;71;68;63;74;43;68
 5068;tobias molgaard;4752;https://www.futwiz.com/en/fc24/player/tobias-molgaard/4752;71;silver;AGF;DEN 1;Dinamarca;83;44;61;65;70;79
@@ -5082,7 +5082,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 5081;alex mowatt;4739;https://www.futwiz.com/en/fc24/player/alex-mowatt/4739;71;silver;West Brom;ENG 2;Inglaterra;56;69;73;68;63;72
 5082;nicolas haas;4738;https://www.futwiz.com/en/fc24/player/nicolas-haas/4738;71;silver;Empoli;ITA 1;Suiza;76;61;71;72;63;67
 5083;dennis hadzikadunic;4737;https://www.futwiz.com/en/fc24/player/dennis-hadzikadunic/4737;71;silver-nr;Hamburger SV;GER 2;Bosnia-H.;63;30;47;54;70;75
-5084;nikita haikin;4736;https://www.futwiz.com/en/fc24/player/nikita-haikin/4736;71;silver-nr;FK BodA,/Glimt;NOR 1;Rusia;73;68;70;72;51;70
+5084;nikita haikin;4736;https://www.futwiz.com/en/fc24/player/nikita-haikin/4736;71;silver-nr;FK BodA;/Glimt;NOR 1;Rusia;73;68;70;72;51;70
 5085;craig halkett;4735;https://www.futwiz.com/en/fc24/player/craig-halkett/4735;71;silver-nr;Hearts;SPFL;Escocia;59;50;57;61;71;75
 5086;han kook young;4734;https://www.futwiz.com/en/fc24/player/han-kook-young/4734;71;silver-nr;Gangwon FC;KOR 1;Rep. Corea;63;54;70;69;67;72
 5087;andreas hansen;4733;https://www.futwiz.com/en/fc24/player/andreas-hansen/4733;71;silver;FC NordsjA|lland;DEN 1;Dinamarca;70;69;74;72;47;71
@@ -5128,7 +5128,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 5127;tony jantschke;4693;https://www.futwiz.com/en/fc24/player/tony-jantschke/4693;71;silver;M'gladbach;GER 1;Alemania;49;41;62;64;73;66
 5128;ardon jashari;4692;https://www.futwiz.com/en/fc24/player/ardon-jashari/4692;71;silver;FC Luzern;SUI 1;Suiza;66;61;67;70;64;79
 5129;bakery jatta;4691;https://www.futwiz.com/en/fc24/player/bakery-jatta/4691;71;silver;Hamburger SV;GER 2;Gambia;88;69;66;69;39;76
-5130;elias jelert;4690;https://www.futwiz.com/en/fc24/player/elias-jelert/4690;71;silver;F.C. KA,benhavn;DEN 1;Dinamarca;85;56;62;72;64;72
+5130;elias jelert;4690;https://www.futwiz.com/en/fc24/player/elias-jelert/4690;71;silver;F.C. KA;benhavn;DEN 1;Dinamarca;85;56;62;72;64;72
 5131;fredrik jensen;4689;https://www.futwiz.com/en/fc24/player/fredrik-jensen/4689;71;silver-nr;FC Augsburg;GER 1;Finlandia;74;68;68;73;51;69
 5132;jeong tae wook;4688;https://www.futwiz.com/en/fc24/player/jeong-tae-wook/4688;71;silver;Jeonbuk Hyundai;KOR 1;Rep. Corea;51;31;47;47;70;81
 5133;jeong seung hyun;4687;https://www.futwiz.com/en/fc24/player/jeong-seung-hyun/4687;71;silver-nr;Ulsan Hyundai;KOR 1;Rep. Corea;44;33;52;45;71;80
@@ -5274,7 +5274,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 5273;karlan grant;4547;https://www.futwiz.com/en/fc24/player/karlan-grant/4547;71;silver;Cardiff City;ENG 2;Inglaterra;86;71;62;71;33;66
 5274;jacob greaves;4546;https://www.futwiz.com/en/fc24/player/jacob-greaves/4546;71;silver-nr;Hull City;ENG 2;Inglaterra;71;36;60;61;71;75
 5275;dominik greif;4545;https://www.futwiz.com/en/fc24/player/dominik-greif/4545;71;silver;RCD Mallorca;ESP 1;Eslovaquia;69;72;76;69;18;70
-5276;albert gronbaek;4544;https://www.futwiz.com/en/fc24/player/albert-gronbaek/4544;71;silver;FK BodA,/Glimt;NOR 1;Dinamarca;77;66;68;74;62;69
+5276;albert gronbaek;4544;https://www.futwiz.com/en/fc24/player/albert-gronbaek/4544;71;silver;FK BodA;/Glimt;NOR 1;Dinamarca;77;66;68;74;62;69
 5277;ilia gruev;4543;https://www.futwiz.com/en/fc24/player/ilia-gruev/4543;71;silver-nr;SV Werder Bremen;GER 1;Bulgaria;66;48;67;69;68;65
 5278;robert gumny;4542;https://www.futwiz.com/en/fc24/player/robert-gumny/4542;71;silver-nr;FC Augsburg;GER 1;Polonia;76;42;60;69;67;69
 5279;felipe gutierrez;4541;https://www.futwiz.com/en/fc24/player/felipe-gutierrez/4541;71;silver-nr;Sporting KC;MLS;Chile;65;68;72;74;59;62
@@ -5467,7 +5467,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 5466;yann bodiger;4343;https://www.futwiz.com/en/fc24/player/yann-bodiger/4343;71;silver-nr;Granada CF;ESP 1;Francia;51;57;69;65;68;73
 5467;kerstin bogenschutz;4342;https://www.futwiz.com/en/fc24/player/kerstin-bogenschutz/4342;71;silver;1. FC NA 1/4rnberg;;Alemania;63;54;59;62;72;72
 5468;emil bohinen;4341;https://www.futwiz.com/en/fc24/player/emil-bohinen/4341;71;silver-nr;Salernitana;ITA 1;Noruega;65;62;71;72;68;69
-5469;nicolai boilesen;4340;https://www.futwiz.com/en/fc24/player/nicolai-boilesen/4340;71;silver-nr;F.C. KA,benhavn;DEN 1;Dinamarca;55;47;66;67;72;72
+5469;nicolai boilesen;4340;https://www.futwiz.com/en/fc24/player/nicolai-boilesen/4340;71;silver-nr;F.C. KA;benhavn;DEN 1;Dinamarca;55;47;66;67;72;72
 5470;marcos bolados;4339;https://www.futwiz.com/en/fc24/player/marcos-bolados/4339;71;gold;Colo-Colo;LIB;Chile;86;65;65;73;56;64
 5471;olivier deman;18045;https://www.futwiz.com/en/fc24/player/olivier-deman/18045;70;silver-nr;SV Werder Bremen;GER 1;Belgica;76;63;68;69;65;71
 5472;terence kongolo;18044;https://www.futwiz.com/en/fc24/player/terence-kongolo/18044;70;silver-nr;SK Rapid Wien;AUT 1;Holanda;60;42;59;63;70;69
@@ -5574,7 +5574,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 5573;tsuyoshi watanabe;5971;https://www.futwiz.com/en/fc24/player/tsuyoshi-watanabe/5971;70;silver;KAA Gent;BEL 1;Japon;75;29;46;53;68;76
 5574;sophie weidauer;5970;https://www.futwiz.com/en/fc24/player/sophie-weidauer/5970;70;silver-nr;SV Werder Bremen;;Alemania;69;64;64;69;53;66
 5575;michelle weis;5969;https://www.futwiz.com/en/fc24/player/michelle-weis/5969;70;silver-nr;SV Werder Bremen;;Alemania;66;53;63;67;68;71
-5576;brice wembangomo;5968;https://www.futwiz.com/en/fc24/player/brice-wembangomo/5968;70;silver;FK BodA,/Glimt;NOR 1;Noruega;90;50;59;72;62;72
+5576;brice wembangomo;5968;https://www.futwiz.com/en/fc24/player/brice-wembangomo/5968;70;silver;FK BodA;/Glimt;NOR 1;Noruega;90;50;59;72;62;72
 5577;scott wharton;5967;https://www.futwiz.com/en/fc24/player/scott-wharton/5967;70;silver-nr;Blackburn Rovers;ENG 2;Inglaterra;63;32;50;62;69;76
 5578;katja wienerroither;5966;https://www.futwiz.com/en/fc24/player/katja-wienerroither/5966;70;silver-nr;RB Leipzig;;Austria;70;68;63;71;48;66
 5579;gustav mendonca wikheim;5965;https://www.futwiz.com/en/fc24/player/gustav-mendonca-wikheim/5965;70;silver;DjurgAY=rdens IF;SWE 1;Noruega;86;60;63;74;44;55
@@ -5688,7 +5688,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 5687;song min kyu;5853;https://www.futwiz.com/en/fc24/player/song-min-kyu/5853;70;silver;Jeonbuk Hyundai;KOR 1;Rep. Corea;81;69;60;73;35;74
 5688;joel sonora;5852;https://www.futwiz.com/en/fc24/player/joel-sonora/5852;70;gold;HuracA!n;SUD;Estados Unidos;80;66;70;73;55;59
 5689;frederik sorensen;5851;https://www.futwiz.com/en/fc24/player/frederik-sorensen/5851;70;silver-nr;Ternana;ITA 2;Dinamarca;51;33;61;59;69;79
-5690;christian sorensen;5850;https://www.futwiz.com/en/fc24/player/christian-sorensen/5850;70;silver-nr;F.C. KA,benhavn;DEN 1;Dinamarca;76;62;70;69;61;71
+5690;christian sorensen;5850;https://www.futwiz.com/en/fc24/player/christian-sorensen/5850;70;silver-nr;F.C. KA;benhavn;DEN 1;Dinamarca;76;62;70;69;61;71
 5691;mario soriano;5849;https://www.futwiz.com/en/fc24/player/mario-soriano/5849;70;silver;SD Eibar;ESP 2;España;75;71;62;76;32;66
 5692;alberto soro;5848;https://www.futwiz.com/en/fc24/player/alberto-soro/5848;70;silver-nr;Granada CF;ESP 1;España;77;63;68;71;44;61
 5693;luca sosa;5847;https://www.futwiz.com/en/fc24/player/luca-sosa/5847;70;gold;Barcelona SC;LIB;Argentina;69;37;56;58;70;75
@@ -6127,7 +6127,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 6126;pedro diaz;5414;https://www.futwiz.com/en/fc24/player/pedro-diaz/5414;70;silver;Bordeaux;FRA 2;España;68;73;72;70;65;70
 6127;bakaye dibassy;5413;https://www.futwiz.com/en/fc24/player/bakaye-dibassy/5413;70;silver-nr;Minnesota United;MLS;Mali;65;54;60;65;70;78
 6128;famara diedhiou;5412;https://www.futwiz.com/en/fc24/player/famara-diedhiou/5412;70;silver-nr;Granada CF;ESP 1;Senegal;61;69;48;67;31;73
-6129;kevin diks;5411;https://www.futwiz.com/en/fc24/player/kevin-diks/5411;70;silver-nr;F.C. KA,benhavn;DEN 1;Holanda;75;56;61;67;67;75
+6129;kevin diks;5411;https://www.futwiz.com/en/fc24/player/kevin-diks/5411;70;silver-nr;F.C. KA;benhavn;DEN 1;Holanda;75;56;61;67;67;75
 6130;mohammed diomande;5410;https://www.futwiz.com/en/fc24/player/mohammed-diomande/5410;70;silver;FC NordsjA|lland;DEN 1;C. Marfil;76;61;68;74;63;71
 6131;federico dionisi;5409;https://www.futwiz.com/en/fc24/player/federico-dionisi/5409;70;silver-nr;Ternana;ITA 2;Italia;80;72;50;69;35;67
 6132;george dobson;5408;https://www.futwiz.com/en/fc24/player/george-dobson/5408;70;silver-nr;Charlton Ath;ENG 3;Inglaterra;55;54;66;64;66;78
@@ -6197,7 +6197,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 6196;iver fossum;5344;https://www.futwiz.com/en/fc24/player/iver-fossum/5344;70;silver-nr;FC Midtjylland;DEN 1;Noruega;69;68;67;71;64;74
 6197;matija frigan;5343;https://www.futwiz.com/en/fc24/player/matija-frigan/5343;70;silver-nr;KVC Westerlo;BEL 1;Croacia;79;69;58;70;37;79
 6198;mairead fulton;5342;https://www.futwiz.com/en/fc24/player/mairead-fulton/5342;70;silver-nr;Glasgow City FC;;Escocia;72;62;66;66;63;63
-6199;ruben gabrielsen;5341;https://www.futwiz.com/en/fc24/player/ruben-gabrielsen/5341;70;silver;LillestrA,m SK;NOR 1;Noruega;66;48;48;53;69;84
+6199;ruben gabrielsen;5341;https://www.futwiz.com/en/fc24/player/ruben-gabrielsen/5341;70;silver;LillestrA;m SK;NOR 1;Noruega;66;48;48;53;69;84
 6200;pablo galdames;5340;https://www.futwiz.com/en/fc24/player/pablo-galdames/5340;70;silver;Genoa;ITA 1;Chile;76;60;70;72;61;69
 6201;sam gallagher;5339;https://www.futwiz.com/en/fc24/player/sam-gallagher/5339;70;silver-nr;Blackburn Rovers;ENG 2;Inglaterra;69;69;58;66;45;76
 6202;mia buchele;5338;https://www.futwiz.com/en/fc24/player/mia-buchele/5338;70;silver-nr;SC Freiburg;;Alemania;69;64;68;68;55;65
@@ -6480,7 +6480,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 6479;alfonso trezza;7021;https://www.futwiz.com/en/fc24/player/alfonso-trezza/7021;69;silver;Arouca;POR 1;Uruguay;91;59;59;68;50;68
 6480;tom trybull;7020;https://www.futwiz.com/en/fc24/player/tom-trybull/7020;69;silver-nr;Blackpool;ENG 3;Alemania;55;47;64;66;67;69
 6481;frank tsadjout;7019;https://www.futwiz.com/en/fc24/player/frank-tsadjout/7019;69;silver-nr;Cremonese;ITA 2;Italia;76;68;51;66;31;77
-6482;kevin tshiembe;7018;https://www.futwiz.com/en/fc24/player/kevin-tshiembe/7018;69;silver;BrA,ndby IF;DEN 1;Dinamarca;74;40;54;59;67;77
+6482;kevin tshiembe;7018;https://www.futwiz.com/en/fc24/player/kevin-tshiembe/7018;69;silver;BrA;ndby IF;DEN 1;Dinamarca;74;40;54;59;67;77
 6483;theocharis tsingaras;7017;https://www.futwiz.com/en/fc24/player/theocharis-tsingaras/7017;69;silver-nr;PAOK FC;GRE 1;Grecia;67;56;63;67;67;68
 6484;amy turner;7016;https://www.futwiz.com/en/fc24/player/amy-turner/7016;69;silver-nr;Spurs;;Inglaterra;40;27;48;52;68;65
 6485;jeppe tverskov;7015;https://www.futwiz.com/en/fc24/player/jeppe-tverskov/7015;69;silver-nr;FC NordsjA|lland;DEN 1;Dinamarca;45;43;55;61;69;75
@@ -6845,7 +6845,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 6844;kewin;6653;https://www.futwiz.com/en/fc24/player/kewin/6653;69;silver-nr;Moreirense FC;POR 1;Brasil;71;65;66;68;29;70
 6845;anderson oliveira;6652;https://www.futwiz.com/en/fc24/player/anderson-oliveira/6652;69;silver-nr;Alanyaspor;TUR 1;Brasil;74;69;58;66;27;70
 6846;auli oliveros;6651;https://www.futwiz.com/en/fc24/player/auli-oliveros/6651;69;gold;Aguilas Doradas;SUD;Colombia;81;66;66;71;59;63
-6847;thomas lehne olsen;6650;https://www.futwiz.com/en/fc24/player/thomas-lehne-olsen/6650;69;silver-nr;LillestrA,m SK;NOR 1;Noruega;74;68;57;63;38;78
+6847;thomas lehne olsen;6650;https://www.futwiz.com/en/fc24/player/thomas-lehne-olsen/6650;69;silver-nr;LillestrA;m SK;NOR 1;Noruega;74;68;57;63;38;78
 6848;jacob ondrejka;6649;https://www.futwiz.com/en/fc24/player/jacob-ondrejka/6649;69;silver-nr;Royal Antwerp FC;BEL 1;Suecia;77;60;64;71;46;62
 6849;fred onyedinma;6648;https://www.futwiz.com/en/fc24/player/fred-onyedinma/6648;69;silver;Rotherham Utd;ENG 2;Nigeria;87;62;62;69;48;68
 6850;jayden oosterwolde;6647;https://www.futwiz.com/en/fc24/player/jayden-oosterwolde/6647;69;silver;FenerbahASSe;TUR 1;Holanda;87;41;60;68;63;72
@@ -7218,7 +7218,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 7217;varela;6280;https://www.futwiz.com/en/fc24/player/varela/6280;69;silver-nr;Casa Pia AC;POR 1;C. Verde;61;44;53;59;68;79
 7218;nicole douglas;6279;https://www.futwiz.com/en/fc24/player/nicole-douglas/6279;69;silver-nr;;;Inglaterra;68;68;57;68;40;67
 7219;tommy doyle;6278;https://www.futwiz.com/en/fc24/player/tommy-doyle/6278;69;silver-nr;Manchester City;ENG 1;Inglaterra;65;65;70;70;60;67
-7220;vetle dragsnes;6277;https://www.futwiz.com/en/fc24/player/vetle-dragsnes/6277;69;silver;LillestrA,m SK;NOR 1;Noruega;81;53;59;63;63;75
+7220;vetle dragsnes;6277;https://www.futwiz.com/en/fc24/player/vetle-dragsnes/6277;69;silver;LillestrA;m SK;NOR 1;Noruega;81;53;59;63;63;75
 7221;ferdy druijf;6276;https://www.futwiz.com/en/fc24/player/ferdy-druijf/6276;69;silver-nr;PEC Zwolle;NED 1;Holanda;58;71;62;65;35;75
 7222;alejandro duarte;6275;https://www.futwiz.com/en/fc24/player/alejandro-duarte/6275;69;gold;Sporting Cristal;LIB;Peru;68;72;64;68;25;66
 7223;bruno duarte;6274;https://www.futwiz.com/en/fc24/player/bruno-duarte/6274;69;silver-nr;Farense;POR 1;Brasil;69;66;61;67;27;68
@@ -7405,7 +7405,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 7404;dixon arroyo;6093;https://www.futwiz.com/en/fc24/player/dixon-arroyo/6093;69;silver;Inter Miami CF;MLS;Ecuador;59;33;59;59;70;69
 7405;hakan arslan;6092;https://www.futwiz.com/en/fc24/player/hakan-arslan/6092;69;silver-nr;Sivasspor;TUR 1;Turquia;59;69;66;69;69;75
 7406;carlos ascues;6091;https://www.futwiz.com/en/fc24/player/carlos-ascues/6091;69;gold;UCV;SUD;Peru;56;61;60;67;67;77
-7407;gjermund asen;6090;https://www.futwiz.com/en/fc24/player/gjermund-asen/6090;69;silver-nr;LillestrA,m SK;NOR 1;Noruega;58;65;69;69;51;69
+7407;gjermund asen;6090;https://www.futwiz.com/en/fc24/player/gjermund-asen/6090;69;silver-nr;LillestrA;m SK;NOR 1;Noruega;58;65;69;69;51;69
 7408;lorenz assignon;6089;https://www.futwiz.com/en/fc24/player/lorenz-assignon/6089;69;silver-nr;Stade Rennais FC;FRA 1;Francia;75;42;60;70;66;60
 7409;izzy atkinson;6088;https://www.futwiz.com/en/fc24/player/izzy-atkinson/6088;69;silver-nr;West Ham;;Rep. Irlanda;72;64;64;70;35;57
 7410;edson aubert;6087;https://www.futwiz.com/en/fc24/player/edson-aubert/6087;69;gold;Binacional;SUD;Peru;55;36;59;60;64;70
@@ -7490,7 +7490,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 7489;jovanny bolivar;18085;https://www.futwiz.com/en/fc24/player/jovanny-bolivar/18085;68;silver-nr;SD Huesca;ESP 2;Venezuela;63;72;57;66;28;62
 7490;sivert heggheim mannsverk;18084;https://www.futwiz.com/en/fc24/player/sivert-heggheim-mannsverk/18084;68;silver-nr;Ajax;NED 1;Noruega;68;60;64;68;64;72
 7491;josh tymon;18083;https://www.futwiz.com/en/fc24/player/josh-tymon/18083;68;silver-nr;Swansea City;ENG 2;Inglaterra;75;52;67;65;62;71
-7492;mateo tanlongo;18082;https://www.futwiz.com/en/fc24/player/mateo-tanlongo/18082;68;silver-nr;F.C. KA,benhavn;DEN 1;Argentina;66;59;63;68;67;67
+7492;mateo tanlongo;18082;https://www.futwiz.com/en/fc24/player/mateo-tanlongo/18082;68;silver-nr;F.C. KA;benhavn;DEN 1;Argentina;66;59;63;68;67;67
 7493;liam millar;18081;https://www.futwiz.com/en/fc24/player/liam-millar/18081;68;silver-nr;Preston;ENG 2;Canada;84;63;61;71;22;58
 7494;lukasz poreba;18080;https://www.futwiz.com/en/fc24/player/lukasz-poreba/18080;68;silver-nr;Hamburger SV;GER 2;Polonia;65;46;63;63;67;71
 7495;jamie young;8133;https://www.futwiz.com/en/fc24/player/jamie-young/8133;68;silver-nr;Melbourne City;AUS 1;Inglaterra;67;66;64;69;48;65
@@ -7559,7 +7559,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 7558;leonardo valencia;7987;https://www.futwiz.com/en/fc24/player/leonardo-valencia/7987;68;gold;Cobresal;SUD;Chile;68;66;67;69;29;59
 7559;valera;7986;https://www.futwiz.com/en/fc24/player/valera/7986;68;silver-nr;Real Zaragoza;ESP 2;España;82;65;62;71;26;41
 7560;vallejo;7985;https://www.futwiz.com/en/fc24/player/vallejo/7985;68;silver-nr;CD Eldense;ESP 2;España;71;68;66;65;48;64
-7561;gustav valsvik;7984;https://www.futwiz.com/en/fc24/player/gustav-valsvik/7984;68;silver-nr;StrA,msgodset IF;NOR 1;Noruega;34;49;53;42;67;82
+7561;gustav valsvik;7984;https://www.futwiz.com/en/fc24/player/gustav-valsvik/7984;68;silver-nr;StrA;msgodset IF;NOR 1;Noruega;34;49;53;42;67;82
 7562;luca valzania;7983;https://www.futwiz.com/en/fc24/player/luca-valzania/7983;68;silver-nr;Cremonese;ITA 2;Italia;67;60;64;68;61;61
 7563;pelle van amersfoort;7982;https://www.futwiz.com/en/fc24/player/pelle-van-amersfoort/7982;68;silver;sc Heerenveen;NED 1;Holanda;65;68;68;67;52;73
 7564;joachim van damme;7981;https://www.futwiz.com/en/fc24/player/joachim-van-damme/7981;68;silver-nr;"Standard LiA""ge";BEL 1;Belgica;39;62;66;59;66;79
@@ -7696,7 +7696,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 7695;filip stankovic;7850;https://www.futwiz.com/en/fc24/player/filip-stankovic/7850;68;silver-nr;Sampdoria;ITA 2;Serbia;69;67;66;70;50;67
 7696;madeleine steck;7849;https://www.futwiz.com/en/fc24/player/madeleine-steck/7849;68;silver-nr;1. FC NA 1/4rnberg;;Alemania;57;44;63;63;68;68
 7697;nicolas stefanelli;7848;https://www.futwiz.com/en/fc24/player/nicolas-stefanelli/7848;68;silver;Inter Miami CF;MLS;Argentina;82;66;61;73;36;68
-7698;herman stengel;7847;https://www.futwiz.com/en/fc24/player/herman-stengel/7847;68;silver-nr;StrA,msgodset IF;NOR 1;Noruega;61;62;67;68;63;76
+7698;herman stengel;7847;https://www.futwiz.com/en/fc24/player/herman-stengel/7847;68;silver-nr;StrA;msgodset IF;NOR 1;Noruega;61;62;67;68;63;76
 7699;dujon sterling;7846;https://www.futwiz.com/en/fc24/player/dujon-sterling/7846;68;silver-nr;Rangers;SPFL;Inglaterra;75;48;57;64;65;70
 7700;filip stojilkovic;7845;https://www.futwiz.com/en/fc24/player/filip-stojilkovic/7845;68;silver;SV Darmstadt 98;GER 1;Suiza;88;68;49;69;29;66
 7701;sebastian stolze;7844;https://www.futwiz.com/en/fc24/player/sebastian-stolze/7844;68;silver-nr;SV Sandhausen;GER 3;Alemania;79;62;62;68;29;58
@@ -7836,7 +7836,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 7835;carlos isaac;7710;https://www.futwiz.com/en/fc24/player/carlos-isaac/7710;68;silver-nr;Albacete BP;ESP 2;España;72;38;53;60;65;69
 7836;louis munteanu;7709;https://www.futwiz.com/en/fc24/player/louis-munteanu/7709;68;silver-nr;Farul ConstanEa;ROM 1;Rumania;80;70;60;67;30;60
 7837;garazi;7708;https://www.futwiz.com/en/fc24/player/garazi/7708;68;silver-nr;Athletic Club;;España;57;41;64;58;71;67
-7838;viljar myhra;7707;https://www.futwiz.com/en/fc24/player/viljar-myhra/7707;68;silver-nr;StrA,msgodset IF;NOR 1;Noruega;69;66;63;71;44;68
+7838;viljar myhra;7707;https://www.futwiz.com/en/fc24/player/viljar-myhra/7707;68;silver-nr;StrA;msgodset IF;NOR 1;Noruega;69;66;63;71;44;68
 7839;konan n'dri;7706;https://www.futwiz.com/en/fc24/player/konan-ndri/7706;68;silver;OH Leuven;BEL 1;C. Marfil;88;66;59;75;55;69
 7840;sophie nachtigall;7705;https://www.futwiz.com/en/fc24/player/sophie-nachtigall/7705;68;silver-nr;Frankfurt;;Alemania;68;59;60;68;55;64
 7841;yahia nader;7704;https://www.futwiz.com/en/fc24/player/yahia-nader/7704;68;silver-nr;Al Ain FC;UAE 1;Emiratos AU;59;49;57;61;66;77
@@ -8012,7 +8012,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8011;sophie hirst;7534;https://www.futwiz.com/en/fc24/player/sophie-hirst/7534;68;silver-nr;;;Estados Unidos;53;51;60;61;67;64
 8012;mees hoedemakers;7533;https://www.futwiz.com/en/fc24/player/mees-hoedemakers/7533;68;silver-nr;N.E.C. Nijmegen;NED 1;Holanda;63;56;68;65;63;73
 8013;daniel hoegh;7532;https://www.futwiz.com/en/fc24/player/daniel-hoegh/7532;68;silver-nr;Randers FC;DEN 1;Dinamarca;35;40;51;52;67;75
-8014;vebjorn hoff;7531;https://www.futwiz.com/en/fc24/player/vebjorn-hoff/7531;68;silver-nr;LillestrA,m SK;NOR 1;Noruega;67;55;65;68;64;66
+8014;vebjorn hoff;7531;https://www.futwiz.com/en/fc24/player/vebjorn-hoff/7531;68;silver-nr;LillestrA;m SK;NOR 1;Noruega;67;55;65;68;64;66
 8015;ron-thorben hoffmann;7530;https://www.futwiz.com/en/fc24/player/ron-thorben-hoffmann/7530;68;silver-nr;Braunschweig;GER 2;Alemania;67;64;68;71;25;69
 8016;maximilian hofmann;7529;https://www.futwiz.com/en/fc24/player/maximilian-hofmann/7529;68;silver-nr;SK Rapid Wien;AUT 1;Austria;61;39;51;51;67;72
 8017;duane holmes;7528;https://www.futwiz.com/en/fc24/player/duane-holmes/7528;68;silver-nr;Preston;ENG 2;Estados Unidos;79;57;65;73;63;61
@@ -8025,7 +8025,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8024;stephen humphrys;7521;https://www.futwiz.com/en/fc24/player/stephen-humphrys/7521;68;silver-nr;Wigan Athletic;ENG 3;Inglaterra;76;67;54;66;38;78
 8025;oliver husing;7520;https://www.futwiz.com/en/fc24/player/oliver-husing/7520;68;silver-nr;Hansa Rostock;GER 2;Alemania;51;33;46;50;67;77
 8026;rober ibanez;7519;https://www.futwiz.com/en/fc24/player/rober-ibanez/7519;68;silver-nr;Levante UD;ESP 2;España;75;66;68;71;48;55
-8027;ylldren ibrahimaj;7518;https://www.futwiz.com/en/fc24/player/ylldren-ibrahimaj/7518;68;silver-nr;LillestrA,m SK;NOR 1;Kosovo;79;61;64;67;55;69
+8027;ylldren ibrahimaj;7518;https://www.futwiz.com/en/fc24/player/ylldren-ibrahimaj/7518;68;silver-nr;LillestrA;m SK;NOR 1;Kosovo;79;61;64;67;55;69
 8028;jonathan iglesias;7517;https://www.futwiz.com/en/fc24/player/jonathan-iglesias/7517;68;silver-nr;En Avant Guingamp;FRA 2;Uruguay;51;59;67;65;65;66
 8029;svante ingelsson;7516;https://www.futwiz.com/en/fc24/player/svante-ingelsson/7516;68;silver;Hansa Rostock;GER 2;Suecia;75;60;66;67;60;77
 8030;matt ingram;7515;https://www.futwiz.com/en/fc24/player/matt-ingram/7515;68;silver-nr;Hull City;ENG 2;Inglaterra;72;67;68;71;36;67
@@ -8098,7 +8098,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8097;jaroslaw kubicki;7448;https://www.futwiz.com/en/fc24/player/jaroslaw-kubicki/7448;68;silver-nr;Jagiellonia;POL 1;Polonia;71;56;63;66;62;77
 8098;philipp kuhn;7447;https://www.futwiz.com/en/fc24/player/philipp-kuhn/7447;68;silver-nr;VfL OsnabrA 1/4ck;GER 2;Alemania;69;64;63;71;50;67
 8099;kasper kusk;7446;https://www.futwiz.com/en/fc24/player/kasper-kusk/7446;68;silver-nr;Silkeborg IF;DEN 1;Dinamarca;72;63;66;68;38;65
-8100;mathias kvistgaarden;7445;https://www.futwiz.com/en/fc24/player/mathias-kvistgaarden/7445;68;silver-nr;BrA,ndby IF;DEN 1;Dinamarca;81;66;55;68;40;70
+8100;mathias kvistgaarden;7445;https://www.futwiz.com/en/fc24/player/mathias-kvistgaarden/7445;68;silver-nr;BrA;ndby IF;DEN 1;Dinamarca;81;66;55;68;40;70
 8101;godson kyeremeh;7444;https://www.futwiz.com/en/fc24/player/godson-kyeremeh/7444;68;silver;SM Caen;FRA 2;Francia;86;64;60;69;32;41
 8102;matias lacava;7443;https://www.futwiz.com/en/fc24/player/matias-lacava/7443;68;silver-nr;FC Vizela;POR 1;Venezuela;77;59;62;70;26;48
 8103;tom lacoux;7442;https://www.futwiz.com/en/fc24/player/tom-lacoux/7442;68;silver-nr;FC FamalicAPSo;POR 1;Francia;69;47;67;67;64;66
@@ -8306,12 +8306,12 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8305;daniela silva;7240;https://www.futwiz.com/en/fc24/player/daniela-silva/7240;68;silver-nr;SL Benfica;;Portugal;70;48;63;68;62;55
 8306;welinton junior;7239;https://www.futwiz.com/en/fc24/player/welinton-junior/7239;68;silver-nr;Gangwon FC;KOR 1;Brasil;77;70;61;71;22;49
 8307;hector fertoli;7238;https://www.futwiz.com/en/fc24/player/hector-fertoli/7238;68;gold;HuracA!n;SUD;Argentina;76;63;64;71;42;61
-8308;sondre fet;7237;https://www.futwiz.com/en/fc24/player/sondre-fet/7237;68;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;68;55;63;68;64;74
+8308;sondre fet;7237;https://www.futwiz.com/en/fc24/player/sondre-fet/7237;68;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;68;55;63;68;64;74
 8309;hernan figueredo;7236;https://www.futwiz.com/en/fc24/player/hernan-figueredo/7236;68;gold;Defensor;SUD;Uruguay;48;66;73;64;58;52
 8310;max bird;7235;https://www.futwiz.com/en/fc24/player/max-bird/7235;68;silver-nr;Derby County;ENG 3;Inglaterra;67;53;65;67;64;61
 8311;steve birnbaum;7234;https://www.futwiz.com/en/fc24/player/steve-birnbaum/7234;68;silver-nr;D.C. United;MLS;Estados Unidos;33;31;45;51;66;83
 8312;el chadaille bitshiabu;7233;https://www.futwiz.com/en/fc24/player/el-chadaille-bitshiabu/7233;68;silver;RB Leipzig;GER 1;Francia;37;36;55;51;67;77
-8313;odin luraas bjortuft;7232;https://www.futwiz.com/en/fc24/player/odin-luraas-bjortuft/7232;68;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;66;33;55;56;68;72
+8313;odin luraas bjortuft;7232;https://www.futwiz.com/en/fc24/player/odin-luraas-bjortuft/7232;68;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;66;33;55;56;68;72
 8314;tristan blackmon;7231;https://www.futwiz.com/en/fc24/player/tristan-blackmon/7231;68;silver;Whitecaps FC;MLS;Estados Unidos;88;42;58;66;66;75
 8315;njabulo blom;7230;https://www.futwiz.com/en/fc24/player/njabulo-blom/7230;68;silver;St. Louis CITY SC;MLS;S. Africa;77;28;57;65;70;64
 8316;tess boade;7229;https://www.futwiz.com/en/fc24/player/tess-boade/7229;68;silver;;;Estados Unidos;70;68;70;71;44;48
@@ -8401,7 +8401,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8400;priscila chinchilla;7145;https://www.futwiz.com/en/fc24/player/priscila-chinchilla/7145;68;silver-nr;Glasgow City FC;;Costa Rica;64;67;67;70;50;59
 8401;cho yu min;7144;https://www.futwiz.com/en/fc24/player/cho-yu-min/7144;68;silver;Daejeon Citizen;KOR 1;Rep. Corea;72;49;59;60;66;78
 8402;mathieu choiniere;7143;https://www.futwiz.com/en/fc24/player/mathieu-choiniere/7143;68;silver-nr;CF MontrA(c)al;MLS;Canada;62;59;67;70;61;58
-8403;mads christiansen;7142;https://www.futwiz.com/en/fc24/player/mads-christiansen/7142;68;silver-nr;LillestrA,m SK;NOR 1;Noruega;69;67;66;70;46;67
+8403;mads christiansen;7142;https://www.futwiz.com/en/fc24/player/mads-christiansen/7142;68;silver-nr;LillestrA;m SK;NOR 1;Noruega;69;67;66;70;46;67
 8404;ugur ciftci;7141;https://www.futwiz.com/en/fc24/player/ugur-ciftci/7141;68;silver-nr;Sivasspor;TUR 1;Turquia;70;50;66;66;62;70
 8405;luca cigarini;7140;https://www.futwiz.com/en/fc24/player/luca-cigarini/7140;68;silver-nr;Reggiana;ITA 2;Italia;48;60;74;68;64;53
 8406;geny catamo;7139;https://www.futwiz.com/en/fc24/player/geny-catamo/7139;68;silver-nr;Sporting CP;POR 1;Mozambique;84;59;58;72;38;45
@@ -8563,7 +8563,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8562;john verhoek;9115;https://www.futwiz.com/en/fc24/player/john-verhoek/9115;67;silver-nr;VfL OsnabrA 1/4ck;GER 2;Holanda;57;66;58;64;25;80
 8563;gonzalo viera;9114;https://www.futwiz.com/en/fc24/player/gonzalo-viera/9114;67;gold;River Plate;SUD;Uruguay;33;37;47;47;70;67
 8564;vilanova;9113;https://www.futwiz.com/en/fc24/player/vilanova/9113;67;silver-nr;FC Andorra;ESP 2;España;56;32;48;47;66;69
-8565;lars vilsvik;9112;https://www.futwiz.com/en/fc24/player/lars-vilsvik/9112;67;silver-nr;StrA,msgodset IF;NOR 1;Noruega;67;57;63;65;62;70
+8565;lars vilsvik;9112;https://www.futwiz.com/en/fc24/player/lars-vilsvik/9112;67;silver-nr;StrA;msgodset IF;NOR 1;Noruega;67;57;63;65;62;70
 8566;alessio vita;9111;https://www.futwiz.com/en/fc24/player/alessio-vita/9111;67;silver;Cittadella;ITA 2;Italia;78;62;67;68;58;65
 8567;pedro vite;9110;https://www.futwiz.com/en/fc24/player/pedro-vite/9110;67;silver-nr;Whitecaps FC;MLS;Ecuador;72;59;63;68;55;50
 8568;carlos vivas;9109;https://www.futwiz.com/en/fc24/player/carlos-vivas/9109;67;gold;Dep. TA!chira;SUD;Venezuela;60;22;47;45;67;64
@@ -8626,7 +8626,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8625;ricardo friedrich;9023;https://www.futwiz.com/en/fc24/player/ricardo-friedrich/9023;67;silver-nr;Kalmar FF;SWE 1;Brasil;68;64;65;69;31;67
 8626;kevin schumacher;9022;https://www.futwiz.com/en/fc24/player/kevin-schumacher/9022;67;silver-nr;Hansa Rostock;GER 2;Alemania;84;62;59;67;29;69
 8627;marco schuster;9021;https://www.futwiz.com/en/fc24/player/marco-schuster/9021;67;silver-nr;SC Paderborn 07;GER 2;Alemania;60;53;59;66;63;73
-8628;sebastian s. sebulonsen;9020;https://www.futwiz.com/en/fc24/player/sebastian-s.-sebulonsen/9020;67;silver;BrA,ndby IF;DEN 1;Noruega;82;60;59;64;58;74
+8628;sebastian s. sebulonsen;9020;https://www.futwiz.com/en/fc24/player/sebastian-s.-sebulonsen/9020;67;silver;BrA;ndby IF;DEN 1;Noruega;82;60;59;64;58;74
 8629;andrea seculin;9019;https://www.futwiz.com/en/fc24/player/andrea-seculin/9019;67;silver-nr;Modena;ITA 2;Italia;68;62;54;73;31;67
 8630;ayumu seko;9018;https://www.futwiz.com/en/fc24/player/ayumu-seko/9018;67;silver-nr;Grasshopper Club;SUI 1;Japon;58;36;52;56;68;71
 8631;boris sekulic;9017;https://www.futwiz.com/en/fc24/player/boris-sekulic/9017;67;silver-nr;GA3rnik Zabrze;POL 1;Eslovaquia;67;32;60;61;64;69
@@ -8652,7 +8652,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8651;francois-joseph sollacaro;8997;https://www.futwiz.com/en/fc24/player/francois-joseph-sollacaro/8997;67;silver-nr;AC Ajaccio;FRA 2;Francia;67;66;65;69;44;68
 8652;michael sollbauer;8996;https://www.futwiz.com/en/fc24/player/michael-sollbauer/8996;67;silver-nr;SK Rapid Wien;AUT 1;Austria;54;28;45;51;66;77
 8653;patrick sontheimer;8995;https://www.futwiz.com/en/fc24/player/patrick-sontheimer/8995;67;silver-nr;SaarbrA 1/4cken;GER 3;Alemania;64;51;64;71;61;63
-8654;sondre sorli;8994;https://www.futwiz.com/en/fc24/player/sondre-sorli/8994;67;silver;FK BodA,/Glimt;NOR 1;Noruega;90;58;60;66;53;55
+8654;sondre sorli;8994;https://www.futwiz.com/en/fc24/player/sondre-sorli/8994;67;silver;FK BodA;/Glimt;NOR 1;Noruega;90;58;60;66;53;55
 8655;samuel sosa;8993;https://www.futwiz.com/en/fc24/player/samuel-sosa/8993;67;gold;CS Emelec;SUD;Venezuela;77;69;62;70;41;57
 8656;nicolas sosa sanchez;8992;https://www.futwiz.com/en/fc24/player/nicolas-sosa-sanchez/8992;67;silver-nr;Banfield;ARG 1;Uruguay;72;66;53;59;33;57
 8657;sebastian sosa sanchez;8991;https://www.futwiz.com/en/fc24/player/sebastian-sosa-sanchez/8991;67;silver-nr;Banfield;ARG 1;Uruguay;59;67;45;63;24;70
@@ -8732,7 +8732,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8731;kasim rabihic;8917;https://www.futwiz.com/en/fc24/player/kasim-rabihic/8917;67;silver-nr;SaarbrA 1/4cken;GER 3;Alemania;77;64;63;71;29;59
 8732;bogdan racovitan;8916;https://www.futwiz.com/en/fc24/player/bogdan-racovitan/8916;67;silver;RakA3w;POL 1;Rumania;75;32;38;44;67;75
 8733;stipe radic;8915;https://www.futwiz.com/en/fc24/player/stipe-radic/8915;67;silver-nr;Fortuna Sittard;NED 1;Croacia;61;37;49;46;65;72
-8734;josip radosevic;8914;https://www.futwiz.com/en/fc24/player/josip-radosevic/8914;67;silver;BrA,ndby IF;DEN 1;Croacia;54;59;60;57;66;79
+8734;josip radosevic;8914;https://www.futwiz.com/en/fc24/player/josip-radosevic/8914;67;silver;BrA;ndby IF;DEN 1;Croacia;54;59;60;57;66;79
 8735;hamza rafia;8913;https://www.futwiz.com/en/fc24/player/hamza-rafia/8913;67;silver-nr;Lecce;ITA 1;Tunez;65;64;65;72;29;64
 8736;baba rahman;8912;https://www.futwiz.com/en/fc24/player/baba-rahman/8912;67;silver-nr;PAOK FC;GRE 1;Ghana;70;53;62;66;64;69
 8737;jukka raitala;8911;https://www.futwiz.com/en/fc24/player/jukka-raitala/8911;67;silver-nr;HJK Helsinki;FIN 1;Finlandia;59;47;65;64;65;72
@@ -8758,7 +8758,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8757;hansell riojas;8891;https://www.futwiz.com/en/fc24/player/hansell-riojas/8891;67;gold;Cienciano;SUD;Peru;60;33;50;57;66;72
 8758;braian rivero;8890;https://www.futwiz.com/en/fc24/player/braian-rivero/8890;67;silver-nr;Arsenal;ARG 1;Argentina;60;43;62;66;63;68
 8759;cristian riveros;8889;https://www.futwiz.com/en/fc24/player/cristian-riveros/8889;67;gold;Libertad;LIB;Paraguay;33;59;65;62;66;64
-8760;blas riveros;8888;https://www.futwiz.com/en/fc24/player/blas-riveros/8888;67;silver-nr;BrA,ndby IF;DEN 1;Paraguay;77;36;59;71;59;66
+8760;blas riveros;8888;https://www.futwiz.com/en/fc24/player/blas-riveros/8888;67;silver-nr;BrA;ndby IF;DEN 1;Paraguay;77;36;59;71;59;66
 8761;calogero rizzuto;8887;https://www.futwiz.com/en/fc24/player/calogero-rizzuto/8887;67;silver-nr;SaarbrA 1/4cken;GER 3;Alemania;75;52;60;67;58;72
 8762;carlos roca;8886;https://www.futwiz.com/en/fc24/player/carlos-roca/8886;67;gold;The Strongest;LIB;Bolivia;81;39;59;63;62;73
 8763;valentin rodriguez;8885;https://www.futwiz.com/en/fc24/player/valentin-rodriguez/8885;67;gold;PeA+-arol;SUD;Uruguay;79;54;56;69;57;63
@@ -8999,7 +8999,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 8998;sean morrison;8650;https://www.futwiz.com/en/fc24/player/sean-morrison/8650;67;silver-nr;Rotherham Utd;ENG 2;Inglaterra;37;28;40;47;67;70
 8999;lennart moser;8649;https://www.futwiz.com/en/fc24/player/lennart-moser/8649;67;silver;KAS Eupen;BEL 1;Alemania;70;64;58;70;24;64
 9000;edwin mosquera;8648;https://www.futwiz.com/en/fc24/player/edwin-mosquera/8648;67;silver-nr;Atlanta United;MLS;Colombia;83;56;61;67;17;60
-9001;faris pemi moumbagna;8647;https://www.futwiz.com/en/fc24/player/faris-pemi-moumbagna/8647;67;silver;FK BodA,/Glimt;NOR 1;Camerun;86;63;52;65;27;79
+9001;faris pemi moumbagna;8647;https://www.futwiz.com/en/fc24/player/faris-pemi-moumbagna/8647;67;silver;FK BodA;/Glimt;NOR 1;Camerun;86;63;52;65;27;79
 9002;owen moxon;8646;https://www.futwiz.com/en/fc24/player/owen-moxon/8646;67;silver-nr;Carlisle United;ENG 3;Inglaterra;68;58;67;66;62;77
 9003;matias moya;8645;https://www.futwiz.com/en/fc24/player/matias-moya/8645;67;gold;Colo-Colo;LIB;Argentina;76;59;63;71;51;51
 9004;bartosz mrozek;8644;https://www.futwiz.com/en/fc24/player/bartosz-mrozek/8644;67;silver-nr;Lech PoznaA;POL 1;Polonia;68;66;63;70;38;68
@@ -9109,7 +9109,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9108;marc lorenz;8540;https://www.futwiz.com/en/fc24/player/marc-lorenz/8540;67;silver-nr;PreuAen MA 1/4nster;GER 3;Alemania;74;56;69;65;48;69
 9109;anderson lucoqui;8539;https://www.futwiz.com/en/fc24/player/anderson-lucoqui/8539;67;silver-nr;Hertha Berlin;GER 2;Angola;77;45;58;69;62;68
 9110;karlo lulic;8538;https://www.futwiz.com/en/fc24/player/karlo-lulic/8538;67;silver-nr;Frosinone;ITA 1;Croacia;63;64;67;66;55;69
-9111;valdemar lund;8537;https://www.futwiz.com/en/fc24/player/valdemar-lund/8537;67;silver-nr;F.C. KA,benhavn;DEN 1;Dinamarca;56;42;58;57;66;71
+9111;valdemar lund;8537;https://www.futwiz.com/en/fc24/player/valdemar-lund/8537;67;silver-nr;F.C. KA;benhavn;DEN 1;Dinamarca;56;42;58;57;66;71
 9112;ramon pascal lundqvist;8536;https://www.futwiz.com/en/fc24/player/ramon-pascal-lundqvist/8536;67;silver-nr;Sarpsborg 08;NOR 1;Suecia;66;67;68;69;57;63
 9113;ma zhen;8535;https://www.futwiz.com/en/fc24/player/ma-zhen/8535;67;silver;Shanghai Shenhua;CHN 1;RP China;69;62;58;71;54;63
 9114;larrys mabiala;8534;https://www.futwiz.com/en/fc24/player/larrys-mabiala/8534;67;silver-nr;Portland Timbers;MLS;RD Congo;41;44;51;50;65;80
@@ -9133,7 +9133,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9132;lee gregory;8516;https://www.futwiz.com/en/fc24/player/lee-gregory/8516;67;silver-nr;Sheffield Wed;ENG 2;Inglaterra;53;67;56;64;28;80
 9133;patrick greil;8515;https://www.futwiz.com/en/fc24/player/patrick-greil/8515;67;silver-nr;SK Rapid Wien;AUT 1;Austria;68;61;68;67;51;65
 9134;leo greiml;8514;https://www.futwiz.com/en/fc24/player/leo-greiml/8514;67;silver-nr;FC Schalke 04;GER 2;Austria;52;30;49;47;66;72
-9135;mathias greve;8513;https://www.futwiz.com/en/fc24/player/mathias-greve/8513;67;silver-nr;BrA,ndby IF;DEN 1;Dinamarca;69;61;67;68;53;71
+9135;mathias greve;8513;https://www.futwiz.com/en/fc24/player/mathias-greve/8513;67;silver-nr;BrA;ndby IF;DEN 1;Dinamarca;69;61;67;68;53;71
 9136;lukas grgic;8512;https://www.futwiz.com/en/fc24/player/lukas-grgic/8512;67;silver;SK Rapid Wien;AUT 1;Austria;67;44;59;61;64;82
 9137;magnus retsius grodem;8511;https://www.futwiz.com/en/fc24/player/magnus-retsius-grodem/8511;67;silver-nr;Molde FK;NOR 1;Noruega;70;63;64;68;45;66
 9138;sten michael grytebust;8510;https://www.futwiz.com/en/fc24/player/sten-michael-grytebust/8510;67;silver-nr;Aalesunds FK;NOR 1;Noruega;66;66;65;68;40;66
@@ -9252,7 +9252,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9251;kristian eriksen;8397;https://www.futwiz.com/en/fc24/player/kristian-eriksen/8397;67;silver-nr;Molde FK;NOR 1;Noruega;69;64;62;67;42;68
 9252;ataru esaka;8396;https://www.futwiz.com/en/fc24/player/ataru-esaka/8396;67;silver;Ulsan Hyundai;KOR 1;Japon;79;65;66;69;51;63
 9253;mustafa eskihellac;8395;https://www.futwiz.com/en/fc24/player/mustafa-eskihellac/8395;67;silver;Gaziantep;TUR 1;Turquia;86;57;60;69;52;55
-9254;runar espejord;8394;https://www.futwiz.com/en/fc24/player/runar-espejord/8394;67;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;68;64;51;61;30;72
+9254;runar espejord;8394;https://www.futwiz.com/en/fc24/player/runar-espejord/8394;67;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;68;64;51;61;30;72
 9255;edu espiau;8393;https://www.futwiz.com/en/fc24/player/edu-espiau/8393;67;silver-nr;Burgos CF;ESP 2;España;69;66;55;61;25;67
 9256;roger espinoza;8392;https://www.futwiz.com/en/fc24/player/roger-espinoza/8392;67;silver-nr;Sporting KC;MLS;Sierra L.;46;67;66;67;66;78
 9257;george evans;8391;https://www.futwiz.com/en/fc24/player/george-evans/8391;67;silver-nr;Millwall;ENG 2;Inglaterra;61;61;64;62;66;69
@@ -9294,7 +9294,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9293;esli garcia;8355;https://www.futwiz.com/en/fc24/player/esli-garcia/8355;67;gold;Dep. TA!chira;SUD;Venezuela;66;61;64;72;35;41
 9294;bryan garcia;8354;https://www.futwiz.com/en/fc24/player/bryan-garcia/8354;67;gold;Independiente DV;LIB;Ecuador;78;56;65;70;50;54
 9295;pablo garcia;8353;https://www.futwiz.com/en/fc24/player/pablo-garcia/8353;67;gold;River Plate;SUD;Uruguay;72;61;62;75;27;48
-9296;espen bjornsen garnas;8352;https://www.futwiz.com/en/fc24/player/espen-bjornsen-garnas/8352;67;silver-nr;LillestrA,m SK;NOR 1;Noruega;37;33;48;47;65;79
+9296;espen bjornsen garnas;8352;https://www.futwiz.com/en/fc24/player/espen-bjornsen-garnas/8352;67;silver-nr;LillestrA;m SK;NOR 1;Noruega;37;33;48;47;65;79
 9297;luis garro;8351;https://www.futwiz.com/en/fc24/player/luis-garro/8351;67;gold;Cienciano;SUD;Peru;72;57;58;63;65;62
 9298;ben garuccio;8350;https://www.futwiz.com/en/fc24/player/ben-garuccio/8350;67;silver-nr;Western United;AUS 1;Australia;77;52;62;66;61;67
 9299;joe gauci;8349;https://www.futwiz.com/en/fc24/player/joe-gauci/8349;67;silver-nr;Adelaide United;AUS 1;Australia;70;65;60;71;30;64
@@ -9349,7 +9349,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9348;sokol cikalleshi;8300;https://www.futwiz.com/en/fc24/player/sokol-cikalleshi/8300;67;silver-nr;Konyaspor;TUR 1;Albania;61;67;59;61;35;71
 9349;ramazan civelek;8299;https://www.futwiz.com/en/fc24/player/ramazan-civelek/8299;67;silver-nr;Kayserispor;TUR 1;Turquia;76;57;64;69;62;59
 9350;jenna clark;8298;https://www.futwiz.com/en/fc24/player/jenna-clark/8298;67;silver-nr;Liverpool;;Escocia;70;35;51;63;69;61
-9351;william clem;8297;https://www.futwiz.com/en/fc24/player/william-clem/8297;67;silver-nr;F.C. KA,benhavn;DEN 1;Dinamarca;57;48;62;63;63;66
+9351;william clem;8297;https://www.futwiz.com/en/fc24/player/william-clem/8297;67;silver-nr;F.C. KA;benhavn;DEN 1;Dinamarca;57;48;62;63;63;66
 9352;enrique clemente;8296;https://www.futwiz.com/en/fc24/player/enrique-clemente/8296;67;silver-nr;Racing de Ferrol;ESP 2;España;68;32;52;54;67;68
 9353;oscar clemente;8295;https://www.futwiz.com/en/fc24/player/oscar-clemente/8295;67;silver-nr;Levante UD;ESP 2;España;74;55;67;63;40;46
 9354;collado;8294;https://www.futwiz.com/en/fc24/player/collado/8294;67;silver-nr;Villarreal CF B;ESP 2;España;64;68;62;65;34;54
@@ -9427,7 +9427,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9426;daniel silva;8222;https://www.futwiz.com/en/fc24/player/daniel-silva/8222;67;silver-nr;VitA3ria SC;POR 1;Portugal;66;50;66;64;59;69
 9427;mamady bangre;8221;https://www.futwiz.com/en/fc24/player/mamady-bangre/8221;67;silver-nr;Toulouse FC;FRA 1;Burk. Faso;68;57;67;72;45;46
 9428;peter barath;8220;https://www.futwiz.com/en/fc24/player/peter-barath/8220;67;silver-nr;FerencvA!rosi TC;HUN 1;Hungria;70;52;59;60;67;67
-9429;roony bardghji;8219;https://www.futwiz.com/en/fc24/player/roony-bardghji/8219;67;silver-nr;F.C. KA,benhavn;DEN 1;Suecia;74;63;60;73;26;51
+9429;roony bardghji;8219;https://www.futwiz.com/en/fc24/player/roony-bardghji/8219;67;silver-nr;F.C. KA;benhavn;DEN 1;Suecia;74;63;60;73;26;51
 9430;ahmed barman;8218;https://www.futwiz.com/en/fc24/player/ahmed-barman/8218;67;silver-nr;Al Ain FC;UAE 1;Emiratos AU;60;47;58;60;66;74
 9431;anthony baron;8217;https://www.futwiz.com/en/fc24/player/anthony-baron/8217;67;silver-nr;Servette FC;SUI 1;Francia;67;38;61;64;64;69
 9432;bernabe;8216;https://www.futwiz.com/en/fc24/player/bernabe/8216;67;silver-nr;Albacete BP;ESP 2;España;66;68;64;65;45;66
@@ -9519,7 +9519,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9518;lalas abubakar;8113;https://www.futwiz.com/en/fc24/player/lalas-abubakar/8113;67;silver-nr;Colorado Rapids;MLS;Ghana;55;32;50;50;65;79
 9519;asumah abubakar;8112;https://www.futwiz.com/en/fc24/player/asumah-abubakar/8112;67;silver;FC Luzern;SUI 1;Portugal;83;65;57;70;38;67
 9520;giorgi aburjania;8111;https://www.futwiz.com/en/fc24/player/giorgi-aburjania/8111;67;silver-nr;Hatayspor;TUR 1;Georgia;52;62;67;68;63;72
-9521;elias achouri;8110;https://www.futwiz.com/en/fc24/player/elias-achouri/8110;67;silver-nr;F.C. KA,benhavn;DEN 1;Tunez;81;62;59;69;28;49
+9521;elias achouri;8110;https://www.futwiz.com/en/fc24/player/elias-achouri/8110;67;silver-nr;F.C. KA;benhavn;DEN 1;Tunez;81;62;59;69;28;49
 9522;dilara acikgoz;8109;https://www.futwiz.com/en/fc24/player/dilara-acikgoz/8109;67;silver-nr;Frankfurt;;Alemania;67;33;61;59;65;59
 9523;ilayda acikgoz;8108;https://www.futwiz.com/en/fc24/player/ilayda-acikgoz/8108;67;silver-nr;Frankfurt;;Alemania;69;64;58;70;56;58
 9524;ebou adams;8107;https://www.futwiz.com/en/fc24/player/ebou-adams/8107;67;silver;Cardiff City;ENG 2;Gambia;72;58;59;63;63;80
@@ -9573,7 +9573,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9572;martin angha;8059;https://www.futwiz.com/en/fc24/player/martin-angha/8059;67;silver-nr;Wehen Wiesbaden;GER 2;Suiza;71;37;56;63;66;75
 9573;larry angulo;8058;https://www.futwiz.com/en/fc24/player/larry-angulo/8058;67;gold;Dep. Pereira;LIB;Colombia;68;63;61;66;58;76
 9574;alvaro angulo;8057;https://www.futwiz.com/en/fc24/player/alvaro-angulo/8057;67;gold;Atl. Nacional;LIB;Colombia;92;32;55;65;57;63
-9575;peter ankersen;8056;https://www.futwiz.com/en/fc24/player/peter-ankersen/8056;67;silver-nr;F.C. KA,benhavn;DEN 1;Dinamarca;75;54;60;67;61;67
+9575;peter ankersen;8056;https://www.futwiz.com/en/fc24/player/peter-ankersen/8056;67;silver-nr;F.C. KA;benhavn;DEN 1;Dinamarca;75;54;60;67;61;67
 9576;janis antiste;8055;https://www.futwiz.com/en/fc24/player/janis-antiste/8055;67;silver-nr;Sassuolo;ITA 1;Francia;79;67;51;68;20;61
 9577;oliver antman;8054;https://www.futwiz.com/en/fc24/player/oliver-antman/8054;67;silver;FC NordsjA|lland;DEN 1;Finlandia;77;64;61;69;38;58
 9578;marcus antonsson;8053;https://www.futwiz.com/en/fc24/player/marcus-antonsson/8053;67;silver-nr;WS Wanderers;AUS 1;Suecia;77;65;53;64;38;72
@@ -9625,7 +9625,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9624;ramon hendriks;18149;https://www.futwiz.com/en/fc24/player/ramon-hendriks/18149;66;silver-nr;Vitesse;NED 1;Holanda;68;33;54;57;66;65
 9625;loum tchaouna;18148;https://www.futwiz.com/en/fc24/player/loum-tchaouna/18148;66;silver-nr;Salernitana;ITA 1;Francia;77;62;62;67;37;55
 9626;borja garces;18147;https://www.futwiz.com/en/fc24/player/borja-garces/18147;66;silver-nr;Elche CF;ESP 2;España;70;67;51;65;31;54
-9627;samuel rogers;18146;https://www.futwiz.com/en/fc24/player/samuel-rogers/18146;66;silver-nr;LillestrA,m SK;NOR 1;Estados Unidos;68;42;52;59;64;72
+9627;samuel rogers;18146;https://www.futwiz.com/en/fc24/player/samuel-rogers/18146;66;silver-nr;LillestrA;m SK;NOR 1;Estados Unidos;68;42;52;59;64;72
 9628;james hill;18145;https://www.futwiz.com/en/fc24/player/james-hill/18145;66;silver-nr;Blackburn Rovers;ENG 2;Inglaterra;66;25;48;52;65;67
 9629;valentin antov;18144;https://www.futwiz.com/en/fc24/player/valentin-antov/18144;66;silver-nr;Cremonese;ITA 2;Bulgaria;54;36;47;52;65;74
 9630;hugo vallejo;18143;https://www.futwiz.com/en/fc24/player/hugo-vallejo/18143;66;silver-nr;SD Huesca;ESP 2;España;62;65;62;69;36;56
@@ -9660,7 +9660,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9659;pape ndiaga yade;10200;https://www.futwiz.com/en/fc24/player/pape-ndiaga-yade/10200;66;silver-nr;Quevilly Rouen;FRA 2;Senegal;80;68;59;69;44;66
 9660;zeki yavru;10199;https://www.futwiz.com/en/fc24/player/zeki-yavru/10199;66;silver-nr;Samsunspor;TUR 1;Turquia;66;60;61;65;62;68
 9661;dru yearwood;10198;https://www.futwiz.com/en/fc24/player/dru-yearwood/10198;66;silver;Red Bulls;MLS;Inglaterra;77;54;58;70;65;76
-9662;emmanuel yeboah;10197;https://www.futwiz.com/en/fc24/player/emmanuel-yeboah/10197;66;silver;BrA,ndby IF;DEN 1;Ghana;84;63;56;66;38;78
+9662;emmanuel yeboah;10197;https://www.futwiz.com/en/fc24/player/emmanuel-yeboah/10197;66;silver;BrA;ndby IF;DEN 1;Ghana;84;63;56;66;38;78
 9663;yaw yeboah;10196;https://www.futwiz.com/en/fc24/player/yaw-yeboah/10196;66;silver;Columbus Crew;MLS;Ghana;87;61;56;69;35;53
 9664;yeon je woon;10195;https://www.futwiz.com/en/fc24/player/yeon-je-woon/10195;66;silver-nr;Jeju United;KOR 1;Rep. Corea;64;31;51;50;65;75
 9665;aygun yildirim;10194;https://www.futwiz.com/en/fc24/player/aygun-yildirim/10194;66;silver-nr;Arminia Bielefeld;GER 3;Alemania;75;63;56;70;23;59
@@ -9875,7 +9875,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9874;franco soldano;9932;https://www.futwiz.com/en/fc24/player/franco-soldano/9932;66;gold;Gimnasia;SUD;Argentina;69;62;54;63;44;73
 9875;edoardo soleri;9931;https://www.futwiz.com/en/fc24/player/edoardo-soleri/9931;66;silver-nr;Palermo;ITA 2;Italia;76;63;49;68;33;68
 9876;matteo solini;9930;https://www.futwiz.com/en/fc24/player/matteo-solini/9930;66;silver-nr;Como;ITA 2;Italia;52;36;42;48;67;70
-9877;adam sorensen;9929;https://www.futwiz.com/en/fc24/player/adam-sorensen/9929;66;silver;FK BodA,/Glimt;NOR 1;Dinamarca;91;45;61;69;55;60
+9877;adam sorensen;9929;https://www.futwiz.com/en/fc24/player/adam-sorensen/9929;66;silver;FK BodA;/Glimt;NOR 1;Dinamarca;91;45;61;69;55;60
 9878;joaquin sosa;9928;https://www.futwiz.com/en/fc24/player/joaquin-sosa/9928;66;silver-nr;Bologna;ITA 1;Uruguay;40;37;60;59;70;66
 9879;angel ojeda;9927;https://www.futwiz.com/en/fc24/player/angel-ojeda/9927;66;gold;Cienciano;SUD;Peru;48;40;60;59;62;67
 9880;bryan okoh;9926;https://www.futwiz.com/en/fc24/player/bryan-okoh/9926;66;silver;RB Salzburg;AUT 1;Suiza;72;31;53;60;61;80
@@ -9943,7 +9943,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 9942;alvas powell;9864;https://www.futwiz.com/en/fc24/player/alvas-powell/9864;66;silver;FC Cincinnati;MLS;Jamaica;88;45;55;63;58;73
 9943;mateusz praszelik;9863;https://www.futwiz.com/en/fc24/player/mateusz-praszelik/9863;66;silver-nr;Cosenza;ITA 2;Polonia;68;63;67;70;39;62
 9944;nik prelec;9862;https://www.futwiz.com/en/fc24/player/nik-prelec/9862;66;silver-nr;WSG Tirol;AUT 1;Eslovenia;67;65;55;64;33;69
-9945;christophe psyche;9861;https://www.futwiz.com/en/fc24/player/christophe-psyche/9861;66;silver-nr;TromsA, IL;NOR 1;Francia;37;40;50;49;63;79
+9945;christophe psyche;9861;https://www.futwiz.com/en/fc24/player/christophe-psyche/9861;66;silver-nr;TromsA; IL;NOR 1;Francia;37;40;50;49;63;79
 9946;miguel puche;9860;https://www.futwiz.com/en/fc24/player/miguel-puche/9860;66;silver-nr;Arouca;POR 1;España;73;63;62;66;42;60
 9947;afimico pululu;9859;https://www.futwiz.com/en/fc24/player/afimico-pululu/9859;66;silver;Jagiellonia;POL 1;Angola;88;60;55;70;26;65
 9948;qian jiegei;9858;https://www.futwiz.com/en/fc24/player/qian-jiegei/9858;66;silver-nr;Zhejiang Pro;CHN 1;RP China;74;57;61;63;62;71
@@ -10139,7 +10139,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 10138;williams lugo;9668;https://www.futwiz.com/en/fc24/player/williams-lugo/9668;66;gold;Puerto Cabello;SUD;Venezuela;61;59;65;64;62;65
 10139;jakub lukowski;9667;https://www.futwiz.com/en/fc24/player/jakub-lukowski/9667;66;silver-nr;Korona Kielce;POL 1;Polonia;80;65;60;68;35;60
 10140;daniel luna;9666;https://www.futwiz.com/en/fc24/player/daniel-luna/9666;66;silver-nr;RCD Mallorca;ESP 1;Colombia;68;57;58;65;33;44
-10141;julian faye lund;9665;https://www.futwiz.com/en/fc24/player/julian-faye-lund/9665;66;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;66;64;65;69;45;65
+10141;julian faye lund;9665;https://www.futwiz.com/en/fc24/player/julian-faye-lund/9665;66;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;66;64;65;69;45;65
 10142;valgeir lunddal;9664;https://www.futwiz.com/en/fc24/player/valgeir-lunddal/9664;66;silver;BK HA$?cken;SWE 1;Islandia;70;31;49;54;63;78
 10143;adam lundqvist;9663;https://www.futwiz.com/en/fc24/player/adam-lundqvist/9663;66;silver-nr;Austin FC;MLS;Suecia;67;52;63;62;63;58
 10144;rafael lutiger;9662;https://www.futwiz.com/en/fc24/player/rafael-lutiger/9662;66;gold;Sporting Cristal;LIB;Peru;60;40;47;45;68;72
@@ -10207,7 +10207,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 10206;daniel jebbison;9600;https://www.futwiz.com/en/fc24/player/daniel-jebbison/9600;66;silver;Sheffield Utd;ENG 1;Inglaterra;82;64;50;63;30;72
 10207;james jeggo;9599;https://www.futwiz.com/en/fc24/player/james-jeggo/9599;66;silver-nr;Hibernian;SPFL;Australia;67;58;60;64;62;69
 10208;victor jensen;9598;https://www.futwiz.com/en/fc24/player/victor-jensen/9598;66;silver-nr;FC Utrecht;NED 1;Dinamarca;71;58;65;70;57;58
-10209;ruben yttergard jenssen;9597;https://www.futwiz.com/en/fc24/player/ruben-yttergard-jenssen/9597;66;silver-nr;TromsA, IL;NOR 1;Noruega;58;59;66;65;61;74
+10209;ruben yttergard jenssen;9597;https://www.futwiz.com/en/fc24/player/ruben-yttergard-jenssen/9597;66;silver-nr;TromsA; IL;NOR 1;Noruega;58;59;66;65;61;74
 10210;ulrik yttergard jenssen;9596;https://www.futwiz.com/en/fc24/player/ulrik-yttergard-jenssen/9596;66;silver-nr;Rosenborg BK;NOR 1;Noruega;53;54;62;60;65;73
 10211;jeong jae hee;9595;https://www.futwiz.com/en/fc24/player/jeong-jae-hee/9595;66;silver;Pohang Steelers;KOR 1;Rep. Corea;89;60;57;66;47;67
 10212;ignacio jeraldino;9594;https://www.futwiz.com/en/fc24/player/ignacio-jeraldino/9594;66;silver-nr;R. Sporting;ESP 2;Chile;64;61;45;63;27;66
@@ -10324,7 +10324,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 10323;raudy guerrero;9483;https://www.futwiz.com/en/fc24/player/raudy-guerrero/9483;66;gold;Puerto Cabello;SUD;Venezuela;77;59;61;66;43;46
 10324;nesta guinness-walker;9482;https://www.futwiz.com/en/fc24/player/nesta-guinness-walker/9482;66;silver;Reading;ENG 3;Inglaterra;83;36;61;65;59;65
 10325;muhammed gumuskaya;9481;https://www.futwiz.com/en/fc24/player/muhammed-gumuskaya/9481;66;silver-nr;KVC Westerlo;BEL 1;Turquia;72;61;66;68;52;57
-10326;jostein gundersen;9480;https://www.futwiz.com/en/fc24/player/jostein-gundersen/9480;66;silver-nr;TromsA, IL;NOR 1;Noruega;55;41;52;58;64;73
+10326;jostein gundersen;9480;https://www.futwiz.com/en/fc24/player/jostein-gundersen/9480;66;silver-nr;TromsA; IL;NOR 1;Noruega;55;41;52;58;64;73
 10327;julian gunther-schmidt;9479;https://www.futwiz.com/en/fc24/player/julian-gunther-schmidt/9479;66;silver-nr;SaarbrA 1/4cken;GER 3;Alemania;71;65;65;67;39;73
 10328;ahmet gurleyen;9478;https://www.futwiz.com/en/fc24/player/ahmet-gurleyen/9478;66;silver;1. FC NA 1/4rnberg;GER 2;Alemania;54;37;48;40;64;81
 10329;carl gustafsson;9477;https://www.futwiz.com/en/fc24/player/carl-gustafsson/9477;66;silver-nr;Kalmar FF;SWE 1;Suecia;59;52;61;65;57;70
@@ -10355,7 +10355,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 10354;haissem hassan;9452;https://www.futwiz.com/en/fc24/player/haissem-hassan/9452;66;silver-nr;R. Sporting;ESP 2;Francia;84;58;58;72;26;54
 10355;tom hateley;9451;https://www.futwiz.com/en/fc24/player/tom-hateley/9451;66;silver-nr;Piast Gliwice;POL 1;Inglaterra;62;55;65;62;64;73
 10356;omar hawsawi;9450;https://www.futwiz.com/en/fc24/player/omar-hawsawi/9450;66;silver-nr;Al Ittihad;SAU 1;Arabia S.;46;29;43;46;64;77
-10357;henrik heggheim;9449;https://www.futwiz.com/en/fc24/player/henrik-heggheim/9449;66;silver;BrA,ndby IF;DEN 1;Noruega;72;33;52;57;65;71
+10357;henrik heggheim;9449;https://www.futwiz.com/en/fc24/player/henrik-heggheim/9449;66;silver;BrA;ndby IF;DEN 1;Noruega;72;33;52;57;65;71
 10358;jurgen heil;9448;https://www.futwiz.com/en/fc24/player/jurgen-heil/9448;66;silver-nr;TSV Hartberg;AUT 1;Austria;66;60;64;66;64;75
 10359;juan jose heinze;9447;https://www.futwiz.com/en/fc24/player/juan-jose-heinze/9447;66;gold;Gral. Caballero;SUD;Argentina;74;53;63;66;39;62
 10360;ramon hendriks;9446;https://www.futwiz.com/en/fc24/player/ramon-hendriks/9446;66;silver-nr;Feyenoord;NED 1;Holanda;68;33;54;57;66;65
@@ -10731,7 +10731,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 10730;daniel tiefenbach;11218;https://www.futwiz.com/en/fc24/player/daniel-tiefenbach/11218;65;silver-nr;SC Austria;AUT 1;Hungria;67;51;58;67;64;60
 10731;bogdan tiru;11217;https://www.futwiz.com/en/fc24/player/bogdan-tiru/11217;65;silver-nr;CFR 1907 Cluj;ROM 1;Rumania;50;34;44;48;64;78
 10732;eoin toal;11216;https://www.futwiz.com/en/fc24/player/eoin-toal/11216;65;silver-nr;Bolton;ENG 3;Irlanda N.;51;31;42;52;64;74
-10733;kristoffer tonnessen;11215;https://www.futwiz.com/en/fc24/player/kristoffer-tonnessen/11215;65;silver-nr;LillestrA,m SK;NOR 1;Noruega;72;46;60;58;61;65
+10733;kristoffer tonnessen;11215;https://www.futwiz.com/en/fc24/player/kristoffer-tonnessen/11215;65;silver-nr;LillestrA;m SK;NOR 1;Noruega;72;46;60;58;61;65
 10734;victor torp;11214;https://www.futwiz.com/en/fc24/player/victor-torp/11214;65;silver-nr;Sarpsborg 08;NOR 1;Dinamarca;68;60;65;69;53;56
 10735;jhojan torres;11213;https://www.futwiz.com/en/fc24/player/jhojan-torres/11213;65;gold;Santa Fe;SUD;Colombia;55;40;60;54;61;63
 10736;mamadou tounkara;11212;https://www.futwiz.com/en/fc24/player/mamadou-tounkara/11212;65;silver-nr;VitA3ria SC;POR 1;Francia;67;31;43;45;63;75
@@ -10883,7 +10883,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 10882;markus solbakken;11065;https://www.futwiz.com/en/fc24/player/markus-solbakken/11065;65;silver-nr;Viking FK;NOR 1;Noruega;74;56;64;66;59;70
 10883;sven sonnenberg;11064;https://www.futwiz.com/en/fc24/player/sven-sonnenberg/11064;65;silver-nr;Heracles Almelo;NED 1;Alemania;62;28;43;49;64;75
 10884;oliver sorensen;11063;https://www.futwiz.com/en/fc24/player/oliver-sorensen/11063;65;silver-nr;FC Midtjylland;DEN 1;Dinamarca;72;55;62;66;59;71
-10885;bent sormo;11062;https://www.futwiz.com/en/fc24/player/bent-sormo/11062;65;silver-nr;StrA,msgodset IF;NOR 1;Noruega;73;40;55;62;62;76
+10885;bent sormo;11062;https://www.futwiz.com/en/fc24/player/bent-sormo/11062;65;silver-nr;StrA;msgodset IF;NOR 1;Noruega;73;40;55;62;62;76
 10886;andres souper;11061;https://www.futwiz.com/en/fc24/player/andres-souper/11061;65;gold;Club Magallanes;SUD;Chile;66;61;62;70;35;45
 10887;samuel souprayen;11060;https://www.futwiz.com/en/fc24/player/samuel-souprayen/11060;65;silver-nr;Melbourne City;AUS 1;Francia;68;36;58;62;63;74
 10888;verdasca;11059;https://www.futwiz.com/en/fc24/player/verdasca/11059;65;silver-nr;CD MirandA(c)s;ESP 2;Portugal;64;37;49;55;63;76
@@ -10971,7 +10971,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 10970;samir ramizi;10977;https://www.futwiz.com/en/fc24/player/samir-ramizi/10977;65;silver-nr;FC Winterthur;SUI 1;Kosovo;66;65;62;68;56;65
 10971;moha ramos;10976;https://www.futwiz.com/en/fc24/player/moha-ramos/10976;65;silver-nr;CD Tenerife;ESP 2;España;62;66;62;65;28;64
 10972;calvin ramsay;10975;https://www.futwiz.com/en/fc24/player/calvin-ramsay/10975;65;silver-nr;Preston;ENG 2;Escocia;76;43;60;66;56;66
-10973;lars mogstad ranger;10974;https://www.futwiz.com/en/fc24/player/lars-mogstad-ranger/10974;65;silver;LillestrA,m SK;NOR 1;Noruega;83;49;55;63;57;70
+10973;lars mogstad ranger;10974;https://www.futwiz.com/en/fc24/player/lars-mogstad-ranger/10974;65;silver;LillestrA;m SK;NOR 1;Noruega;83;49;55;63;57;70
 10974;federico ravaglia;10973;https://www.futwiz.com/en/fc24/player/federico-ravaglia/10973;65;silver-nr;Bologna;ITA 1;Italia;67;65;54;68;37;67
 10975;henrich ravas;10972;https://www.futwiz.com/en/fc24/player/henrich-ravas/10972;65;silver-nr;Widzew AA3dAo;POL 1;Eslovaquia;65;63;62;66;37;67
 10976;glen rea;10971;https://www.futwiz.com/en/fc24/player/glen-rea/10971;65;silver-nr;Luton Town;ENG 1;Rep. Irlanda;55;41;55;59;66;69
@@ -11024,7 +11024,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11023;malkolm nilsson safqvist;10924;https://www.futwiz.com/en/fc24/player/malkolm-nilsson-safqvist/10924;65;silver-nr;Halmstads BK;SWE 1;Suecia;66;63;65;67;33;68
 11024;pavol safranko;10923;https://www.futwiz.com/en/fc24/player/pavol-safranko/10923;65;silver-nr;Sepsi OSK;ROM 1;Eslovaquia;67;63;56;62;41;73
 11025;benji michel;10922;https://www.futwiz.com/en/fc24/player/benji-michel/10922;65;silver;Arouca;POR 1;Estados Unidos;90;64;53;64;22;58
-11026;thomas mikkelsen;10921;https://www.futwiz.com/en/fc24/player/thomas-mikkelsen/10921;65;silver-nr;BrA,ndby IF;DEN 1;Dinamarca;63;65;65;66;32;66
+11026;thomas mikkelsen;10921;https://www.futwiz.com/en/fc24/player/thomas-mikkelsen/10921;65;silver-nr;BrA;ndby IF;DEN 1;Dinamarca;63;65;65;66;32;66
 11027;tommaso milanese;10920;https://www.futwiz.com/en/fc24/player/tommaso-milanese/10920;65;silver-nr;Cremonese;ITA 2;Italia;71;55;66;70;50;55
 11028;matko miljevic;10919;https://www.futwiz.com/en/fc24/player/matko-miljevic/10919;65;silver-nr;CF MontrA(c)al;MLS;Estados Unidos;62;60;63;71;44;57
 11029;matt millar;10918;https://www.futwiz.com/en/fc24/player/matt-millar/10918;65;silver;Macarthur FC;AUS 1;Australia;75;57;57;63;59;77
@@ -11100,7 +11100,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11099;gael ondoua;10848;https://www.futwiz.com/en/fc24/player/gael-ondoua/10848;65;silver-nr;Servette FC;SUI 1;Camerun;68;46;60;61;61;74
 11100;nathan opoku;10847;https://www.futwiz.com/en/fc24/player/nathan-opoku/10847;65;silver-nr;OH Leuven;BEL 1;Ghana;81;67;49;64;22;53
 11101;fredrik oppegard;10846;https://www.futwiz.com/en/fc24/player/fredrik-oppegard/10846;65;silver-nr;PSV;NED 1;Noruega;78;53;59;64;59;61
-11102;sakarias opsahl;10845;https://www.futwiz.com/en/fc24/player/sakarias-opsahl/10845;65;silver-nr;TromsA, IL;NOR 1;Noruega;68;57;65;65;61;65
+11102;sakarias opsahl;10845;https://www.futwiz.com/en/fc24/player/sakarias-opsahl/10845;65;silver-nr;TromsA; IL;NOR 1;Noruega;68;57;65;65;61;65
 11103;dominik oroz;10844;https://www.futwiz.com/en/fc24/player/dominik-oroz/10844;65;silver-nr;Vitesse;NED 1;Croacia;56;37;53;50;65;68
 11104;alexander oroz;10843;https://www.futwiz.com/en/fc24/player/alexander-oroz/10843;65;gold;Colo-Colo;LIB;Chile;78;62;60;67;27;61
 11105;michael ortega;10842;https://www.futwiz.com/en/fc24/player/michael-ortega/10842;65;gold;The Strongest;LIB;Colombia;60;62;66;69;32;57
@@ -11157,7 +11157,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11156;martin luciano;10791;https://www.futwiz.com/en/fc24/player/martin-luciano/10791;65;gold;Newell's;SUD;Argentina;81;32;52;55;61;58
 11157;oier luengo;10790;https://www.futwiz.com/en/fc24/player/oier-luengo/10790;65;silver-nr;R. Oviedo;ESP 2;España;62;32;51;56;65;68
 11158;marco lund;10789;https://www.futwiz.com/en/fc24/player/marco-lund/10789;65;silver-nr;IFK NorrkAPping;SWE 1;Dinamarca;55;36;50;61;65;73
-11159;marius lundemo;10788;https://www.futwiz.com/en/fc24/player/marius-lundemo/10788;65;silver-nr;LillestrA,m SK;NOR 1;Noruega;54;58;65;65;57;69
+11159;marius lundemo;10788;https://www.futwiz.com/en/fc24/player/marius-lundemo/10788;65;silver-nr;LillestrA;m SK;NOR 1;Noruega;54;58;65;65;57;69
 11160;andy lyons;10787;https://www.futwiz.com/en/fc24/player/andy-lyons/10787;65;silver-nr;Blackpool;ENG 3;Rep. Irlanda;72;57;58;61;61;62
 11161;craig macgillivray;10786;https://www.futwiz.com/en/fc24/player/craig-macgillivray/10786;65;silver-nr;MK Dons;ENG 4;Escocia;65;64;66;66;51;64
 11162;soungoutou magassa;10785;https://www.futwiz.com/en/fc24/player/soungoutou-magassa/10785;65;silver-nr;AS Monaco;FRA 1;Francia;53;48;62;60;64;61
@@ -11217,7 +11217,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11216;aleksander melgalvis;10731;https://www.futwiz.com/en/fc24/player/aleksander-melgalvis/10731;65;silver-nr;HamKam Fotball;NOR 1;Noruega;69;62;62;62;58;66
 11217;kyrylo melichenko;10730;https://www.futwiz.com/en/fc24/player/kyrylo-melichenko/10730;65;silver-nr;Dynamo Dresden;GER 3;Ucrania;69;42;55;59;61;60
 11218;nacho mendez;10729;https://www.futwiz.com/en/fc24/player/nacho-mendez/10729;65;silver-nr;R. Sporting;ESP 2;España;70;63;66;66;60;70
-11219;kevin mensah;10728;https://www.futwiz.com/en/fc24/player/kevin-mensah/10728;65;silver-nr;BrA,ndby IF;DEN 1;Dinamarca;76;58;59;68;57;70
+11219;kevin mensah;10728;https://www.futwiz.com/en/fc24/player/kevin-mensah/10728;65;silver-nr;BrA;ndby IF;DEN 1;Dinamarca;76;58;59;68;57;70
 11220;juan mercado;10727;https://www.futwiz.com/en/fc24/player/juan-mercado/10727;65;gold;O. Petrolero;SUD;Bolivia;69;62;57;65;67;67
 11221;patrik mercado;10726;https://www.futwiz.com/en/fc24/player/patrik-mercado/10726;65;gold;Independiente DV;LIB;Ecuador;72;54;57;65;57;56
 11222;george merloi;10725;https://www.futwiz.com/en/fc24/player/george-merloi/10725;65;silver-nr;FC Voluntari;ROM 1;Rumania;78;61;60;69;39;60
@@ -11281,7 +11281,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11280;erling knudtzon;10667;https://www.futwiz.com/en/fc24/player/erling-knudtzon/10667;65;silver;Molde FK;NOR 1;Noruega;82;58;58;63;57;68
 11281;koffi;10666;https://www.futwiz.com/en/fc24/player/koffi/10666;65;silver-nr;SV Elversberg;GER 2;C. Marfil;68;62;52;67;36;69
 11282;martin konczkowski;10665;https://www.futwiz.com/en/fc24/player/martin-konczkowski/10665;65;silver-nr;AlAsk WrocAaw;POL 1;Polonia;76;40;62;62;58;70
-11283;morten agnes konradsen;10664;https://www.futwiz.com/en/fc24/player/morten-agnes-konradsen/10664;65;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;69;58;62;66;62;68
+11283;morten agnes konradsen;10664;https://www.futwiz.com/en/fc24/player/morten-agnes-konradsen/10664;65;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;69;58;62;66;62;68
 11284;luuk koopmans;10663;https://www.futwiz.com/en/fc24/player/luuk-koopmans/10663;65;silver-nr;Fortuna Sittard;NED 1;Holanda;65;63;64;64;37;64
 11285;david kopacz;10662;https://www.futwiz.com/en/fc24/player/david-kopacz/10662;65;silver-nr;FC Ingolstadt 04;GER 3;Polonia;74;58;61;68;39;62
 11286;michal kopczynski;10661;https://www.futwiz.com/en/fc24/player/michal-kopczynski/10661;65;silver-nr;Warta PoznaA;POL 1;Polonia;54;54;61;63;62;68
@@ -11358,14 +11358,14 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11357;pascal gregor;10590;https://www.futwiz.com/en/fc24/player/pascal-gregor/10590;65;silver-nr;Lyngby BK;DEN 1;Dinamarca;63;39;54;59;64;70
 11358;rostyn griffiths;10589;https://www.futwiz.com/en/fc24/player/rostyn-griffiths/10589;65;silver-nr;Mumbai City FC;IND 1;Australia;34;50;57;58;64;78
 11359;jack grimmer;10588;https://www.futwiz.com/en/fc24/player/jack-grimmer/10588;65;silver-nr;Wycombe;ENG 3;Escocia;73;53;54;62;62;73
-11360;thomas grogaard;10587;https://www.futwiz.com/en/fc24/player/thomas-grogaard/10587;65;silver-nr;StrA,msgodset IF;NOR 1;Noruega;73;43;59;63;59;68
+11360;thomas grogaard;10587;https://www.futwiz.com/en/fc24/player/thomas-grogaard/10587;65;silver-nr;StrA;msgodset IF;NOR 1;Noruega;73;43;59;63;59;68
 11361;tommy grupe;10586;https://www.futwiz.com/en/fc24/player/tommy-grupe/10586;65;silver-nr;VfB LA 1/4beck;GER 3;Alemania;55;44;40;49;64;77
 11362;jan grzesik;10585;https://www.futwiz.com/en/fc24/player/jan-grzesik/10585;65;silver-nr;Radomiak Radom;POL 1;Polonia;77;55;60;63;60;68
 11363;mateusz grzybek;10584;https://www.futwiz.com/en/fc24/player/mateusz-grzybek/10584;65;silver-nr;ZagAAbie Lubin;POL 1;Polonia;75;46;60;62;58;64
 11364;sveinn aron gudjohnsen;10583;https://www.futwiz.com/en/fc24/player/sveinn-aron-gudjohnsen/10583;65;silver-nr;IF Elfsborg;SWE 1;Islandia;47;64;47;62;33;72
 11365;edgar guerra;10582;https://www.futwiz.com/en/fc24/player/edgar-guerra/10582;65;gold;Millonarios;SUD;Colombia;85;50;57;64;28;45
 11366;david gugganig;10581;https://www.futwiz.com/en/fc24/player/david-gugganig/10581;65;silver-nr;WSG Tirol;AUT 1;Austria;50;36;48;46;66;67
-11367;tobias gulliksen;10580;https://www.futwiz.com/en/fc24/player/tobias-gulliksen/10580;65;silver-nr;FK BodA,/Glimt;NOR 1;Noruega;72;58;61;71;49;56
+11367;tobias gulliksen;10580;https://www.futwiz.com/en/fc24/player/tobias-gulliksen/10580;65;silver-nr;FK BodA;/Glimt;NOR 1;Noruega;72;58;61;71;49;56
 11368;niklas gunnarsson;10579;https://www.futwiz.com/en/fc24/player/niklas-gunnarsson/10579;65;silver-nr;Yverdon Sport FC;SUI 1;Noruega;53;49;55;56;64;76
 11369;ionut gurau;10578;https://www.futwiz.com/en/fc24/player/ionut-gurau/10578;65;silver;FCU 1948;ROM 1;Rumania;63;64;60;65;28;65
 11370;julian guttau;10577;https://www.futwiz.com/en/fc24/player/julian-guttau/10577;65;silver-nr;1860 MA 1/4nchen;GER 3;Alemania;81;50;60;68;38;56
@@ -11547,7 +11547,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11546;cihan canak;10401;https://www.futwiz.com/en/fc24/player/cihan-canak/10401;65;silver;"Standard LiA""ge";BEL 1;Belgica;80;58;63;71;39;50
 11547;atakan cankaya;10400;https://www.futwiz.com/en/fc24/player/atakan-cankaya/10400;65;silver-nr;MKE AnkaragA 1/4cA 1/4;TUR 1;Turquia;59;45;56;56;63;72
 11548;erdem canpolat;10399;https://www.futwiz.com/en/fc24/player/erdem-canpolat/10399;65;silver-nr;Pendikspor;TUR 1;Alemania;64;63;61;68;23;62
-11549;christian cappis;10398;https://www.futwiz.com/en/fc24/player/christian-cappis/10398;65;silver-nr;BrA,ndby IF;DEN 1;Estados Unidos;68;49;62;66;59;67
+11549;christian cappis;10398;https://www.futwiz.com/en/fc24/player/christian-cappis/10398;65;silver-nr;BrA;ndby IF;DEN 1;Estados Unidos;68;49;62;66;59;67
 11550;pablo cardenas;10397;https://www.futwiz.com/en/fc24/player/pablo-cardenas/10397;65;gold;Cobresal;SUD;Chile;71;44;56;58;60;70
 11551;adam carlen;10396;https://www.futwiz.com/en/fc24/player/adam-carlen/10396;65;silver;IFK GAPteborg;SWE 1;Suecia;68;43;56;66;60;79
 11552;jonas carls;10395;https://www.futwiz.com/en/fc24/player/jonas-carls/10395;65;silver-nr;SV Waldhof;GER 3;Alemania;80;56;57;65;57;60
@@ -11630,7 +11630,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11629;pedrinho;10318;https://www.futwiz.com/en/fc24/player/pedrinho/10318;65;silver-nr;Shakhtar Donetsk;UKR 1;Brasil;74;26;50;52;61;52
 11630;adriel ba loua;10317;https://www.futwiz.com/en/fc24/player/adriel-ba-loua/10317;65;silver;Lech PoznaA;POL 1;C. Marfil;88;58;61;67;27;49
 11631;youri baas;10316;https://www.futwiz.com/en/fc24/player/youri-baas/10316;65;silver-nr;N.E.C. Nijmegen;NED 1;Holanda;68;34;56;63;61;61
-11632;khouma babacar;10315;https://www.futwiz.com/en/fc24/player/khouma-babacar/10315;65;silver-nr;F.C. KA,benhavn;DEN 1;Senegal;57;66;52;63;27;72
+11632;khouma babacar;10315;https://www.futwiz.com/en/fc24/player/khouma-babacar/10315;65;silver-nr;F.C. KA;benhavn;DEN 1;Senegal;57;66;52;63;27;72
 11633;kearyn baccus;10314;https://www.futwiz.com/en/fc24/player/kearyn-baccus/10314;65;silver-nr;Macarthur FC;AUS 1;Australia;67;53;58;63;62;68
 11634;loic badiashile;10313;https://www.futwiz.com/en/fc24/player/loic-badiashile/10313;65;silver-nr;Burgos CF;ESP 2;Francia;66;63;64;69;36;62
 11635;thibo baeten;10312;https://www.futwiz.com/en/fc24/player/thibo-baeten/10312;65;silver-nr;Go Ahead Eagles;NED 1;Belgica;72;65;42;61;21;61
@@ -11748,13 +11748,13 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11747;sone aluko;10155;https://www.futwiz.com/en/fc24/player/sone-aluko/10155;65;silver-nr;Ipswich;ENG 2;Nigeria;72;60;62;70;40;49
 11748;carmen alvarez;10154;https://www.futwiz.com/en/fc24/player/carmen-alvarez/10154;65;silver-nr;Real Betis;;España;75;64;62;67;41;54
 11749;rodrigo amarilla;10153;https://www.futwiz.com/en/fc24/player/rodrigo-amarilla/10153;65;gold;GuaranA;SUD;Paraguay;77;56;58;66;35;47
-11750;akinkunmi amoo;10152;https://www.futwiz.com/en/fc24/player/akinkunmi-amoo/10152;65;silver-nr;F.C. KA,benhavn;DEN 1;Nigeria;83;56;55;73;25;60
+11750;akinkunmi amoo;10152;https://www.futwiz.com/en/fc24/player/akinkunmi-amoo/10152;65;silver-nr;F.C. KA;benhavn;DEN 1;Nigeria;83;56;55;73;25;60
 11751;youssef amyn;10151;https://www.futwiz.com/en/fc24/player/youssef-amyn/10151;65;silver-nr;Braunschweig;GER 2;Alemania;76;59;57;71;40;44
 11752;hugo ancajima;10150;https://www.futwiz.com/en/fc24/player/hugo-ancajima/10150;65;gold;Universitario;SUD;Peru;63;49;53;63;61;67
 11753;nilson angulo;10149;https://www.futwiz.com/en/fc24/player/nilson-angulo/10149;65;silver;RSC Anderlecht;BEL 1;Ecuador;79;59;59;68;34;50
 11754;marco antonio angulo;10148;https://www.futwiz.com/en/fc24/player/marco-antonio-angulo/10148;65;silver-nr;FC Cincinnati;MLS;Ecuador;62;51;63;67;60;63
 11755;luis annese;10147;https://www.futwiz.com/en/fc24/player/luis-annese/10147;65;gold;Metropolitanos;LIB;Venezuela;62;69;55;64;27;59
-11756;kent-are antonsen;10146;https://www.futwiz.com/en/fc24/player/kent-are-antonsen/10146;65;silver;TromsA, IL;NOR 1;Noruega;76;61;62;65;63;75
+11756;kent-are antonsen;10146;https://www.futwiz.com/en/fc24/player/kent-are-antonsen/10146;65;silver;TromsA; IL;NOR 1;Noruega;76;61;62;65;63;75
 11757;alexis antunes;10145;https://www.futwiz.com/en/fc24/player/alexis-antunes/10145;65;silver-nr;Servette FC;SUI 1;Suiza;70;56;63;71;51;63
 11758;julien anziani;10144;https://www.futwiz.com/en/fc24/player/julien-anziani/10144;65;silver-nr;USL Dunkerque;FRA 2;Francia;60;54;67;66;59;55
 11759;aias aosman;10143;https://www.futwiz.com/en/fc24/player/aias-aosman/10143;65;silver-nr;Pendikspor;TUR 1;Siria;75;62;63;71;33;64
@@ -11899,7 +11899,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 11898;jose vera;12151;https://www.futwiz.com/en/fc24/player/jose-vera/12151;64;gold;Gral. Caballero;SUD;Paraguay;52;55;58;64;61;62
 11899;matias verdun;12150;https://www.futwiz.com/en/fc24/player/matias-verdun/12150;64;gold;Tacuary;SUD;Paraguay;72;54;60;64;30;65
 11900;kenneth vermeer;12149;https://www.futwiz.com/en/fc24/player/kenneth-vermeer/12149;64;bronze;PEC Zwolle;NED 1;Holanda;64;61;64;67;45;64
-11901;niklas vesterlund;12148;https://www.futwiz.com/en/fc24/player/niklas-vesterlund/12148;64;bronze;TromsA, IL;NOR 1;Dinamarca;72;52;54;62;58;71
+11901;niklas vesterlund;12148;https://www.futwiz.com/en/fc24/player/niklas-vesterlund/12148;64;bronze;TromsA; IL;NOR 1;Dinamarca;72;52;54;62;58;71
 11902;manuel vicentini;12147;https://www.futwiz.com/en/fc24/player/manuel-vicentini/12147;64;bronze;Belgrano;ARG 1;Argentina;65;63;65;64;44;63
 11903;marti vila;12146;https://www.futwiz.com/en/fc24/player/marti-vila/12146;64;bronze;FC Andorra;ESP 2;España;65;42;57;62;59;60
 11904;ionut vina;12145;https://www.futwiz.com/en/fc24/player/ionut-vina/12145;64;bronze;Farul ConstanEa;ROM 1;Rumania;72;61;60;67;62;70
@@ -12184,7 +12184,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 12183;tom nichols;11866;https://www.futwiz.com/en/fc24/player/tom-nichols/11866;64;bronze;Gillingham;ENG 4;Inglaterra;78;62;58;66;27;63
 12184;karol niemczycki;11865;https://www.futwiz.com/en/fc24/player/karol-niemczycki/11865;64;bronze;DA 1/4sseldorf;GER 2;Polonia;65;65;61;66;28;65
 12185;jona niemiec;11864;https://www.futwiz.com/en/fc24/player/jona-niemiec/11864;64;bronze;DA 1/4sseldorf;GER 2;Alemania;76;64;54;58;40;68
-12186;lasse nilsen;11863;https://www.futwiz.com/en/fc24/player/lasse-nilsen/11863;64;bronze;TromsA, IL;NOR 1;Noruega;81;54;54;62;56;66
+12186;lasse nilsen;11863;https://www.futwiz.com/en/fc24/player/lasse-nilsen/11863;64;bronze;TromsA; IL;NOR 1;Noruega;81;54;54;62;56;66
 12187;ilmari niskanen;11862;https://www.futwiz.com/en/fc24/player/ilmari-niskanen/11862;64;bronze;Exeter City;ENG 3;Finlandia;76;59;61;67;37;61
 12188;steffen nkansah;11861;https://www.futwiz.com/en/fc24/player/steffen-nkansah/11861;64;bronze;FC Erzgebirge Aue;GER 3;Alemania;70;30;44;48;65;68
 12189;no dong geon;11860;https://www.futwiz.com/en/fc24/player/no-dong-geon/11860;64;bronze;Suwon FC;KOR 1;Rep. Corea;67;65;64;63;42;62
@@ -12251,7 +12251,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 12250;lee woong hee;11799;https://www.futwiz.com/en/fc24/player/lee-woong-hee/11799;64;bronze;Gangwon FC;KOR 1;Rep. Corea;67;30;52;58;63;69
 12251;lee yong rae;11798;https://www.futwiz.com/en/fc24/player/lee-yong-rae/11798;64;bronze;Daegu FC;KOR 1;Rep. Corea;43;54;66;61;57;69
 12252;adam legzdins;11797;https://www.futwiz.com/en/fc24/player/adam-legzdins/11797;64;bronze;Dundee FC;SPFL;Inglaterra;63;62;64;65;33;65
-12253;ari leifsson;11796;https://www.futwiz.com/en/fc24/player/ari-leifsson/11796;64;bronze;StrA,msgodset IF;NOR 1;Islandia;58;31;50;51;63;70
+12253;ari leifsson;11796;https://www.futwiz.com/en/fc24/player/ari-leifsson/11796;64;bronze;StrA;msgodset IF;NOR 1;Islandia;58;31;50;51;63;70
 12254;greg leigh;11795;https://www.futwiz.com/en/fc24/player/greg-leigh/11795;64;bronze;Oxford United;ENG 3;Jamaica;75;47;55;60;60;73
 12255;tommy leigh;11794;https://www.futwiz.com/en/fc24/player/tommy-leigh/11794;64;bronze;Accrington;ENG 4;Inglaterra;69;63;60;64;53;71
 12256;jonathan leko;11793;https://www.futwiz.com/en/fc24/player/jonathan-leko/11793;64;bronze;MK Dons;ENG 4;Inglaterra;90;60;55;66;35;65
@@ -12364,7 +12364,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 12363;mehdi jeannin;11686;https://www.futwiz.com/en/fc24/player/mehdi-jeannin/11686;64;bronze;Pau FC;FRA 2;Argelia;66;62;65;66;49;61
 12364;jekob abiezer jeno;11685;https://www.futwiz.com/en/fc24/player/jekob-abiezer-jeno/11685;64;bronze;Grenoble Foot 38;FRA 2;Francia;56;39;56;57;64;66
 12365;kevin jensen;11684;https://www.futwiz.com/en/fc24/player/kevin-jensen/11684;64;bronze;Kalmar FF;SWE 1;Suecia;76;60;59;68;20;49
-12366;anders finjord jenssen;11683;https://www.futwiz.com/en/fc24/player/anders-finjord-jenssen/11683;64;bronze;TromsA, IL;NOR 1;Noruega;53;32;46;48;63;73
+12366;anders finjord jenssen;11683;https://www.futwiz.com/en/fc24/player/anders-finjord-jenssen/11683;64;bronze;TromsA; IL;NOR 1;Noruega;53;32;46;48;63;73
 12367;jeong jae yong;11682;https://www.futwiz.com/en/fc24/player/jeong-jae-yong/11682;64;bronze;Suwon FC;KOR 1;Rep. Corea;48;59;59;62;61;77
 12368;jeong sang bin;11681;https://www.futwiz.com/en/fc24/player/jeong-sang-bin/11681;64;bronze;Minnesota United;MLS;Rep. Corea;84;60;56;67;24;65
 12369;sandesh jhingan;11680;https://www.futwiz.com/en/fc24/player/sandesh-jhingan/11680;64;bronze;FC Goa;IND 1;India;62;33;42;41;62;78
@@ -12505,7 +12505,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 12504;lennard hartjes;11545;https://www.futwiz.com/en/fc24/player/lennard-hartjes/11545;64;bronze;Excelsior;NED 1;Holanda;71;40;64;69;58;61
 12505;alex hartridge;11544;https://www.futwiz.com/en/fc24/player/alex-hartridge/11544;64;bronze;Exeter City;ENG 3;Inglaterra;70;28;50;54;63;75
 12506;daniel harvie;11543;https://www.futwiz.com/en/fc24/player/daniel-harvie/11543;64;bronze;MK Dons;ENG 4;Escocia;75;46;56;60;57;69
-12507;jakob haugaard;11542;https://www.futwiz.com/en/fc24/player/jakob-haugaard/11542;64;bronze;TromsA, IL;NOR 1;Dinamarca;65;63;69;63;38;61
+12507;jakob haugaard;11542;https://www.futwiz.com/en/fc24/player/jakob-haugaard/11542;64;bronze;TromsA; IL;NOR 1;Dinamarca;65;63;69;63;38;61
 12508;marius hauptmann;11541;https://www.futwiz.com/en/fc24/player/marius-hauptmann/11541;64;bronze;VfB LA 1/4beck;GER 3;Alemania;81;52;57;67;52;53
 12509;zakaria hawsawi;11540;https://www.futwiz.com/en/fc24/player/zakaria-hawsawi/11540;64;bronze;Al Ittihad;SAU 1;Arabia S.;86;34;52;71;54;63
 12510;he chao;11539;https://www.futwiz.com/en/fc24/player/he-chao/11539;64;bronze;Wuhan 3 Towns;CHN 1;RP China;74;55;64;62;65;76
@@ -12583,7 +12583,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 12582;pierre dwomoh;11467;https://www.futwiz.com/en/fc24/player/pierre-dwomoh/11467;64;bronze;RWD Molenbeek;BEL 1;Belgica;72;52;63;73;53;68
 12583;craig eastmond;11466;https://www.futwiz.com/en/fc24/player/craig-eastmond/11466;64;bronze;Sutton United;ENG 4;Inglaterra;63;60;61;62;62;80
 12584;simon eastwood;11465;https://www.futwiz.com/en/fc24/player/simon-eastwood/11465;64;bronze;Oxford United;ENG 3;Inglaterra;64;64;62;64;50;64
-12585;eskil edh;11464;https://www.futwiz.com/en/fc24/player/eskil-edh/11464;64;bronze;LillestrA,m SK;NOR 1;Noruega;80;50;56;63;58;62
+12585;eskil edh;11464;https://www.futwiz.com/en/fc24/player/eskil-edh/11464;64;bronze;LillestrA;m SK;NOR 1;Noruega;80;50;56;63;58;62
 12586;kyle edwards;11463;https://www.futwiz.com/en/fc24/player/kyle-edwards/11463;64;bronze;Ipswich;ENG 2;Inglaterra;78;57;59;69;40;51
 12587;florian egerer;11462;https://www.futwiz.com/en/fc24/player/florian-egerer/11462;64;bronze;VfB LA 1/4beck;GER 3;Alemania;55;44;58;57;62;71
 12588;max ehmer;11461;https://www.futwiz.com/en/fc24/player/max-ehmer/11461;64;bronze;Gillingham;ENG 4;Alemania;53;54;52;55;61;79
@@ -12757,10 +12757,10 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 12756;aurele amenda;11293;https://www.futwiz.com/en/fc24/player/aurele-amenda/11293;64;bronze-nr;BSC Young Boys;SUI 1;Suiza;41;27;50;46;61;78
 12757;mustafa amini;11292;https://www.futwiz.com/en/fc24/player/mustafa-amini/11292;64;bronze;Perth Glory;AUS 1;Australia;58;59;61;67;56;70
 12758;jonathan amon;11291;https://www.futwiz.com/en/fc24/player/jonathan-amon/11291;64;bronze;Lyngby BK;DEN 1;Estados Unidos;89;55;53;69;27;56
-12759;isak helstad amundsen;11290;https://www.futwiz.com/en/fc24/player/isak-helstad-amundsen/11290;64;bronze;FK BodA,/Glimt;NOR 1;Noruega;67;37;48;59;64;72
+12759;isak helstad amundsen;11290;https://www.futwiz.com/en/fc24/player/isak-helstad-amundsen/11290;64;bronze;FK BodA;/Glimt;NOR 1;Noruega;67;37;48;59;64;72
 12760;costin amzar;11289;https://www.futwiz.com/en/fc24/player/costin-amzar/11289;64;bronze;FC Dinamo 1948;ROM 1;Rumania;89;42;52;63;56;67
 12761;joseph anang;11288;https://www.futwiz.com/en/fc24/player/joseph-anang/11288;64;bronze;West Ham;ENG 1;Inglaterra;64;62;63;63;33;64
-12762;eirik ulland andersen;11287;https://www.futwiz.com/en/fc24/player/eirik-ulland-andersen/11287;64;bronze;StrA,msgodset IF;NOR 1;Noruega;68;64;65;63;34;53
+12762;eirik ulland andersen;11287;https://www.futwiz.com/en/fc24/player/eirik-ulland-andersen/11287;64;bronze;StrA;msgodset IF;NOR 1;Noruega;68;64;65;63;34;53
 12763;alexander juel andersen;11286;https://www.futwiz.com/en/fc24/player/alexander-juel-andersen/11286;64;bronze;Aalesunds FK;NOR 1;Dinamarca;63;44;55;58;62;73
 12764;danny andrew;11285;https://www.futwiz.com/en/fc24/player/danny-andrew/11285;64;bronze;Cambridge Utd;ENG 3;Inglaterra;58;54;62;62;61;68
 12765;chuks aneke;11284;https://www.futwiz.com/en/fc24/player/chuks-aneke/11284;64;bronze-nr;Charlton Ath;ENG 3;Inglaterra;49;64;57;60;46;71
@@ -13047,7 +13047,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 13046;josh sims;13058;https://www.futwiz.com/en/fc24/player/josh-sims/13058;63;bronze-nr;Ross County;SPFL;Inglaterra;79;58;58;65;37;51
 13047;simon skarlatidis;13057;https://www.futwiz.com/en/fc24/player/simon-skarlatidis/13057;63;bronze-nr;Unterhaching;GER 3;Alemania;78;59;58;66;30;60
 13048;meris skenderovic;13056;https://www.futwiz.com/en/fc24/player/meris-skenderovic/13056;63;bronze-nr;Hallescher FC;GER 3;Montenegro;70;62;47;65;23;52
-13049;vetle skjaervik;13055;https://www.futwiz.com/en/fc24/player/vetle-skjaervik/13055;63;bronze-nr;LillestrA,m SK;NOR 1;Noruega;71;26;46;53;62;66
+13049;vetle skjaervik;13055;https://www.futwiz.com/en/fc24/player/vetle-skjaervik/13055;63;bronze-nr;LillestrA;m SK;NOR 1;Noruega;71;26;46;53;62;66
 13050;mateusz skrzypczak;13054;https://www.futwiz.com/en/fc24/player/mateusz-skrzypczak/13054;63;bronze;Jagiellonia;POL 1;Polonia;53;34;47;41;63;73
 13051;thierry small;13053;https://www.futwiz.com/en/fc24/player/thierry-small/13053;63;bronze-nr;Southampton;ENG 2;Inglaterra;78;34;51;64;56;60
 13052;dennis smarsch;13052;https://www.futwiz.com/en/fc24/player/dennis-smarsch/13052;63;bronze;MSV Duisburg;GER 3;Alemania;64;64;66;64;31;62
@@ -13075,7 +13075,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 13074;katie startup;13030;https://www.futwiz.com/en/fc24/player/katie-startup/13030;63;bronze;Brighton;;Inglaterra;58;61;66;69;33;64
 13075;simon stehle;13029;https://www.futwiz.com/en/fc24/player/simon-stehle/13029;63;bronze;SaarbrA 1/4cken;GER 3;Alemania;91;58;53;64;34;58
 13076;daniel stenderup;13028;https://www.futwiz.com/en/fc24/player/daniel-stenderup/13028;63;bronze-nr;Hvidovre IF;DEN 1;Dinamarca;70;25;51;50;60;72
-13077;halldor stenevik;13027;https://www.futwiz.com/en/fc24/player/halldor-stenevik/13027;63;bronze-nr;StrA,msgodset IF;NOR 1;Noruega;77;53;58;65;48;63
+13077;halldor stenevik;13027;https://www.futwiz.com/en/fc24/player/halldor-stenevik/13027;63;bronze-nr;StrA;msgodset IF;NOR 1;Noruega;77;53;58;65;48;63
 13078;janek sternberg;13026;https://www.futwiz.com/en/fc24/player/janek-sternberg/13026;63;bronze-nr;VfB LA 1/4beck;GER 3;Alemania;71;48;58;60;57;72
 13079;filip stevanovic;13025;https://www.futwiz.com/en/fc24/player/filip-stevanovic/13025;63;bronze-nr;RKC Waalwijk;NED 1;Serbia;71;62;59;66;35;54
 13080;alen stevanovic;13024;https://www.futwiz.com/en/fc24/player/alen-stevanovic/13024;63;bronze-nr;Jamshedpur FC;IND 1;Serbia;72;59;61;65;49;66
@@ -13197,7 +13197,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 13196;aaron mcgowan;12908;https://www.futwiz.com/en/fc24/player/aaron-mcgowan/12908;63;bronze-nr;Northampton;ENG 3;Inglaterra;70;37;54;60;59;71
 13197;stephen mclaughlin;12907;https://www.futwiz.com/en/fc24/player/stephen-mclaughlin/12907;63;bronze-nr;Mansfield Town;ENG 4;Rep. Irlanda;70;58;59;62;56;64
 13198;connor mclennan;12906;https://www.futwiz.com/en/fc24/player/connor-mclennan/12906;63;bronze-nr;Salford City;ENG 4;Escocia;81;57;56;61;46;62
-13199;marcus johansen mehnert;12905;https://www.futwiz.com/en/fc24/player/marcus-johansen-mehnert/12905;63;bronze-nr;StrA,msgodset IF;NOR 1;Noruega;77;61;52;64;31;68
+13199;marcus johansen mehnert;12905;https://www.futwiz.com/en/fc24/player/marcus-johansen-mehnert/12905;63;bronze-nr;StrA;msgodset IF;NOR 1;Noruega;77;61;52;64;31;68
 13200;francisco meixedo;12904;https://www.futwiz.com/en/fc24/player/francisco-meixedo/12904;63;bronze-nr;FC Porto;POR 1;Portugal;61;63;58;64;31;64
 13201;jon mellish;12903;https://www.futwiz.com/en/fc24/player/jon-mellish/12903;63;bronze;Carlisle United;ENG 3;Inglaterra;71;57;58;57;61;77
 13202;mateo mendoza;12902;https://www.futwiz.com/en/fc24/player/mateo-mendoza/12902;63;bronze;Godoy Cruz;ARG 1;Argentina;62;30;45;51;66;64
@@ -13252,7 +13252,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 13251;matti lund nielsen;12853;https://www.futwiz.com/en/fc24/player/matti-lund-nielsen/12853;63;bronze;Hvidovre IF;DEN 1;Dinamarca;55;61;62;60;59;73
 13252;joel nilsson;12852;https://www.futwiz.com/en/fc24/player/joel-nilsson/12852;63;bronze-nr;Hammarby IF;SWE 1;Suecia;71;58;61;61;58;65
 13253;bryan nokoue;12851;https://www.futwiz.com/en/fc24/player/bryan-nokoue/12851;63;bronze-nr;AS Saint-Atienne;FRA 2;Camerun;74;42;50;58;58;68
-13254;lasse nordas;12850;https://www.futwiz.com/en/fc24/player/lasse-nordas/12850;63;bronze;TromsA, IL;NOR 1;Noruega;76;60;47;61;25;65
+13254;lasse nordas;12850;https://www.futwiz.com/en/fc24/player/lasse-nordas/12850;63;bronze;TromsA; IL;NOR 1;Noruega;76;60;47;61;25;65
 13255;john olav norheim;12849;https://www.futwiz.com/en/fc24/player/john-olav-norheim/12849;63;bronze-nr;HamKam Fotball;NOR 1;Noruega;33;40;55;53;61;75
 13256;conor nos;12848;https://www.futwiz.com/en/fc24/player/conor-nos/12848;63;bronze;Blau-Weiss Linz;AUT 1;Rep. Irlanda;71;57;59;72;32;43
 13257;kelian nsona;12847;https://www.futwiz.com/en/fc24/player/kelian-nsona/12847;63;bronze-nr;Hertha Berlin;GER 2;Francia;80;57;54;68;26;50
@@ -13303,7 +13303,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 13302;pritam kotal;12802;https://www.futwiz.com/en/fc24/player/pritam-kotal/12802;63;bronze;Kerala Blasters;IND 1;India;72;40;47;54;61;77
 13303;billy koumetio;12801;https://www.futwiz.com/en/fc24/player/billy-koumetio/12801;63;bronze;Liverpool;ENG 1;Francia;60;32;43;44;61;72
 13304;johnny koutroumbis;12800;https://www.futwiz.com/en/fc24/player/johnny-koutroumbis/12800;63;bronze;Perth Glory;AUS 1;Australia;73;31;52;57;63;71
-13305;mateusz kowalczyk;12799;https://www.futwiz.com/en/fc24/player/mateusz-kowalczyk/12799;63;bronze;BrA,ndby IF;DEN 1;Polonia;72;60;64;66;42;61
+13305;mateusz kowalczyk;12799;https://www.futwiz.com/en/fc24/player/mateusz-kowalczyk/12799;63;bronze;BrA;ndby IF;DEN 1;Polonia;72;60;64;66;42;61
 13306;jan kral;12798;https://www.futwiz.com/en/fc24/player/jan-kral/12798;63;bronze-nr;KAS Eupen;BEL 1;Republica Checa;51;28;35;41;63;74
 13307;piotr krawczyk;12797;https://www.futwiz.com/en/fc24/player/piotr-krawczyk/12797;63;bronze-nr;GA3rnik Zabrze;POL 1;Polonia;66;63;52;57;21;63
 13308;anders kristiansen;12796;https://www.futwiz.com/en/fc24/player/anders-kristiansen/12796;63;bronze;Sarpsborg 08;NOR 1;Noruega;64;61;62;65;24;63
@@ -13812,7 +13812,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 13811;alejandro alvarado;12259;https://www.futwiz.com/en/fc24/player/alejandro-alvarado/12259;63;bronze;FC Vizela;POR 1;Estados Unidos;66;51;66;63;44;46
 13812;efrain alvarez;12258;https://www.futwiz.com/en/fc24/player/efrain-alvarez/12258;63;bronze;LA Galaxy;MLS;Mexico;67;59;63;68;25;42
 13813;gonzalo alvarez;12257;https://www.futwiz.com/en/fc24/player/gonzalo-alvarez/12257;63;gold;Audax Italiano;SUD;Chile;74;60;52;67;26;44
-13814;frederik alves;12256;https://www.futwiz.com/en/fc24/player/frederik-alves/12256;63;bronze;BrA,ndby IF;DEN 1;Dinamarca;49;31;43;49;63;72
+13814;frederik alves;12256;https://www.futwiz.com/en/fc24/player/frederik-alves/12256;63;bronze;BrA;ndby IF;DEN 1;Dinamarca;49;31;43;49;63;72
 13815;gonzalo alvez;12255;https://www.futwiz.com/en/fc24/player/gonzalo-alvez/12255;63;bronze-nr;Central CA3rdoba;ARG 1;Argentina;68;55;61;66;25;39
 13816;salomon patrick amougou nkoa;12254;https://www.futwiz.com/en/fc24/player/salomon-patrick-amougou-nkoa/12254;63;bronze-nr;Hansa Rostock;GER 2;Camerun;65;28;43;41;60;74
 13817;an byong jun;12253;https://www.futwiz.com/en/fc24/player/an-byong-jun/12253;63;bronze;Suwon Samsung;KOR 1;RPD Corea;57;68;49;57;30;72
@@ -13979,7 +13979,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 13978;loic williams;13931;https://www.futwiz.com/en/fc24/player/loic-williams/13931;62;bronze;CD Tenerife;ESP 2;España;65;35;46;56;62;66
 13979;roan wilson;13930;https://www.futwiz.com/en/fc24/player/roan-wilson/13930;62;bronze-nr;Gil Vicente;POR 1;Costa Rica;67;53;57;60;55;65
 13980;fabian windhager;13929;https://www.futwiz.com/en/fc24/player/fabian-windhager/13929;62;bronze-nr;Blau-Weiss Linz;AUT 1;Austria;76;55;57;58;54;52
-13981;felix vrede winther;13928;https://www.futwiz.com/en/fc24/player/felix-vrede-winther/13928;62;bronze-nr;TromsA, IL;NOR 1;Dinamarca;71;52;58;63;58;71
+13981;felix vrede winther;13928;https://www.futwiz.com/en/fc24/player/felix-vrede-winther/13928;62;bronze-nr;TromsA; IL;NOR 1;Dinamarca;71;52;58;63;58;71
 13982;lukasz wolsztynski;13927;https://www.futwiz.com/en/fc24/player/lukasz-wolsztynski/13927;62;bronze-nr;Stal Mielec;POL 1;Polonia;62;60;60;64;40;63
 13983;gary woods;13926;https://www.futwiz.com/en/fc24/player/gary-woods/13926;62;bronze;Exeter City;ENG 3;Inglaterra;64;60;62;64;51;59
 13984;joscha wosz;13925;https://www.futwiz.com/en/fc24/player/joscha-wosz/13925;62;bronze;SC Verl;GER 3;Alemania;66;54;63;70;49;48
@@ -14025,7 +14025,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 14024;tobias rubio;13885;https://www.futwiz.com/en/fc24/player/tobias-rubio/13885;62;gold;Racing Club;LIB;Argentina;71;41;52;62;60;61
 14025;morten rudiger;13884;https://www.futwiz.com/en/fc24/player/morten-rudiger/13884;62;bronze-nr;VfB LA 1/4beck;GER 3;Alemania;73;51;59;61;53;60
 14026;alex rufer;13883;https://www.futwiz.com/en/fc24/player/alex-rufer/13883;62;bronze-nr;Well. Phoenix;AUS 1;N. Zelanda;63;52;61;59;56;75
-14027;morten saetra;13882;https://www.futwiz.com/en/fc24/player/morten-saetra/13882;62;bronze;StrA,msgodset IF;NOR 1;Noruega;62;62;60;62;32;61
+14027;morten saetra;13882;https://www.futwiz.com/en/fc24/player/morten-saetra/13882;62;bronze;StrA;msgodset IF;NOR 1;Noruega;62;62;60;62;32;61
 14028;andrea sala;13881;https://www.futwiz.com/en/fc24/player/andrea-sala/13881;62;bronze;Catanzaro;ITA 2;Italia;64;63;60;64;45;61
 14029;enes sali;13880;https://www.futwiz.com/en/fc24/player/enes-sali/13880;62;bronze;Farul ConstanEa;ROM 1;Rumania;85;51;53;68;23;38
 14030;emiliano saliadarre;13879;https://www.futwiz.com/en/fc24/player/emiliano-saliadarre/13879;62;gold;Racing Club;LIB;Argentina;69;60;55;62;44;54
@@ -14034,7 +14034,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 14033;hugo salvatierra;13876;https://www.futwiz.com/en/fc24/player/hugo-salvatierra/13876;62;gold;GuabirA!;SUD;Bolivia;75;34;59;61;51;54
 14034;nicolas samayoa;13875;https://www.futwiz.com/en/fc24/player/nicolas-samayoa/13875;62;bronze-nr;Politehnica IaEi;ROM 1;Guatemala;55;34;36;40;60;72
 14035;lucas sanabria;13874;https://www.futwiz.com/en/fc24/player/lucas-sanabria/13874;62;gold;Libertad;LIB;Paraguay;66;51;56;64;50;55
-14036;theo sander;13873;https://www.futwiz.com/en/fc24/player/theo-sander/13873;62;bronze;F.C. KA,benhavn;DEN 1;Dinamarca;63;61;62;64;38;62
+14036;theo sander;13873;https://www.futwiz.com/en/fc24/player/theo-sander/13873;62;bronze;F.C. KA;benhavn;DEN 1;Dinamarca;63;61;62;64;38;62
 14037;will sands;13872;https://www.futwiz.com/en/fc24/player/will-sands/13872;62;bronze-nr;Columbus Crew;MLS;Estados Unidos;73;49;55;65;57;56
 14038;mohammed sangare;13871;https://www.futwiz.com/en/fc24/player/mohammed-sangare/13871;62;bronze;Livingston;SPFL;Liberia;61;49;54;58;57;77
 14039;jorge sanguina;13870;https://www.futwiz.com/en/fc24/player/jorge-sanguina/13870;62;gold;Gral. Caballero;SUD;Paraguay;63;61;49;62;25;58
@@ -14047,7 +14047,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 14046;ryan schofield;13863;https://www.futwiz.com/en/fc24/player/ryan-schofield/13863;62;bronze-nr;Portsmouth;ENG 3;Inglaterra;61;61;60;61;30;61
 14047;marina scholz;13862;https://www.futwiz.com/en/fc24/player/marina-scholz/13862;62;bronze-nr;1. FC NA 1/4rnberg;;Alemania;60;60;53;63;35;59
 14048;youri schoonderwaldt;13861;https://www.futwiz.com/en/fc24/player/youri-schoonderwaldt/13861;62;bronze;Sparta Rotterdam;NED 1;Holanda;62;60;58;61;20;60
-14049;oscar schwartau;13860;https://www.futwiz.com/en/fc24/player/oscar-schwartau/13860;62;bronze;BrA,ndby IF;DEN 1;Dinamarca;73;56;54;68;37;58
+14049;oscar schwartau;13860;https://www.futwiz.com/en/fc24/player/oscar-schwartau/13860;62;bronze;BrA;ndby IF;DEN 1;Dinamarca;73;56;54;68;37;58
 14050;jan sedlak;13859;https://www.futwiz.com/en/fc24/player/jan-sedlak/13859;62;bronze-nr;Ruch ChorzA3w;POL 1;Republica Checa;61;43;52;58;62;68
 14051;lion semic;13858;https://www.futwiz.com/en/fc24/player/lion-semic/13858;62;bronze;B. Dortmund II;GER 3;Alemania;82;38;50;63;55;64
 14052;luis sequeira;13857;https://www.futwiz.com/en/fc24/player/luis-sequeira/13857;62;bronze-nr;Talleres;ARG 1;Argentina;66;57;62;65;38;55
@@ -14676,7 +14676,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 14675;odin bailey;17868;https://www.futwiz.com/en/fc24/player/odin-bailey/17868;61;bronze;Stockport;ENG 4;Inglaterra;83;56;56;62;34;58
 14676;shilow tracey;14722;https://www.futwiz.com/en/fc24/player/shilow-tracey/14722;61;bronze;Crewe Alexandra;ENG 4;Inglaterra;86;54;54;63;42;56
 14677;robin tranberg;14721;https://www.futwiz.com/en/fc24/player/robin-tranberg/14721;61;bronze-nr;Varbergs BoIS;SWE 1;Suecia;62;52;60;62;58;74
-14678;mai traore;14720;https://www.futwiz.com/en/fc24/player/mai-traore/14720;61;bronze-nr;TromsA, IL;NOR 1;Guinea;74;58;45;58;19;58
+14678;mai traore;14720;https://www.futwiz.com/en/fc24/player/mai-traore/14720;61;bronze-nr;TromsA; IL;NOR 1;Guinea;74;58;45;58;19;58
 14679;nick tsaroulla;14719;https://www.futwiz.com/en/fc24/player/nick-tsaroulla/14719;61;bronze;Crawley Town;ENG 4;Chipre;81;51;52;63;55;56
 14680;rayhaan tulloch;14718;https://www.futwiz.com/en/fc24/player/rayhaan-tulloch/14718;61;bronze-nr;West Brom;ENG 2;Inglaterra;74;57;54;62;24;57
 14681;artemijus tutyskinas;14717;https://www.futwiz.com/en/fc24/player/artemijus-tutyskinas/14717;61;bronze-nr;AKS AA3dAo;POL 1;Lituania;71;34;51;51;57;63
@@ -14769,7 +14769,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 14768;jose david romero;14592;https://www.futwiz.com/en/fc24/player/jose-david-romero/14592;61;bronze-nr;Talleres;ARG 1;Argentina;58;65;44;62;21;48
 14769;jack rose;14591;https://www.futwiz.com/en/fc24/player/jack-rose/14591;61;bronze;Sutton United;ENG 4;Inglaterra;61;58;59;62;42;60
 14770;lachlan rose;14590;https://www.futwiz.com/en/fc24/player/lachlan-rose/14590;61;bronze;Macarthur FC;AUS 1;Australia;80;58;53;60;47;63
-14771;martin ove roseth;14589;https://www.futwiz.com/en/fc24/player/martin-ove-roseth/14589;61;bronze-nr;LillestrA,m SK;NOR 1;Noruega;69;30;47;50;61;65
+14771;martin ove roseth;14589;https://www.futwiz.com/en/fc24/player/martin-ove-roseth/14589;61;bronze-nr;LillestrA;m SK;NOR 1;Noruega;69;30;47;50;61;65
 14772;francesco rossi;14588;https://www.futwiz.com/en/fc24/player/francesco-rossi/14588;61;bronze-nr;Bergamo Calcio;ITA 1;Italia;63;62;63;62;22;60
 14773;tim rossmann;14587;https://www.futwiz.com/en/fc24/player/tim-rossmann/14587;61;bronze;Karlsruher SC;GER 2;Alemania;84;59;52;68;27;51
 14774;sean roughan;14586;https://www.futwiz.com/en/fc24/player/sean-roughan/14586;61;bronze;Lincoln City;ENG 3;Rep. Irlanda;64;33;50;51;59;67
@@ -14801,7 +14801,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 14800;amrinder singh;14560;https://www.futwiz.com/en/fc24/player/amrinder-singh/14560;61;bronze-nr;Odisha FC;IND 1;India;61;56;55;61;43;60
 14801;chinglensana singh;14559;https://www.futwiz.com/en/fc24/player/chinglensana-singh/14559;61;bronze-nr;Hyderabad FC;IND 1;India;70;26;41;50;59;74
 14802;anton skipper;14558;https://www.futwiz.com/en/fc24/player/anton-skipper/14558;61;bronze;Sarpsborg 08;NOR 1;Dinamarca;65;31;45;46;60;69
-14803;philip slordahl;14557;https://www.futwiz.com/en/fc24/player/philip-slordahl/14557;61;bronze-nr;LillestrA,m SK;NOR 1;Noruega;53;31;46;46;61;66
+14803;philip slordahl;14557;https://www.futwiz.com/en/fc24/player/philip-slordahl/14557;61;bronze-nr;LillestrA;m SK;NOR 1;Noruega;53;31;46;46;61;66
 14804;tobias slotsager;14556;https://www.futwiz.com/en/fc24/player/tobias-slotsager/14556;61;bronze-nr;Odense BK;DEN 1;Dinamarca;68;27;46;50;61;62
 14805;harry smith;14555;https://www.futwiz.com/en/fc24/player/harry-smith/14555;61;bronze-nr;Sutton United;ENG 4;Inglaterra;52;61;48;52;41;79
 14806;connor smith;14554;https://www.futwiz.com/en/fc24/player/connor-smith/14554;61;bronze-nr;Hearts;SPFL;Escocia;65;56;62;62;38;43
@@ -14907,7 +14907,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 14906;andrea oliveri;14454;https://www.futwiz.com/en/fc24/player/andrea-oliveri/14454;61;bronze-nr;Catanzaro;ITA 2;Italia;69;53;60;62;37;46
 14907;david olsson;14453;https://www.futwiz.com/en/fc24/player/david-olsson/14453;61;bronze;Varbergs BoIS;SWE 1;Suecia;59;60;59;63;48;59
 14908;halvor rodolen opsahl;14452;https://www.futwiz.com/en/fc24/player/halvor-rodolen-opsahl/14452;61;bronze-nr;HamKam Fotball;NOR 1;Noruega;57;25;40;47;61;63
-14909;orri oskarsson;14451;https://www.futwiz.com/en/fc24/player/orri-oskarsson/14451;61;bronze-nr;F.C. KA,benhavn;DEN 1;Islandia;68;61;53;61;28;66
+14909;orri oskarsson;14451;https://www.futwiz.com/en/fc24/player/orri-oskarsson/14451;61;bronze-nr;F.C. KA;benhavn;DEN 1;Islandia;68;61;53;61;28;66
 14910;moses otuali;14450;https://www.futwiz.com/en/fc24/player/moses-otuali/14450;61;bronze;B. Dortmund II;GER 3;Nigeria;87;59;45;61;23;56
 14911;kassoum ouattara;14449;https://www.futwiz.com/en/fc24/player/kassoum-ouattara/14449;61;bronze-nr;Amiens SC;FRA 2;Francia;68;40;52;57;56;65
 14912;lautaro ovando;14448;https://www.futwiz.com/en/fc24/player/lautaro-ovando/14448;61;gold;Argentinos Jrs.;LIB;Argentina;65;60;48;63;23;62
@@ -15107,7 +15107,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 15106;lucas halangk;14254;https://www.futwiz.com/en/fc24/player/lucas-halangk/14254;61;bronze;Hallescher FC;GER 3;Alemania;73;49;53;57;58;61
 15107;jack hamilton;14253;https://www.futwiz.com/en/fc24/player/jack-hamilton/14253;61;bronze-nr;Livingston;SPFL;Escocia;62;60;60;61;46;59
 15108;fredrik hammar;14252;https://www.futwiz.com/en/fc24/player/fredrik-hammar/14252;61;bronze-nr;Hammarby IF;SWE 1;Suecia;69;54;58;65;47;59
-15109;sondre fosnaess hanssen;14251;https://www.futwiz.com/en/fc24/player/sondre-fosnaess-hanssen/14251;61;bronze-nr;StrA,msgodset IF;NOR 1;Noruega;55;33;46;50;61;66
+15109;sondre fosnaess hanssen;14251;https://www.futwiz.com/en/fc24/player/sondre-fosnaess-hanssen/14251;61;bronze-nr;StrA;msgodset IF;NOR 1;Noruega;55;33;46;50;61;66
 15110;rekeem harper;14250;https://www.futwiz.com/en/fc24/player/rekeem-harper/14250;61;bronze-nr;Burton Albion;ENG 3;Inglaterra;64;54;58;62;57;70
 15111;luke harris;14249;https://www.futwiz.com/en/fc24/player/luke-harris/14249;61;bronze-nr;Fulham;ENG 1;Gales;58;60;57;67;37;44
 15112;fabrice hartmann;14248;https://www.futwiz.com/en/fc24/player/fabrice-hartmann/14248;61;bronze-nr;Sligo Rovers;IRL 1;Alemania;75;62;51;66;24;48
@@ -15138,7 +15138,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 15137;benjamin hvidt;14223;https://www.futwiz.com/en/fc24/player/benjamin-hvidt/14223;61;bronze-nr;AGF;DEN 1;Dinamarca;63;54;59;61;61;70
 15138;koen blommestijn;14222;https://www.futwiz.com/en/fc24/player/koen-blommestijn/14222;61;bronze-nr;FC Volendam;NED 1;Holanda;56;63;47;55;21;65
 15139;tom bloxham;14221;https://www.futwiz.com/en/fc24/player/tom-bloxham/14221;61;bronze;Morecambe;ENG 4;Inglaterra;77;59;51;61;27;67
-15140;ernest boahene;14220;https://www.futwiz.com/en/fc24/player/ernest-boahene/14220;61;bronze;StrA,msgodset IF;NOR 1;Ghana;75;44;53;60;55;60
+15140;ernest boahene;14220;https://www.futwiz.com/en/fc24/player/ernest-boahene/14220;61;bronze;StrA;msgodset IF;NOR 1;Ghana;75;44;53;60;55;60
 15141;thomas boakye;14219;https://www.futwiz.com/en/fc24/player/thomas-boakye/14219;61;bronze;Halmstads BK;SWE 1;Ghana;82;45;54;62;56;62
 15142;luke bodnar;14218;https://www.futwiz.com/en/fc24/player/luke-bodnar/14218;61;bronze;Perth Glory;AUS 1;Australia;62;38;52;55;58;72
 15143;giovanni bogado;14217;https://www.futwiz.com/en/fc24/player/giovanni-bogado/14217;61;bronze-nr;Rosario Central;ARG 1;Paraguay;66;58;46;62;28;53
@@ -15220,7 +15220,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 15219;steven deana;14141;https://www.futwiz.com/en/fc24/player/steven-deana/14141;61;bronze;FC Lugano;SUI 1;Suiza;62;59;56;62;52;63
 15220;sadou diallo;14140;https://www.futwiz.com/en/fc24/player/sadou-diallo/14140;61;bronze-nr;Derry City;IRL 1;Inglaterra;60;54;57;60;55;71
 15221;iliya dimitrov;14139;https://www.futwiz.com/en/fc24/player/iliya-dimitrov/14139;61;bronze-nr;SC OEelul GalaEi;ROM 1;Bulgaria;62;65;43;58;25;58
-15222;marko divkovic;14138;https://www.futwiz.com/en/fc24/player/marko-divkovic/14138;61;bronze;BrA,ndby IF;DEN 1;Croacia;78;58;52;64;20;55
+15222;marko divkovic;14138;https://www.futwiz.com/en/fc24/player/marko-divkovic/14138;61;bronze;BrA;ndby IF;DEN 1;Croacia;78;58;52;64;20;55
 15223;belmin dizdarevic;14137;https://www.futwiz.com/en/fc24/player/belmin-dizdarevic/14137;61;bronze;Montpellier;FRA 1;Bosnia-H.;63;58;56;66;26;62
 15224;nikola djoric;14136;https://www.futwiz.com/en/fc24/player/nikola-djoric/14136;61;bronze;Austria Klagenfurt;AUT 1;Serbia;56;25;46;41;61;69
 15225;kristijan dobras;14135;https://www.futwiz.com/en/fc24/player/kristijan-dobras/14135;61;bronze-nr;Blau-Weiss Linz;AUT 1;Austria;72;58;61;65;35;55
@@ -15315,14 +15315,14 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 15314;matt baker;17894;https://www.futwiz.com/en/fc24/player/matt-baker/17894;60;bronze-nr;Newport County;ENG 4;Gales;66;26;42;39;60;67
 15315;dani gonzalez;17893;https://www.futwiz.com/en/fc24/player/dani-gonzalez/17893;60;bronze-nr;RC Celta;ESP 1;España;68;60;40;52;19;58
 15316;braian guille;17892;https://www.futwiz.com/en/fc24/player/braian-guille/17892;60;bronze;ColA3n;ARG 1;Argentina;81;60;48;61;28;53
-15317;kosi thompson;17891;https://www.futwiz.com/en/fc24/player/kosi-thompson/17891;60;bronze;LillestrA,m SK;NOR 1;Canada;81;50;52;61;55;64
+15317;kosi thompson;17891;https://www.futwiz.com/en/fc24/player/kosi-thompson/17891;60;bronze;LillestrA;m SK;NOR 1;Canada;81;50;52;61;55;64
 15318;arijon ibrahimovic;17890;https://www.futwiz.com/en/fc24/player/arijon-ibrahimovic/17890;60;bronze;Frosinone;ITA 1;Alemania;59;62;56;64;26;46
 15319;daan dierckx;17889;https://www.futwiz.com/en/fc24/player/daan-dierckx/17889;60;bronze-nr;"Standard LiA""ge";BEL 1;Belgica;56;31;47;50;60;62
 15320;lewis macari;17888;https://www.futwiz.com/en/fc24/player/lewis-macari/17888;60;bronze-nr;Notts County;ENG 4;Escocia;57;34;53;51;59;56
 15321;lukas ambros;17887;https://www.futwiz.com/en/fc24/player/lukas-ambros/17887;60;bronze-nr;SC Freiburg II;GER 3;Republica Checa;68;50;58;65;38;44
 15322;christos talichmanidis;15322;https://www.futwiz.com/en/fc24/player/christos-talichmanidis/15322;60;bronze-nr;PAOK FC;GRE 1;Grecia;63;61;61;63;35;59
 15323;sander tangvik;15321;https://www.futwiz.com/en/fc24/player/sander-tangvik/15321;60;bronze;Rosenborg BK;NOR 1;Noruega;60;58;60;61;57;59
-15324;simon thomas;15320;https://www.futwiz.com/en/fc24/player/simon-thomas/15320;60;bronze;TromsA, IL;NOR 1;Canada;61;60;57;61;40;59
+15324;simon thomas;15320;https://www.futwiz.com/en/fc24/player/simon-thomas/15320;60;bronze;TromsA; IL;NOR 1;Canada;61;60;57;61;40;59
 15325;kosi thompson;15319;https://www.futwiz.com/en/fc24/player/kosi-thompson/15319;60;bronze;Toronto FC;MLS;Canada;81;50;52;61;55;64
 15326;adam thompson;15318;https://www.futwiz.com/en/fc24/player/adam-thompson/15318;60;bronze-nr;Leyton Orient;ENG 3;Irlanda N.;60;31;54;54;60;65
 15327;ross tierney;15317;https://www.futwiz.com/en/fc24/player/ross-tierney/15317;60;bronze-nr;Walsall;ENG 4;Rep. Irlanda;74;55;56;60;54;62
@@ -15518,7 +15518,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 15517;cameron mcjannet;15104;https://www.futwiz.com/en/fc24/player/cameron-mcjannet/15104;60;bronze-nr;Derry City;IRL 1;Inglaterra;53;44;48;57;60;61
 15518;shane mcloughlin;15103;https://www.futwiz.com/en/fc24/player/shane-mcloughlin/15103;60;bronze-nr;Newport County;ENG 4;Rep. Irlanda;76;56;58;63;52;56
 15519;daylam meddah;15102;https://www.futwiz.com/en/fc24/player/daylam-meddah/15102;60;bronze-nr;SM Caen;FRA 2;Francia;68;49;58;66;58;63
-15520;elias hoff melkersen;15101;https://www.futwiz.com/en/fc24/player/elias-hoff-melkersen/15101;60;bronze-nr;StrA,msgodset IF;NOR 1;Noruega;79;58;49;60;30;64
+15520;elias hoff melkersen;15101;https://www.futwiz.com/en/fc24/player/elias-hoff-melkersen/15101;60;bronze-nr;StrA;msgodset IF;NOR 1;Noruega;79;58;49;60;30;64
 15521;tomas mendes;15100;https://www.futwiz.com/en/fc24/player/tomas-mendes/15100;60;bronze-nr;D. AlavA(c)s;ESP 1;España;63;54;54;59;50;59
 15522;diego mendez;15099;https://www.futwiz.com/en/fc24/player/diego-mendez/15099;60;bronze-nr;Rayo Vallecano;ESP 1;España;64;27;47;45;60;59
 15523;juan jose mera;15098;https://www.futwiz.com/en/fc24/player/juan-jose-mera/15098;60;gold;Deportes Tolima;SUD;Colombia;60;27;33;35;60;65
@@ -15655,14 +15655,14 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 15654;christ kouadio;14967;https://www.futwiz.com/en/fc24/player/christ-kouadio/14967;60;bronze-nr;Politehnica IaEi;ROM 1;C. Marfil;66;33;41;54;59;58
 15655;damjan kovacevic;14966;https://www.futwiz.com/en/fc24/player/damjan-kovacevic/14966;60;bronze;TSV Hartberg;AUT 1;Austria;79;37;50;54;55;50
 15656;marco krainz;14965;https://www.futwiz.com/en/fc24/player/marco-krainz/14965;60;bronze-nr;Blau-Weiss Linz;AUT 1;Austria;65;55;58;60;55;57
-15657;kreshnik krasniqi;14964;https://www.futwiz.com/en/fc24/player/kreshnik-krasniqi/14964;60;bronze-nr;StrA,msgodset IF;NOR 1;Kosovo;63;54;57;62;52;61
+15657;kreshnik krasniqi;14964;https://www.futwiz.com/en/fc24/player/kreshnik-krasniqi/14964;60;bronze-nr;StrA;msgodset IF;NOR 1;Kosovo;63;54;57;62;52;61
 15658;jonas krumrey;14963;https://www.futwiz.com/en/fc24/player/jonas-krumrey/14963;60;bronze;RB Salzburg;AUT 1;Alemania;65;60;58;60;52;55
 15659;theodore ku-dipietro;14962;https://www.futwiz.com/en/fc24/player/theodore-ku-dipietro/14962;60;bronze-nr;D.C. United;MLS;Estados Unidos;69;57;50;66;35;50
 15660;pascal kuiper;14961;https://www.futwiz.com/en/fc24/player/pascal-kuiper/14961;60;bronze;Excelsior;NED 1;Holanda;65;58;57;62;25;59
 15661;willy kumado;14960;https://www.futwiz.com/en/fc24/player/willy-kumado/14960;60;bronze;Lyngby BK;DEN 1;Ghana;79;26;50;60;51;53
 15662;amir kurdi;14959;https://www.futwiz.com/en/fc24/player/amir-kurdi/14959;60;bronze-nr;Al Riyadh;SAU 1;Arabia S.;60;50;59;58;56;61
 15663;nikoloz kutateladze;14958;https://www.futwiz.com/en/fc24/player/nikoloz-kutateladze/14958;60;bronze-nr;Rodez AF;FRA 2;Georgia;70;61;55;58;26;57
-15664;sigurd kvile;14957;https://www.futwiz.com/en/fc24/player/sigurd-kvile/14957;60;bronze;FK BodA,/Glimt;NOR 1;Noruega;67;29;42;51;58;67
+15664;sigurd kvile;14957;https://www.futwiz.com/en/fc24/player/sigurd-kvile/14957;60;bronze;FK BodA;/Glimt;NOR 1;Noruega;67;29;42;51;58;67
 15665;bram lagae;14956;https://www.futwiz.com/en/fc24/player/bram-lagae/14956;60;bronze-nr;KAA Gent;BEL 1;Belgica;67;31;44;50;60;65
 15666;juan larios;14955;https://www.futwiz.com/en/fc24/player/juan-larios/14955;60;bronze-nr;Southampton;ENG 2;España;72;36;50;60;55;51
 15667;barry lauwers;14954;https://www.futwiz.com/en/fc24/player/barry-lauwers/14954;60;bronze;FC Volendam;NED 1;Holanda;57;58;61;62;17;64
@@ -15733,7 +15733,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 15732;michee efete;14889;https://www.futwiz.com/en/fc24/player/michee-efete/14889;60;bronze;Grimsby Town;ENG 4;RD Congo;82;47;49;54;53;75
 15733;abo eisa;14888;https://www.futwiz.com/en/fc24/player/abo-eisa/14888;60;bronze;Grimsby Town;ENG 4;Sudan;91;57;53;64;29;55
 15734;omar el sawy;14887;https://www.futwiz.com/en/fc24/player/omar-el-sawy/14887;60;bronze;FC Rapid 1923;ROM 1;Rumania;76;53;57;65;34;48
-15735;ole enersen;14886;https://www.futwiz.com/en/fc24/player/ole-enersen/14886;60;bronze;StrA,msgodset IF;NOR 1;Noruega;82;47;55;63;47;57
+15735;ole enersen;14886;https://www.futwiz.com/en/fc24/player/ole-enersen/14886;60;bronze;StrA;msgodset IF;NOR 1;Noruega;82;47;55;63;47;57
 15736;jacob eng;14885;https://www.futwiz.com/en/fc24/player/jacob-eng/14885;60;bronze;VAY=lerenga Fotball;NOR 1;Noruega;84;51;47;64;25;49
 15737;jusef erabi;14884;https://www.futwiz.com/en/fc24/player/jusef-erabi/14884;60;bronze-nr;Hammarby IF;SWE 1;Suecia;70;58;48;63;25;62
 15738;tjark ernst;14883;https://www.futwiz.com/en/fc24/player/tjark-ernst/14883;60;bronze-nr;Hertha Berlin;GER 2;Alemania;62;59;55;58;27;61
@@ -16388,7 +16388,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 16387;naorem mahesh singh;16103;https://www.futwiz.com/en/fc24/player/naorem-mahesh-singh/16103;58;bronze-nr;East Bengal;IND 1;India;74;55;53;56;31;58
 16388;udanta singh;16102;https://www.futwiz.com/en/fc24/player/udanta-singh/16102;58;bronze;FC Goa;IND 1;India;86;52;49;59;32;60
 16389;filipe sisse;16101;https://www.futwiz.com/en/fc24/player/filipe-sisse/16101;58;bronze-nr;Varbergs BoIS;SWE 1;Portugal;67;46;56;61;48;54
-16390;henrik skogvold;16100;https://www.futwiz.com/en/fc24/player/henrik-skogvold/16100;58;bronze-nr;LillestrA,m SK;NOR 1;Noruega;76;57;52;62;36;51
+16390;henrik skogvold;16100;https://www.futwiz.com/en/fc24/player/henrik-skogvold/16100;58;bronze-nr;LillestrA;m SK;NOR 1;Noruega;76;57;52;62;36;51
 16391;jerry skotadis;16099;https://www.futwiz.com/en/fc24/player/jerry-skotadis/16099;58;bronze-nr;Macarthur FC;AUS 1;Australia;70;46;52;59;53;63
 16392;kacper skwierczynski;16098;https://www.futwiz.com/en/fc24/player/kacper-skwierczynski/16098;58;bronze-nr;Ruch ChorzA3w;POL 1;Polonia;80;50;52;60;29;47
 16393;andreas smed;16097;https://www.futwiz.com/en/fc24/player/andreas-smed/16097;58;bronze-nr;Hvidovre IF;DEN 1;Dinamarca;66;54;47;62;22;50
@@ -16412,7 +16412,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 16411;elliot thorpe;16079;https://www.futwiz.com/en/fc24/player/elliot-thorpe/16079;58;bronze-nr;Shrewsbury;ENG 3;Gales;65;49;58;55;52;52
 16412;thijs timmermans;16078;https://www.futwiz.com/en/fc24/player/thijs-timmermans/16078;58;bronze-nr;St. Pats;IRL 1;Holanda;60;51;57;58;42;64
 16413;catalin tira;16077;https://www.futwiz.com/en/fc24/player/catalin-tira/16077;58;bronze-nr;FC Dinamo 1948;ROM 1;Rumania;57;59;49;59;25;69
-16414;ask tjaerandsen-skau;16076;https://www.futwiz.com/en/fc24/player/ask-tjaerandsen-skau/16076;58;bronze-nr;FK BodA,/Glimt;NOR 1;Noruega;72;48;58;62;51;57
+16414;ask tjaerandsen-skau;16076;https://www.futwiz.com/en/fc24/player/ask-tjaerandsen-skau/16076;58;bronze-nr;FK BodA;/Glimt;NOR 1;Noruega;72;48;58;62;51;57
 16415;sam todd;16075;https://www.futwiz.com/en/fc24/player/sam-todd/16075;58;bronze-nr;Derry City;IRL 1;Rep. Irlanda;33;26;41;40;56;73
 16416;hubert tomalski;16074;https://www.futwiz.com/en/fc24/player/hubert-tomalski/16074;58;bronze;Puszcza;POL 1;Polonia;65;53;56;62;31;73
 16417;fabio torsiello;16073;https://www.futwiz.com/en/fc24/player/fabio-torsiello/16073;58;bronze-nr;SV Darmstadt 98;GER 1;Italia;64;59;41;60;24;48
@@ -16503,7 +16503,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 16502;simon nelson;15968;https://www.futwiz.com/en/fc24/player/simon-nelson/15968;58;bronze-nr;SCR Altach;AUT 1;Austria;71;28;35;43;57;67
 16503;serge ngoma;15967;https://www.futwiz.com/en/fc24/player/serge-ngoma/15967;58;bronze;Red Bulls;MLS;Estados Unidos;90;47;47;62;38;57
 16504;abdulaziz noor;15966;https://www.futwiz.com/en/fc24/player/abdulaziz-noor/15966;58;bronze;Al Wehda;SAU 1;Sudan;77;51;52;58;30;54
-16505;runar norheim;15965;https://www.futwiz.com/en/fc24/player/runar-norheim/15965;58;bronze-nr;TromsA, IL;NOR 1;Noruega;65;48;54;63;46;45
+16505;runar norheim;15965;https://www.futwiz.com/en/fc24/player/runar-norheim/15965;58;bronze-nr;TromsA; IL;NOR 1;Noruega;65;48;54;63;46;45
 16506;david norman jr.;15964;https://www.futwiz.com/en/fc24/player/david-norman-jr./15964;58;bronze-nr;St. Pats;IRL 1;Canada;60;40;49;53;57;63
 16507;mitchy ntelo;15963;https://www.futwiz.com/en/fc24/player/mitchy-ntelo/15963;58;bronze-nr;Sp. Charleroi;BEL 1;Belgica;79;54;39;60;18;63
 16508;jim o'brien;15962;https://www.futwiz.com/en/fc24/player/jim-obrien/15962;58;bronze-nr;Notts County;ENG 4;Escocia;43;57;60;59;51;63
@@ -16511,7 +16511,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 16510;gino olguin;15960;https://www.futwiz.com/en/fc24/player/gino-olguin/15960;58;bronze-nr;Central CA3rdoba;ARG 1;Argentina;65;48;59;58;52;58
 16511;nicolas-bernd oliveira;15959;https://www.futwiz.com/en/fc24/player/nicolas-bernd-oliveira/15959;58;bronze-nr;Hamburger SV;GER 2;Alemania;68;32;50;55;54;55
 16512;filip olsson;15958;https://www.futwiz.com/en/fc24/player/filip-olsson/15958;58;bronze-nr;IK Sirius;SWE 1;Suecia;71;51;56;58;49;57
-16513;oskar opsahl;15957;https://www.futwiz.com/en/fc24/player/oskar-opsahl/15957;58;bronze-nr;TromsA, IL;NOR 1;Noruega;73;39;51;57;52;58
+16513;oskar opsahl;15957;https://www.futwiz.com/en/fc24/player/oskar-opsahl/15957;58;bronze-nr;TromsA; IL;NOR 1;Noruega;73;39;51;57;52;58
 16514;danilo orsi;15956;https://www.futwiz.com/en/fc24/player/danilo-orsi/15956;58;bronze-nr;Crawley Town;ENG 4;Inglaterra;73;57;46;59;24;60
 16515;lorenz otto;15955;https://www.futwiz.com/en/fc24/player/lorenz-otto/15955;58;bronze-nr;SSV Ulm 1846;GER 3;Alemania;61;56;54;59;26;57
 16516;tunde owolabi;15954;https://www.futwiz.com/en/fc24/player/tunde-owolabi/15954;58;bronze;Cork City;IRL 1;Belgica;82;57;41;56;34;67
@@ -16692,7 +16692,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 16691;ibrahima sory bangoura;15779;https://www.futwiz.com/en/fc24/player/ibrahima-sory-bangoura/15779;58;bronze-nr;KRC Genk;BEL 1;Guinea;64;35;49;52;56;64
 16692;bao yaxiong;15778;https://www.futwiz.com/en/fc24/player/bao-yaxiong/15778;58;bronze-nr;Shanghai Shenhua;CHN 1;RP China;60;54;53;59;20;54
 16693;alonso barria;15777;https://www.futwiz.com/en/fc24/player/alonso-barria/15777;58;gold;Club Magallanes;SUD;Chile;72;56;55;58;22;60
-16694;daniel bassi;15776;https://www.futwiz.com/en/fc24/player/daniel-bassi/15776;58;bronze-nr;FK BodA,/Glimt;NOR 1;Noruega;73;48;50;65;46;41
+16694;daniel bassi;15776;https://www.futwiz.com/en/fc24/player/daniel-bassi/15776;58;bronze-nr;FK BodA;/Glimt;NOR 1;Noruega;73;48;50;65;46;41
 16695;alessio besio;15775;https://www.futwiz.com/en/fc24/player/alessio-besio/15775;58;bronze-nr;SC Freiburg II;GER 3;Suiza;67;56;44;56;25;64
 16696;joel bichsel;15774;https://www.futwiz.com/en/fc24/player/joel-bichsel/15774;58;bronze;SC Freiburg II;GER 3;Suiza;54;29;41;43;57;67
 16697;matteo bignetti;15773;https://www.futwiz.com/en/fc24/player/matteo-bignetti/15773;58;bronze-nr;SK Sturm Graz;AUT 1;Austria;60;59;55;62;28;56
@@ -17028,7 +17028,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17027;luke heeney;16129;https://www.futwiz.com/en/fc24/player/luke-heeney/16129;57;bronze-nr;Drogheda United;IRL 1;Rep. Irlanda;60;41;51;54;54;60
 17028;eleanor heeps;16128;https://www.futwiz.com/en/fc24/player/eleanor-heeps/16128;57;bronze-nr;Spurs;;Inglaterra;57;59;54;59;40;53
 17029;joe hilton;16127;https://www.futwiz.com/en/fc24/player/joe-hilton/16127;57;bronze-nr;Blackburn Rovers;ENG 2;Inglaterra;57;59;54;64;29;50
-17030;oscar hojlund;16126;https://www.futwiz.com/en/fc24/player/oscar-hojlund/16126;57;bronze-nr;F.C. KA,benhavn;DEN 1;Dinamarca;71;43;53;59;54;61
+17030;oscar hojlund;16126;https://www.futwiz.com/en/fc24/player/oscar-hojlund/16126;57;bronze-nr;F.C. KA;benhavn;DEN 1;Dinamarca;71;43;53;59;54;61
 17031;florian hoxha;16125;https://www.futwiz.com/en/fc24/player/florian-hoxha/16125;57;bronze-nr;Grasshopper Club;SUI 1;Kosovo;67;29;46;60;54;58
 17032;jonathan hutters;16124;https://www.futwiz.com/en/fc24/player/jonathan-hutters/16124;57;bronze-nr;AGF;DEN 1;Dinamarca;59;59;58;57;29;52
 17033;ethan ingram;16123;https://www.futwiz.com/en/fc24/player/ethan-ingram/16123;57;bronze-nr;West Brom;ENG 2;Inglaterra;75;32;46;54;52;52
@@ -17037,7 +17037,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17036;corey addai;16040;https://www.futwiz.com/en/fc24/player/corey-addai/16040;57;bronze;Crawley Town;ENG 4;Jamaica;59;55;57;57;22;56
 17037;nathaniel adjei;16039;https://www.futwiz.com/en/fc24/player/nathaniel-adjei/16039;57;bronze;Hammarby IF;SWE 1;Ghana;78;25;42;46;55;62
 17038;jesper adolfsson;16038;https://www.futwiz.com/en/fc24/player/jesper-adolfsson/16038;57;bronze-nr;MjA$?llby AIF;SWE 1;Suecia;71;27;43;44;56;61
-17039;jonathan aegidius;16037;https://www.futwiz.com/en/fc24/player/jonathan-aegidius/16037;57;bronze-nr;BrA,ndby IF;DEN 1;Dinamarca;59;55;54;59;27;56
+17039;jonathan aegidius;16037;https://www.futwiz.com/en/fc24/player/jonathan-aegidius/16037;57;bronze-nr;BrA;ndby IF;DEN 1;Dinamarca;59;55;54;59;27;56
 17040;malek al abdulmunem;16036;https://www.futwiz.com/en/fc24/player/malek-al-abdulmunem/16036;57;bronze-nr;Al Fayha;SAU 1;Arabia S.;75;54;39;58;19;54
 17041;thamer al ali;16035;https://www.futwiz.com/en/fc24/player/thamer-al-ali/16035;57;bronze-nr;Al Wehda;SAU 1;Arabia S.;76;53;48;59;25;51
 17042;ahmad al habib;16034;https://www.futwiz.com/en/fc24/player/ahmad-al-habib/16034;57;bronze-nr;Abha Club;SAU 1;Arabia S.;47;32;36;47;57;66
@@ -17311,8 +17311,8 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17310;sulaiman hazazi;16443;https://www.futwiz.com/en/fc24/player/sulaiman-hazazi/16443;56;bronze;Al Taawoun;SAU 1;Arabia S.;84;31;44;50;48;68
 17311;he yupeng;16442;https://www.futwiz.com/en/fc24/player/he-yupeng/16442;56;bronze-nr;Dalian Pro;CHN 1;RP China;73;39;48;56;49;56
 17312;brad hills;16441;https://www.futwiz.com/en/fc24/player/brad-hills/16441;56;bronze-nr;Accrington;ENG 4;Inglaterra;62;25;37;40;55;63
-17313;emil hojlund;16440;https://www.futwiz.com/en/fc24/player/emil-hojlund/16440;56;bronze-nr;F.C. KA,benhavn;DEN 1;Dinamarca;62;55;47;55;28;64
-17314;fabian holst-larsen;16439;https://www.futwiz.com/en/fc24/player/fabian-holst-larsen/16439;56;bronze-nr;StrA,msgodset IF;NOR 1;Noruega;72;30;44;55;49;52
+17313;emil hojlund;16440;https://www.futwiz.com/en/fc24/player/emil-hojlund/16440;56;bronze-nr;F.C. KA;benhavn;DEN 1;Dinamarca;62;55;47;55;28;64
+17314;fabian holst-larsen;16439;https://www.futwiz.com/en/fc24/player/fabian-holst-larsen/16439;56;bronze-nr;StrA;msgodset IF;NOR 1;Noruega;72;30;44;55;49;52
 17315;huang jiahui;16438;https://www.futwiz.com/en/fc24/player/huang-jiahui/16438;56;bronze-nr;Dalian Pro;CHN 1;RP China;69;35;46;56;56;60
 17316;diego huesca;16437;https://www.futwiz.com/en/fc24/player/diego-huesca/16437;56;gold;Tacuary;SUD;Paraguay;57;56;59;55;23;60
 17317;mutellip iminqari;16436;https://www.futwiz.com/en/fc24/player/mutellip-iminqari/16436;56;bronze-nr;Rongcheng FC;CHN 1;RP China;59;45;50;59;45;49
@@ -17398,7 +17398,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17397;will richmond;16882;https://www.futwiz.com/en/fc24/player/will-richmond/16882;55;bronze-nr;SJ Earthquakes;MLS;Estados Unidos;70;42;48;60;24;52
 17398;jose rio;16881;https://www.futwiz.com/en/fc24/player/jose-rio/16881;55;gold;Danubio;SUD;Uruguay;52;52;48;58;21;54
 17399;myles roberts;16880;https://www.futwiz.com/en/fc24/player/myles-roberts/16880;55;bronze-nr;Watford;ENG 2;Inglaterra;62;52;50;59;37;53
-17400;jesper bergset robertsen;16879;https://www.futwiz.com/en/fc24/player/jesper-bergset-robertsen/16879;55;bronze-nr;TromsA, IL;NOR 1;Noruega;71;34;45;56;48;50
+17400;jesper bergset robertsen;16879;https://www.futwiz.com/en/fc24/player/jesper-bergset-robertsen/16879;55;bronze-nr;TromsA; IL;NOR 1;Noruega;71;34;45;56;48;50
 17401;kyle robinson;16878;https://www.futwiz.com/en/fc24/player/kyle-robinson/16878;55;bronze-nr;Drogheda United;IRL 1;Rep. Irlanda;67;53;45;53;26;60
 17402;alexis rodas;16877;https://www.futwiz.com/en/fc24/player/alexis-rodas/16877;55;gold;Gral. Caballero;SUD;Paraguay;62;40;53;56;58;61
 17403;alan rodriguez;16876;https://www.futwiz.com/en/fc24/player/alan-rodriguez/16876;55;bronze-nr;Yverdon Sport FC;SUI 1;Suiza;59;46;54;59;53;48
@@ -17415,7 +17415,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17414;jitendra singh;16865;https://www.futwiz.com/en/fc24/player/jitendra-singh/16865;55;bronze;Jamshedpur FC;IND 1;India;77;42;50;55;53;64
 17415;germanpreet singh;16864;https://www.futwiz.com/en/fc24/player/germanpreet-singh/16864;55;bronze-nr;Jamshedpur FC;IND 1;India;67;43;51;54;49;65
 17416;jesper skau;16863;https://www.futwiz.com/en/fc24/player/jesper-skau/16863;55;bronze-nr;Odds BK;NOR 1;Noruega;61;40;52;56;52;50
-17417;andreas skjold;16862;https://www.futwiz.com/en/fc24/player/andreas-skjold/16862;55;bronze-nr;StrA,msgodset IF;NOR 1;Noruega;64;48;53;63;31;41
+17417;andreas skjold;16862;https://www.futwiz.com/en/fc24/player/andreas-skjold/16862;55;bronze-nr;StrA;msgodset IF;NOR 1;Noruega;64;48;53;63;31;41
 17418;collin smith;16861;https://www.futwiz.com/en/fc24/player/collin-smith/16861;55;bronze-nr;FC Dallas;MLS;Estados Unidos;71;37;45;50;51;55
 17419;jakub snopczynski;16860;https://www.futwiz.com/en/fc24/player/jakub-snopczynski/16860;55;bronze-nr;Radomiak Radom;POL 1;Polonia;72;47;50;61;33;43
 17420;ramzi solan;16859;https://www.futwiz.com/en/fc24/player/ramzi-solan/16859;55;bronze;Damac FC;SAU 1;Arabia S.;80;48;46;60;46;53
@@ -17494,7 +17494,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17493;massimo decoene;16786;https://www.futwiz.com/en/fc24/player/massimo-decoene/16786;55;bronze-nr;KV Kortrijk;BEL 1;Belgica;73;39;54;56;45;57
 17494;luke dennison;16785;https://www.futwiz.com/en/fc24/player/luke-dennison/16785;55;bronze-nr;Bohemian FC;IRL 1;Estados Unidos;57;56;54;58;21;53
 17495;marcus dewhurst;16784;https://www.futwiz.com/en/fc24/player/marcus-dewhurst/16784;55;bronze-nr;Sheffield Utd;ENG 1;Inglaterra;55;54;58;56;32;53
-17496;andreas dithmer;16783;https://www.futwiz.com/en/fc24/player/andreas-dithmer/16783;55;bronze-nr;F.C. KA,benhavn;DEN 1;Dinamarca;59;55;56;55;39;54
+17496;andreas dithmer;16783;https://www.futwiz.com/en/fc24/player/andreas-dithmer/16783;55;bronze-nr;F.C. KA;benhavn;DEN 1;Dinamarca;59;55;56;55;39;54
 17497;chris donnell;16782;https://www.futwiz.com/en/fc24/player/chris-donnell/16782;55;bronze-nr;Fulham;ENG 1;Australia;63;47;52;56;48;65
 17498;djovkar doudaev;16781;https://www.futwiz.com/en/fc24/player/djovkar-doudaev/16781;55;bronze-nr;RWD Molenbeek;BEL 1;Belgica;65;22;41;43;53;60
 17499;erik duenas;16780;https://www.futwiz.com/en/fc24/player/erik-duenas/16780;55;bronze-nr;LAFC;MLS;Mexico;72;36;52;63;51;38
@@ -17543,7 +17543,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17542;krzysztof kolanko;16737;https://www.futwiz.com/en/fc24/player/krzysztof-kolanko/16737;55;bronze-nr;GA3rnik Zabrze;POL 1;Polonia;70;49;47;65;22;34
 17543;jan krzywanski;16736;https://www.futwiz.com/en/fc24/player/jan-krzywanski/16736;55;bronze-nr;Widzew AA3dAo;POL 1;Polonia;56;55;60;57;32;49
 17544;rohit kumar;16735;https://www.futwiz.com/en/fc24/player/rohit-kumar/16735;55;bronze-nr;Bengaluru FC;IND 1;India;54;44;49;55;50;67
-17545;bertram kvist;16734;https://www.futwiz.com/en/fc24/player/bertram-kvist/16734;55;bronze-nr;BrA,ndby IF;DEN 1;Dinamarca;69;48;50;60;37;47
+17545;bertram kvist;16734;https://www.futwiz.com/en/fc24/player/bertram-kvist/16734;55;bronze-nr;BrA;ndby IF;DEN 1;Dinamarca;69;48;50;60;37;47
 17546;kwak seung min;16733;https://www.futwiz.com/en/fc24/player/kwak-seung-min/16733;55;bronze-nr;Jeju United;KOR 1;Rep. Corea;57;52;36;50;43;65
 17547;lalchungnunga;16732;https://www.futwiz.com/en/fc24/player/lalchungnunga/16732;55;bronze-nr;East Bengal;IND 1;India;71;28;40;44;54;67
 17548;jake leake;16731;https://www.futwiz.com/en/fc24/player/jake-leake/16731;55;bronze-nr;Tranmere Rovers;ENG 4;Inglaterra;69;30;43;54;50;56
@@ -17735,7 +17735,7 @@ ID,Nombre,IdFutwiz,Enlace,Media,Calidad,Equipo,Liga,Pais,Ritmo,Tiro,Pase,Regate,
 17734;serif berbic;16994;https://www.futwiz.com/en/fc24/player/serif-berbic/16994;54;bronze-nr;FC Lugano;SUI 1;Suiza;54;55;54;55;33;51
 17735;kevin berkoe;16993;https://www.futwiz.com/en/fc24/player/kevin-berkoe/16993;54;bronze-nr;Salford City;ENG 4;Inglaterra;78;28;34;50;48;60
 17736;will blackmore;16992;https://www.futwiz.com/en/fc24/player/will-blackmore/16992;54;bronze-nr;Peterborough;ENG 3;Inglaterra;55;56;52;54;24;52
-17737;eirik blikstad;16991;https://www.futwiz.com/en/fc24/player/eirik-blikstad/16991;54;bronze-nr;StrA,msgodset IF;NOR 1;Noruega;59;28;40;50;54;50
+17737;eirik blikstad;16991;https://www.futwiz.com/en/fc24/player/eirik-blikstad/16991;54;bronze-nr;StrA;msgodset IF;NOR 1;Noruega;59;28;40;50;54;50
 17738;luca bolletta;16990;https://www.futwiz.com/en/fc24/player/luca-bolletta/16990;54;bronze-nr;Ascoli;ITA 2;Italia;51;54;53;57;42;53
 17739;tom booth;16989;https://www.futwiz.com/en/fc24/player/tom-booth/16989;54;bronze-nr;Crewe Alexandra;ENG 4;Inglaterra;53;55;52;56;29;52
 17740;magnus bottker;16988;https://www.futwiz.com/en/fc24/player/magnus-bottker/16988;54;bronze-nr;Silkeborg IF;DEN 1;Dinamarca;68;50;45;55;21;58
