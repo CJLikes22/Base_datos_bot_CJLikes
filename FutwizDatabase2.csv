@@ -1,4 +1,4 @@
-;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;alex scott;1;https://www.futwiz.com/en/fc24/player/alex-scott/1;88;172;Heroes;;Inglaterra;89;73;83;82;87;83
 1;gianluca vialli;2;https://www.futwiz.com/en/fc24/player/gianluca-vialli/2;91;171;Heroes;ITA 1;Italia;90;91;74;85;44;82
 2;carlos tevez;3;https://www.futwiz.com/en/fc24/player/carlos-tevez/3;90;171;Heroes;ENG 1;Argentina;88;91;83;89;48;91
@@ -18447,3 +18447,9 @@
 18431;xherdan shaqiri;18948;https://www.futwiz.com/en/fc24/player/xherdan-shaqiri/18948;85;37;Chicago Fire FC;MLS;Suiza;84;83;83;84;51;71
 18432;timothy weah;18949;https://www.futwiz.com/en/fc24/player/timothy-weah/18949;85;37;Juventus;ITA 1;Estados Unidos;90;80;77;83;76;80
 18433;teemu pukki;18950;https://www.futwiz.com/en/fc24/player/teemu-pukki/18950;85;37;Minnesota United;MLS;Finlandia;86;85;77;85;46;80
+18434;milan skriniar;18951;https://www.futwiz.com/en/fc24/player/milan-skriniar/18951;87;37;Paris SG;FRA 1;Eslovaquia;83;44;70;71;87;86
+18435;anderson talisca;18952;https://www.futwiz.com/en/fc24/player/anderson-talisca/18952;88;37;Al Nassr;SAU 1;Brasil;86;87;84;87;60;83
+18436;nikola milenkovic;18953;https://www.futwiz.com/en/fc24/player/nikola-milenkovic/18953;86;37;Fiorentina;ITA 1;Serbia;80;52;70;69;85;87
+18437;moises caicedo;18954;https://www.futwiz.com/en/fc24/player/moises-caicedo/18954;86;37;Chelsea;ENG 1;Ecuador;80;70;81;86;83;82
+18438;ivan perisic;18955;https://www.futwiz.com/en/fc24/player/ivan-perisic/18955;86;37;Spurs;ENG 1;Croacia;90;85;87;87;75;78
+18439;riqui puig;18956;https://www.futwiz.com/en/fc24/player/riqui-puig/18956;85;37;LA Galaxy;MLS;España;81;76;82;87;80;77
