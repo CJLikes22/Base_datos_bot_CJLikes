@@ -18474,374 +18474,329 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18458;philip zinckernagel;18975;https://www.futwiz.com/en/fc24/player/philip-zinckernagel/18975;83;goldif;Club Brugge;BEL 1;Dinamarca;91;80;81;85;52;79
 18459;arnau tenas;18976;https://www.futwiz.com/en/fc24/player/arnau-tenas/18976;83;goldif;Paris SG;FRA 1;España;83;84;87;85;58;82
 18460;ryan hollingshead;18977;https://www.futwiz.com/en/fc24/player/ryan-hollingshead/18977;83;goldif;LAFC;MLS;Estados Unidos;74;76;79;82;83;86
-18461;ahmed iljazovski;18985;https://www.futwiz.com/en/fc24/player/ahmed-iljazovski/18985;59;bronze;Hvidovre IF;DEN 1;Macedonia del Norte;61;28;40;49;59;59
-18462;will hondermarck;18986;https://www.futwiz.com/en/fc24/player/will-hondermarck/18986;60;bronze;Northampton;ENG 3;Congo;67;50;56;61;57;59
-18463;cheye alexander;18987;https://www.futwiz.com/en/fc24/player/cheye-alexander/18987;61;bronze;Gillingham;ENG 4;Sta Lucia;71;48;54;62;55;65
-18464;dion pereira;18988;https://www.futwiz.com/en/fc24/player/dion-pereira/18988;61;bronze;Sutton United;ENG 4;Antigua y Barbuda;79;58;55;63;34;53
-18465;franculino;18989;https://www.futwiz.com/en/fc24/player/franculino/18989;61;bronze;FC Midtjylland;DEN 1;Guinea-B.;77;57;57;65;35;65
-18466;brian jepthe bayeye;18994;https://www.futwiz.com/en/fc24/player/brian-jepthe-bayeye/18994;62;bronze;Ascoli;ITA 2;RD Congo;74;50;59;60;55;66
-18467;andreas hountondji;18996;https://www.futwiz.com/en/fc24/player/andreas-hountondji/18996;62;bronze;Rodez AF;FRA 2;Benin;71;58;54;63;19;58
-18468;jeriel dorsett;18997;https://www.futwiz.com/en/fc24/player/jeriel-dorsett/18997;62;bronze;Reading;ENG 3;Montserrat;71;26;45;50;60;76
-18469;sahmkou camara;18998;https://www.futwiz.com/en/fc24/player/sahmkou-camara/18998;62;bronze;Stade-Lausanne;SUI 1;Guinea;68;32;41;55;58;75
-18470;bilal njie;18999;https://www.futwiz.com/en/fc24/player/bilal-njie/18999;62;bronze;FK Haugesund;NOR 1;;87;58;50;65;26;55
-18471;vincent harper;19002;https://www.futwiz.com/en/fc24/player/vincent-harper/19002;63;bronze;Exeter City;ENG 3;Kenia;90;37;46;63;56;74
-18472;tim civeja;19003;https://www.futwiz.com/en/fc24/player/tim-civeja/19003;63;bronze;SaarbrA 1/4cken;GER 3;Albania;59;53;64;66;53;60
-18473;michael kayode;19004;https://www.futwiz.com/en/fc24/player/michael-kayode/19004;64;bronze;Fiorentina;ITA 1;Italia;63;34;48;64;63;52
-18474;uran bislimi;19005;https://www.futwiz.com/en/fc24/player/uran-bislimi/19005;64;bronze;FC Lugano;SUI 1;Suiza;70;54;62;67;54;71
-18475;kristopher da graca;19007;https://www.futwiz.com/en/fc24/player/kristopher-da-graca/19007;64;bronze;HJK Helsinki;FIN 1;C. Verde;53;30;45;53;63;75
-18476;imane touriss;19008;https://www.futwiz.com/en/fc24/player/imane-touriss/19008;64;bronze;En Avant Guingamp;FRA F;Marruecos;66;64;56;69;28;44
-18477;jeremias james;19009;https://www.futwiz.com/en/fc24/player/jeremias-james/19009;64;bronze;Barracas Central;ARG 1;Argentina;48;33;40;43;64;70
-18478;brahima diarra;19010;https://www.futwiz.com/en/fc24/player/brahima-diarra/19010;64;bronze;Huddersfield;ENG 2;Mali;81;52;56;72;31;56
-18479;franco lepore;19011;https://www.futwiz.com/en/fc24/player/franco-lepore/19011;64;bronze;Borgocalcio;ITA 2;Italia;73;53;63;63;54;66
-18480;abdourahmane barry;19013;https://www.futwiz.com/en/fc24/player/abdourahmane-barry/19013;64;bronze;Amiens SC;FRA 2;Guinea;77;25;31;46;65;70
-18481;allen obando;19015;https://www.futwiz.com/en/fc24/player/allen-obando/19015;65;silver;Barcelona SC;LIB;Ecuador;69;58;48;64;28;67
-18482;tayvon gray;19016;https://www.futwiz.com/en/fc24/player/tayvon-gray/19016;65;silver;New York City FC;MLS;Jamaica;78;30;52;64;62;64
-18483;oussama el azzouzi;19018;https://www.futwiz.com/en/fc24/player/oussama-el-azzouzi/19018;65;silver;Bologna;ITA 1;Marruecos;54;44;59;66;61;65
-18484;allen obando;19019;https://www.futwiz.com/en/fc24/player/allen-obando/19019;65;53;Barcelona SC;LIB;Ecuador;69;58;48;64;28;67
-18485;curtis davies;19020;https://www.futwiz.com/en/fc24/player/curtis-davies/19020;65;silver;Cheltenham Town;ENG 3;Sierra L.;34;35;44;48;67;58
-18486;celton biai;19022;https://www.futwiz.com/en/fc24/player/celton-biai/19022;66;silver;VitA3ria SC;POR 1;Guinea-B.;67;62;60;69;22;62
-18487;ibrahim hesar;19023;https://www.futwiz.com/en/fc24/player/ibrahim-hesar/19023;66;silver;Belgrano;ARG 1;Siria;63;56;64;68;40;45
-18488;andrija novakovich;19024;https://www.futwiz.com/en/fc24/player/andrija-novakovich/19024;66;silver;Borgocalcio;ITA 2;Estados Unidos;73;64;51;60;40;68
-18489;amalie thestrup;19025;https://www.futwiz.com/en/fc24/player/amalie-thestrup/19025;66;silver;Bristol City;;Dinamarca;66;66;51;63;28;65
-18490;eyob zambataro;19027;https://www.futwiz.com/en/fc24/player/eyob-zambataro/19027;66;silver;Borgocalcio;ITA 2;Etiopia;72;42;65;65;58;58
-18491;kevin mouanga;19028;https://www.futwiz.com/en/fc24/player/kevin-mouanga/19028;66;silver;AC Beauruelle;FRA 2;Francia;38;31;45;43;67;74
-18492;warren caddy;19029;https://www.futwiz.com/en/fc24/player/warren-caddy/19029;66;silver;AC Beauruelle;FRA 2;Francia;81;64;49;65;28;67
-18493;alexy bosetti;19032;https://www.futwiz.com/en/fc24/player/alexy-bosetti/19032;67;silver;AC Beauruelle;FRA 2;Francia;75;69;63;70;32;64
-18494;timothy tillman;19037;https://www.futwiz.com/en/fc24/player/timothy-tillman/19037;68;silver;LAFC;MLS;Estados Unidos;69;56;65;74;45;64
-18495;lukas petkov;19038;https://www.futwiz.com/en/fc24/player/lukas-petkov/19038;68;silver;FA 1/4rth;GER 2;Bulgaria;71;66;65;70;55;64
-18496;abdoulaye toure;19039;https://www.futwiz.com/en/fc24/player/abdoulaye-toure/19039;68;silver;Havre AC;FRA 1;Guinea;39;56;59;55;69;77
-18497;matheus franca;19040;https://www.futwiz.com/en/fc24/player/matheus-franca/19040;68;silver;Crystal Palace;ENG 1;Brasil;82;70;58;75;35;63
-18498;oliver sonne;19042;https://www.futwiz.com/en/fc24/player/oliver-sonne/19042;68;silver;Silkeborg IF;DEN 1;Peru;74;43;61;65;61;63
-18499;luca marrone;19043;https://www.futwiz.com/en/fc24/player/luca-marrone/19043;68;silver;Borgocalcio;ITA 2;Italia;48;59;70;67;68;66
-18500;davide adorni;19045;https://www.futwiz.com/en/fc24/player/davide-adorni/19045;69;silver;Brisigonza;ITA 2;Italia;73;44;52;53;71;69
-18501;fredrik ulvestad;19046;https://www.futwiz.com/en/fc24/player/fredrik-ulvestad/19046;69;silver;PogoA Szczecin;POL 1;Noruega;64;64;66;70;66;75
-18502;andrea cistana;19047;https://www.futwiz.com/en/fc24/player/andrea-cistana/19047;69;silver;Brisigonza;ITA 2;Italia;68;52;57;63;69;70
-18503;charles pickel;19048;https://www.futwiz.com/en/fc24/player/charles-pickel/19048;69;silver;Cremonese;ITA 2;RD Congo;64;56;64;67;64;79
-18504;john yeboah;19050;https://www.futwiz.com/en/fc24/player/john-yeboah/19050;69;silver;RakA3w;POL 1;Ecuador;88;62;57;71;26;61
-18505;sandy walsh;19051;https://www.futwiz.com/en/fc24/player/sandy-walsh/19051;69;silver;KV Mechelen;BEL 1;;61;37;62;64;68;72
-18506;gabriele moncini;19052;https://www.futwiz.com/en/fc24/player/gabriele-moncini/19052;69;silver;Brisigonza;ITA 2;Italia;78;69;56;67;37;66
-18507;grady diangana;19053;https://www.futwiz.com/en/fc24/player/grady-diangana/19053;69;silver;West Brom;ENG 2;RD Congo;83;59;62;72;27;58
-18508;steven moreira;19055;https://www.futwiz.com/en/fc24/player/steven-moreira/19055;69;silver;Columbus Crew;MLS;C. Verde;68;32;65;65;69;72
-18509;frank magri;19056;https://www.futwiz.com/en/fc24/player/frank-magri/19056;69;silver;Toulouse FC;FRA 1;Camerun;76;71;56;69;21;63
-18510;yasser larouci;19057;https://www.futwiz.com/en/fc24/player/yasser-larouci/19057;69;silver;Sheffield Utd;ENG 1;Argelia;73;47;59;69;65;64
-18511;vincent pajot;19058;https://www.futwiz.com/en/fc24/player/vincent-pajot/19058;69;silver;AC Beauruelle;FRA 2;Francia;49;56;68;68;66;71
-18512;rantala jutta;19059;https://www.futwiz.com/en/fc24/player/rantala-jutta/19059;70;silver;Leicester City;;Finlandia;65;72;54;67;25;58
-18513;christ tiehi;19060;https://www.futwiz.com/en/fc24/player/christ-tiehi/19060;70;silver;Rotherham Utd;ENG 2;C. Marfil;66;47;65;70;69;73
-18514;junior hoilett;19061;https://www.futwiz.com/en/fc24/player/junior-hoilett/19061;70;silver;Whitecaps FC;MLS;Canada;77;68;67;74;48;64
-18515;billy sharp;19063;https://www.futwiz.com/en/fc24/player/billy-sharp/19063;70;silver;LA Galaxy;MLS;Inglaterra;53;74;62;63;39;66
-18516;esperanza pizarro;19067;https://www.futwiz.com/en/fc24/player/esperanza-pizarro/19067;70;silver;SD Eibar;ESP F;Uruguay;64;68;69;70;47;58
-18517;carlos andres gomez;19068;https://www.futwiz.com/en/fc24/player/carlos-andres-gomez/19068;70;silver;Real Salt Lake;MLS;Colombia;78;66;63;72;32;54
-18518;dimitri bisoli;19069;https://www.futwiz.com/en/fc24/player/dimitri-bisoli/19069;70;silver;Brisigonza;ITA 2;Italia;71;69;68;70;68;68
-18519;lorenzo dickmann;19071;https://www.futwiz.com/en/fc24/player/lorenzo-dickmann/19071;70;silver;Brisigonza;ITA 2;Italia;70;52;61;66;69;64
-18520;fabio;19072;https://www.futwiz.com/en/fc24/player/fabio/19072;70;silver;Sydney FC;AUS 1;Brasil;71;67;47;67;43;79
-18521;ibrahim sissoko;19073;https://www.futwiz.com/en/fc24/player/ibrahim-sissoko/19073;71;silver;AS Saint-Atienne;FRA 2;Mali;74;73;54;66;32;74
-18522;joao neves;19074;https://www.futwiz.com/en/fc24/player/joao-neves/19074;71;silver;SL Benfica;POR 1;Portugal;69;58;71;73;62;53
-18523;m'baye niang;19075;https://www.futwiz.com/en/fc24/player/mbaye-niang/19075;71;silver;Adana Demirspor;TUR 1;Senegal;73;73;65;70;31;69
-18524;javi guerra;19076;https://www.futwiz.com/en/fc24/player/javi-guerra/19076;71;silver;Valencia CF;ESP 1;España;59;65;68;69;68;61
-18525;lennard maloney;19079;https://www.futwiz.com/en/fc24/player/lennard-maloney/19079;71;silver;Heidenheim;GER 1;Estados Unidos;59;44;56;60;71;84
-18526;eider arana;19080;https://www.futwiz.com/en/fc24/player/eider-arana/19080;71;silver;SD Eibar;ESP F;España;58;47;54;55;71;73
-18527;hapsatou diallo;19082;https://www.futwiz.com/en/fc24/player/hapsatou-diallo/19082;72;silver;SD Eibar;ESP F;Senegal;82;70;69;72;40;75
-18528;carlos coronel;19084;https://www.futwiz.com/en/fc24/player/carlos-coronel/19084;72;silver;Red Bulls;MLS;Paraguay;71;70;73;73;39;71
-18529;joao pedro;19085;https://www.futwiz.com/en/fc24/player/joao-pedro/19085;72;silver;Al Taawoun;SAU 1;Brasil;65;75;51;67;25;80
-18530;jean-kevin duverne;19086;https://www.futwiz.com/en/fc24/player/jean-kevin-duverne/19086;72;silver;FC Nantes;FRA 1;Francia;62;38;62;69;75;74
-18531;bruno varela;19088;https://www.futwiz.com/en/fc24/player/bruno-varela/19088;72;silver;VitA3ria SC;POR 1;C. Verde;72;70;63;74;39;71
-18532;olga ahtinen;19089;https://www.futwiz.com/en/fc24/player/olga-ahtinen/19089;72;silver;Spurs;;Finlandia;64;61;64;71;58;62
-18533;carlos mane;19091;https://www.futwiz.com/en/fc24/player/carlos-mane/19091;73;silver;Kayserispor;TUR 1;Guinea-B.;90;68;65;77;41;50
-18534;mariano;19093;https://www.futwiz.com/en/fc24/player/mariano/19093;73;silver;Sevilla FC;ESP 1;Rep. Dom.;72;74;61;70;45;76
-18535;samuel adegbenro;19094;https://www.futwiz.com/en/fc24/player/samuel-adegbenro/19094;73;silver;Viking FK;NOR 1;Nigeria;90;70;62;76;39;74
-18536;tiemoue bakayoko;19096;https://www.futwiz.com/en/fc24/player/tiemoue-bakayoko/19096;73;silver;FC Lorient;FRA 1;Francia;51;50;65;67;72;80
-18537;dimitry bertaud;19097;https://www.futwiz.com/en/fc24/player/dimitry-bertaud/19097;73;silver;Montpellier;FRA 1;RD Congo;73;69;72;75;53;72
-18538;niko gieselmann;19098;https://www.futwiz.com/en/fc24/player/niko-gieselmann/19098;73;silver;FA 1/4rth;GER 2;Alemania;63;60;71;68;70;74
-18539;oscar gloukh;19100;https://www.futwiz.com/en/fc24/player/oscar-gloukh/19100;73;silver;RB Salzburg;AUT 1;Israel;75;68;70;80;36;49
-18540;mauricio isla;19101;https://www.futwiz.com/en/fc24/player/mauricio-isla/19101;74;silver;Independiente;ARG 1;Chile;74;53;72;73;70;71
-18541;tom davies;19102;https://www.futwiz.com/en/fc24/player/tom-davies/19102;74;silver;Sheffield Utd;ENG 1;Inglaterra;62;64;73;74;69;69
-18542;andros townsend;19103;https://www.futwiz.com/en/fc24/player/andros-townsend/19103;74;silver;Luton Town;ENG 1;Inglaterra;66;74;76;77;38;59
-18543;laura perez;19104;https://www.futwiz.com/en/fc24/player/laura-perez/19104;74;silver;Granada CF;ESP F;España;74;69;71;74;54;65
-18544;andreas bouchalakis;19105;https://www.futwiz.com/en/fc24/player/andreas-bouchalakis/19105;74;silver;Hertha Berlin;GER 2;Grecia;57;70;73;71;71;77
-18545;lauri;19106;https://www.futwiz.com/en/fc24/player/lauri/19106;74;silver;Granada CF;ESP F;España;75;75;73;75;44;76
-18546;anissa lahmari;19107;https://www.futwiz.com/en/fc24/player/anissa-lahmari/19107;74;silver;FC Levante Las Planas;ESP F;Marruecos;71;71;72;77;64;65
-18547;georges-kevin nkoudou;19108;https://www.futwiz.com/en/fc24/player/georges-kevin-nkoudou/19108;74;silver;Damac FC;SAU 1;Camerun;93;67;68;78;34;58
-18548;gustavo sauer;19109;https://www.futwiz.com/en/fc24/player/gustavo-sauer/19109;74;silver;Aaykur Rizespor;TUR 1;Brasil;71;71;74;77;55;72
-18549;ibrahima sissoko;19110;https://www.futwiz.com/en/fc24/player/ibrahima-sissoko/19110;74;silver;Strasbourg;FRA 1;Mali;59;60;70;68;72;84
-18550;nampalys mendy;19112;https://www.futwiz.com/en/fc24/player/nampalys-mendy/19112;74;silver;RC Lens;FRA 1;Senegal;57;54;70;75;73;65
-18551;jordan torunarigha;19113;https://www.futwiz.com/en/fc24/player/jordan-torunarigha/19113;74;silver;KAA Gent;BEL 1;Nigeria;85;41;63;65;74;75
-18552;costinha;19114;https://www.futwiz.com/en/fc24/player/costinha/19114;74;silver;Rio Ave FC;POR 1;Portugal;71;52;61;68;72;75
-18553;capa;19116;https://www.futwiz.com/en/fc24/player/capa/19116;74;silver;Levante UD;ESP 2;España;72;64;70;70;72;78
-18554;matija nastasic;19118;https://www.futwiz.com/en/fc24/player/matija-nastasic/19118;74;silver;RCD Mallorca;ESP 1;Serbia;61;36;62;56;74;73
-18555;rayan ait-nouri;19119;https://www.futwiz.com/en/fc24/player/rayan-ait-nouri/19119;75;gold;Wolves;ENG 1;Argelia;80;53;70;77;71;65
-18556;joao moutinho;19120;https://www.futwiz.com/en/fc24/player/joao-moutinho/19120;75;gold;SC Braga;POR 1;Portugal;41;69;78;76;67;63
-18557;nikola krstovic;19123;https://www.futwiz.com/en/fc24/player/nikola-krstovic/19123;75;gold;Lecce;ITA 1;Montenegro;69;75;55;70;26;74
-18558;josuha guilavogui;19124;https://www.futwiz.com/en/fc24/player/josuha-guilavogui/19124;75;gold;1. FSV Mainz 05;GER 1;Francia;64;59;64;64;75;78
-18559;kyra cooney-cross;19125;https://www.futwiz.com/en/fc24/player/kyra-cooney-cross/19125;75;gold;Arsenal;;Australia;76;74;74;74;68;70
-18560;nicola sansone;19126;https://www.futwiz.com/en/fc24/player/nicola-sansone/19126;75;gold;Lecce;ITA 1;Italia;77;71;71;79;44;54
-18561;andres fernandez;19127;https://www.futwiz.com/en/fc24/player/andres-fernandez/19127;75;gold;Levante UD;ESP 2;España;73;71;71;76;57;78
-18562;federico mancuello;19128;https://www.futwiz.com/en/fc24/player/federico-mancuello/19128;75;gold;Independiente;ARG 1;Argentina;67;69;80;76;56;63
-18563;mario balotelli;19130;https://www.futwiz.com/en/fc24/player/mario-balotelli/19130;75;gold;Adana Demirspor;TUR 1;Italia;61;79;71;74;22;78
-18564;vinicius souza;19132;https://www.futwiz.com/en/fc24/player/vinicius-souza/19132;75;gold;Sheffield Utd;ENG 1;Brasil;66;49;61;67;76;81
-18565;salvatore sirigu;19133;https://www.futwiz.com/en/fc24/player/salvatore-sirigu/19133;75;gold;OGC Nice;FRA 1;Italia;75;70;70;74;44;77
-18566;jonny evans;19134;https://www.futwiz.com/en/fc24/player/jonny-evans/19134;75;gold;Manchester Utd;ENG 1;Irlanda N.;37;32;62;58;78;69
-18567;andrea tarazona;19135;https://www.futwiz.com/en/fc24/player/andrea-tarazona/19135;76;gold;Levante UD;ESP F;España;74;71;72;81;34;78
-18568;steven nzonzi;19136;https://www.futwiz.com/en/fc24/player/steven-nzonzi/19136;76;gold;Konyaspor;TUR 1;Francia;37;56;69;67;75;82
-18569;adama traore;19138;https://www.futwiz.com/en/fc24/player/adama-traore/19138;76;gold;Fulham;ENG 1;España;93;65;66;83;39;81
-18570;oscar romero;19139;https://www.futwiz.com/en/fc24/player/oscar-romero/19139;76;gold;Pendikspor;TUR 1;Paraguay;74;69;77;79;65;66
-18571;martha thomas;19140;https://www.futwiz.com/en/fc24/player/martha-thomas/19140;76;gold;Spurs;;Escocia;78;76;59;76;39;70
-18572;roque mesa;19141;https://www.futwiz.com/en/fc24/player/roque-mesa/19141;76;gold;R. Sporting;ESP 2;España;66;68;76;75;69;79
-18573;naima garcia;19142;https://www.futwiz.com/en/fc24/player/naima-garcia/19142;76;gold;Granada CF;ESP F;España;77;71;74;74;47;64
-18574;julie thibaud;19144;https://www.futwiz.com/en/fc24/player/julie-thibaud/19144;77;gold;Leicester City;;Francia;42;47;56;62;80;76
-18575;alex oxlade-chamberlain;19146;https://www.futwiz.com/en/fc24/player/alex-oxlade-chamberlain/19146;77;gold;BeAiktaA;TUR 1;Inglaterra;78;74;76;81;67;72
-18576;juan fernando quintero;19147;https://www.futwiz.com/en/fc24/player/juan-fernando-quintero/19147;77;gold;Racing Club;LIB;Colombia;68;75;79;81;38;52
-18577;jonathan bamba;19148;https://www.futwiz.com/en/fc24/player/jonathan-bamba/19148;77;gold;RC Celta;ESP 1;C. Marfil;83;73;73;79;39;67
-18578;clare hunt;19149;https://www.futwiz.com/en/fc24/player/clare-hunt/19149;77;gold;Paris SG;FRA F;Australia;66;45;60;63;79;72
-18579;santi cazorla;19150;https://www.futwiz.com/en/fc24/player/santi-cazorla/19150;77;gold;R. Oviedo;ESP 2;España;61;74;82;79;65;59
-18580;amine adli;19151;https://www.futwiz.com/en/fc24/player/amine-adli/19151;77;gold;Leverkusen;GER 1;Marruecos;81;75;69;82;41;68
-18581;megan connolly;19152;https://www.futwiz.com/en/fc24/player/megan-connolly/19152;77;gold;Bristol City;;Rep. Irlanda;64;57;73;71;77;72
-18582;katie stengel;19154;https://www.futwiz.com/en/fc24/player/katie-stengel/19154;77;gold;Gotham FC;USA F;Estados Unidos;72;78;61;73;33;74
-18583;odion ighalo;19155;https://www.futwiz.com/en/fc24/player/odion-ighalo/19155;77;gold;Al Wehda;SAU 1;Nigeria;62;78;65;73;43;84
-18584;riko ueki;19156;https://www.futwiz.com/en/fc24/player/riko-ueki/19156;77;gold;West Ham;;Japon;70;78;62;74;46;67
-18585;romain saiss;19157;https://www.futwiz.com/en/fc24/player/romain-saiss/19157;78;gold;Al Shabab;SAU 1;Marruecos;59;56;70;66;78;81
-18586;sarah puntigam;19158;https://www.futwiz.com/en/fc24/player/sarah-puntigam/19158;78;gold;Houston Dash;USA F;Austria;45;59;74;76;79;83
-18587;simon banza;19159;https://www.futwiz.com/en/fc24/player/simon-banza/19159;78;gold;SC Braga;POR 1;RD Congo;74;78;55;76;31;77
-18588;roberto pereyra;19160;https://www.futwiz.com/en/fc24/player/roberto-pereyra/19160;78;gold;Udinese;ITA 1;Argentina;77;74;78;81;68;71
-18589;deanne rose;19162;https://www.futwiz.com/en/fc24/player/deanne-rose/19162;78;gold;Leicester City;;Canada;90;76;73;81;36;73
-18590;charlotte voll;19163;https://www.futwiz.com/en/fc24/player/charlotte-voll/19163;78;gold;Leverkusen;GER F;Alemania;77;76;74;79;47;76
-18591;evan ndicka;19164;https://www.futwiz.com/en/fc24/player/evan-ndicka/19164;78;gold;Roma FC;ITA 1;C. Marfil;77;53;72;71;77;79
-18592;erin nayler;19165;https://www.futwiz.com/en/fc24/player/erin-nayler/19165;78;gold;FC Bayern MA 1/4nchen;GER F;N. Zelanda;78;73;72;81;32;75
-18593;amine gouiri;19167;https://www.futwiz.com/en/fc24/player/amine-gouiri/19167;79;gold;Stade Rennais FC;FRA 1;Argelia;76;81;76;80;45;71
-18594;maitane;19168;https://www.futwiz.com/en/fc24/player/maitane/19168;79;gold;Gotham FC;USA F;España;70;70;76;74;78;82
-18595;lauren leal;19170;https://www.futwiz.com/en/fc24/player/lauren-leal/19170;79;gold;Kansas City Current;USA F;Brasil;72;33;55;63;82;74
-18596;laurita;19171;https://www.futwiz.com/en/fc24/player/laurita/19171;79;gold;Madrid CFF;ESP F;España;77;54;75;76;77;61
-18597;tatiana pinto;19173;https://www.futwiz.com/en/fc24/player/tatiana-pinto/19173;80;gold;Brighton;;Portugal;76;77;76;79;67;66
-18598;alexis sanchez;19174;https://www.futwiz.com/en/fc24/player/alexis-sanchez/19174;81;gold;Inter;ITA 1;Chile;71;83;80;85;48;66
-18599;tabitha chawinga;19175;https://www.futwiz.com/en/fc24/player/tabitha-chawinga/19175;81;gold;Paris SG;FRA F;Malawi;88;80;69;80;36;74
-18600;tanja pawollek;19176;https://www.futwiz.com/en/fc24/player/tanja-pawollek/19176;82;gold;Frankfurt;GER F;Polonia;56;76;77;79;78;77
-18601;rafaelle;19177;https://www.futwiz.com/en/fc24/player/rafaelle/19177;82;gold;Orlando Pride;USA F;Brasil;64;39;68;65;83;79
-18602;anaig butel;19179;https://www.futwiz.com/en/fc24/player/anaig-butel/19179;82;gold;Washington Spirit;USA F;Francia;64;42;65;65;84;77
-18603;sergio ramos;19180;https://www.futwiz.com/en/fc24/player/sergio-ramos/19180;83;gold;Sevilla FC;ESP 1;España;57;69;73;70;83;76
-18604;ismael bennacer;19181;https://www.futwiz.com/en/fc24/player/ismael-bennacer/19181;87;37;Milan;ITA 1;Argelia;82;78;84;88;82;81
-18605;adama traore;19182;https://www.futwiz.com/en/fc24/player/adama-traore/19182;87;90;Fulham;ENG 1;España;95;81;77;85;73;85
-18606;harry maguire;19183;https://www.futwiz.com/en/fc24/player/harry-maguire/19183;86;43;Manchester Utd;ENG 1;Inglaterra;82;64;74;80;86;88
-18607;paulo dybala;19184;https://www.futwiz.com/en/fc24/player/paulo-dybala/19184;89;114;Roma FC;ITA 1;Argentina;86;90;89;93;43;63
-18608;zinedine zidane;19185;https://www.futwiz.com/en/fc24/player/zinedine-zidane/19185;95;85;Icons;ICO;Francia;84;91;95;95;76;85
-18609;rivaldo;19186;https://www.futwiz.com/en/fc24/player/rivaldo/19186;91;85;Icons;ICO;Brasil;90;90;88;92;44;76
-18610;paolo maldini;19187;https://www.futwiz.com/en/fc24/player/paolo-maldini/19187;93;85;Icons;ICO;Italia;87;56;76;70;96;84
-18611;lena oberdorf;19188;https://www.futwiz.com/en/fc24/player/lena-oberdorf/19188;90;95;VfL Wolfsburg;GER F;Alemania;76;64;78;77;88;90
-18612;gheorghe hagi;19189;https://www.futwiz.com/en/fc24/player/gheorghe-hagi/19189;90;85;Icons;ICO;Rumania;85;88;90;90;44;67
-18613;patrick kluivert;19190;https://www.futwiz.com/en/fc24/player/patrick-kluivert/19190;89;85;Icons;ICO;Holanda;91;88;80;83;42;81
-18614;juan sebastian veron;19191;https://www.futwiz.com/en/fc24/player/juan-sebastian-veron/19191;89;85;Icons;ICO;Argentina;81;83;89;84;80;83
-18615;florian wirtz;19192;https://www.futwiz.com/en/fc24/player/florian-wirtz/19192;89;95;Leverkusen;GER 1;Alemania;82;84;88;90;58;70
-18616;rivaldo;19193;https://www.futwiz.com/en/fc24/player/rivaldo/19193;89;85;Icons;ICO;Brasil;89;86;85;93;40;78
-18617;gheorghe hagi;19194;https://www.futwiz.com/en/fc24/player/gheorghe-hagi/19194;89;85;Icons;ICO;Rumania;84;87;89;89;42;66
-18618;lauren james;19195;https://www.futwiz.com/en/fc24/player/lauren-james/19195;88;95;Chelsea;;Inglaterra;91;82;86;89;36;85
-18619;patrick kluivert;19196;https://www.futwiz.com/en/fc24/player/patrick-kluivert/19196;88;85;Icons;ICO;Holanda;87;87;78;82;41;80
-18620;theo hernandez;19197;https://www.futwiz.com/en/fc24/player/theo-hernandez/19197;88;95;Milan;ITA 1;Francia;95;76;80;83;81;86
-18621;lucas hernandez;19198;https://www.futwiz.com/en/fc24/player/lucas-hernandez/19198;88;84;Paris SG;FRA 1;Francia;84;60;74;74;88;84
-18622;henrik larsson;19199;https://www.futwiz.com/en/fc24/player/henrik-larsson/19199;88;85;Icons;ICO;Suecia;90;88;75;85;47;75
-18623;reece james;19200;https://www.futwiz.com/en/fc24/player/reece-james/19200;88;95;Chelsea;ENG 1;Inglaterra;90;78;86;85;85;84
-18624;edouard mendy;19201;https://www.futwiz.com/en/fc24/player/edouard-mendy/19201;87;95;Al Ahli;SAU 1;Senegal;84;83;86;88;40;87
-18625;henrik larsson;19202;https://www.futwiz.com/en/fc24/player/henrik-larsson/19202;87;85;Icons;ICO;Suecia;88;87;74;84;46;73
-18626;marcus thuram;19203;https://www.futwiz.com/en/fc24/player/marcus-thuram/19203;87;95;Inter;ITA 1;Francia;90;84;80;85;56;84
-18627;rasmus hojlund;19204;https://www.futwiz.com/en/fc24/player/rasmus-hojlund/19204;87;95;Manchester Utd;ENG 1;Dinamarca;90;85;70;83;40;84
-18628;nico schlotterbeck;19205;https://www.futwiz.com/en/fc24/player/nico-schlotterbeck/19205;87;95;Borussia Dortmund;GER 1;Alemania;81;65;72;77;87;85
-18629;ferland mendy;19206;https://www.futwiz.com/en/fc24/player/ferland-mendy/19206;87;95;Real Madrid;ESP 1;Francia;96;75;82;81;81;90
-18630;leroy sane;19207;https://www.futwiz.com/en/fc24/player/leroy-sane/19207;87;95;FC Bayern MA 1/4nchen;GER 1;Alemania;93;85;84;88;41;76
-18631;juan sebastian veron;19208;https://www.futwiz.com/en/fc24/player/juan-sebastian-veron/19208;87;85;Icons;ICO;Argentina;77;82;87;82;75;82
-18632;jurrien timber;19209;https://www.futwiz.com/en/fc24/player/jurrien-timber/19209;86;95;Arsenal;ENG 1;Holanda;84;56;75;84;85;85
-18633;inaki williams;19210;https://www.futwiz.com/en/fc24/player/inaki-williams/19210;86;95;Athletic Club;ESP 1;Ghana;96;83;77;84;50;88
-18634;juliane wirtz;19211;https://www.futwiz.com/en/fc24/player/juliane-wirtz/19211;86;95;SV Werder Bremen;GER F;Alemania;80;77;84;84;86;82
-18635;tim oberdorf;19212;https://www.futwiz.com/en/fc24/player/tim-oberdorf/19212;85;95;DA 1/4sseldorf;GER 2;Alemania;85;60;73;75;82;84
-18636;daniel maldini;19213;https://www.futwiz.com/en/fc24/player/daniel-maldini/19213;85;84;Empoli;ITA 1;Italia;91;82;85;90;60;80
-18637;ianis hagi;19214;https://www.futwiz.com/en/fc24/player/ianis-hagi/19214;85;95;D. AlavA(c)s;ESP 1;Rumania;80;84;85;86;47;74
-18638;jonatan braut-brunes;19215;https://www.futwiz.com/en/fc24/player/jonatan-braut-brunes/19215;85;95;OH Leuven;BEL 1;Noruega;90;82;75;84;62;90
-18639;quinten timber;19216;https://www.futwiz.com/en/fc24/player/quinten-timber/19216;85;95;Feyenoord;NED 1;Holanda;84;73;80;88;80;86
-18640;sidi sane;19217;https://www.futwiz.com/en/fc24/player/sidi-sane/19217;85;95;Braunschweig;GER 2;Alemania;88;82;83;86;66;85
-18641;oscar hojlund;19218;https://www.futwiz.com/en/fc24/player/oscar-hojlund/19218;85;95;F.C. KA,benhavn;DEN 1;Dinamarca;85;66;77;80;78;82
-18642;jordan larsson;19219;https://www.futwiz.com/en/fc24/player/jordan-larsson/19219;85;95;F.C. KA,benhavn;DEN 1;Suecia;90;81;80;84;44;78
-18643;deian veron;19220;https://www.futwiz.com/en/fc24/player/deian-veron/19220;85;95;Estudiantes;SUD;Argentina;83;75;81;84;74;86
-18644;erling haaland;19221;https://www.futwiz.com/en/fc24/player/erling-haaland/19221;94;95;Manchester City;ENG 1;Noruega;93;96;72;86;53;94
-18645;justin kluivert;19222;https://www.futwiz.com/en/fc24/player/justin-kluivert/19222;86;95;AFC Bournemouth;ENG 1;Holanda;93;83;81;89;47;75
-18646;zinedine zidane;19223;https://www.futwiz.com/en/fc24/player/zinedine-zidane/19223;92;85;Icons;ICO;Francia;85;86;90;90;70;87
-18647;paolo maldini;19224;https://www.futwiz.com/en/fc24/player/paolo-maldini/19224;90;85;Icons;ICO;Italia;87;58;76;78;90;77
-18648;khephren thuram;19225;https://www.futwiz.com/en/fc24/player/khephren-thuram/19225;87;95;OGC Nice;FRA 1;Francia;80;80;84;85;83;87
-18649;erling haaland;19226;https://www.futwiz.com/en/fc24/player/erling-haaland/19226;87;81;Manchester City;ENG 1;Noruega;94;84;65;84;41;81
-18650;luca zidane;19227;https://www.futwiz.com/en/fc24/player/luca-zidane/19227;87;95;SD Eibar;ESP 2;Francia;87;83;82;86;53;87
-18651;nico williams;19228;https://www.futwiz.com/en/fc24/player/nico-williams/19228;86;95;Athletic Club;ESP 1;España;95;80;80;88;40;67
-18652;keven schlotterbeck;19229;https://www.futwiz.com/en/fc24/player/keven-schlotterbeck/19229;86;95;VfL Bochum;GER 1;Alemania;80;41;65;68;86;87
-18653;rivaldinho;19230;https://www.futwiz.com/en/fc24/player/rivaldinho/19230;85;95;Farul ConstanEa;ROM 1;Brasil;87;85;80;85;54;88
-18654;emil hojlund;19231;https://www.futwiz.com/en/fc24/player/emil-hojlund/19231;85;95;F.C. KA,benhavn;DEN 1;Dinamarca;88;84;76;84;57;89
-18655;heung min son;19232;https://www.futwiz.com/en/fc24/player/heung-min-son/19232;89;goldif;Spurs;ENG 1;Rep. Corea;89;91;84;86;45;73
-18656;john mcginn;19233;https://www.futwiz.com/en/fc24/player/john-mcginn/19233;86;goldif;Aston Villa;ENG 1;Escocia;78;82;83;84;81;88
-18657;federico gatti;19234;https://www.futwiz.com/en/fc24/player/federico-gatti/19234;86;goldif;Juventus;ITA 1;Italia;78;45;61;70;88;87
-18658;anderson talisca;19235;https://www.futwiz.com/en/fc24/player/anderson-talisca/19235;86;goldif;Al Nassr;SAU 1;Brasil;85;89;83;86;59;80
-18659;alexandre lacazette;19236;https://www.futwiz.com/en/fc24/player/alexandre-lacazette/19236;86;goldif;OL;FRA 1;Francia;77;87;81;86;48;80
-18660;mikel merino;19237;https://www.futwiz.com/en/fc24/player/mikel-merino/19237;86;goldif;Real Sociedad;ESP 1;España;75;81;85;84;86;84
-18661;pierre-emerick aubameyang;19238;https://www.futwiz.com/en/fc24/player/pierre-emerick-aubameyang/19238;86;goldif;OM;FRA 1;Gabon;89;87;81;84;41;72
-18662;ademola lookman;19239;https://www.futwiz.com/en/fc24/player/ademola-lookman/19239;85;goldif;Bergamo Calcio;ITA 1;Nigeria;90;85;75;89;35;73
-18663;james tavernier;19240;https://www.futwiz.com/en/fc24/player/james-tavernier/19240;85;goldif;Rangers;SPFL;Inglaterra;90;81;85;83;80;86
-18664;melvine malard;19241;https://www.futwiz.com/en/fc24/player/melvine-malard/19241;85;goldif;Manchester Utd;;Francia;84;83;82;86;43;70
-18665;predrag rajkovic;19242;https://www.futwiz.com/en/fc24/player/predrag-rajkovic/19242;84;goldif;RCD Mallorca;ESP 1;Serbia;84;83;81;87;32;86
-18666;rodrigo gomes;19243;https://www.futwiz.com/en/fc24/player/rodrigo-gomes/19243;83;goldif;Estoril Praia;POR 1;Portugal;94;76;73;87;67;66
-18667;junior dina ebimbe;19244;https://www.futwiz.com/en/fc24/player/junior-dina-ebimbe/19244;83;goldif;Frankfurt;GER 1;Francia;91;70;80;83;79;84
-18668;callum o'hare;19245;https://www.futwiz.com/en/fc24/player/callum-ohare/19245;83;goldif;Coventry City;ENG 2;Inglaterra;86;73;80;88;74;76
-18669;patrick mainka;19246;https://www.futwiz.com/en/fc24/player/patrick-mainka/19246;83;goldif;Heidenheim;GER 1;Alemania;75;50;61;63;85;89
-18670;arola aparicio;19247;https://www.futwiz.com/en/fc24/player/arola-aparicio/19247;83;goldif;Sevilla FC;ESP F;España;85;67;79;81;83;76
-18671;cristhian stuani;19248;https://www.futwiz.com/en/fc24/player/cristhian-stuani/19248;83;goldif;Girona FC;ESP 1;Uruguay;76;86;78;79;55;90
-18672;nene;19249;https://www.futwiz.com/en/fc24/player/nene/19249;83;goldif;Jagiellonia;POL 1;Portugal;80;80;80;82;80;88
-18673;deniz undav;19250;https://www.futwiz.com/en/fc24/player/deniz-undav/19250;86;42;VfB Stuttgart;GER 1;Alemania;81;90;83;86;44;84
-18674;kylian mbappe;19251;https://www.futwiz.com/en/fc24/player/kylian-mbappe/19251;93;68;Paris SG;FRA 1;Francia;98;92;84;94;40;81
-18675;bukayo saka;19252;https://www.futwiz.com/en/fc24/player/bukayo-saka/19252;91;68;Arsenal;ENG 1;Inglaterra;92;88;87;94;67;78
-18676;antoine griezmann;19253;https://www.futwiz.com/en/fc24/player/antoine-griezmann/19253;90;68;AtlA(c)tico de Madrid;ESP 1;Francia;83;91;91;90;62;78
-18677;jamal musiala;19254;https://www.futwiz.com/en/fc24/player/jamal-musiala/19254;90;68;FC Bayern MA 1/4nchen;GER 1;Alemania;89;82;82;94;67;66
-18678;jude bellingham;19255;https://www.futwiz.com/en/fc24/player/jude-bellingham/19255;89;68;Real Madrid;ESP 1;Inglaterra;80;81;82;88;82;85
-18679;luis alberto;19256;https://www.futwiz.com/en/fc24/player/luis-alberto/19256;89;68;Latium;ITA 1;España;81;85;90;90;70;66
-18680;nicolo barella;19257;https://www.futwiz.com/en/fc24/player/nicolo-barella/19257;89;68;Inter;ITA 1;Italia;83;82;85;88;83;85
-18681;joao cancelo;19258;https://www.futwiz.com/en/fc24/player/joao-cancelo/19258;89;68;FC Barcelona;ESP 1;Portugal;86;77;89;88;84;76
-18682;mats hummels;19259;https://www.futwiz.com/en/fc24/player/mats-hummels/19259;88;68;Borussia Dortmund;GER 1;Alemania;76;65;82;77;90;84
-18683;rodrygo;19260;https://www.futwiz.com/en/fc24/player/rodrygo/19260;88;68;Real Madrid;ESP 1;Brasil;91;86;84;91;34;67
-18684;rafael leao;19261;https://www.futwiz.com/en/fc24/player/rafael-leao/19261;88;68;Milan;ITA 1;Portugal;95;83;77;90;31;78
-18685;julian alvarez;19262;https://www.futwiz.com/en/fc24/player/julian-alvarez/19262;88;68;Manchester City;ENG 1;Argentina;87;89;85;91;65;84
-18686;jonathan clauss;19263;https://www.futwiz.com/en/fc24/player/jonathan-clauss/19263;88;69;OM;FRA 1;Francia;93;77;84;85;82;80
-18687;mehdi taremi;19264;https://www.futwiz.com/en/fc24/player/mehdi-taremi/19264;87;68;FC Porto;POR 1;Iran;84;87;82;87;43;80
-18688;phil foden;19265;https://www.futwiz.com/en/fc24/player/phil-foden/19265;87;68;Manchester City;ENG 1;Inglaterra;84;82;85;91;61;64
-18689;victor boniface;19266;https://www.futwiz.com/en/fc24/player/victor-boniface/19266;87;69;Leverkusen;GER 1;Nigeria;87;87;78;84;52;91
-18690;hakim ziyech;19267;https://www.futwiz.com/en/fc24/player/hakim-ziyech/19267;86;68;Galatasaray;TUR 1;Marruecos;80;81;88;86;57;72
-18691;ryan gravenberch;19268;https://www.futwiz.com/en/fc24/player/ryan-gravenberch/19268;86;69;Liverpool;ENG 1;Holanda;81;82;84;88;80;82
-18692;nick pope;19269;https://www.futwiz.com/en/fc24/player/nick-pope/19269;86;68;Newcastle Utd;ENG 1;Inglaterra;85;86;78;90;52;86
-18693;luca ranieri;19270;https://www.futwiz.com/en/fc24/player/luca-ranieri/19270;85;70;Fiorentina;ITA 1;Italia;83;54;73;80;86;78
-18694;david raum;19271;https://www.futwiz.com/en/fc24/player/david-raum/19271;85;68;RB Leipzig;GER 1;Alemania;91;70;84;85;78;85
-18695;jerdy schouten;19272;https://www.futwiz.com/en/fc24/player/jerdy-schouten/19272;85;68;PSV;NED 1;Holanda;74;67;81;85;85;82
-18696;harry kane;19273;https://www.futwiz.com/en/fc24/player/harry-kane/19273;93;68;FC Bayern MA 1/4nchen;GER 1;Inglaterra;80;96;88;88;52;87
-18697;giovanni di lorenzo;19274;https://www.futwiz.com/en/fc24/player/giovanni-di-lorenzo/19274;87;68;Napoli FC;ITA 1;Italia;90;70;79;81;84;84
-18698;patri guijarro;19275;https://www.futwiz.com/en/fc24/player/patri-guijarro/19275;90;31;FC Barcelona;ESP F;España;81;84;86;89;84;75
-18699;magdalena eriksson;19276;https://www.futwiz.com/en/fc24/player/magdalena-eriksson/19276;87;31;FC Bayern MA 1/4nchen;GER F;Suecia;80;49;75;70;88;85
-18700;tabitha chawinga;19277;https://www.futwiz.com/en/fc24/player/tabitha-chawinga/19277;87;31;Paris SG;FRA F;Malawi;92;86;75;86;44;80
-18701;laura freigang;19278;https://www.futwiz.com/en/fc24/player/laura-freigang/19278;86;31;Frankfurt;GER F;Alemania;87;88;75;86;29;76
-18702;hayley raso;19279;https://www.futwiz.com/en/fc24/player/hayley-raso/19279;86;58;Real Madrid;ESP F;Australia;93;80;77;85;48;72
-18703;julie dufour;19280;https://www.futwiz.com/en/fc24/player/julie-dufour/19280;86;31;Paris FC;FRA F;Francia;91;80;83;89;57;68
-18704;daphne corboz;19281;https://www.futwiz.com/en/fc24/player/daphne-corboz/19281;88;57;Paris FC;FRA F;Francia;82;84;91;87;80;78
-18705;javier burrai;19282;https://www.futwiz.com/en/fc24/player/javier-burrai/19282;76;53;Barcelona SC;LIB;Ecuador;76;72;70;77;44;75
-18706;virgil van dijk;19283;https://www.futwiz.com/en/fc24/player/virgil-van-dijk/19283;89;123;Liverpool;ENG 1;Holanda;78;61;75;73;87;84
-18707;jack grealish;19284;https://www.futwiz.com/en/fc24/player/jack-grealish/19284;86;123;Manchester City;ENG 1;Inglaterra;83;77;85;89;54;74
-18708;florian wirtz;19285;https://www.futwiz.com/en/fc24/player/florian-wirtz/19285;86;123;Leverkusen;GER 1;Alemania;75;77;84;88;53;64
-18709;ousmane dembele;19286;https://www.futwiz.com/en/fc24/player/ousmane-dembele/19286;86;123;Paris SG;FRA 1;Francia;92;77;82;87;36;58
-18710;morata;19287;https://www.futwiz.com/en/fc24/player/morata/19287;85;123;AtlA(c)tico de Madrid;ESP 1;España;84;84;74;81;33;81
-18711;federico chiesa;19288;https://www.futwiz.com/en/fc24/player/federico-chiesa/19288;84;123;Juventus;ITA 1;Italia;91;82;77;86;54;76
-18712;vincenzo grifo;19289;https://www.futwiz.com/en/fc24/player/vincenzo-grifo/19289;86;69;SC Freiburg;GER 1;Italia;91;84;86;87;52;74
-18713;victor osimhen;19290;https://www.futwiz.com/en/fc24/player/victor-osimhen/19290;89;goldif;Napoli FC;ITA 1;Nigeria;91;87;68;85;43;83
-18714;zubeldia;19291;https://www.futwiz.com/en/fc24/player/zubeldia/19291;88;68;Real Sociedad;ESP 1;España;80;72;83;81;86;88
-18715;luka modric;19292;https://www.futwiz.com/en/fc24/player/luka-modric/19292;88;goldif;Real Madrid;ESP 1;Croacia;74;77;90;88;73;68
-18716;kim min jae;19293;https://www.futwiz.com/en/fc24/player/kim-min-jae/19293;87;goldif;FC Bayern MA 1/4nchen;GER 1;Rep. Corea;84;36;61;68;88;87
-18717;allan saint-maximin;19294;https://www.futwiz.com/en/fc24/player/allan-saint-maximin/19294;86;goldif;Al Ahli;SAU 1;Francia;93;81;80;91;33;73
-18718;raphael varane;19295;https://www.futwiz.com/en/fc24/player/raphael-varane/19295;86;goldif;Manchester Utd;ENG 1;Francia;80;50;65;69;87;80
-18719;artem dovbyk;19296;https://www.futwiz.com/en/fc24/player/artem-dovbyk/19296;86;goldif;Girona FC;ESP 1;Ucrania;90;87;74;82;44;89
-18720;pietro terracciano;19297;https://www.futwiz.com/en/fc24/player/pietro-terracciano/19297;85;goldif;Fiorentina;ITA 1;Italia;87;86;81;89;47;87
-18721;mohammed kudus;19298;https://www.futwiz.com/en/fc24/player/mohammed-kudus/19298;84;goldif;West Ham;ENG 1;Ghana;93;79;76;89;64;80
-18722;kevin mac allister;19299;https://www.futwiz.com/en/fc24/player/kevin-mac-allister/19299;83;goldif;R. Union St.-G.;BEL 1;Argentina;82;61;69;80;82;86
-18723;finn azaz;19300;https://www.futwiz.com/en/fc24/player/finn-azaz/19300;83;goldif;Plymouth Argyle;ENG 2;Rep. Irlanda;88;78;80;83;71;82
-18724;esperanza pizarro;19301;https://www.futwiz.com/en/fc24/player/esperanza-pizarro/19301;83;goldif;SD Eibar;ESP F;Uruguay;83;84;83;84;66;79
-18725;emmanuel sabbi;19302;https://www.futwiz.com/en/fc24/player/emmanuel-sabbi/19302;83;goldif;Havre AC;FRA 1;Estados Unidos;93;77;72;86;54;75
-18726;lena ostermeier;19303;https://www.futwiz.com/en/fc24/player/lena-ostermeier/19303;83;goldif;SGS Essen;GER F;Alemania;73;60;77;79;85;83
-18727;andre luis;19304;https://www.futwiz.com/en/fc24/player/andre-luis/19304;83;goldif;Moreirense FC;POR 1;Brasil;83;84;65;82;38;84
-18728;rafa mujica;19305;https://www.futwiz.com/en/fc24/player/rafa-mujica/19305;83;goldif;Arouca;POR 1;España;83;86;75;85;47;81
-18729;ismael saibari;19306;https://www.futwiz.com/en/fc24/player/ismael-saibari/19306;83;goldif;PSV;NED 1;Marruecos;89;79;79;85;56;85
-18730;takuma asano;19307;https://www.futwiz.com/en/fc24/player/takuma-asano/19307;83;goldif;VfL Bochum;GER 1;Japon;93;74;68;84;38;74
-18731;joel pereira;19308;https://www.futwiz.com/en/fc24/player/joel-pereira/19308;83;goldif;Lech PoznaA;POL 1;Portugal;86;54;80;80;77;79
-18732;elye wahi;19309;https://www.futwiz.com/en/fc24/player/elye-wahi/19309;86;117;RC Lens;FRA 1;Francia;92;84;80;90;41;77
-18733;lukas podolski;19310;https://www.futwiz.com/en/fc24/player/lukas-podolski/19310;86;117;GA3rnik Zabrze;POL 1;Alemania;78;99;82;87;45;88
-18734;kylian mbappe;19311;https://www.futwiz.com/en/fc24/player/kylian-mbappe/19311;93;79;Paris SG;FRA 1;Francia;98;92;83;94;39;80
-18735;brahim;19312;https://www.futwiz.com/en/fc24/player/brahim/19312;87;7;Real Madrid;ESP 1;España;88;80;85;90;35;57
-18736;pele;19313;https://www.futwiz.com/en/fc24/player/pele/19313;96;35;Icons;ICO;Brasil;94;95;90;95;59;80
-18737;alexia putellas;19314;https://www.futwiz.com/en/fc24/player/alexia-putellas/19314;92;117;FC Barcelona;ESP F;España;83;91;92;93;74;80
-18738;marco van basten;19315;https://www.futwiz.com/en/fc24/player/marco-van-basten/19315;92;35;Icons;ICO;Holanda;84;87;90;88;40;72
-18739;virgil van dijk;19316;https://www.futwiz.com/en/fc24/player/virgil-van-dijk/19316;91;117;Liverpool;ENG 1;Holanda;80;63;75;75;91;88
-18740;cristiano ronaldo;19317;https://www.futwiz.com/en/fc24/player/cristiano-ronaldo/19317;91;117;Al Nassr;SAU 1;Portugal;87;93;80;89;39;78
-18741;didier drogba;19318;https://www.futwiz.com/en/fc24/player/didier-drogba/19318;91;35;Icons;ICO;C. Marfil;89;92;76;82;46;91
-18742;gary lineker;19319;https://www.futwiz.com/en/fc24/player/gary-lineker/19319;91;35;Icons;ICO;Inglaterra;90;86;75;89;43;75
-18743;ruud van nistelrooy;19320;https://www.futwiz.com/en/fc24/player/ruud-van-nistelrooy/19320;91;35;Icons;ICO;Holanda;84;89;83;85;67;90
-18744;alex morgan;19321;https://www.futwiz.com/en/fc24/player/alex-morgan/19321;90;117;San Diego Wave FC;USA F;Estados Unidos;84;90;81;90;48;79
-18745;gabriel martinelli;19322;https://www.futwiz.com/en/fc24/player/gabriel-martinelli/19322;89;117;Arsenal;ENG 1;Brasil;92;83;82;90;49;75
-18746;michael owen;19323;https://www.futwiz.com/en/fc24/player/michael-owen/19323;89;35;Icons;ICO;Inglaterra;90;82;77;90;36;68
-18747;paulo dybala;19324;https://www.futwiz.com/en/fc24/player/paulo-dybala/19324;89;117;Roma FC;ITA 1;Argentina;85;91;89;92;44;64
-18748;marco reus;19325;https://www.futwiz.com/en/fc24/player/marco-reus/19325;89;117;Borussia Dortmund;GER 1;Alemania;82;87;87;90;58;69
-18749;ruud gullit;19326;https://www.futwiz.com/en/fc24/player/ruud-gullit/19326;89;35;Icons;ICO;Holanda;83;82;86;85;85;80
-18750;fernando torres;19327;https://www.futwiz.com/en/fc24/player/fernando-torres/19327;89;35;Icons;ICO;España;91;89;77;87;45;78
-18751;eder militao;19328;https://www.futwiz.com/en/fc24/player/eder-militao/19328;88;117;Real Madrid;ESP 1;Brasil;86;53;72;74;88;84
-18752;grimaldo;19329;https://www.futwiz.com/en/fc24/player/grimaldo/19329;88;117;Leverkusen;GER 1;España;87;81;87;89;80;78
-18753;ian rush;19330;https://www.futwiz.com/en/fc24/player/ian-rush/19330;88;35;Icons;ICO;Gales;83;80;88;88;78;84
-18754;raphinha;19331;https://www.futwiz.com/en/fc24/player/raphinha/19331;87;117;FC Barcelona;ESP 1;Brasil;93;82;81;90;57;77
-18755;marcos llorente;19332;https://www.futwiz.com/en/fc24/player/marcos-llorente/19332;87;117;AtlA(c)tico de Madrid;ESP 1;España;89;87;83;84;72;81
-18756;enzo fernandez;19333;https://www.futwiz.com/en/fc24/player/enzo-fernandez/19333;87;117;Chelsea;ENG 1;Argentina;80;79;87;86;81;85
-18757;balde;19334;https://www.futwiz.com/en/fc24/player/balde/19334;86;117;FC Barcelona;ESP 1;España;96;53;80;83;80;69
-18758;jonathan bamba;19335;https://www.futwiz.com/en/fc24/player/jonathan-bamba/19335;86;117;RC Celta;ESP 1;C. Marfil;91;82;81;87;55;75
-18759;eberechi eze;19336;https://www.futwiz.com/en/fc24/player/eberechi-eze/19336;85;117;Crystal Palace;ENG 1;Inglaterra;81;80;99;86;54;73
-18760;georginio wijnaldum;19337;https://www.futwiz.com/en/fc24/player/georginio-wijnaldum/19337;85;117;Ettifaq FC;SAU 1;Holanda;72;76;81;84;80;99
-18761;rayan cherki;19338;https://www.futwiz.com/en/fc24/player/rayan-cherki/19338;84;117;OL;FRA 1;Francia;83;76;81;92;30;75
-18762;domenico berardi;19339;https://www.futwiz.com/en/fc24/player/domenico-berardi/19339;89;117;Sassuolo;ITA 1;Italia;88;89;88;91;40;79
-18763;luis hernandez;19340;https://www.futwiz.com/en/fc24/player/luis-hernandez/19340;88;35;Icons;ICO;Mexico;90;88;74;87;46;70
-18764;denzel dumfries;19341;https://www.futwiz.com/en/fc24/player/denzel-dumfries/19341;85;117;Inter;ITA 1;Holanda;90;70;75;79;80;90
-18765;alexander isak;19342;https://www.futwiz.com/en/fc24/player/alexander-isak/19342;85;117;Newcastle Utd;ENG 1;Suecia;86;85;76;90;44;77
-18766;ryan kent;19343;https://www.futwiz.com/en/fc24/player/ryan-kent/19343;84;117;FenerbahASSe;TUR 1;Inglaterra;90;75;79;99;49;71
-18767;kai havertz;19344;https://www.futwiz.com/en/fc24/player/kai-havertz/19344;87;117;Arsenal;ENG 1;Alemania;89;77;87;87;85;84
-18768;alessandro del piero;19345;https://www.futwiz.com/en/fc24/player/alessandro-del-piero/19345;91;35;Icons;ICO;Italia;84;91;90;92;43;67
-18769;emilio butragueno;19346;https://www.futwiz.com/en/fc24/player/emilio-butragueno/19346;90;35;Icons;ICO;España;93;82;85;94;41;68
-18770;fernando hierro;19347;https://www.futwiz.com/en/fc24/player/fernando-hierro/19347;90;35;Icons;ICO;España;74;69;76;69;99;85
-18771;hristo stoichkov;19348;https://www.futwiz.com/en/fc24/player/hristo-stoichkov/19348;90;35;Icons;ICO;Bulgaria;87;92;90;92;50;85
-18772;christopher nkunku;19349;https://www.futwiz.com/en/fc24/player/christopher-nkunku/19349;90;117;Chelsea;ENG 1;Francia;87;86;87;92;66;71
-18773;juan roman riquelme;19350;https://www.futwiz.com/en/fc24/player/juan-roman-riquelme/19350;89;35;Icons;ICO;Argentina;82;89;80;86;34;74
-18774;john barnes;19351;https://www.futwiz.com/en/fc24/player/john-barnes/19351;89;35;Icons;ICO;Inglaterra;87;90;87;87;47;88
-18775;oyarzabal;19352;https://www.futwiz.com/en/fc24/player/oyarzabal/19352;88;117;Real Sociedad;ESP 1;España;85;87;86;90;45;70
-18776;david alaba;19353;https://www.futwiz.com/en/fc24/player/david-alaba/19353;88;117;Real Madrid;ESP 1;Austria;82;79;86;84;85;82
-18777;nordi mukiele;19354;https://www.futwiz.com/en/fc24/player/nordi-mukiele/19354;87;117;Paris SG;FRA 1;Francia;89;53;89;88;82;82
-18778;deyna castellanos;19355;https://www.futwiz.com/en/fc24/player/deyna-castellanos/19355;87;117;Manchester City;;Venezuela;80;84;83;88;78;77
-18779;denis zakaria;19356;https://www.futwiz.com/en/fc24/player/denis-zakaria/19356;87;117;AS Monaco;FRA 1;Suiza;83;68;99;81;83;86
-18780;ellyes skhiri;19357;https://www.futwiz.com/en/fc24/player/ellyes-skhiri/19357;87;117;Frankfurt;GER 1;Tunez;80;99;80;81;85;80
-18781;edmond tapsoba;19358;https://www.futwiz.com/en/fc24/player/edmond-tapsoba/19358;86;117;Leverkusen;GER 1;Burk. Faso;80;58;70;99;85;82
-18782;filip kostic;19359;https://www.futwiz.com/en/fc24/player/filip-kostic/19359;86;117;Juventus;ITA 1;Serbia;88;80;85;87;73;82
-18783;jeremy doku;19360;https://www.futwiz.com/en/fc24/player/jeremy-doku/19360;86;117;Manchester City;ENG 1;Belgica;96;80;81;90;35;78
-18784;kyle walker;19361;https://www.futwiz.com/en/fc24/player/kyle-walker/19361;86;117;Manchester City;ENG 1;Inglaterra;91;65;79;80;86;83
-18785;mario balotelli;19362;https://www.futwiz.com/en/fc24/player/mario-balotelli/19362;86;117;Adana Demirspor;TUR 1;Italia;85;83;82;99;34;87
-18786;kevin mbabu;19363;https://www.futwiz.com/en/fc24/player/kevin-mbabu/19363;85;117;FC Augsburg;GER 1;Suiza;89;59;75;79;82;86
-18787;bobby moore;19364;https://www.futwiz.com/en/fc24/player/bobby-moore/19364;91;35;Icons;ICO;Inglaterra;74;63;83;99;93;84
-18788;sergej milinkovic-savic;19365;https://www.futwiz.com/en/fc24/player/sergej-milinkovic-savic/19365;88;goldif;Al Hilal;SAU 1;Serbia;71;83;84;85;82;88
-18789;lucas vazquez;19366;https://www.futwiz.com/en/fc24/player/lucas-vazquez/19366;86;goldif;Real Madrid;ESP 1;España;88;80;85;86;80;76
-18790;sergi roberto;19367;https://www.futwiz.com/en/fc24/player/sergi-roberto/19367;86;goldif;FC Barcelona;ESP 1;España;83;75;86;85;84;82
-18791;patrik schick;19368;https://www.futwiz.com/en/fc24/player/patrik-schick/19368;86;goldif;Leverkusen;GER 1;Republica Checa;83;84;74;85;40;80
-18792;dominic solanke;19369;https://www.futwiz.com/en/fc24/player/dominic-solanke/19369;86;goldif;AFC Bournemouth;ENG 1;Inglaterra;86;87;80;87;43;90
-18793;ivan provedel;19370;https://www.futwiz.com/en/fc24/player/ivan-provedel/19370;85;goldif;Latium;ITA 1;Italia;86;83;85;88;45;83
-18794;terem moffi;19371;https://www.futwiz.com/en/fc24/player/terem-moffi/19371;85;goldif;OGC Nice;FRA 1;Nigeria;95;86;65;85;35;85
-18795;dani rodriguez;19372;https://www.futwiz.com/en/fc24/player/dani-rodriguez/19372;84;goldif;RCD Mallorca;ESP 1;España;90;83;84;82;70;76
-18796;vitinha;19373;https://www.futwiz.com/en/fc24/player/vitinha/19373;84;goldif;Paris SG;FRA 1;Portugal;76;75;85;89;77;72
-18797;kamory doumbia;19374;https://www.futwiz.com/en/fc24/player/kamory-doumbia/19374;83;goldif;Stade Brestois 29;FRA 1;Mali;84;78;83;85;72;73
-18798;vilarrasa;19375;https://www.futwiz.com/en/fc24/player/vilarrasa/19375;83;goldif;SD Huesca;ESP 2;España;85;54;67;75;84;83
-18799;merih demiral;19376;https://www.futwiz.com/en/fc24/player/merih-demiral/19376;83;goldif;Al Ahli;SAU 1;Turquia;80;46;54;67;85;86
-18800;michy batshuayi;19377;https://www.futwiz.com/en/fc24/player/michy-batshuayi/19377;83;goldif;FenerbahASSe;TUR 1;Belgica;84;85;70;83;43;85
-18801;yann aurel bisseck;19378;https://www.futwiz.com/en/fc24/player/yann-aurel-bisseck/19378;83;goldif;Inter;ITA 1;Alemania;82;60;71;79;83;89
-18802;angelo stiller;19379;https://www.futwiz.com/en/fc24/player/angelo-stiller/19379;83;goldif;VfB Stuttgart;GER 1;Alemania;75;71;84;83;80;78
-18803;juninho bacuna;19380;https://www.futwiz.com/en/fc24/player/juninho-bacuna/19380;83;goldif;Birmingham City;ENG 2;Ant. Hol.;87;82;83;86;78;88
-18804;igor thiago;19381;https://www.futwiz.com/en/fc24/player/igor-thiago/19381;83;goldif;Club Brugge;BEL 1;Brasil;89;83;63;78;38;85
-18805;wilson odobert;19382;https://www.futwiz.com/en/fc24/player/wilson-odobert/19382;83;goldif;Burnley;ENG 1;Francia;89;83;76;85;45;60
-18806;ciro immobile;19383;https://www.futwiz.com/en/fc24/player/ciro-immobile/19383;88;117;Latium;ITA 1;Italia;89;90;75;82;43;79
-18807;garrincha;19384;https://www.futwiz.com/en/fc24/player/garrincha/19384;93;35;Icons;ICO;Brasil;90;86;93;96;41;68
-18808;lev yashin;19385;https://www.futwiz.com/en/fc24/player/lev-yashin/19385;93;35;Icons;ICO;Rusia;85;60;71;76;88;91
-18809;dennis bergkamp;19386;https://www.futwiz.com/en/fc24/player/dennis-bergkamp/19386;92;35;Icons;ICO;Holanda;85;78;92;88;74;75
-18810;raul;19387;https://www.futwiz.com/en/fc24/player/raul/19387;92;35;Icons;ICO;España;88;92;82;90;47;75
-18811;mohamed salah;19388;https://www.futwiz.com/en/fc24/player/mohamed-salah/19388;92;117;Liverpool;ENG 1;Egipto;91;92;83;90;48;86
-18812;thibaut courtois;19389;https://www.futwiz.com/en/fc24/player/thibaut-courtois/19389;91;117;Real Madrid;ESP 1;Belgica;86;90;76;89;54;91
-18813;alan shearer;19390;https://www.futwiz.com/en/fc24/player/alan-shearer/19390;91;35;Icons;ICO;Inglaterra;87;90;87;83;49;80
-18814;hugo sanchez;19391;https://www.futwiz.com/en/fc24/player/hugo-sanchez/19391;91;35;Icons;ICO;Mexico;91;88;82;93;43;75
-18815;michael laudrup;19392;https://www.futwiz.com/en/fc24/player/michael-laudrup/19392;90;35;Icons;ICO;Dinamarca;90;74;83;88;83;78
-18816;casemiro;19393;https://www.futwiz.com/en/fc24/player/casemiro/19393;90;117;Manchester Utd;ENG 1;Brasil;90;88;79;87;50;81
-18817;ian wright;19394;https://www.futwiz.com/en/fc24/player/ian-wright/19394;90;35;Icons;ICO;Inglaterra;91;86;76;89;49;72
-18818;miroslav klose;19395;https://www.futwiz.com/en/fc24/player/miroslav-klose/19395;90;35;Icons;ICO;Alemania;84;60;78;79;88;80
-18819;jules kounde;19396;https://www.futwiz.com/en/fc24/player/jules-kounde/19396;89;117;FC Barcelona;ESP 1;Francia;84;60;80;76;87;82
-18820;debinha;19397;https://www.futwiz.com/en/fc24/player/debinha/19397;89;117;Kansas City Current;USA F;Brasil;85;82;88;92;48;70
-18821;leon goretzka;19398;https://www.futwiz.com/en/fc24/player/leon-goretzka/19398;88;117;FC Bayern MA 1/4nchen;GER 1;Alemania;80;85;85;87;84;88
-18822;william saliba;19399;https://www.futwiz.com/en/fc24/player/william-saliba/19399;87;117;Arsenal;ENG 1;Francia;84;44;75;78;88;86
-18823;tariq lamptey;19400;https://www.futwiz.com/en/fc24/player/tariq-lamptey/19400;86;117;Brighton;ENG 1;Ghana;93;58;79;85;83;70
-18824;renato sanches;19401;https://www.futwiz.com/en/fc24/player/renato-sanches/19401;86;117;Roma FC;ITA 1;Portugal;84;80;82;89;80;87
-18825;karim adeyemi;19402;https://www.futwiz.com/en/fc24/player/karim-adeyemi/19402;86;117;Borussia Dortmund;GER 1;Alemania;98;83;77;87;40;73
-18826;yerry mina;19403;https://www.futwiz.com/en/fc24/player/yerry-mina/19403;86;117;Fiorentina;ITA 1;Colombia;80;63;69;80;89;87
-18827;alexis claude-maurice;19404;https://www.futwiz.com/en/fc24/player/alexis-claude-maurice/19404;85;117;OGC Nice;FRA 1;Francia;88;83;83;90;80;75
-18828;skelly alvero;19405;https://www.futwiz.com/en/fc24/player/skelly-alvero/19405;85;117;OL;FRA 1;Francia;83;85;80;88;64;87
-18829;giacomo raspadori;19406;https://www.futwiz.com/en/fc24/player/giacomo-raspadori/19406;85;117;Napoli FC;ITA 1;Italia;87;84;74;87;34;65
-18830;jawad el yamiq;19407;https://www.futwiz.com/en/fc24/player/jawad-el-yamiq/19407;84;117;Al Wehda;SAU 1;Marruecos;88;60;64;74;82;87
-18831;jonjo shelvey;19408;https://www.futwiz.com/en/fc24/player/jonjo-shelvey/19408;84;117;Aaykur Rizespor;ENG 1;Inglaterra;99;71;82;77;77;81
+18461;michael kayode;19004;https://www.futwiz.com/en/fc24/player/michael-kayode/19004;64;bronze;Fiorentina;ITA 1;Italia;63;34;48;64;63;52
+18462;jeremias james;19009;https://www.futwiz.com/en/fc24/player/jeremias-james/19009;64;bronze;Barracas Central;ARG 1;Argentina;48;33;40;43;64;70
+18463;franco lepore;19011;https://www.futwiz.com/en/fc24/player/franco-lepore/19011;64;bronze;Borgocalcio;ITA 2;Italia;73;53;63;63;54;66
+18464;allen obando;19015;https://www.futwiz.com/en/fc24/player/allen-obando/19015;65;silver;Barcelona SC;LIB;Ecuador;69;58;48;64;28;67
+18465;allen obando;19019;https://www.futwiz.com/en/fc24/player/allen-obando/19019;65;53;Barcelona SC;LIB;Ecuador;69;58;48;64;28;67
+18466;andrija novakovich;19024;https://www.futwiz.com/en/fc24/player/andrija-novakovich/19024;66;silver;Borgocalcio;ITA 2;Estados Unidos;73;64;51;60;40;68
+18467;amalie thestrup;19025;https://www.futwiz.com/en/fc24/player/amalie-thestrup/19025;66;silver;Bristol City;;Dinamarca;66;66;51;63;28;65
+18468;eyob zambataro;19027;https://www.futwiz.com/en/fc24/player/eyob-zambataro/19027;66;silver;Borgocalcio;ITA 2;Etiopia;72;42;65;65;58;58
+18469;kevin mouanga;19028;https://www.futwiz.com/en/fc24/player/kevin-mouanga/19028;66;silver;AC Beauruelle;FRA 2;Francia;38;31;45;43;67;74
+18470;warren caddy;19029;https://www.futwiz.com/en/fc24/player/warren-caddy/19029;66;silver;AC Beauruelle;FRA 2;Francia;81;64;49;65;28;67
+18471;alexy bosetti;19032;https://www.futwiz.com/en/fc24/player/alexy-bosetti/19032;67;silver;AC Beauruelle;FRA 2;Francia;75;69;63;70;32;64
+18472;matheus franca;19040;https://www.futwiz.com/en/fc24/player/matheus-franca/19040;68;silver;Crystal Palace;ENG 1;Brasil;82;70;58;75;35;63
+18473;luca marrone;19043;https://www.futwiz.com/en/fc24/player/luca-marrone/19043;68;silver;Borgocalcio;ITA 2;Italia;48;59;70;67;68;66
+18474;davide adorni;19045;https://www.futwiz.com/en/fc24/player/davide-adorni/19045;69;silver;Brisigonza;ITA 2;Italia;73;44;52;53;71;69
+18475;fredrik ulvestad;19046;https://www.futwiz.com/en/fc24/player/fredrik-ulvestad/19046;69;silver;PogoA Szczecin;POL 1;Noruega;64;64;66;70;66;75
+18476;andrea cistana;19047;https://www.futwiz.com/en/fc24/player/andrea-cistana/19047;69;silver;Brisigonza;ITA 2;Italia;68;52;57;63;69;70
+18477;gabriele moncini;19052;https://www.futwiz.com/en/fc24/player/gabriele-moncini/19052;69;silver;Brisigonza;ITA 2;Italia;78;69;56;67;37;66
+18478;vincent pajot;19058;https://www.futwiz.com/en/fc24/player/vincent-pajot/19058;69;silver;AC Beauruelle;FRA 2;Francia;49;56;68;68;66;71
+18479;rantala jutta;19059;https://www.futwiz.com/en/fc24/player/rantala-jutta/19059;70;silver;Leicester City;;Finlandia;65;72;54;67;25;58
+18480;christ tiehi;19060;https://www.futwiz.com/en/fc24/player/christ-tiehi/19060;70;silver;Rotherham Utd;ENG 2;C. Marfil;66;47;65;70;69;73
+18481;junior hoilett;19061;https://www.futwiz.com/en/fc24/player/junior-hoilett/19061;70;silver;Whitecaps FC;MLS;Canada;77;68;67;74;48;64
+18482;billy sharp;19063;https://www.futwiz.com/en/fc24/player/billy-sharp/19063;70;silver;LA Galaxy;MLS;Inglaterra;53;74;62;63;39;66
+18483;esperanza pizarro;19067;https://www.futwiz.com/en/fc24/player/esperanza-pizarro/19067;70;silver;SD Eibar;ESP F;Uruguay;64;68;69;70;47;58
+18484;carlos andres gomez;19068;https://www.futwiz.com/en/fc24/player/carlos-andres-gomez/19068;70;silver;Real Salt Lake;MLS;Colombia;78;66;63;72;32;54
+18485;dimitri bisoli;19069;https://www.futwiz.com/en/fc24/player/dimitri-bisoli/19069;70;silver;Brisigonza;ITA 2;Italia;71;69;68;70;68;68
+18486;lorenzo dickmann;19071;https://www.futwiz.com/en/fc24/player/lorenzo-dickmann/19071;70;silver;Brisigonza;ITA 2;Italia;70;52;61;66;69;64
+18487;fabio;19072;https://www.futwiz.com/en/fc24/player/fabio/19072;70;silver;Sydney FC;AUS 1;Brasil;71;67;47;67;43;79
+18488;joao neves;19074;https://www.futwiz.com/en/fc24/player/joao-neves/19074;71;silver;SL Benfica;POR 1;Portugal;69;58;71;73;62;53
+18489;m'baye niang;19075;https://www.futwiz.com/en/fc24/player/mbaye-niang/19075;71;silver;Adana Demirspor;TUR 1;Senegal;73;73;65;70;31;69
+18490;javi guerra;19076;https://www.futwiz.com/en/fc24/player/javi-guerra/19076;71;silver;Valencia CF;ESP 1;España;59;65;68;69;68;61
+18491;eider arana;19080;https://www.futwiz.com/en/fc24/player/eider-arana/19080;71;silver;SD Eibar;ESP F;España;58;47;54;55;71;73
+18492;hapsatou diallo;19082;https://www.futwiz.com/en/fc24/player/hapsatou-diallo/19082;72;silver;SD Eibar;ESP F;Senegal;82;70;69;72;40;75
+18493;joao pedro;19085;https://www.futwiz.com/en/fc24/player/joao-pedro/19085;72;silver;Al Taawoun;SAU 1;Brasil;65;75;51;67;25;80
+18494;jean-kevin duverne;19086;https://www.futwiz.com/en/fc24/player/jean-kevin-duverne/19086;72;silver;FC Nantes;FRA 1;Francia;62;38;62;69;75;74
+18495;olga ahtinen;19089;https://www.futwiz.com/en/fc24/player/olga-ahtinen/19089;72;silver;Spurs;;Finlandia;64;61;64;71;58;62
+18496;mariano;19093;https://www.futwiz.com/en/fc24/player/mariano/19093;73;silver;Sevilla FC;ESP 1;Rep. Dom.;72;74;61;70;45;76
+18497;samuel adegbenro;19094;https://www.futwiz.com/en/fc24/player/samuel-adegbenro/19094;73;silver;Viking FK;NOR 1;Nigeria;90;70;62;76;39;74
+18498;tiemoue bakayoko;19096;https://www.futwiz.com/en/fc24/player/tiemoue-bakayoko/19096;73;silver;FC Lorient;FRA 1;Francia;51;50;65;67;72;80
+18499;niko gieselmann;19098;https://www.futwiz.com/en/fc24/player/niko-gieselmann/19098;73;silver;FA 1/4rth;GER 2;Alemania;63;60;71;68;70;74
+18500;oscar gloukh;19100;https://www.futwiz.com/en/fc24/player/oscar-gloukh/19100;73;silver;RB Salzburg;AUT 1;Israel;75;68;70;80;36;49
+18501;mauricio isla;19101;https://www.futwiz.com/en/fc24/player/mauricio-isla/19101;74;silver;Independiente;ARG 1;Chile;74;53;72;73;70;71
+18502;tom davies;19102;https://www.futwiz.com/en/fc24/player/tom-davies/19102;74;silver;Sheffield Utd;ENG 1;Inglaterra;62;64;73;74;69;69
+18503;andros townsend;19103;https://www.futwiz.com/en/fc24/player/andros-townsend/19103;74;silver;Luton Town;ENG 1;Inglaterra;66;74;76;77;38;59
+18504;laura perez;19104;https://www.futwiz.com/en/fc24/player/laura-perez/19104;74;silver;Granada CF;ESP F;España;74;69;71;74;54;65
+18505;andreas bouchalakis;19105;https://www.futwiz.com/en/fc24/player/andreas-bouchalakis/19105;74;silver;Hertha Berlin;GER 2;Grecia;57;70;73;71;71;77
+18506;lauri;19106;https://www.futwiz.com/en/fc24/player/lauri/19106;74;silver;Granada CF;ESP F;España;75;75;73;75;44;76
+18507;anissa lahmari;19107;https://www.futwiz.com/en/fc24/player/anissa-lahmari/19107;74;silver;FC Levante Las Planas;ESP F;Marruecos;71;71;72;77;64;65
+18508;georges-kevin nkoudou;19108;https://www.futwiz.com/en/fc24/player/georges-kevin-nkoudou/19108;74;silver;Damac FC;SAU 1;Camerun;93;67;68;78;34;58
+18509;gustavo sauer;19109;https://www.futwiz.com/en/fc24/player/gustavo-sauer/19109;74;silver;Aaykur Rizespor;TUR 1;Brasil;71;71;74;77;55;72
+18510;nampalys mendy;19112;https://www.futwiz.com/en/fc24/player/nampalys-mendy/19112;74;silver;RC Lens;FRA 1;Senegal;57;54;70;75;73;65
+18511;costinha;19114;https://www.futwiz.com/en/fc24/player/costinha/19114;74;silver;Rio Ave FC;POR 1;Portugal;71;52;61;68;72;75
+18512;capa;19116;https://www.futwiz.com/en/fc24/player/capa/19116;74;silver;Levante UD;ESP 2;España;72;64;70;70;72;78
+18513;matija nastasic;19118;https://www.futwiz.com/en/fc24/player/matija-nastasic/19118;74;silver;RCD Mallorca;ESP 1;Serbia;61;36;62;56;74;73
+18514;joao moutinho;19120;https://www.futwiz.com/en/fc24/player/joao-moutinho/19120;75;gold;SC Braga;POR 1;Portugal;41;69;78;76;67;63
+18515;nikola krstovic;19123;https://www.futwiz.com/en/fc24/player/nikola-krstovic/19123;75;gold;Lecce;ITA 1;Montenegro;69;75;55;70;26;74
+18516;josuha guilavogui;19124;https://www.futwiz.com/en/fc24/player/josuha-guilavogui/19124;75;gold;1. FSV Mainz 05;GER 1;Francia;64;59;64;64;75;78
+18517;kyra cooney-cross;19125;https://www.futwiz.com/en/fc24/player/kyra-cooney-cross/19125;75;gold;Arsenal;;Australia;76;74;74;74;68;70
+18518;nicola sansone;19126;https://www.futwiz.com/en/fc24/player/nicola-sansone/19126;75;gold;Lecce;ITA 1;Italia;77;71;71;79;44;54
+18519;andres fernandez;19127;https://www.futwiz.com/en/fc24/player/andres-fernandez/19127;75;gold;Levante UD;ESP 2;España;73;71;71;76;57;78
+18520;federico mancuello;19128;https://www.futwiz.com/en/fc24/player/federico-mancuello/19128;75;gold;Independiente;ARG 1;Argentina;67;69;80;76;56;63
+18521;mario balotelli;19130;https://www.futwiz.com/en/fc24/player/mario-balotelli/19130;75;gold;Adana Demirspor;TUR 1;Italia;61;79;71;74;22;78
+18522;vinicius souza;19132;https://www.futwiz.com/en/fc24/player/vinicius-souza/19132;75;gold;Sheffield Utd;ENG 1;Brasil;66;49;61;67;76;81
+18523;salvatore sirigu;19133;https://www.futwiz.com/en/fc24/player/salvatore-sirigu/19133;75;gold;OGC Nice;FRA 1;Italia;75;70;70;74;44;77
+18524;jonny evans;19134;https://www.futwiz.com/en/fc24/player/jonny-evans/19134;75;gold;Manchester Utd;ENG 1;Irlanda N.;37;32;62;58;78;69
+18525;andrea tarazona;19135;https://www.futwiz.com/en/fc24/player/andrea-tarazona/19135;76;gold;Levante UD;ESP F;España;74;71;72;81;34;78
+18526;steven nzonzi;19136;https://www.futwiz.com/en/fc24/player/steven-nzonzi/19136;76;gold;Konyaspor;TUR 1;Francia;37;56;69;67;75;82
+18527;adama traore;19138;https://www.futwiz.com/en/fc24/player/adama-traore/19138;76;gold;Fulham;ENG 1;España;93;65;66;83;39;81
+18528;oscar romero;19139;https://www.futwiz.com/en/fc24/player/oscar-romero/19139;76;gold;Pendikspor;TUR 1;Paraguay;74;69;77;79;65;66
+18529;roque mesa;19141;https://www.futwiz.com/en/fc24/player/roque-mesa/19141;76;gold;R. Sporting;ESP 2;España;66;68;76;75;69;79
+18530;naima garcia;19142;https://www.futwiz.com/en/fc24/player/naima-garcia/19142;76;gold;Granada CF;ESP F;España;77;71;74;74;47;64
+18531;julie thibaud;19144;https://www.futwiz.com/en/fc24/player/julie-thibaud/19144;77;gold;Leicester City;;Francia;42;47;56;62;80;76
+18532;alex oxlade-chamberlain;19146;https://www.futwiz.com/en/fc24/player/alex-oxlade-chamberlain/19146;77;gold;BeAiktaA;TUR 1;Inglaterra;78;74;76;81;67;72
+18533;juan fernando quintero;19147;https://www.futwiz.com/en/fc24/player/juan-fernando-quintero/19147;77;gold;Racing Club;LIB;Colombia;68;75;79;81;38;52
+18534;clare hunt;19149;https://www.futwiz.com/en/fc24/player/clare-hunt/19149;77;gold;Paris SG;FRA F;Australia;66;45;60;63;79;72
+18535;santi cazorla;19150;https://www.futwiz.com/en/fc24/player/santi-cazorla/19150;77;gold;R. Oviedo;ESP 2;España;61;74;82;79;65;59
+18536;megan connolly;19152;https://www.futwiz.com/en/fc24/player/megan-connolly/19152;77;gold;Bristol City;;Rep. Irlanda;64;57;73;71;77;72
+18537;katie stengel;19154;https://www.futwiz.com/en/fc24/player/katie-stengel/19154;77;gold;Gotham FC;USA F;Estados Unidos;72;78;61;73;33;74
+18538;odion ighalo;19155;https://www.futwiz.com/en/fc24/player/odion-ighalo/19155;77;gold;Al Wehda;SAU 1;Nigeria;62;78;65;73;43;84
+18539;riko ueki;19156;https://www.futwiz.com/en/fc24/player/riko-ueki/19156;77;gold;West Ham;;Japon;70;78;62;74;46;67
+18540;romain saiss;19157;https://www.futwiz.com/en/fc24/player/romain-saiss/19157;78;gold;Al Shabab;SAU 1;Marruecos;59;56;70;66;78;81
+18541;sarah puntigam;19158;https://www.futwiz.com/en/fc24/player/sarah-puntigam/19158;78;gold;Houston Dash;USA F;Austria;45;59;74;76;79;83
+18542;roberto pereyra;19160;https://www.futwiz.com/en/fc24/player/roberto-pereyra/19160;78;gold;Udinese;ITA 1;Argentina;77;74;78;81;68;71
+18543;deanne rose;19162;https://www.futwiz.com/en/fc24/player/deanne-rose/19162;78;gold;Leicester City;;Canada;90;76;73;81;36;73
+18544;charlotte voll;19163;https://www.futwiz.com/en/fc24/player/charlotte-voll/19163;78;gold;Leverkusen;GER F;Alemania;77;76;74;79;47;76
+18545;erin nayler;19165;https://www.futwiz.com/en/fc24/player/erin-nayler/19165;78;gold;FC Bayern MA 1/4nchen;GER F;N. Zelanda;78;73;72;81;32;75
+18546;maitane;19168;https://www.futwiz.com/en/fc24/player/maitane/19168;79;gold;Gotham FC;USA F;España;70;70;76;74;78;82
+18547;lauren leal;19170;https://www.futwiz.com/en/fc24/player/lauren-leal/19170;79;gold;Kansas City Current;USA F;Brasil;72;33;55;63;82;74
+18548;laurita;19171;https://www.futwiz.com/en/fc24/player/laurita/19171;79;gold;Madrid CFF;ESP F;España;77;54;75;76;77;61
+18549;tatiana pinto;19173;https://www.futwiz.com/en/fc24/player/tatiana-pinto/19173;80;gold;Brighton;;Portugal;76;77;76;79;67;66
+18550;alexis sanchez;19174;https://www.futwiz.com/en/fc24/player/alexis-sanchez/19174;81;gold;Inter;ITA 1;Chile;71;83;80;85;48;66
+18551;tabitha chawinga;19175;https://www.futwiz.com/en/fc24/player/tabitha-chawinga/19175;81;gold;Paris SG;FRA F;Malawi;88;80;69;80;36;74
+18552;rafaelle;19177;https://www.futwiz.com/en/fc24/player/rafaelle/19177;82;gold;Orlando Pride;USA F;Brasil;64;39;68;65;83;79
+18553;anaig butel;19179;https://www.futwiz.com/en/fc24/player/anaig-butel/19179;82;gold;Washington Spirit;USA F;Francia;64;42;65;65;84;77
+18554;sergio ramos;19180;https://www.futwiz.com/en/fc24/player/sergio-ramos/19180;83;gold;Sevilla FC;ESP 1;España;57;69;73;70;83;76
+18555;ismael bennacer;19181;https://www.futwiz.com/en/fc24/player/ismael-bennacer/19181;87;37;Milan;ITA 1;Argelia;82;78;84;88;82;81
+18556;adama traore;19182;https://www.futwiz.com/en/fc24/player/adama-traore/19182;87;90;Fulham;ENG 1;España;95;81;77;85;73;85
+18557;harry maguire;19183;https://www.futwiz.com/en/fc24/player/harry-maguire/19183;86;43;Manchester Utd;ENG 1;Inglaterra;82;64;74;80;86;88
+18558;paulo dybala;19184;https://www.futwiz.com/en/fc24/player/paulo-dybala/19184;89;114;Roma FC;ITA 1;Argentina;86;90;89;93;43;63
+18559;zinedine zidane;19185;https://www.futwiz.com/en/fc24/player/zinedine-zidane/19185;95;85;Icons;ICO;Francia;84;91;95;95;76;85
+18560;rivaldo;19186;https://www.futwiz.com/en/fc24/player/rivaldo/19186;91;85;Icons;ICO;Brasil;90;90;88;92;44;76
+18561;paolo maldini;19187;https://www.futwiz.com/en/fc24/player/paolo-maldini/19187;93;85;Icons;ICO;Italia;87;56;76;70;96;84
+18562;lena oberdorf;19188;https://www.futwiz.com/en/fc24/player/lena-oberdorf/19188;90;95;VfL Wolfsburg;GER F;Alemania;76;64;78;77;88;90
+18563;gheorghe hagi;19189;https://www.futwiz.com/en/fc24/player/gheorghe-hagi/19189;90;85;Icons;ICO;Rumania;85;88;90;90;44;67
+18564;patrick kluivert;19190;https://www.futwiz.com/en/fc24/player/patrick-kluivert/19190;89;85;Icons;ICO;Holanda;91;88;80;83;42;81
+18565;juan sebastian veron;19191;https://www.futwiz.com/en/fc24/player/juan-sebastian-veron/19191;89;85;Icons;ICO;Argentina;81;83;89;84;80;83
+18566;florian wirtz;19192;https://www.futwiz.com/en/fc24/player/florian-wirtz/19192;89;95;Leverkusen;GER 1;Alemania;82;84;88;90;58;70
+18567;rivaldo;19193;https://www.futwiz.com/en/fc24/player/rivaldo/19193;89;85;Icons;ICO;Brasil;89;86;85;93;40;78
+18568;gheorghe hagi;19194;https://www.futwiz.com/en/fc24/player/gheorghe-hagi/19194;89;85;Icons;ICO;Rumania;84;87;89;89;42;66
+18569;lauren james;19195;https://www.futwiz.com/en/fc24/player/lauren-james/19195;88;95;Chelsea;;Inglaterra;91;82;86;89;36;85
+18570;patrick kluivert;19196;https://www.futwiz.com/en/fc24/player/patrick-kluivert/19196;88;85;Icons;ICO;Holanda;87;87;78;82;41;80
+18571;theo hernandez;19197;https://www.futwiz.com/en/fc24/player/theo-hernandez/19197;88;95;Milan;ITA 1;Francia;95;76;80;83;81;86
+18572;lucas hernandez;19198;https://www.futwiz.com/en/fc24/player/lucas-hernandez/19198;88;84;Paris SG;FRA 1;Francia;84;60;74;74;88;84
+18573;henrik larsson;19199;https://www.futwiz.com/en/fc24/player/henrik-larsson/19199;88;85;Icons;ICO;Suecia;90;88;75;85;47;75
+18574;reece james;19200;https://www.futwiz.com/en/fc24/player/reece-james/19200;88;95;Chelsea;ENG 1;Inglaterra;90;78;86;85;85;84
+18575;edouard mendy;19201;https://www.futwiz.com/en/fc24/player/edouard-mendy/19201;87;95;Al Ahli;SAU 1;Senegal;84;83;86;88;40;87
+18576;henrik larsson;19202;https://www.futwiz.com/en/fc24/player/henrik-larsson/19202;87;85;Icons;ICO;Suecia;88;87;74;84;46;73
+18577;marcus thuram;19203;https://www.futwiz.com/en/fc24/player/marcus-thuram/19203;87;95;Inter;ITA 1;Francia;90;84;80;85;56;84
+18578;rasmus hojlund;19204;https://www.futwiz.com/en/fc24/player/rasmus-hojlund/19204;87;95;Manchester Utd;ENG 1;Dinamarca;90;85;70;83;40;84
+18579;nico schlotterbeck;19205;https://www.futwiz.com/en/fc24/player/nico-schlotterbeck/19205;87;95;Borussia Dortmund;GER 1;Alemania;81;65;72;77;87;85
+18580;ferland mendy;19206;https://www.futwiz.com/en/fc24/player/ferland-mendy/19206;87;95;Real Madrid;ESP 1;Francia;96;75;82;81;81;90
+18581;leroy sane;19207;https://www.futwiz.com/en/fc24/player/leroy-sane/19207;87;95;FC Bayern MA 1/4nchen;GER 1;Alemania;93;85;84;88;41;76
+18582;juan sebastian veron;19208;https://www.futwiz.com/en/fc24/player/juan-sebastian-veron/19208;87;85;Icons;ICO;Argentina;77;82;87;82;75;82
+18583;jurrien timber;19209;https://www.futwiz.com/en/fc24/player/jurrien-timber/19209;86;95;Arsenal;ENG 1;Holanda;84;56;75;84;85;85
+18584;inaki williams;19210;https://www.futwiz.com/en/fc24/player/inaki-williams/19210;86;95;Athletic Club;ESP 1;Ghana;96;83;77;84;50;88
+18585;juliane wirtz;19211;https://www.futwiz.com/en/fc24/player/juliane-wirtz/19211;86;95;SV Werder Bremen;GER F;Alemania;80;77;84;84;86;82
+18586;tim oberdorf;19212;https://www.futwiz.com/en/fc24/player/tim-oberdorf/19212;85;95;DA 1/4sseldorf;GER 2;Alemania;85;60;73;75;82;84
+18587;daniel maldini;19213;https://www.futwiz.com/en/fc24/player/daniel-maldini/19213;85;84;Empoli;ITA 1;Italia;91;82;85;90;60;80
+18588;ianis hagi;19214;https://www.futwiz.com/en/fc24/player/ianis-hagi/19214;85;95;D. AlavA(c)s;ESP 1;Rumania;80;84;85;86;47;74
+18589;jonatan braut-brunes;19215;https://www.futwiz.com/en/fc24/player/jonatan-braut-brunes/19215;85;95;OH Leuven;BEL 1;Noruega;90;82;75;84;62;90
+18590;quinten timber;19216;https://www.futwiz.com/en/fc24/player/quinten-timber/19216;85;95;Feyenoord;NED 1;Holanda;84;73;80;88;80;86
+18591;sidi sane;19217;https://www.futwiz.com/en/fc24/player/sidi-sane/19217;85;95;Braunschweig;GER 2;Alemania;88;82;83;86;66;85
+18592;oscar hojlund;19218;https://www.futwiz.com/en/fc24/player/oscar-hojlund/19218;85;95;F.C. KA,benhavn;DEN 1;Dinamarca;85;66;77;80;78;82
+18593;jordan larsson;19219;https://www.futwiz.com/en/fc24/player/jordan-larsson/19219;85;95;F.C. KA,benhavn;DEN 1;Suecia;90;81;80;84;44;78
+18594;deian veron;19220;https://www.futwiz.com/en/fc24/player/deian-veron/19220;85;95;Estudiantes;SUD;Argentina;83;75;81;84;74;86
+18595;erling haaland;19221;https://www.futwiz.com/en/fc24/player/erling-haaland/19221;94;95;Manchester City;ENG 1;Noruega;93;96;72;86;53;94
+18596;justin kluivert;19222;https://www.futwiz.com/en/fc24/player/justin-kluivert/19222;86;95;AFC Bournemouth;ENG 1;Holanda;93;83;81;89;47;75
+18597;zinedine zidane;19223;https://www.futwiz.com/en/fc24/player/zinedine-zidane/19223;92;85;Icons;ICO;Francia;85;86;90;90;70;87
+18598;paolo maldini;19224;https://www.futwiz.com/en/fc24/player/paolo-maldini/19224;90;85;Icons;ICO;Italia;87;58;76;78;90;77
+18599;khephren thuram;19225;https://www.futwiz.com/en/fc24/player/khephren-thuram/19225;87;95;OGC Nice;FRA 1;Francia;80;80;84;85;83;87
+18600;erling haaland;19226;https://www.futwiz.com/en/fc24/player/erling-haaland/19226;87;81;Manchester City;ENG 1;Noruega;94;84;65;84;41;81
+18601;luca zidane;19227;https://www.futwiz.com/en/fc24/player/luca-zidane/19227;87;95;SD Eibar;ESP 2;Francia;87;83;82;86;53;87
+18602;nico williams;19228;https://www.futwiz.com/en/fc24/player/nico-williams/19228;86;95;Athletic Club;ESP 1;España;95;80;80;88;40;67
+18603;keven schlotterbeck;19229;https://www.futwiz.com/en/fc24/player/keven-schlotterbeck/19229;86;95;VfL Bochum;GER 1;Alemania;80;41;65;68;86;87
+18604;rivaldinho;19230;https://www.futwiz.com/en/fc24/player/rivaldinho/19230;85;95;Farul ConstanEa;ROM 1;Brasil;87;85;80;85;54;88
+18605;emil hojlund;19231;https://www.futwiz.com/en/fc24/player/emil-hojlund/19231;85;95;F.C. KA,benhavn;DEN 1;Dinamarca;88;84;76;84;57;89
+18606;heung min son;19232;https://www.futwiz.com/en/fc24/player/heung-min-son/19232;89;goldif;Spurs;ENG 1;Rep. Corea;89;91;84;86;45;73
+18607;john mcginn;19233;https://www.futwiz.com/en/fc24/player/john-mcginn/19233;86;goldif;Aston Villa;ENG 1;Escocia;78;82;83;84;81;88
+18608;federico gatti;19234;https://www.futwiz.com/en/fc24/player/federico-gatti/19234;86;goldif;Juventus;ITA 1;Italia;78;45;61;70;88;87
+18609;anderson talisca;19235;https://www.futwiz.com/en/fc24/player/anderson-talisca/19235;86;goldif;Al Nassr;SAU 1;Brasil;85;89;83;86;59;80
+18610;alexandre lacazette;19236;https://www.futwiz.com/en/fc24/player/alexandre-lacazette/19236;86;goldif;OL;FRA 1;Francia;77;87;81;86;48;80
+18611;mikel merino;19237;https://www.futwiz.com/en/fc24/player/mikel-merino/19237;86;goldif;Real Sociedad;ESP 1;España;75;81;85;84;86;84
+18612;pierre-emerick aubameyang;19238;https://www.futwiz.com/en/fc24/player/pierre-emerick-aubameyang/19238;86;goldif;OM;FRA 1;Gabon;89;87;81;84;41;72
+18613;ademola lookman;19239;https://www.futwiz.com/en/fc24/player/ademola-lookman/19239;85;goldif;Bergamo Calcio;ITA 1;Nigeria;90;85;75;89;35;73
+18614;james tavernier;19240;https://www.futwiz.com/en/fc24/player/james-tavernier/19240;85;goldif;Rangers;SPFL;Inglaterra;90;81;85;83;80;86
+18615;melvine malard;19241;https://www.futwiz.com/en/fc24/player/melvine-malard/19241;85;goldif;Manchester Utd;;Francia;84;83;82;86;43;70
+18616;predrag rajkovic;19242;https://www.futwiz.com/en/fc24/player/predrag-rajkovic/19242;84;goldif;RCD Mallorca;ESP 1;Serbia;84;83;81;87;32;86
+18617;rodrigo gomes;19243;https://www.futwiz.com/en/fc24/player/rodrigo-gomes/19243;83;goldif;Estoril Praia;POR 1;Portugal;94;76;73;87;67;66
+18618;junior dina ebimbe;19244;https://www.futwiz.com/en/fc24/player/junior-dina-ebimbe/19244;83;goldif;Frankfurt;GER 1;Francia;91;70;80;83;79;84
+18619;callum o'hare;19245;https://www.futwiz.com/en/fc24/player/callum-ohare/19245;83;goldif;Coventry City;ENG 2;Inglaterra;86;73;80;88;74;76
+18620;patrick mainka;19246;https://www.futwiz.com/en/fc24/player/patrick-mainka/19246;83;goldif;Heidenheim;GER 1;Alemania;75;50;61;63;85;89
+18621;arola aparicio;19247;https://www.futwiz.com/en/fc24/player/arola-aparicio/19247;83;goldif;Sevilla FC;ESP F;España;85;67;79;81;83;76
+18622;cristhian stuani;19248;https://www.futwiz.com/en/fc24/player/cristhian-stuani/19248;83;goldif;Girona FC;ESP 1;Uruguay;76;86;78;79;55;90
+18623;nene;19249;https://www.futwiz.com/en/fc24/player/nene/19249;83;goldif;Jagiellonia;POL 1;Portugal;80;80;80;82;80;88
+18624;deniz undav;19250;https://www.futwiz.com/en/fc24/player/deniz-undav/19250;86;42;VfB Stuttgart;GER 1;Alemania;81;90;83;86;44;84
+18625;kylian mbappe;19251;https://www.futwiz.com/en/fc24/player/kylian-mbappe/19251;93;68;Paris SG;FRA 1;Francia;98;92;84;94;40;81
+18626;bukayo saka;19252;https://www.futwiz.com/en/fc24/player/bukayo-saka/19252;91;68;Arsenal;ENG 1;Inglaterra;92;88;87;94;67;78
+18627;antoine griezmann;19253;https://www.futwiz.com/en/fc24/player/antoine-griezmann/19253;90;68;AtlA(c)tico de Madrid;ESP 1;Francia;83;91;91;90;62;78
+18628;jamal musiala;19254;https://www.futwiz.com/en/fc24/player/jamal-musiala/19254;90;68;FC Bayern MA 1/4nchen;GER 1;Alemania;89;82;82;94;67;66
+18629;jude bellingham;19255;https://www.futwiz.com/en/fc24/player/jude-bellingham/19255;89;68;Real Madrid;ESP 1;Inglaterra;80;81;82;88;82;85
+18630;luis alberto;19256;https://www.futwiz.com/en/fc24/player/luis-alberto/19256;89;68;Latium;ITA 1;España;81;85;90;90;70;66
+18631;nicolo barella;19257;https://www.futwiz.com/en/fc24/player/nicolo-barella/19257;89;68;Inter;ITA 1;Italia;83;82;85;88;83;85
+18632;joao cancelo;19258;https://www.futwiz.com/en/fc24/player/joao-cancelo/19258;89;68;FC Barcelona;ESP 1;Portugal;86;77;89;88;84;76
+18633;mats hummels;19259;https://www.futwiz.com/en/fc24/player/mats-hummels/19259;88;68;Borussia Dortmund;GER 1;Alemania;76;65;82;77;90;84
+18634;rodrygo;19260;https://www.futwiz.com/en/fc24/player/rodrygo/19260;88;68;Real Madrid;ESP 1;Brasil;91;86;84;91;34;67
+18635;rafael leao;19261;https://www.futwiz.com/en/fc24/player/rafael-leao/19261;88;68;Milan;ITA 1;Portugal;95;83;77;90;31;78
+18636;julian alvarez;19262;https://www.futwiz.com/en/fc24/player/julian-alvarez/19262;88;68;Manchester City;ENG 1;Argentina;87;89;85;91;65;84
+18637;jonathan clauss;19263;https://www.futwiz.com/en/fc24/player/jonathan-clauss/19263;88;69;OM;FRA 1;Francia;93;77;84;85;82;80
+18638;mehdi taremi;19264;https://www.futwiz.com/en/fc24/player/mehdi-taremi/19264;87;68;FC Porto;POR 1;Iran;84;87;82;87;43;80
+18639;phil foden;19265;https://www.futwiz.com/en/fc24/player/phil-foden/19265;87;68;Manchester City;ENG 1;Inglaterra;84;82;85;91;61;64
+18640;victor boniface;19266;https://www.futwiz.com/en/fc24/player/victor-boniface/19266;87;69;Leverkusen;GER 1;Nigeria;87;87;78;84;52;91
+18641;hakim ziyech;19267;https://www.futwiz.com/en/fc24/player/hakim-ziyech/19267;86;68;Galatasaray;TUR 1;Marruecos;80;81;88;86;57;72
+18642;ryan gravenberch;19268;https://www.futwiz.com/en/fc24/player/ryan-gravenberch/19268;86;69;Liverpool;ENG 1;Holanda;81;82;84;88;80;82
+18643;nick pope;19269;https://www.futwiz.com/en/fc24/player/nick-pope/19269;86;68;Newcastle Utd;ENG 1;Inglaterra;85;86;78;90;52;86
+18644;luca ranieri;19270;https://www.futwiz.com/en/fc24/player/luca-ranieri/19270;85;70;Fiorentina;ITA 1;Italia;83;54;73;80;86;78
+18645;david raum;19271;https://www.futwiz.com/en/fc24/player/david-raum/19271;85;68;RB Leipzig;GER 1;Alemania;91;70;84;85;78;85
+18646;jerdy schouten;19272;https://www.futwiz.com/en/fc24/player/jerdy-schouten/19272;85;68;PSV;NED 1;Holanda;74;67;81;85;85;82
+18647;harry kane;19273;https://www.futwiz.com/en/fc24/player/harry-kane/19273;93;68;FC Bayern MA 1/4nchen;GER 1;Inglaterra;80;96;88;88;52;87
+18648;giovanni di lorenzo;19274;https://www.futwiz.com/en/fc24/player/giovanni-di-lorenzo/19274;87;68;Napoli FC;ITA 1;Italia;90;70;79;81;84;84
+18649;patri guijarro;19275;https://www.futwiz.com/en/fc24/player/patri-guijarro/19275;90;31;FC Barcelona;ESP F;España;81;84;86;89;84;75
+18650;magdalena eriksson;19276;https://www.futwiz.com/en/fc24/player/magdalena-eriksson/19276;87;31;FC Bayern MA 1/4nchen;GER F;Suecia;80;49;75;70;88;85
+18651;tabitha chawinga;19277;https://www.futwiz.com/en/fc24/player/tabitha-chawinga/19277;87;31;Paris SG;FRA F;Malawi;92;86;75;86;44;80
+18652;laura freigang;19278;https://www.futwiz.com/en/fc24/player/laura-freigang/19278;86;31;Frankfurt;GER F;Alemania;87;88;75;86;29;76
+18653;hayley raso;19279;https://www.futwiz.com/en/fc24/player/hayley-raso/19279;86;58;Real Madrid;ESP F;Australia;93;80;77;85;48;72
+18654;julie dufour;19280;https://www.futwiz.com/en/fc24/player/julie-dufour/19280;86;31;Paris FC;FRA F;Francia;91;80;83;89;57;68
+18655;daphne corboz;19281;https://www.futwiz.com/en/fc24/player/daphne-corboz/19281;88;57;Paris FC;FRA F;Francia;82;84;91;87;80;78
+18656;virgil van dijk;19283;https://www.futwiz.com/en/fc24/player/virgil-van-dijk/19283;89;123;Liverpool;ENG 1;Holanda;78;61;75;73;87;84
+18657;jack grealish;19284;https://www.futwiz.com/en/fc24/player/jack-grealish/19284;86;123;Manchester City;ENG 1;Inglaterra;83;77;85;89;54;74
+18658;florian wirtz;19285;https://www.futwiz.com/en/fc24/player/florian-wirtz/19285;86;123;Leverkusen;GER 1;Alemania;75;77;84;88;53;64
+18659;ousmane dembele;19286;https://www.futwiz.com/en/fc24/player/ousmane-dembele/19286;86;123;Paris SG;FRA 1;Francia;92;77;82;87;36;58
+18660;morata;19287;https://www.futwiz.com/en/fc24/player/morata/19287;85;123;AtlA(c)tico de Madrid;ESP 1;España;84;84;74;81;33;81
+18661;federico chiesa;19288;https://www.futwiz.com/en/fc24/player/federico-chiesa/19288;84;123;Juventus;ITA 1;Italia;91;82;77;86;54;76
+18662;vincenzo grifo;19289;https://www.futwiz.com/en/fc24/player/vincenzo-grifo/19289;86;69;SC Freiburg;GER 1;Italia;91;84;86;87;52;74
+18663;victor osimhen;19290;https://www.futwiz.com/en/fc24/player/victor-osimhen/19290;89;goldif;Napoli FC;ITA 1;Nigeria;91;87;68;85;43;83
+18664;zubeldia;19291;https://www.futwiz.com/en/fc24/player/zubeldia/19291;88;68;Real Sociedad;ESP 1;España;80;72;83;81;86;88
+18665;luka modric;19292;https://www.futwiz.com/en/fc24/player/luka-modric/19292;88;goldif;Real Madrid;ESP 1;Croacia;74;77;90;88;73;68
+18666;kim min jae;19293;https://www.futwiz.com/en/fc24/player/kim-min-jae/19293;87;goldif;FC Bayern MA 1/4nchen;GER 1;Rep. Corea;84;36;61;68;88;87
+18667;allan saint-maximin;19294;https://www.futwiz.com/en/fc24/player/allan-saint-maximin/19294;86;goldif;Al Ahli;SAU 1;Francia;93;81;80;91;33;73
+18668;raphael varane;19295;https://www.futwiz.com/en/fc24/player/raphael-varane/19295;86;goldif;Manchester Utd;ENG 1;Francia;80;50;65;69;87;80
+18669;artem dovbyk;19296;https://www.futwiz.com/en/fc24/player/artem-dovbyk/19296;86;goldif;Girona FC;ESP 1;Ucrania;90;87;74;82;44;89
+18670;pietro terracciano;19297;https://www.futwiz.com/en/fc24/player/pietro-terracciano/19297;85;goldif;Fiorentina;ITA 1;Italia;87;86;81;89;47;87
+18671;mohammed kudus;19298;https://www.futwiz.com/en/fc24/player/mohammed-kudus/19298;84;goldif;West Ham;ENG 1;Ghana;93;79;76;89;64;80
+18672;kevin mac allister;19299;https://www.futwiz.com/en/fc24/player/kevin-mac-allister/19299;83;goldif;R. Union St.-G.;BEL 1;Argentina;82;61;69;80;82;86
+18673;finn azaz;19300;https://www.futwiz.com/en/fc24/player/finn-azaz/19300;83;goldif;Plymouth Argyle;ENG 2;Rep. Irlanda;88;78;80;83;71;82
+18674;esperanza pizarro;19301;https://www.futwiz.com/en/fc24/player/esperanza-pizarro/19301;83;goldif;SD Eibar;ESP F;Uruguay;83;84;83;84;66;79
+18675;emmanuel sabbi;19302;https://www.futwiz.com/en/fc24/player/emmanuel-sabbi/19302;83;goldif;Havre AC;FRA 1;Estados Unidos;93;77;72;86;54;75
+18676;lena ostermeier;19303;https://www.futwiz.com/en/fc24/player/lena-ostermeier/19303;83;goldif;SGS Essen;GER F;Alemania;73;60;77;79;85;83
+18677;andre luis;19304;https://www.futwiz.com/en/fc24/player/andre-luis/19304;83;goldif;Moreirense FC;POR 1;Brasil;83;84;65;82;38;84
+18678;rafa mujica;19305;https://www.futwiz.com/en/fc24/player/rafa-mujica/19305;83;goldif;Arouca;POR 1;España;83;86;75;85;47;81
+18679;ismael saibari;19306;https://www.futwiz.com/en/fc24/player/ismael-saibari/19306;83;goldif;PSV;NED 1;Marruecos;89;79;79;85;56;85
+18680;takuma asano;19307;https://www.futwiz.com/en/fc24/player/takuma-asano/19307;83;goldif;VfL Bochum;GER 1;Japon;93;74;68;84;38;74
+18681;joel pereira;19308;https://www.futwiz.com/en/fc24/player/joel-pereira/19308;83;goldif;Lech PoznaA;POL 1;Portugal;86;54;80;80;77;79
+18682;elye wahi;19309;https://www.futwiz.com/en/fc24/player/elye-wahi/19309;86;117;RC Lens;FRA 1;Francia;92;84;80;90;41;77
+18683;lukas podolski;19310;https://www.futwiz.com/en/fc24/player/lukas-podolski/19310;86;117;GA3rnik Zabrze;POL 1;Alemania;78;99;82;87;45;88
+18684;kylian mbappe;19311;https://www.futwiz.com/en/fc24/player/kylian-mbappe/19311;93;79;Paris SG;FRA 1;Francia;98;92;83;94;39;80
+18685;brahim;19312;https://www.futwiz.com/en/fc24/player/brahim/19312;87;7;Real Madrid;ESP 1;España;88;80;85;90;35;57
+18686;pele;19313;https://www.futwiz.com/en/fc24/player/pele/19313;96;35;Icons;ICO;Brasil;94;95;90;95;59;80
+18687;alexia putellas;19314;https://www.futwiz.com/en/fc24/player/alexia-putellas/19314;92;117;FC Barcelona;ESP F;España;83;91;92;93;74;80
+18688;marco van basten;19315;https://www.futwiz.com/en/fc24/player/marco-van-basten/19315;92;35;Icons;ICO;Holanda;84;87;90;88;40;72
+18689;virgil van dijk;19316;https://www.futwiz.com/en/fc24/player/virgil-van-dijk/19316;91;117;Liverpool;ENG 1;Holanda;80;63;75;75;91;88
+18690;cristiano ronaldo;19317;https://www.futwiz.com/en/fc24/player/cristiano-ronaldo/19317;91;117;Al Nassr;SAU 1;Portugal;87;93;80;89;39;78
+18691;didier drogba;19318;https://www.futwiz.com/en/fc24/player/didier-drogba/19318;91;35;Icons;ICO;C. Marfil;89;92;76;82;46;91
+18692;gary lineker;19319;https://www.futwiz.com/en/fc24/player/gary-lineker/19319;91;35;Icons;ICO;Inglaterra;90;86;75;89;43;75
+18693;ruud van nistelrooy;19320;https://www.futwiz.com/en/fc24/player/ruud-van-nistelrooy/19320;91;35;Icons;ICO;Holanda;84;89;83;85;67;90
+18694;alex morgan;19321;https://www.futwiz.com/en/fc24/player/alex-morgan/19321;90;117;San Diego Wave FC;USA F;Estados Unidos;84;90;81;90;48;79
+18695;gabriel martinelli;19322;https://www.futwiz.com/en/fc24/player/gabriel-martinelli/19322;89;117;Arsenal;ENG 1;Brasil;92;83;82;90;49;75
+18696;michael owen;19323;https://www.futwiz.com/en/fc24/player/michael-owen/19323;89;35;Icons;ICO;Inglaterra;90;82;77;90;36;68
+18697;paulo dybala;19324;https://www.futwiz.com/en/fc24/player/paulo-dybala/19324;89;117;Roma FC;ITA 1;Argentina;85;91;89;92;44;64
+18698;marco reus;19325;https://www.futwiz.com/en/fc24/player/marco-reus/19325;89;117;Borussia Dortmund;GER 1;Alemania;82;87;87;90;58;69
+18699;ruud gullit;19326;https://www.futwiz.com/en/fc24/player/ruud-gullit/19326;89;35;Icons;ICO;Holanda;83;82;86;85;85;80
+18700;fernando torres;19327;https://www.futwiz.com/en/fc24/player/fernando-torres/19327;89;35;Icons;ICO;España;91;89;77;87;45;78
+18701;eder militao;19328;https://www.futwiz.com/en/fc24/player/eder-militao/19328;88;117;Real Madrid;ESP 1;Brasil;86;53;72;74;88;84
+18702;grimaldo;19329;https://www.futwiz.com/en/fc24/player/grimaldo/19329;88;117;Leverkusen;GER 1;España;87;81;87;89;80;78
+18703;ian rush;19330;https://www.futwiz.com/en/fc24/player/ian-rush/19330;88;35;Icons;ICO;Gales;83;80;88;88;78;84
+18704;raphinha;19331;https://www.futwiz.com/en/fc24/player/raphinha/19331;87;117;FC Barcelona;ESP 1;Brasil;93;82;81;90;57;77
+18705;marcos llorente;19332;https://www.futwiz.com/en/fc24/player/marcos-llorente/19332;87;117;AtlA(c)tico de Madrid;ESP 1;España;89;87;83;84;72;81
+18706;enzo fernandez;19333;https://www.futwiz.com/en/fc24/player/enzo-fernandez/19333;87;117;Chelsea;ENG 1;Argentina;80;79;87;86;81;85
+18707;balde;19334;https://www.futwiz.com/en/fc24/player/balde/19334;86;117;FC Barcelona;ESP 1;España;96;53;80;83;80;69
+18708;jonathan bamba;19335;https://www.futwiz.com/en/fc24/player/jonathan-bamba/19335;86;117;RC Celta;ESP 1;C. Marfil;91;82;81;87;55;75
+18709;eberechi eze;19336;https://www.futwiz.com/en/fc24/player/eberechi-eze/19336;85;117;Crystal Palace;ENG 1;Inglaterra;81;80;99;86;54;73
+18710;georginio wijnaldum;19337;https://www.futwiz.com/en/fc24/player/georginio-wijnaldum/19337;85;117;Ettifaq FC;SAU 1;Holanda;72;76;81;84;80;99
+18711;rayan cherki;19338;https://www.futwiz.com/en/fc24/player/rayan-cherki/19338;84;117;OL;FRA 1;Francia;83;76;81;92;30;75
+18712;domenico berardi;19339;https://www.futwiz.com/en/fc24/player/domenico-berardi/19339;89;117;Sassuolo;ITA 1;Italia;88;89;88;91;40;79
+18713;luis hernandez;19340;https://www.futwiz.com/en/fc24/player/luis-hernandez/19340;88;35;Icons;ICO;Mexico;90;88;74;87;46;70
+18714;denzel dumfries;19341;https://www.futwiz.com/en/fc24/player/denzel-dumfries/19341;85;117;Inter;ITA 1;Holanda;90;70;75;79;80;90
+18715;alexander isak;19342;https://www.futwiz.com/en/fc24/player/alexander-isak/19342;85;117;Newcastle Utd;ENG 1;Suecia;86;85;76;90;44;77
+18716;ryan kent;19343;https://www.futwiz.com/en/fc24/player/ryan-kent/19343;84;117;FenerbahASSe;TUR 1;Inglaterra;90;75;79;99;49;71
+18717;kai havertz;19344;https://www.futwiz.com/en/fc24/player/kai-havertz/19344;87;117;Arsenal;ENG 1;Alemania;89;77;87;87;85;84
+18718;alessandro del piero;19345;https://www.futwiz.com/en/fc24/player/alessandro-del-piero/19345;91;35;Icons;ICO;Italia;84;91;90;92;43;67
+18719;emilio butragueno;19346;https://www.futwiz.com/en/fc24/player/emilio-butragueno/19346;90;35;Icons;ICO;España;93;82;85;94;41;68
+18720;fernando hierro;19347;https://www.futwiz.com/en/fc24/player/fernando-hierro/19347;90;35;Icons;ICO;España;74;69;76;69;99;85
+18721;hristo stoichkov;19348;https://www.futwiz.com/en/fc24/player/hristo-stoichkov/19348;90;35;Icons;ICO;Bulgaria;87;92;90;92;50;85
+18722;christopher nkunku;19349;https://www.futwiz.com/en/fc24/player/christopher-nkunku/19349;90;117;Chelsea;ENG 1;Francia;87;86;87;92;66;71
+18723;juan roman riquelme;19350;https://www.futwiz.com/en/fc24/player/juan-roman-riquelme/19350;89;35;Icons;ICO;Argentina;82;89;80;86;34;74
+18724;john barnes;19351;https://www.futwiz.com/en/fc24/player/john-barnes/19351;89;35;Icons;ICO;Inglaterra;87;90;87;87;47;88
+18725;oyarzabal;19352;https://www.futwiz.com/en/fc24/player/oyarzabal/19352;88;117;Real Sociedad;ESP 1;España;85;87;86;90;45;70
+18726;david alaba;19353;https://www.futwiz.com/en/fc24/player/david-alaba/19353;88;117;Real Madrid;ESP 1;Austria;82;79;86;84;85;82
+18727;nordi mukiele;19354;https://www.futwiz.com/en/fc24/player/nordi-mukiele/19354;87;117;Paris SG;FRA 1;Francia;89;53;89;88;82;82
+18728;deyna castellanos;19355;https://www.futwiz.com/en/fc24/player/deyna-castellanos/19355;87;117;Manchester City;;Venezuela;80;84;83;88;78;77
+18729;denis zakaria;19356;https://www.futwiz.com/en/fc24/player/denis-zakaria/19356;87;117;AS Monaco;FRA 1;Suiza;83;68;99;81;83;86
+18730;ellyes skhiri;19357;https://www.futwiz.com/en/fc24/player/ellyes-skhiri/19357;87;117;Frankfurt;GER 1;Tunez;80;99;80;81;85;80
+18731;edmond tapsoba;19358;https://www.futwiz.com/en/fc24/player/edmond-tapsoba/19358;86;117;Leverkusen;GER 1;Burk. Faso;80;58;70;99;85;82
+18732;filip kostic;19359;https://www.futwiz.com/en/fc24/player/filip-kostic/19359;86;117;Juventus;ITA 1;Serbia;88;80;85;87;73;82
+18733;jeremy doku;19360;https://www.futwiz.com/en/fc24/player/jeremy-doku/19360;86;117;Manchester City;ENG 1;Belgica;96;80;81;90;35;78
+18734;kyle walker;19361;https://www.futwiz.com/en/fc24/player/kyle-walker/19361;86;117;Manchester City;ENG 1;Inglaterra;91;65;79;80;86;83
+18735;mario balotelli;19362;https://www.futwiz.com/en/fc24/player/mario-balotelli/19362;86;117;Adana Demirspor;TUR 1;Italia;85;83;82;99;34;87
+18736;kevin mbabu;19363;https://www.futwiz.com/en/fc24/player/kevin-mbabu/19363;85;117;FC Augsburg;GER 1;Suiza;89;59;75;79;82;86
+18737;bobby moore;19364;https://www.futwiz.com/en/fc24/player/bobby-moore/19364;91;35;Icons;ICO;Inglaterra;74;63;83;99;93;84
+18738;sergej milinkovic-savic;19365;https://www.futwiz.com/en/fc24/player/sergej-milinkovic-savic/19365;88;goldif;Al Hilal;SAU 1;Serbia;71;83;84;85;82;88
+18739;lucas vazquez;19366;https://www.futwiz.com/en/fc24/player/lucas-vazquez/19366;86;goldif;Real Madrid;ESP 1;España;88;80;85;86;80;76
+18740;sergi roberto;19367;https://www.futwiz.com/en/fc24/player/sergi-roberto/19367;86;goldif;FC Barcelona;ESP 1;España;83;75;86;85;84;82
+18741;patrik schick;19368;https://www.futwiz.com/en/fc24/player/patrik-schick/19368;86;goldif;Leverkusen;GER 1;Republica Checa;83;84;74;85;40;80
+18742;dominic solanke;19369;https://www.futwiz.com/en/fc24/player/dominic-solanke/19369;86;goldif;AFC Bournemouth;ENG 1;Inglaterra;86;87;80;87;43;90
+18743;ivan provedel;19370;https://www.futwiz.com/en/fc24/player/ivan-provedel/19370;85;goldif;Latium;ITA 1;Italia;86;83;85;88;45;83
+18744;terem moffi;19371;https://www.futwiz.com/en/fc24/player/terem-moffi/19371;85;goldif;OGC Nice;FRA 1;Nigeria;95;86;65;85;35;85
+18745;dani rodriguez;19372;https://www.futwiz.com/en/fc24/player/dani-rodriguez/19372;84;goldif;RCD Mallorca;ESP 1;España;90;83;84;82;70;76
+18746;vitinha;19373;https://www.futwiz.com/en/fc24/player/vitinha/19373;84;goldif;Paris SG;FRA 1;Portugal;76;75;85;89;77;72
+18747;kamory doumbia;19374;https://www.futwiz.com/en/fc24/player/kamory-doumbia/19374;83;goldif;Stade Brestois 29;FRA 1;Mali;84;78;83;85;72;73
+18748;vilarrasa;19375;https://www.futwiz.com/en/fc24/player/vilarrasa/19375;83;goldif;SD Huesca;ESP 2;España;85;54;67;75;84;83
+18749;merih demiral;19376;https://www.futwiz.com/en/fc24/player/merih-demiral/19376;83;goldif;Al Ahli;SAU 1;Turquia;80;46;54;67;85;86
+18750;michy batshuayi;19377;https://www.futwiz.com/en/fc24/player/michy-batshuayi/19377;83;goldif;FenerbahASSe;TUR 1;Belgica;84;85;70;83;43;85
+18751;yann aurel bisseck;19378;https://www.futwiz.com/en/fc24/player/yann-aurel-bisseck/19378;83;goldif;Inter;ITA 1;Alemania;82;60;71;79;83;89
+18752;angelo stiller;19379;https://www.futwiz.com/en/fc24/player/angelo-stiller/19379;83;goldif;VfB Stuttgart;GER 1;Alemania;75;71;84;83;80;78
+18753;juninho bacuna;19380;https://www.futwiz.com/en/fc24/player/juninho-bacuna/19380;83;goldif;Birmingham City;ENG 2;Ant. Hol.;87;82;83;86;78;88
+18754;igor thiago;19381;https://www.futwiz.com/en/fc24/player/igor-thiago/19381;83;goldif;Club Brugge;BEL 1;Brasil;89;83;63;78;38;85
+18755;wilson odobert;19382;https://www.futwiz.com/en/fc24/player/wilson-odobert/19382;83;goldif;Burnley;ENG 1;Francia;89;83;76;85;45;60
+18756;ciro immobile;19383;https://www.futwiz.com/en/fc24/player/ciro-immobile/19383;88;117;Latium;ITA 1;Italia;89;90;75;82;43;79
+18757;garrincha;19384;https://www.futwiz.com/en/fc24/player/garrincha/19384;93;35;Icons;ICO;Brasil;90;86;93;96;41;68
+18758;lev yashin;19385;https://www.futwiz.com/en/fc24/player/lev-yashin/19385;93;35;Icons;ICO;Rusia;85;60;71;76;88;91
+18759;dennis bergkamp;19386;https://www.futwiz.com/en/fc24/player/dennis-bergkamp/19386;92;35;Icons;ICO;Holanda;85;78;92;88;74;75
+18760;raul;19387;https://www.futwiz.com/en/fc24/player/raul/19387;92;35;Icons;ICO;España;88;92;82;90;47;75
+18761;mohamed salah;19388;https://www.futwiz.com/en/fc24/player/mohamed-salah/19388;92;117;Liverpool;ENG 1;Egipto;91;92;83;90;48;86
+18762;thibaut courtois;19389;https://www.futwiz.com/en/fc24/player/thibaut-courtois/19389;91;117;Real Madrid;ESP 1;Belgica;86;90;76;89;54;91
+18763;alan shearer;19390;https://www.futwiz.com/en/fc24/player/alan-shearer/19390;91;35;Icons;ICO;Inglaterra;87;90;87;83;49;80
+18764;hugo sanchez;19391;https://www.futwiz.com/en/fc24/player/hugo-sanchez/19391;91;35;Icons;ICO;Mexico;91;88;82;93;43;75
+18765;michael laudrup;19392;https://www.futwiz.com/en/fc24/player/michael-laudrup/19392;90;35;Icons;ICO;Dinamarca;90;74;83;88;83;78
+18766;casemiro;19393;https://www.futwiz.com/en/fc24/player/casemiro/19393;90;117;Manchester Utd;ENG 1;Brasil;90;88;79;87;50;81
+18767;ian wright;19394;https://www.futwiz.com/en/fc24/player/ian-wright/19394;90;35;Icons;ICO;Inglaterra;91;86;76;89;49;72
+18768;miroslav klose;19395;https://www.futwiz.com/en/fc24/player/miroslav-klose/19395;90;35;Icons;ICO;Alemania;84;60;78;79;88;80
+18769;jules kounde;19396;https://www.futwiz.com/en/fc24/player/jules-kounde/19396;89;117;FC Barcelona;ESP 1;Francia;84;60;80;76;87;82
+18770;debinha;19397;https://www.futwiz.com/en/fc24/player/debinha/19397;89;117;Kansas City Current;USA F;Brasil;85;82;88;92;48;70
+18771;leon goretzka;19398;https://www.futwiz.com/en/fc24/player/leon-goretzka/19398;88;117;FC Bayern MA 1/4nchen;GER 1;Alemania;80;85;85;87;84;88
+18772;william saliba;19399;https://www.futwiz.com/en/fc24/player/william-saliba/19399;87;117;Arsenal;ENG 1;Francia;84;44;75;78;88;86
+18773;tariq lamptey;19400;https://www.futwiz.com/en/fc24/player/tariq-lamptey/19400;86;117;Brighton;ENG 1;Ghana;93;58;79;85;83;70
+18774;renato sanches;19401;https://www.futwiz.com/en/fc24/player/renato-sanches/19401;86;117;Roma FC;ITA 1;Portugal;84;80;82;89;80;87
+18775;karim adeyemi;19402;https://www.futwiz.com/en/fc24/player/karim-adeyemi/19402;86;117;Borussia Dortmund;GER 1;Alemania;98;83;77;87;40;73
+18776;yerry mina;19403;https://www.futwiz.com/en/fc24/player/yerry-mina/19403;86;117;Fiorentina;ITA 1;Colombia;80;63;69;80;89;87
+18777;alexis claude-maurice;19404;https://www.futwiz.com/en/fc24/player/alexis-claude-maurice/19404;85;117;OGC Nice;FRA 1;Francia;88;83;83;90;80;75
+18778;skelly alvero;19405;https://www.futwiz.com/en/fc24/player/skelly-alvero/19405;85;117;OL;FRA 1;Francia;83;85;80;88;64;87
+18779;giacomo raspadori;19406;https://www.futwiz.com/en/fc24/player/giacomo-raspadori/19406;85;117;Napoli FC;ITA 1;Italia;87;84;74;87;34;65
+18780;jawad el yamiq;19407;https://www.futwiz.com/en/fc24/player/jawad-el-yamiq/19407;84;117;Al Wehda;SAU 1;Marruecos;88;60;64;74;82;87
+18781;jonjo shelvey;19408;https://www.futwiz.com/en/fc24/player/jonjo-shelvey/19408;84;117;Aaykur Rizespor;TUR 1;Inglaterra;99;71;82;77;77;81
+18782;alisson;19409;https://www.futwiz.com/en/fc24/player/alisson/19409;90;117;Liverpool;ENG 1;Brasil;80;83;90;81;83;82
+18783;adrien rabiot;19410;https://www.futwiz.com/en/fc24/player/adrien-rabiot/19410;87;117;Juventus;ITA 1;Francia;81;80;83;83;86;87
+18784;erik lamela;19411;https://www.futwiz.com/en/fc24/player/erik-lamela/19411;86;117;Sevilla FC;ESP 1;Argentina;84;82;90;89;60;77
+18785;sheraldo becker;19412;https://www.futwiz.com/en/fc24/player/sheraldo-becker/19412;86;117;Union Berlin;GER 1;Surinam;97;83;78;86;44;77
+18786;eric curbelo;19413;https://www.futwiz.com/en/fc24/player/eric-curbelo/19413;84;117;UD Las Palmas;ESP 1;España;85;50;78;79;80;85
