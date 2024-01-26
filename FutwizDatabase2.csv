@@ -18273,7 +18273,7 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18257;leicy santos;18760;https://www.futwiz.com/en/fc24/player/leicy-santos/18760;86;28;AtlA(c)tico de Madrid;ESP F;Colombia;85;81;87;88;66;81
 18258;mario hermoso;18761;https://www.futwiz.com/en/fc24/player/mario-hermoso/18761;86;28;AtlA(c)tico de Madrid;ESP 1;España;80;53;80;80;85;83
 18259;selma bacha;18762;https://www.futwiz.com/en/fc24/player/selma-bacha/18762;90;31;OL;FRA F;Francia;90;77;88;86;83;84
-18260;erin cuthbert;18763;https://www.futwiz.com/en/fc24/player/erin-cuthbert/18763;86;31;Chelsea;;Escocia;83;85;86;86;81;73
+18260;erin cuthbert;18763;https://www.futwiz.com/en/fc24/player/erin-cuthbert/18763;87;31;Chelsea;;Escocia;85;86;87;87;82;74
 18261;megan rapinoe;18764;https://www.futwiz.com/en/fc24/player/megan-rapinoe/18764;88;25;OL Reign;USA F;Estados Unidos;86;87;87;89;51;80
 18262;ali krieger;18765;https://www.futwiz.com/en/fc24/player/ali-krieger/18765;88;25;Gotham FC;USA F;Estados Unidos;85;57;82;81;89;82
 18263;nadjma ali nadjim;18766;https://www.futwiz.com/en/fc24/player/nadjma-ali-nadjim/18766;85;87;Havre AC;FRA F;Francia;93;87;76;84;57;83
@@ -18994,3 +18994,21 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18978;mitchell weiser;19605;https://www.futwiz.com/en/fc24/player/mitchell-weiser/19605;83;goldif;SV Werder Bremen;GER 1;Alemania;88;70;81;86;76;75
 18979;ben sheaf;19606;https://www.futwiz.com/en/fc24/player/ben-sheaf/19606;83;goldif;Coventry City;ENG 2;Inglaterra;76;60;82;78;83;84
 18980;julian brandt;19607;https://www.futwiz.com/en/fc24/player/julian-brandt/19607;88;64;Borussia Dortmund;GER 1;Alemania;81;83;90;90;55;74
+18981;n'golo kante;19608;https://www.futwiz.com/en/fc24/player/ngolo-kante/19608;91;51;Al Ittihad;SAU 1;Francia;86;70;80;84;91;81
+18982;diogo jota;19609;https://www.futwiz.com/en/fc24/player/diogo-jota/19609;88;80;Liverpool;ENG 1;Portugal;87;87;80;88;61;83
+18983;diogo jota;19610;https://www.futwiz.com/en/fc24/player/diogo-jota/19610;87;80;Liverpool;ENG 1;Portugal;86;86;78;87;59;82
+18984;cristiano ronaldo;19612;https://www.futwiz.com/en/fc24/player/cristiano-ronaldo/19612;95;5;Al Nassr;SAU 1;Portugal;92;97;85;93;45;83
+18985;alexandra popp;19613;https://www.futwiz.com/en/fc24/player/alexandra-popp/19613;95;5;VfL Wolfsburg;GER F;Alemania;90;95;83;90;60;95
+18986;harry kane;19614;https://www.futwiz.com/en/fc24/player/harry-kane/19614;93;64;FC Bayern MA 1/4nchen;GER 1;Inglaterra;80;96;88;88;52;87
+18987;mohamed salah;19615;https://www.futwiz.com/en/fc24/player/mohamed-salah/19615;92;64;Liverpool;ENG 1;Egipto;92;91;86;91;49;82
+18988;vini jr.;19616;https://www.futwiz.com/en/fc24/player/vini-jr./19616;92;64;Real Madrid;ESP 1;Brasil;98;86;82;93;32;74
+18989;kadidiatou diani;19617;https://www.futwiz.com/en/fc24/player/kadidiatou-diani/19617;92;64;OL;FRA F;Francia;92;88;87;91;60;83
+18990;bernardo silva;19618;https://www.futwiz.com/en/fc24/player/bernardo-silva/19618;91;64;Manchester City;ENG 1;Portugal;81;82;89;95;74;72
+18991;jamal musiala;19619;https://www.futwiz.com/en/fc24/player/jamal-musiala/19619;91;64;FC Bayern MA 1/4nchen;GER 1;Alemania;90;83;84;95;70;67
+18992;federico valverde;19620;https://www.futwiz.com/en/fc24/player/federico-valverde/19620;90;64;Real Madrid;ESP 1;Uruguay;90;84;87;86;83;84
+18993;ederson;19621;https://www.futwiz.com/en/fc24/player/ederson/19621;90;64;Manchester City;ENG 1;Brasil;90;84;93;88;66;88
+18994;khvicha kvaratskhelia;19622;https://www.futwiz.com/en/fc24/player/khvicha-kvaratskhelia/19622;89;64;Napoli FC;ITA 1;Georgia;92;84;84;91;44;74
+18995;kim min jae;19623;https://www.futwiz.com/en/fc24/player/kim-min-jae/19623;89;64;FC Bayern MA 1/4nchen;GER 1;Rep. Corea;86;38;63;70;90;90
+18996;olga carmona;19624;https://www.futwiz.com/en/fc24/player/olga-carmona/19624;88;64;Real Madrid;ESP F;España;92;76;87;88;85;81
+18997;trent alexander-arnold;19625;https://www.futwiz.com/en/fc24/player/trent-alexander-arnold/19625;88;64;Liverpool;ENG 1;Inglaterra;85;73;93;84;85;80
+18998;katie mccabe;19626;https://www.futwiz.com/en/fc24/player/katie-mccabe/19626;88;64;Arsenal;;Rep. Irlanda;85;80;83;83;84;85
