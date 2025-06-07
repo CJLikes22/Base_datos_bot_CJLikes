@@ -211,8 +211,8 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 209;tijjani reijnders;23122;https://www.futwiz.com/en/fc25/player/tijjani-reijnders/23122;95;11;Milano FC ;ITA 1;Holanda;92;91;96;95;89;90
 210;frida maanum;23334;https://www.futwiz.com/en/fc25/player/frida-maanum/23334;95;37;Arsenal ;;Noruega;91;96;95;94;85;84
 211;noa lang;22854;https://www.futwiz.com/en/fc25/player/noa-lang/22854;95;11;PSV ;NED 1;Holanda;94;90;90;96;65;85
-212;erling haaland;20998;https://www.futwiz.com/en/fc25/player/erling-haaland/20998;95;64;Manchester City ;ENG 1;Noruega;92;96;77;88;50;92
-213;erling haaland;22144;https://www.futwiz.com/en/fc25/player/erling-haaland/22144;95;30;Manchester City ;ENG 1;Noruega;92;97;80;88;50;93
+212;erling haaland;22144;https://www.futwiz.com/en/fc25/player/erling-haaland/22144;95;30;Manchester City ;ENG 1;Noruega;92;97;80;88;50;93
+213;erling haaland;20998;https://www.futwiz.com/en/fc25/player/erling-haaland/20998;95;64;Manchester City ;ENG 1;Noruega;92;96;77;88;50;92
 214;federico valverde;23173;https://www.futwiz.com/en/fc25/player/federico-valverde/23173;95;11;Real Madrid ;ESP 1;Uruguay;95;90;93;92;88;90
 215;pele;18431;https://www.futwiz.com/en/fc25/player/pele/18431;95;12;Icons ;ICO;Brasil;93;94;91;94;58;74
 216;douglas luiz;23337;https://www.futwiz.com/en/fc25/player/douglas-luiz/23337;95;75;Juventus ;ITA 1;Brasil;90;80;86;85;96;95
@@ -1064,8 +1064,8 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 1062;lucio;18489;https://www.futwiz.com/en/fc25/player/lucio/18489;89;72;Heroes ;ITA 1;Brasil;82;72;74;77;91;89
 1063;jamie bynoe-gittens;19152;https://www.futwiz.com/en/fc25/player/jamie-bynoe-gittens/19152;89;34;Borussia Dortmund ;GER 1;Inglaterra;95;86;85;91;40;71
 1064;julie dufour;21102;https://www.futwiz.com/en/fc25/player/julie-dufour/21102;89;71;Angel City FC ;USA F;Francia;94;87;89;91;60;70
-1065;selma bacha;22761;https://www.futwiz.com/en/fc25/player/selma-bacha/22761;89;gold-if;OL ;FRA F;Francia;90;78;89;86;83;83
-1066;selma bacha;19357;https://www.futwiz.com/en/fc25/player/selma-bacha/19357;89;82;OL ;FRA F;Francia;90;77;88;85;83;82
+1065;selma bacha;19357;https://www.futwiz.com/en/fc25/player/selma-bacha/19357;89;82;OL ;FRA F;Francia;90;77;88;85;83;82
+1066;selma bacha;22761;https://www.futwiz.com/en/fc25/player/selma-bacha/22761;89;gold-if;OL ;FRA F;Francia;90;78;89;86;83;83
 1067;jessica naz;20568;https://www.futwiz.com/en/fc25/player/jessica-naz/20568;89;108;Spurs ;;Inglaterra;90;88;82;89;57;80
 1068;celina ould hocine;21496;https://www.futwiz.com/en/fc25/player/celina-ould-hocine/21496;89;111;Paris FC ;FRA F;Francia;84;66;88;83;99;88
 1069;bradley barcola;18722;https://www.futwiz.com/en/fc25/player/bradley-barcola/18722;89;50;Paris SG ;FRA 1;Francia;93;85;86;91;44;76
@@ -1231,15 +1231,15 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 1229;didier drogba;18496;https://www.futwiz.com/en/fc25/player/didier-drogba/18496;89;12;Icons ;ICO;C. Marfil;87;90;74;80;44;87
 1230;ze roberto;10;https://www.futwiz.com/en/fc25/player/ze-roberto/10;89;161;Heroes ;GER 1;Brasil;89;82;88;91;80;83
 1231;pepe reina;22176;https://www.futwiz.com/en/fc25/player/pepe-reina/22176;89;30;Como ;ITA 1;España;89;90;84;87;55;87
-1232;cristiano ronaldo;22764;https://www.futwiz.com/en/fc25/player/cristiano-ronaldo/22764;89;gold-if;Al Nassr ;SAU 1;Portugal;85;91;82;86;37;82
-1233;cristiano ronaldo;18773;https://www.futwiz.com/en/fc25/player/cristiano-ronaldo/18773;89;94;Al Nassr ;SAU 1;Portugal;84;90;80;86;36;83
+1232;cristiano ronaldo;18773;https://www.futwiz.com/en/fc25/player/cristiano-ronaldo/18773;89;94;Al Nassr ;SAU 1;Portugal;84;90;80;86;36;83
+1233;cristiano ronaldo;22764;https://www.futwiz.com/en/fc25/player/cristiano-ronaldo/22764;89;gold-if;Al Nassr ;SAU 1;Portugal;85;91;82;86;37;82
 1234;yaya toure;22;https://www.futwiz.com/en/fc25/player/yaya-toure/22;89;161;Heroes ;ENG 1;C. Marfil;82;85;88;87;83;91
 1235;tim howard;20;https://www.futwiz.com/en/fc25/player/tim-howard/20;89;161;Heroes ;ENG 1;Estados Unidos;87;85;89;88;56;87
 1236;steven gerrard;19356;https://www.futwiz.com/en/fc25/player/steven-gerrard/19356;89;85;Icons ;ICO;Inglaterra;80;89;90;85;76;83
 1237;ruud van nistelrooy;18476;https://www.futwiz.com/en/fc25/player/ruud-van-nistelrooy/18476;89;12;Icons ;ICO;Holanda;84;89;71;83;38;80
 1238;samuel eto'o;18500;https://www.futwiz.com/en/fc25/player/samuel-etoo/18500;89;12;Icons ;ICO;Camerun;92;90;79;87;45;80
-1239;pavel nedved;19021;https://www.futwiz.com/en/fc25/player/pavel-nedved/19021;89;168;Icons ;ICO;Republica Checa;86;85;88;89;60;78
-1240;pavel nedved;22747;https://www.futwiz.com/en/fc25/player/pavel-nedved/22747;89;144;Icons ;ICO;Republica Checa;88;87;92;92;60;80
+1239;pavel nedved;22747;https://www.futwiz.com/en/fc25/player/pavel-nedved/22747;89;144;Icons ;ICO;Republica Checa;88;87;92;92;60;80
+1240;pavel nedved;19021;https://www.futwiz.com/en/fc25/player/pavel-nedved/19021;89;168;Icons ;ICO;Republica Checa;86;85;88;89;60;78
 1241;jaap stam;24;https://www.futwiz.com/en/fc25/player/jaap-stam/24;89;161;Heroes ;ENG 1;Holanda;85;54;65;71;91;90
 1242;fernando morientes;18472;https://www.futwiz.com/en/fc25/player/fernando-morientes/18472;89;72;Heroes ;ESP 1;España;84;90;77;83;45;86
 1243;luis figo;18493;https://www.futwiz.com/en/fc25/player/luis-figo/18493;89;12;Icons ;ICO;Portugal;89;84;86;90;38;77
@@ -1418,8 +1418,8 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 1416;joshua kimmich;19363;https://www.futwiz.com/en/fc25/player/joshua-kimmich/19363;88;82;FC Bayern Munchen ;GER 1;Alemania;84;76;90;86;87;80
 1417;robert andrich;19283;https://www.futwiz.com/en/fc25/player/robert-andrich/19283;88;33;Leverkusen ;GER 1;Alemania;81;83;82;80;88;89
 1418;aymeric laporte;19615;https://www.futwiz.com/en/fc25/player/aymeric-laporte/19615;88;117;Al Nassr ;SAU 1;España;85;88;86;85;80;90
-1419;bruno fernandes;22566;https://www.futwiz.com/en/fc25/player/bruno-fernandes/22566;88;gold-if;Man Utd ;ENG 1;Portugal;82;88;90;87;73;78
-1420;bruno fernandes;19045;https://www.futwiz.com/en/fc25/player/bruno-fernandes/19045;88;151;Man Utd ;ENG 1;Portugal;78;88;90;87;66;80
+1419;bruno fernandes;19045;https://www.futwiz.com/en/fc25/player/bruno-fernandes/19045;88;151;Man Utd ;ENG 1;Portugal;78;88;90;87;66;80
+1420;bruno fernandes;22566;https://www.futwiz.com/en/fc25/player/bruno-fernandes/22566;88;gold-if;Man Utd ;ENG 1;Portugal;82;88;90;87;73;78
 1421;paulo dybala;19545;https://www.futwiz.com/en/fc25/player/paulo-dybala/19545;88;gold-if;AS Roma ;ITA 1;Argentina;81;87;86;90;42;67
 1422;ederson;40;https://www.futwiz.com/en/fc25/player/ederson/40;88;gold;Manchester City ;ENG 1;Brasil;87;82;91;87;64;86
 1423;yannick carrasco;19428;https://www.futwiz.com/en/fc25/player/yannick-carrasco/19428;88;28;Al Shabab ;SAU 1;Belgica;93;88;85;90;65;72
@@ -1580,9 +1580,9 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 1578;aldana cometti;22705;https://www.futwiz.com/en/fc25/player/aldana-cometti/22705;87;gold-if;Madrid CFF ;ESP F;Argentina;84;45;75;77;89;87
 1579;khadija shaw;18798;https://www.futwiz.com/en/fc25/player/khadija-shaw/18798;87;gold-if;Manchester City ;;Jamaica;72;87;72;80;33;86
 1580;erin cuthbert;22637;https://www.futwiz.com/en/fc25/player/erin-cuthbert/22637;87;gold-if;Chelsea ;;Escocia;85;84;87;87;84;85
-1581;caroline weir;21382;https://www.futwiz.com/en/fc25/player/caroline-weir/21382;87;gold-if;Real Madrid ;ESP F;Escocia;83;87;88;88;79;75
-1582;caroline weir;20569;https://www.futwiz.com/en/fc25/player/caroline-weir/20569;87;108;Real Madrid ;ESP F;Escocia;87;86;86;89;77;73
-1583;caroline weir;20572;https://www.futwiz.com/en/fc25/player/caroline-weir/20572;87;108;Real Madrid ;ESP F;Escocia;84;88;88;87;77;73
+1581;caroline weir;20569;https://www.futwiz.com/en/fc25/player/caroline-weir/20569;87;108;Real Madrid ;ESP F;Escocia;87;86;86;89;77;73
+1582;caroline weir;20572;https://www.futwiz.com/en/fc25/player/caroline-weir/20572;87;108;Real Madrid ;ESP F;Escocia;84;88;88;87;77;73
+1583;caroline weir;21382;https://www.futwiz.com/en/fc25/player/caroline-weir/21382;87;gold-if;Real Madrid ;ESP F;Escocia;83;87;88;88;79;75
 1584;clara mateo;19173;https://www.futwiz.com/en/fc25/player/clara-mateo/19173;87;gold-if;Paris FC ;FRA F;Francia;88;87;83;86;61;75
 1585;santiago gimenez;18732;https://www.futwiz.com/en/fc25/player/santiago-gimenez/18732;87;50;Feyenoord ;NED 1;Mexico;86;87;80;85;53;83
 1586;trincao;22639;https://www.futwiz.com/en/fc25/player/trincao/22639;87;gold-if;Sporting CP ;POR 1;Portugal;89;89;87;93;52;74
@@ -1605,8 +1605,8 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 1603;viktor gyokeres;18964;https://www.futwiz.com/en/fc25/player/viktor-gyokeres/18964;87;gold-if;Sporting CP ;POR 1;Suecia;92;86;72;84;40;93
 1604;marc guehi;19513;https://www.futwiz.com/en/fc25/player/marc-guehi/19513;87;117;Crystal Palace ;ENG 1;Inglaterra;82;45;71;78;88;86
 1605;sandro tonali;21019;https://www.futwiz.com/en/fc25/player/sandro-tonali/21019;87;gold-if;Newcastle Utd ;ENG 1;Italia;87;77;85;83;84;84
-1606;luis diaz;19551;https://www.futwiz.com/en/fc25/player/luis-diaz/19551;87;gold-if;Liverpool ;ENG 1;Colombia;93;85;79;90;44;78
-1607;luis diaz;18943;https://www.futwiz.com/en/fc25/player/luis-diaz/18943;87;22;Liverpool ;ENG 1;Colombia;93;85;80;90;43;78
+1606;luis diaz;18943;https://www.futwiz.com/en/fc25/player/luis-diaz/18943;87;22;Liverpool ;ENG 1;Colombia;93;85;80;90;43;78
+1607;luis diaz;19551;https://www.futwiz.com/en/fc25/player/luis-diaz/19551;87;gold-if;Liverpool ;ENG 1;Colombia;93;85;79;90;44;78
 1608;callum hudson-odoi;19553;https://www.futwiz.com/en/fc25/player/callum-hudson-odoi/19553;87;117;Nott'm Forest ;ENG 1;Inglaterra;91;85;83;87;61;78
 1609;jill roord;18902;https://www.futwiz.com/en/fc25/player/jill-roord/18902;87;gold-if;Manchester City ;;Holanda;77;85;85;87;53;75
 1610;matheus cunha;19641;https://www.futwiz.com/en/fc25/player/matheus-cunha/19641;87;gold-if;Wolves ;ENG 1;Brasil;92;87;86;91;53;84
@@ -1679,8 +1679,8 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 1677;efthymios koulouris;22065;https://www.futwiz.com/en/fc25/player/efthymios-koulouris/22065;87;gold-if;Pogon Szczecin ;POL 1;Grecia;90;89;78;87;46;88
 1678;hirving lozano;19436;https://www.futwiz.com/en/fc25/player/hirving-lozano/19436;87;28;PSV ;NED 1;Mexico;93;84;83;89;50;75
 1679;marco asensio;19585;https://www.futwiz.com/en/fc25/player/marco-asensio/19585;87;108;Paris SG ;FRA 1;España;87;88;89;90;50;75
-1680;mattia zaccagni;21436;https://www.futwiz.com/en/fc25/player/mattia-zaccagni/21436;87;140;Latium ;ITA 1;Italia;91;84;85;92;61;70
-1681;mattia zaccagni;22127;https://www.futwiz.com/en/fc25/player/mattia-zaccagni/22127;87;gold-if;Latium ;ITA 1;Italia;91;83;81;92;61;70
+1680;mattia zaccagni;22127;https://www.futwiz.com/en/fc25/player/mattia-zaccagni/22127;87;gold-if;Latium ;ITA 1;Italia;91;83;81;92;61;70
+1681;mattia zaccagni;21436;https://www.futwiz.com/en/fc25/player/mattia-zaccagni/21436;87;140;Latium ;ITA 1;Italia;91;84;85;92;61;70
 1682;giovanni di lorenzo;22708;https://www.futwiz.com/en/fc25/player/giovanni-di-lorenzo/22708;87;gold-if;SSC Napoli ;ITA 1;Italia;89;73;81;82;86;87
 1683;rafa;22709;https://www.futwiz.com/en/fc25/player/rafa/22709;87;gold-if;Besiktas ;TUR 1;Portugal;95;83;85;89;60;79
 1684;rafa;19549;https://www.futwiz.com/en/fc25/player/rafa/19549;87;117;Besiktas ;TUR 1;Portugal;94;83;84;88;60;78
@@ -6651,8 +6651,8 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 6649;robert navarro;17998;https://www.futwiz.com/en/fc25/player/robert-navarro/17998;72;silver-nr;RCD Mallorca ;ESP 1;España;74;68;68;74;34;63
 6650;robert navarro;20439;https://www.futwiz.com/en/fc25/player/robert-navarro/20439;72;silver-nr;Real Sociedad ;ESP 1;España;74;68;68;74;34;63
 6651;kristijan belic;3574;https://www.futwiz.com/en/fc25/player/kristijan-belic/3574;72;silver;AZ ;NED 1;Serbia;65;54;67;66;72;74
-6652;isaiah jones;19941;https://www.futwiz.com/en/fc25/player/isaiah-jones/19941;72;silver-nr;Middlesbrough ;ENG 2;Inglaterra;85;55;65;73;64;61
-6653;isaiah jones;21740;https://www.futwiz.com/en/fc25/player/isaiah-jones/21740;72;silver;Luton Town ;ENG 2;Guyana;85;55;65;73;64;61
+6652;isaiah jones;21740;https://www.futwiz.com/en/fc25/player/isaiah-jones/21740;72;silver;Luton Town ;ENG 2;Guyana;85;55;65;73;64;61
+6653;isaiah jones;19941;https://www.futwiz.com/en/fc25/player/isaiah-jones/19941;72;silver-nr;Middlesbrough ;ENG 2;Inglaterra;85;55;65;73;64;61
 6654;isaiah jones;18009;https://www.futwiz.com/en/fc25/player/isaiah-jones/18009;72;silver;Middlesbrough ;ENG 2;Guyana;85;55;65;73;64;61
 6655;hayden hackney;3949;https://www.futwiz.com/en/fc25/player/hayden-hackney/3949;72;silver-nr;Middlesbrough ;ENG 2;Inglaterra;68;57;69;71;65;71
 6656;alexis flips;17991;https://www.futwiz.com/en/fc25/player/alexis-flips/17991;72;silver-nr;Sp. Charleroi ;BEL 1;Francia;72;68;71;73;45;62
@@ -6908,8 +6908,8 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 6906;pantelis hatzidiakos;19944;https://www.futwiz.com/en/fc25/player/pantelis-hatzidiakos/19944;72;silver-nr;Cagliari ;ITA 1;Grecia;67;55;66;66;72;71
 6907;lukas gortler;3761;https://www.futwiz.com/en/fc25/player/lukas-gortler/3761;72;silver;FC St. Gallen ;SUI 1;Alemania;69;69;75;68;59;79
 6908;hamza choudhury;3695;https://www.futwiz.com/en/fc25/player/hamza-choudhury/3695;72;silver;Leicester City ;ENG 1;Inglaterra;64;50;66;67;73;74
-6909;hamza choudhury;21301;https://www.futwiz.com/en/fc25/player/hamza-choudhury/21301;72;silver;Sheffield Utd ;ENG 2;Inglaterra;64;50;66;67;73;74
-6910;hamza choudhury;22281;https://www.futwiz.com/en/fc25/player/hamza-choudhury/22281;72;silver;Sheffield Utd ;ENG 2;;64;50;66;67;73;74
+6909;hamza choudhury;22281;https://www.futwiz.com/en/fc25/player/hamza-choudhury/22281;72;silver;Sheffield Utd ;ENG 2;;64;50;66;67;73;74
+6910;hamza choudhury;21301;https://www.futwiz.com/en/fc25/player/hamza-choudhury/21301;72;silver;Sheffield Utd ;ENG 2;Inglaterra;64;50;66;67;73;74
 6911;alfredo aguilar;3620;https://www.futwiz.com/en/fc25/player/alfredo-aguilar/3620;72;silver-nr;Sportivo Luqueno ;SUD;Paraguay;70;70;71;74;46;71
 6912;jean evrard kouassi;3871;https://www.futwiz.com/en/fc25/player/jean-evrard-kouassi/3871;72;silver;Zhejiang Pro ;CHN 1;C. Marfil;90;69;59;77;31;70
 6913;nicolas tripichio;4154;https://www.futwiz.com/en/fc25/player/nicolas-tripichio/4154;72;silver-nr;San Lorenzo ;LIB;Argentina;81;51;66;71;66;69
@@ -17734,5 +17734,3 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 17732;sondre liseth;21572;https://www.futwiz.com/en/fc25/player/sondre-liseth/21572;62;bronze-nr;Gornik Zabrze ;POL 1;Noruega;62;57;58;63;30;65
 17733;noah chilvers;13258;https://www.futwiz.com/en/fc25/player/noah-chilvers/13258;62;bronze;Ross County ;SPFL;Inglaterra;79;60;62;64;54;67
 17734;ryan rydel;13749;https://www.futwiz.com/en/fc25/player/ryan-rydel/13749;62;bronze;Stockport ;ENG 3;Inglaterra;81;53;56;59;55;64
-17735;callan elliot;13388;https://www.futwiz.com/en/fc25/player/callan-elliot/13388;62;bronze;Auckland FC ;AUS 1;N. Zelanda;76;48;57;64;54;64
-17736;adam o'reilly;13655;https://www.futwiz.com/en/fc25/player/adam-oreilly/13655;62;bronze-nr;Derry City ;IRL 1;Rep. Irlanda;64;46;58;65;56;65
