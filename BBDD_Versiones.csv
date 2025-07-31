@@ -1,4 +1,4 @@
-﻿Version;Version_futwiz;Version_futbin;vetada;color1;color2;modo;letra
+Version;Version_futwiz;Version_futbin;vetada;color1;color2;modo;letra
 Common;gold-nr;gold;no;#FFE900;#D7961C;normal;white
 Rare;gold;gold;no;#FFE900;#D7961C;normal;white
 Icon;12;icon;no;#E1D7A1;#FFFFFF;esquina;black
@@ -56,3 +56,8 @@ Star Performer;8;motm;no;#ffa500;#ffa420;esquina;white
 UECL Road to the Final;126;uecl_rttf;no;#013220;#90ee90;esquina;white
 UCL Road to the Final;124;ucl_rttf;no;#102c54;#add8e6;esquina;white
 UEL Road to the Final;125;uel_rttf;no;#ffa500;#ffa420;esquina;white
+WEURO Path to Glory;37;;;;;;
+FUTTIES;16;futties;no;#FFB6C1;#FFB6C1;esquina;white
+FUTTIES Hero;154;futties_hero;no;#FFB6C1;#FFB6C1;esquina;white
+Greats of the Game Hero;88;greats_of_the_game_hero;no;#572364;#572364;esquina;white
+Greats of the Game ICON;89;greats_of_the_game_icon;no;#572364;#572364;esquina;white
