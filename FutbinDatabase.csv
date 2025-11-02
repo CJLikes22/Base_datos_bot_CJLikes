@@ -19668,103 +19668,80 @@
 19666;Eva Sumo;20238;https://www.futbin.com/26/player/20238/eva-sumo;70;silver;FC Nantes;D1 Arkema;Congo DR;59;64;67;75;65;65
 19667;Irvin Cardona;20237;https://www.futbin.com/26/player/20237/irvin-cardona;73;silver;AS Saint-Étienne;Ligue 2 BKT;Malta;86;73;67;72;30;71
 19668;Riechedly Bazoer;20236;https://www.futbin.com/26/player/20236/riechedly-bazoer;74;silver;Konyaspor;Trendyol Süper Lig;Curaçao;67;68;73;74;74;74
-19669;Nick Scardina;nick-scardina;https://www.futbin.com/26/player/20363/nick-scardina;84;ultimate_scream;Charlotte FC;MLS;United States;90;83;80;84;65;68
-19670;Marcus Rashford;marcus-rashford;https://www.futbin.com/26/player/20362/marcus-rashford;86;ultimate_scream;FC Barcelona;LALIGA EA SPORTS;England;93;84;86;85;40;71
-19671;Marcus Rashford;marcus-rashford;https://www.futbin.com/26/player/20361/marcus-rashford;86;ultimate_scream;FC Barcelona;LALIGA EA SPORTS;England;88;87;83;86;40;71
-19672;Anna Patten;anna-patten;https://www.futbin.com/26/player/20360/anna-patten;75;gold;Aston Villa;Barclays WSL;Republic of Ireland;63;45;64;64;76;72
-19673;Freddie Ljungberg;ljungberg;https://www.futbin.com/26/player/20359/ljungberg;87;ultimate_scream_hero;HERO;Premier League;Sweden;90;82;83;87;47;80
-19674;Blaise Matuidi;matuidi;https://www.futbin.com/26/player/20358/matuidi;87;ultimate_scream_hero;HERO;Ligue 1 McDonald's;France;84;73;80;80;85;87
-19675;Yaya Touré;toure;https://www.futbin.com/26/player/20357/toure;88;ultimate_scream_hero;HERO;Premier League;Côte d'Ivoire;80;84;87;86;81;90
-19676;Claudio Marchisio;marchisio;https://www.futbin.com/26/player/20356/marchisio;88;ultimate_scream_hero;HERO;Serie A TIM;Italy;83;82;86;87;82;84
-19677;Paulo Jorge dos Santos Futre;dos-santos-futre;https://www.futbin.com/26/player/20355/dos-santos-futre;89;ultimate_scream_hero;HERO;LALIGA EA SPORTS;Portugal;94;83;81;94;38;63
-19678;Wesley Sneijder;sneijder;https://www.futbin.com/26/player/20354/sneijder;89;ultimate_scream_hero;HERO;Serie A TIM;Netherlands;85;85;91;87;55;76
-19679;Alejandro Francés Torrijo;alejandro-frances-torrijo;https://www.futbin.com/26/player/20353/alejandro-frances-torrijo;84;ultimate_scream;Girona FC;LALIGA EA SPORTS;Spain;82;54;78;80;83;85
-19680;Eseosa Aigbogun;eseosa-aigbogun;https://www.futbin.com/26/player/20352/eseosa-aigbogun;84;ultimate_scream;Strasbourg;D1 Arkema;Switzerland;86;75;80;82;84;77
-19681;Daniel Svensson;daniel-svensson;https://www.futbin.com/26/player/20351/daniel-svensson;84;ultimate_scream;Borussia Dortmund;Bundesliga;Sweden;84;64;82;83;80;81
-19682;Timothy Weah;timothy-weah;https://www.futbin.com/26/player/20350/timothy-weah;85;ultimate_scream;OM;Ligue 1 McDonald's;United States;91;79;81;86;80;78
-19683;Nicolas Seiwald;nicolas-seiwald;https://www.futbin.com/26/player/20349/nicolas-seiwald;85;ultimate_scream;RB Leipzig;Bundesliga;Austria;80;70;82;82;82;85
-19684;Géraldine Reuteler;geraldine-reuteler;https://www.futbin.com/26/player/20348/geraldine-reuteler;85;ultimate_scream;Frankfurt;GPFBL;Switzerland;91;83;83;86;60;77
-19685;Jeremie Frimpong;jeremie-frimpong;https://www.futbin.com/26/player/20347/jeremie-frimpong;86;ultimate_scream;Liverpool;Premier League;Netherlands;96;81;80;87;75;67
-19686;Juan Cuadrado;juan-cuadrado;https://www.futbin.com/26/player/20346/juan-cuadrado;86;ultimate_scream;Pisa;Serie A TIM;Colombia;87;83;86;88;85;76
-19687;Lineth Beerensteyn;lineth-beerensteyn;https://www.futbin.com/26/player/20345/lineth-beerensteyn;86;ultimate_scream;VfL Wolfsburg;GPFBL;Netherlands;92;82;75;88;55;78
-19688;João Félix Sequeira;joao-felix-sequeira;https://www.futbin.com/26/player/20344/joao-felix-sequeira;86;ultimate_scream;Al Nassr;ROSHN Saudi League;Portugal;85;86;85;89;52;76
-19689;Antoine Griezmann;antoine-griezmann;https://www.futbin.com/26/player/20343/antoine-griezmann;87;ultimate_scream;Atlético de Madrid;LALIGA EA SPORTS;France;80;88;87;90;61;76
-19690;Christian Pulisic;christian-pulisic;https://www.futbin.com/26/player/20342/christian-pulisic;87;ultimate_scream;Milano FC;Serie A TIM;United States;89;85;84;90;49;70
-19691;Ji Sung Park;park;https://www.futbin.com/26/player/20341/park;87;ultimate_scream_hero;HERO;Premier League;Korea Republic;86;81;84;87;79;82
-19692;Inès Jaurena;ines-jaurena;https://www.futbin.com/26/player/20340/ines-jaurena;84;ultimate_scream;FC Fleury 91;D1 Arkema;France;76;75;79;83;84;80
-19693;Paulo Dybala;paulo-dybala;https://www.futbin.com/26/player/20339/paulo-dybala;88;ultimate_scream;AS Roma;Serie A TIM;Argentina;83;87;86;89;44;70
-19694;Wesley Vinícius França Lima;wesley-vinicius-franca-lima;https://www.futbin.com/26/player/20338/wesley-vinicius-franca-lima;85;world_tour;AS Roma;Serie A TIM;Brazil;91;68;76;85;79;80
-19695;María Francesca Caldentey Oliver;maria-francesca-caldentey-oliver;https://www.futbin.com/26/player/20337/maria-francesca-caldentey-oliver;89;ultimate_scream;Arsenal;Barclays WSL;Spain;80;86;88;90;76;79
-19696;Ousmane Dembélé;ousmane-dembele;https://www.futbin.com/26/player/20336/ousmane-dembele;90;ultimate_scream;Paris SG;Ligue 1 McDonald's;France;92;88;83;94;50;69
-19697;Kylian Mbappé;kylian-mbappe;https://www.futbin.com/26/player/20335/kylian-mbappe;92;potm_la_liga;Real Madrid;LALIGA EA SPORTS;France;98;91;82;93;38;77
-19698;Ladislav Krejčí;ladislav-krejci;https://www.futbin.com/26/player/20334/ladislav-krejci;85;ultimate_scream;Wolves;Premier League;Czechia;78;76;81;85;83;87
-19699;Franz Beckenbauer;franz-beckenbauer;https://www.futbin.com/26/player/20333/franz-beckenbauer;71;world_tour_silver_stars;EA FC ICONS;Icons;Germany;70;52;76;64;80;70
-19700;Gerd Müller;muller;https://www.futbin.com/26/player/20332/muller;73;world_tour_silver_stars;EA FC ICONS;Icons;Germany;77;85;65;73;35;55
-19701;Jair Ventura Filho;ventura-filho;https://www.futbin.com/26/player/20331/ventura-filho;74;world_tour_silver_stars;EA FC ICONS;Icons;Brazil;85;78;68;76;34;58
-19702;Edson Arantes Nascimento;arantes-nascimento;https://www.futbin.com/26/player/20330/arantes-nascimento;74;world_tour_silver_stars;EA FC ICONS;Icons;Brazil;73;75;77;86;37;55
-19703;Carlos Alberto Torres;carlos-alberto-torres;https://www.futbin.com/26/player/20329/carlos-alberto-torres;74;world_tour_silver_stars;EA FC ICONS;Icons;Brazil;84;70;65;74;77;70
-19704;Julian Quiñones;julian-quinones;https://www.futbin.com/26/player/20322/julian-quinones;85;world_tour;Al Qadisiyah;ROSHN Saudi League;Mexico;92;84;77;84;41;87
-19705;Julian Araujo;julian-araujo;https://www.futbin.com/26/player/20321/julian-araujo;85;world_tour;AFC Bournemouth;Premier League;Mexico;88;46;78;82;82;84
-19706;Johan Vásquez;johan-vasquez;https://www.futbin.com/26/player/20320/johan-vasquez;85;world_tour;Genoa;Serie A TIM;Mexico;78;43;70;70;87;85
-19707;Frederico de Paula Santos;frederico-de-paula-santos;https://www.futbin.com/26/player/20319/frederico-de-paula-santos;85;world_tour;Fenerbahçe;Trendyol Süper Lig;Brazil;82;77;83;87;81;80
-19708;Tarciane Karen dos Santos de Lima;tarciane-karen-dos-santos-de-lima;https://www.futbin.com/26/player/20318/tarciane-karen-dos-santos-de-lima;85;world_tour;OL;D1 Arkema;Brazil;78;50;78;70;86;89
-19709;Igor Guilherme Barbosa da Paixão;igor-guilherme-barbosa-da-paixao;https://www.futbin.com/26/player/20317/igor-guilherme-barbosa-da-paixao;86;world_tour;OM;Ligue 1 McDonald's;Brazil;90;86;82;87;40;77
-19710;Carlos Augusto Zopolato Neves;carlos-augusto-zopolato-neves;https://www.futbin.com/26/player/20316/carlos-augusto-zopolato-neves;86;world_tour;Lombardia FC;Serie A TIM;Brazil;85;77;82;86;86;81
-19711;Lizbeth Ovalle;lizbeth-ovalle;https://www.futbin.com/26/player/20315/lizbeth-ovalle;86;world_tour;Orlando Pride;NWSL;Mexico;87;88;86;87;50;76
-19712;Marta Vieira da Silva;marta-vieira-da-silva;https://www.futbin.com/26/player/20314/marta-vieira-da-silva;87;world_tour;Orlando Pride;NWSL;Brazil;80;85;87;90;46;77
-19713;Fábio Henrique Tavares;fabio-henrique-tavares;https://www.futbin.com/26/player/20313/fabio-henrique-tavares;87;world_tour;Al Ittihad;ROSHN Saudi League;Brazil;80;74;85;82;87;86
-19714;Hirving Lozano;hirving-lozano;https://www.futbin.com/26/player/20312/hirving-lozano;88;world_tour;San Diego FC;MLS;Mexico;94;85;81;88;51;72
-19715;Rodrygo Silva de Goes;rodrygo-silva-de-goes;https://www.futbin.com/26/player/20311/rodrygo-silva-de-goes;88;world_tour;Real Madrid;LALIGA EA SPORTS;Brazil;92;86;85;90;34;70
-19716;Fátima Figueira Pinto;fatima-figueira-pinto;https://www.futbin.com/26/player/20310/fatima-figueira-pinto;80;gold;Strasbourg;D1 Arkema;Portugal;78;65;82;78;75;80
-19717;Emre Tezgel;emre-tezgel;https://www.futbin.com/26/player/20309/emre-tezgel;80;gold;Crewe Alexandra;EFL League Two;England;85;81;71;80;51;79
-19718;Alex Badolato;alex-badolato;https://www.futbin.com/26/player/20308/alex-badolato;80;gold;Newcastle Jets;A-League;Australia;86;80;75;83;64;81
-19719;Zian Flemming;zian-flemming;https://www.futbin.com/26/player/20307/zian-flemming;80;gold;Burnley;Premier League;Netherlands;82;82;79;81;61;84
-19720;Siebe Van der Heyden;siebe-van-der-heyden;https://www.futbin.com/26/player/20306/siebe-van-der-heyden;80;gold;KAA Gent;1A Pro League;Belgium;78;41;71;65;81;82
-19721;Elvis Sarić;elvis-saric;https://www.futbin.com/26/player/20305/elvis-saric;80;gold;Qingdao Hainiu;CSL;Bosnia and Herzegovina;77;75;82;80;73;84
-19722;Yan Diomande;yan-diomande;https://www.futbin.com/26/player/20304/yan-diomande;80;gold;RB Leipzig;Bundesliga;Côte d'Ivoire;85;78;80;81;39;67
-19723;Leo Cornic;leo-cornic;https://www.futbin.com/26/player/20303/leo-cornic;80;gold;Tromsø IL;Eliteserien;Norway;87;53;75;80;78;79
-19724;Gabriel Villamíl;gabriel-villamil;https://www.futbin.com/26/player/20302/gabriel-villamil;80;gold;LDU Quito;Libertadores;Bolivia;83;76;80;81;70;68
-19725;Ferran Jutglà Blanch;ferran-jutgla-blanch;https://www.futbin.com/26/player/20301/ferran-jutgla-blanch;81;gold;RC Celta;LALIGA EA SPORTS;Spain;83;81;73;83;35;84
-19726;Matthis Abline;matthis-abline;https://www.futbin.com/26/player/20300/matthis-abline;81;gold;FC Nantes;Ligue 1 McDonald's;France;90;81;77;86;38;72
-19727;Félix Alexandre A. Sanches Correia;felix-alexandre-a-sanches-correia;https://www.futbin.com/26/player/20299/felix-alexandre-a-sanches-correia;81;gold;LOSC Lille;Ligue 1 McDonald's;Portugal;88;77;79;83;48;72
-19728;Matty Cash;matty-cash;https://www.futbin.com/26/player/20298/matty-cash;82;gold;Aston Villa;Premier League;Poland;81;70;76;78;82;80
-19729;Kamil Grabara;kamil-grabara;https://www.futbin.com/26/player/20297/kamil-grabara;82;gold;VfL Wolfsburg;Bundesliga;Poland;84;80;78;87;46;82
-19730;Gabriel Davi Gomes Sara;gabriel-davi-gomes-sara;https://www.futbin.com/26/player/20296/gabriel-davi-gomes-sara;83;gold;Galatasaray;Trendyol Süper Lig;Brazil;79;79;86;83;71;81
-19731;Vangelis Pavlidis;vangelis-pavlidis;https://www.futbin.com/26/player/20295/vangelis-pavlidis;84;gold;SL Benfica;Liga Portugal;Greece;83;85;74;83;49;84
-19732;André-Franck Zambo Anguissa;andre-franck-zambo-anguissa;https://www.futbin.com/26/player/20294/andre-franck-zambo-anguissa;84;gold;SSC Napoli;Serie A TIM;Cameroon;78;79;78;81;81;87
-19733;Micky van de Ven;micky-van-de-ven;https://www.futbin.com/26/player/20293/micky-van-de-ven;84;gold;Spurs;Premier League;Netherlands;91;51;67;75;84;83
-19734;Ismael Saibari;ismael-saibari;https://www.futbin.com/26/player/20292/ismael-saibari;84;gold;PSV;Eredivisie;Morocco;84;81;80;87;56;83
-19735;Pernille Harder;pernille-harder;https://www.futbin.com/26/player/20291/pernille-harder;87;gold;FC Bayern München;GPFBL;Denmark;83;82;81;89;28;80
-19736;Katie McCabe;katie-mccabe;https://www.futbin.com/26/player/20290/katie-mccabe;88;gold;Arsenal;Barclays WSL;Republic of Ireland;83;82;83;84;84;84
-19737;Jude Bellingham;jude-bellingham;https://www.futbin.com/26/player/20289/jude-bellingham;91;gold;Real Madrid;LALIGA EA SPORTS;England;81;87;84;91;80;86
-19738;Alexia Putellas Segura;alexia-putellas-segura;https://www.futbin.com/26/player/20288/alexia-putellas-segura;92;gold;FC Barcelona;Liga F;Spain;83;90;91;92;74;81
-19739;Jean-Mattéo Bahoya;jean-matteo-bahoya;https://www.futbin.com/26/player/20287/jean-matteo-bahoya;85;ultimate_scream;Frankfurt;Bundesliga;France;96;80;81;83;60;70
-19740;Ali Makki;ali-makki;https://www.futbin.com/26/player/20286/ali-makki;84;ultimate_scream;Al Shabab;ROSHN Saudi League;Saudi Arabia;87;84;83;85;60;77
-19741;Abdulaziz Al Othman;abdulaziz-al-othman;https://www.futbin.com/26/player/20285/abdulaziz-al-othman;84;ultimate_scream;Al Shabab;ROSHN Saudi League;Saudi Arabia;81;84;80;82;60;80
-19742;Yannick Carrasco;yannick-carrasco;https://www.futbin.com/26/player/20284/yannick-carrasco;85;ultimate_scream;Al Shabab;ROSHN Saudi League;Belgium;89;84;82;88;63;73
-19743;Faustine Bataillard;faustine-bataillard;https://www.futbin.com/26/player/20283/faustine-bataillard;85;ultimate_scream;AS Saint Étienne;D1 Arkema;France;80;60;75;80;86;81
-19744;Karim Benzema;karim-benzema;https://www.futbin.com/26/player/20282/karim-benzema;86;ultimate_scream;Al Ittihad;ROSHN Saudi League;France;80;86;83;85;40;79
-19745;Phil Foden;phil-foden;https://www.futbin.com/26/player/20281/phil-foden;87;ultimate_scream;Manchester City;Premier League;England;83;85;84;91;74;73
-19746;Owen Wolff;owen-wolff;https://www.futbin.com/26/player/20279/owen-wolff;84;ultimate_scream;Austin FC;MLS;United States;82;70;83;86;79;77
-19747;Jordi Alba Ramos;jordi-alba-ramos;https://www.futbin.com/26/player/20280/jordi-alba-ramos;88;end_of_era;Inter Miami CF;MLS;Spain;89;80;86;88;83;80
-19748;Denis Suárez Fernández;denis-suarez-fernandez;https://www.futbin.com/26/player/20278/denis-suarez-fernandez;84;ultimate_scream;D. Alavés;LALIGA EA SPORTS;Spain;80;81;87;86;73;65
-19749;Fridolina Rolfö;fridolina-rolfo;https://www.futbin.com/26/player/20277/fridolina-rolfo;86;ultimate_scream;Manchester Utd;Barclays WSL;Sweden;87;83;83;86;82;81
-19750;Aidan Stokes;aidan-stokes;https://www.futbin.com/26/player/20276/aidan-stokes;52;bronze;Red Bulls;MLS;United States;59;47;46;55;25;54
-19751;Luke Vickery;vickery;https://www.futbin.com/26/player/20275/vickery;54;bronze;Macarthur FC;A-League;Australia;70;53;49;55;28;54
-19752;Sammy Dudek;sammy-dudek;https://www.futbin.com/26/player/20274/sammy-dudek;56;bronze;Lech Poznań;PKO BP Ekstraklasa;Poland;66;47;54;61;52;40
-19753;Raed Azybi;raed-azybi;https://www.futbin.com/26/player/20273/raed-azybi;56;bronze;Neom;ROSHN Saudi League;Saudi Arabia;52;56;53;57;31;58
-19754;Hisham Al Dubais;hisham-al-dubais;https://www.futbin.com/26/player/20272/hisham-al-dubais;57;bronze;Al Najmah;ROSHN Saudi League;Saudi Arabia;69;56;43;55;22;56
-19755;Meshal Al Alaeli;meshal-al-alaeli;https://www.futbin.com/26/player/20271/meshal-al-alaeli;58;bronze;Al Taawoun;ROSHN Saudi League;Saudi Arabia;81;37;47;57;49;55
-19756;Ashique Kuruniyan;ashique-kuruniyan;https://www.futbin.com/26/player/20270/ashique-kuruniyan;58;bronze;Bengaluru FC;Hero ISL;India;88;48;51;56;45;58
-19757;Lenni Cirino;lenni-cirino;https://www.futbin.com/26/player/20269/lenni-cirino;58;bronze;Gillingham;EFL League Two;Montserrat;78;36;46;59;51;54
-19758;Djenairo Daniels;djenairo-daniels;https://www.futbin.com/26/player/20268/djenairo-daniels;58;bronze;Kilmarnock;Scottish Premiership;Suriname;58;59;44;55;26;60
-19759;Heine Åsen Larsen;heine-asen-larsen;https://www.futbin.com/26/player/20267/heine-asen-larsen;60;bronze;Bryne Fotballklubb;Eliteserien;Norway;64;57;52;58;50;62
-19760;Abdulaziz Al Othman;abdulaziz-al-othman;https://www.futbin.com/26/player/20266/abdulaziz-al-othman;60;bronze;Al Shabab;ROSHN Saudi League;Saudi Arabia;74;54;48;56;34;69
-19761;Tyreece Simpson;tyreece-simpson;https://www.futbin.com/26/player/20265/tyreece-simpson;61;bronze;Stevenage;EFL League One;St. Kitts and Nevis;84;58;51;59;44;77
-19762;Baran Ali Gezek;baran-ali-gezek;https://www.futbin.com/26/player/20264/baran-ali-gezek;61;bronze;Eyüpspor;Trendyol Süper Lig;Türkiye;41;49;61;62;58;43
-19763;Tiemoko Ouattara;tiemoko-ouattara;https://www.futbin.com/26/player/20263/tiemoko-ouattara;62;bronze;FC St. Gallen;Swiss Super League;Switzerland;74;57;52;66;27;55
-19764;Ali Houary Jeddoub;ali-houary-jeddoub;https://www.futbin.com/26/player/20262/ali-houary-jeddoub;62;bronze;Elche CF;LALIGA EA SPORTS;Morocco;62;55;60;64;40;51
-19765;Jordan Bowery;jordan-bowery;https://www.futbin.com/26/player/20261/jordan-bowery;63;bronze;Mansfield Town;EFL League One;St. Kitts and Nevis;83;57;52;61;59;77
-19766;Gessime Yassine;gessime-yassine;https://www.futbin.com/26/player/20260/gessime-yassine;65;silver;USL Dunkerque;Ligue 2 BKT;Morocco;66;61;62;74;40;43
-19767;Déron Payne;deron-payne;https://www.futbin.com/26/player/20259/deron-payne;65;silver;FC Volendam;Eredivisie;Trinidad and Tobago;71;37;53;60;62;62
-19768;Erik Kojzek;erik-kojzek;https://www.futbin.com/26/player/20258/erik-kojzek;66;silver;Wolfsberger AC;Ö. Bundesliga;Austria;62;67;49;60;19;65
+19669;Nick Scardina;20363;https://www.futbin.com/26/player/20363/nick-scardina;84;ultimate_scream;Charlotte FC;MLS;United States;90;83;80;84;65;68
+19670;Marcus Rashford;20362;https://www.futbin.com/26/player/20362/marcus-rashford;86;ultimate_scream;FC Barcelona;LALIGA EA SPORTS;England;93;84;86;85;40;71
+19671;Marcus Rashford;20361;https://www.futbin.com/26/player/20361/marcus-rashford;86;ultimate_scream;FC Barcelona;LALIGA EA SPORTS;England;88;87;83;86;40;71
+19672;Anna Patten;20360;https://www.futbin.com/26/player/20360/anna-patten;75;gold;Aston Villa;Barclays WSL;Republic of Ireland;63;45;64;64;76;72
+19673;Freddie Ljungberg;20359;https://www.futbin.com/26/player/20359/ljungberg;87;ultimate_scream_hero;HERO;Premier League;Sweden;90;82;83;87;47;80
+19674;Blaise Matuidi;20358;https://www.futbin.com/26/player/20358/matuidi;87;ultimate_scream_hero;HERO;Ligue 1 McDonald's;France;84;73;80;80;85;87
+19675;Yaya Touré;20357;https://www.futbin.com/26/player/20357/toure;88;ultimate_scream_hero;HERO;Premier League;Côte d'Ivoire;80;84;87;86;81;90
+19676;Claudio Marchisio;20356;https://www.futbin.com/26/player/20356/marchisio;88;ultimate_scream_hero;HERO;Serie A TIM;Italy;83;82;86;87;82;84
+19677;Paulo Jorge dos Santos Futre;20355;https://www.futbin.com/26/player/20355/dos-santos-futre;89;ultimate_scream_hero;HERO;LALIGA EA SPORTS;Portugal;94;83;81;94;38;63
+19678;Wesley Sneijder;20354;https://www.futbin.com/26/player/20354/sneijder;89;ultimate_scream_hero;HERO;Serie A TIM;Netherlands;85;85;91;87;55;76
+19679;Alejandro Francés Torrijo;20353;https://www.futbin.com/26/player/20353/alejandro-frances-torrijo;84;ultimate_scream;Girona FC;LALIGA EA SPORTS;Spain;82;54;78;80;83;85
+19680;Eseosa Aigbogun;20352;https://www.futbin.com/26/player/20352/eseosa-aigbogun;84;ultimate_scream;Strasbourg;D1 Arkema;Switzerland;86;75;80;82;84;77
+19681;Daniel Svensson;20351;https://www.futbin.com/26/player/20351/daniel-svensson;84;ultimate_scream;Borussia Dortmund;Bundesliga;Sweden;84;64;82;83;80;81
+19682;Timothy Weah;20350;https://www.futbin.com/26/player/20350/timothy-weah;85;ultimate_scream;OM;Ligue 1 McDonald's;United States;91;79;81;86;80;78
+19683;Nicolas Seiwald;20349;https://www.futbin.com/26/player/20349/nicolas-seiwald;85;ultimate_scream;RB Leipzig;Bundesliga;Austria;80;70;82;82;82;85
+19684;Géraldine Reuteler;20348;https://www.futbin.com/26/player/20348/geraldine-reuteler;85;ultimate_scream;Frankfurt;GPFBL;Switzerland;91;83;83;86;60;77
+19685;Jeremie Frimpong;20347;https://www.futbin.com/26/player/20347/jeremie-frimpong;86;ultimate_scream;Liverpool;Premier League;Netherlands;96;81;80;87;75;67
+19686;Juan Cuadrado;20346;https://www.futbin.com/26/player/20346/juan-cuadrado;86;ultimate_scream;Pisa;Serie A TIM;Colombia;87;83;86;88;85;76
+19687;Lineth Beerensteyn;20345;https://www.futbin.com/26/player/20345/lineth-beerensteyn;86;ultimate_scream;VfL Wolfsburg;GPFBL;Netherlands;92;82;75;88;55;78
+19688;João Félix Sequeira;20344;https://www.futbin.com/26/player/20344/joao-felix-sequeira;86;ultimate_scream;Al Nassr;ROSHN Saudi League;Portugal;85;86;85;89;52;76
+19689;Antoine Griezmann;20343;https://www.futbin.com/26/player/20343/antoine-griezmann;87;ultimate_scream;Atlético de Madrid;LALIGA EA SPORTS;France;80;88;87;90;61;76
+19690;Christian Pulisic;20342;https://www.futbin.com/26/player/20342/christian-pulisic;87;ultimate_scream;Milano FC;Serie A TIM;United States;89;85;84;90;49;70
+19691;Ji Sung Park;20341;https://www.futbin.com/26/player/20341/park;87;ultimate_scream_hero;HERO;Premier League;Korea Republic;86;81;84;87;79;82
+19692;Inès Jaurena;20340;https://www.futbin.com/26/player/20340/ines-jaurena;84;ultimate_scream;FC Fleury 91;D1 Arkema;France;76;75;79;83;84;80
+19693;Paulo Dybala;20339;https://www.futbin.com/26/player/20339/paulo-dybala;88;ultimate_scream;AS Roma;Serie A TIM;Argentina;83;87;86;89;44;70
+19694;Wesley Vinícius França Lima;20338;https://www.futbin.com/26/player/20338/wesley-vinicius-franca-lima;85;world_tour;AS Roma;Serie A TIM;Brazil;91;68;76;85;79;80
+19695;María Francesca Caldentey Oliver;20337;https://www.futbin.com/26/player/20337/maria-francesca-caldentey-oliver;89;ultimate_scream;Arsenal;Barclays WSL;Spain;80;86;88;90;76;79
+19696;Ousmane Dembélé;20336;https://www.futbin.com/26/player/20336/ousmane-dembele;90;ultimate_scream;Paris SG;Ligue 1 McDonald's;France;92;88;83;94;50;69
+19697;Kylian Mbappé;20335;https://www.futbin.com/26/player/20335/kylian-mbappe;92;potm_la_liga;Real Madrid;LALIGA EA SPORTS;France;98;91;82;93;38;77
+19698;Ladislav Krejčí;20334;https://www.futbin.com/26/player/20334/ladislav-krejci;85;ultimate_scream;Wolves;Premier League;Czechia;78;76;81;85;83;87
+19699;Franz Beckenbauer;20333;https://www.futbin.com/26/player/20333/franz-beckenbauer;71;world_tour_silver_stars;EA FC ICONS;Icons;Germany;70;52;76;64;80;70
+19700;Gerd Müller;20332;https://www.futbin.com/26/player/20332/muller;73;world_tour_silver_stars;EA FC ICONS;Icons;Germany;77;85;65;73;35;55
+19701;Jair Ventura Filho;20331;https://www.futbin.com/26/player/20331/ventura-filho;74;world_tour_silver_stars;EA FC ICONS;Icons;Brazil;85;78;68;76;34;58
+19702;Edson Arantes Nascimento;20330;https://www.futbin.com/26/player/20330/arantes-nascimento;74;world_tour_silver_stars;EA FC ICONS;Icons;Brazil;73;75;77;86;37;55
+19703;Carlos Alberto Torres;20329;https://www.futbin.com/26/player/20329/carlos-alberto-torres;74;world_tour_silver_stars;EA FC ICONS;Icons;Brazil;84;70;65;74;77;70
+19704;Julian Quiñones;20322;https://www.futbin.com/26/player/20322/julian-quinones;85;world_tour;Al Qadisiyah;ROSHN Saudi League;Mexico;92;84;77;84;41;87
+19705;Julian Araujo;20321;https://www.futbin.com/26/player/20321/julian-araujo;85;world_tour;AFC Bournemouth;Premier League;Mexico;88;46;78;82;82;84
+19706;Johan Vásquez;20320;https://www.futbin.com/26/player/20320/johan-vasquez;85;world_tour;Genoa;Serie A TIM;Mexico;78;43;70;70;87;85
+19707;Frederico de Paula Santos;20319;https://www.futbin.com/26/player/20319/frederico-de-paula-santos;85;world_tour;Fenerbahçe;Trendyol Süper Lig;Brazil;82;77;83;87;81;80
+19708;Tarciane Karen dos Santos de Lima;20318;https://www.futbin.com/26/player/20318/tarciane-karen-dos-santos-de-lima;85;world_tour;OL;D1 Arkema;Brazil;78;50;78;70;86;89
+19709;Igor Guilherme Barbosa da Paixão;20317;https://www.futbin.com/26/player/20317/igor-guilherme-barbosa-da-paixao;86;world_tour;OM;Ligue 1 McDonald's;Brazil;90;86;82;87;40;77
+19710;Carlos Augusto Zopolato Neves;20316;https://www.futbin.com/26/player/20316/carlos-augusto-zopolato-neves;86;world_tour;Lombardia FC;Serie A TIM;Brazil;85;77;82;86;86;81
+19711;Lizbeth Ovalle;20315;https://www.futbin.com/26/player/20315/lizbeth-ovalle;86;world_tour;Orlando Pride;NWSL;Mexico;87;88;86;87;50;76
+19712;Marta Vieira da Silva;20314;https://www.futbin.com/26/player/20314/marta-vieira-da-silva;87;world_tour;Orlando Pride;NWSL;Brazil;80;85;87;90;46;77
+19713;Fábio Henrique Tavares;20313;https://www.futbin.com/26/player/20313/fabio-henrique-tavares;87;world_tour;Al Ittihad;ROSHN Saudi League;Brazil;80;74;85;82;87;86
+19714;Hirving Lozano;20312;https://www.futbin.com/26/player/20312/hirving-lozano;88;world_tour;San Diego FC;MLS;Mexico;94;85;81;88;51;72
+19715;Rodrygo Silva de Goes;20311;https://www.futbin.com/26/player/20311/rodrygo-silva-de-goes;88;world_tour;Real Madrid;LALIGA EA SPORTS;Brazil;92;86;85;90;34;70
+19716;Fátima Figueira Pinto;20310;https://www.futbin.com/26/player/20310/fatima-figueira-pinto;80;gold;Strasbourg;D1 Arkema;Portugal;78;65;82;78;75;80
+19717;Emre Tezgel;20309;https://www.futbin.com/26/player/20309/emre-tezgel;80;gold;Crewe Alexandra;EFL League Two;England;85;81;71;80;51;79
+19718;Alex Badolato;20308;https://www.futbin.com/26/player/20308/alex-badolato;80;gold;Newcastle Jets;A-League;Australia;86;80;75;83;64;81
+19719;Zian Flemming;20307;https://www.futbin.com/26/player/20307/zian-flemming;80;gold;Burnley;Premier League;Netherlands;82;82;79;81;61;84
+19720;Siebe Van der Heyden;20306;https://www.futbin.com/26/player/20306/siebe-van-der-heyden;80;gold;KAA Gent;1A Pro League;Belgium;78;41;71;65;81;82
+19721;Elvis Sarić;20305;https://www.futbin.com/26/player/20305/elvis-saric;80;gold;Qingdao Hainiu;CSL;Bosnia and Herzegovina;77;75;82;80;73;84
+19722;Yan Diomande;20304;https://www.futbin.com/26/player/20304/yan-diomande;80;gold;RB Leipzig;Bundesliga;Côte d'Ivoire;85;78;80;81;39;67
+19723;Leo Cornic;20303;https://www.futbin.com/26/player/20303/leo-cornic;80;gold;Tromsø IL;Eliteserien;Norway;87;53;75;80;78;79
+19724;Gabriel Villamíl;20302;https://www.futbin.com/26/player/20302/gabriel-villamil;80;gold;LDU Quito;Libertadores;Bolivia;83;76;80;81;70;68
+19725;Ferran Jutglà Blanch;20301;https://www.futbin.com/26/player/20301/ferran-jutgla-blanch;81;gold;RC Celta;LALIGA EA SPORTS;Spain;83;81;73;83;35;84
+19726;Matthis Abline;20300;https://www.futbin.com/26/player/20300/matthis-abline;81;gold;FC Nantes;Ligue 1 McDonald's;France;90;81;77;86;38;72
+19727;Félix Alexandre A. Sanches Correia;20299;https://www.futbin.com/26/player/20299/felix-alexandre-a-sanches-correia;81;gold;LOSC Lille;Ligue 1 McDonald's;Portugal;88;77;79;83;48;72
+19728;Matty Cash;20298;https://www.futbin.com/26/player/20298/matty-cash;82;gold;Aston Villa;Premier League;Poland;81;70;76;78;82;80
+19729;Kamil Grabara;20297;https://www.futbin.com/26/player/20297/kamil-grabara;82;gold;VfL Wolfsburg;Bundesliga;Poland;84;80;78;87;46;82
+19730;Gabriel Davi Gomes Sara;20296;https://www.futbin.com/26/player/20296/gabriel-davi-gomes-sara;83;gold;Galatasaray;Trendyol Süper Lig;Brazil;79;79;86;83;71;81
+19731;Vangelis Pavlidis;20295;https://www.futbin.com/26/player/20295/vangelis-pavlidis;84;gold;SL Benfica;Liga Portugal;Greece;83;85;74;83;49;84
+19732;André-Franck Zambo Anguissa;20294;https://www.futbin.com/26/player/20294/andre-franck-zambo-anguissa;84;gold;SSC Napoli;Serie A TIM;Cameroon;78;79;78;81;81;87
+19733;Micky van de Ven;20293;https://www.futbin.com/26/player/20293/micky-van-de-ven;84;gold;Spurs;Premier League;Netherlands;91;51;67;75;84;83
+19734;Ismael Saibari;20292;https://www.futbin.com/26/player/20292/ismael-saibari;84;gold;PSV;Eredivisie;Morocco;84;81;80;87;56;83
+19735;Pernille Harder;20291;https://www.futbin.com/26/player/20291/pernille-harder;87;gold;FC Bayern München;GPFBL;Denmark;83;82;81;89;28;80
+19736;Katie McCabe;20290;https://www.futbin.com/26/player/20290/katie-mccabe;88;gold;Arsenal;Barclays WSL;Republic of Ireland;83;82;83;84;84;84
+19737;Jude Bellingham;20289;https://www.futbin.com/26/player/20289/jude-bellingham;91;gold;Real Madrid;LALIGA EA SPORTS;England;81;87;84;91;80;86
+19738;Alexia Putellas Segura;20288;https://www.futbin.com/26/player/20288/alexia-putellas-segura;92;gold;FC Barcelona;Liga F;Spain;83;90;91;92;74;81
+19739;Jean-Mattéo Bahoya;20287;https://www.futbin.com/26/player/20287/jean-matteo-bahoya;85;ultimate_scream;Frankfurt;Bundesliga;France;96;80;81;83;60;70
+19740;Ali Makki;20286;https://www.futbin.com/26/player/20286/ali-makki;84;ultimate_scream;Al Shabab;ROSHN Saudi League;Saudi Arabia;87;84;83;85;60;77
+19741;Abdulaziz Al Othman;20285;https://www.futbin.com/26/player/20285/abdulaziz-al-othman;84;ultimate_scream;Al Shabab;ROSHN Saudi League;Saudi Arabia;81;84;80;82;60;80
+19742;Yannick Carrasco;20284;https://www.futbin.com/26/player/20284/yannick-carrasco;85;ultimate_scream;Al Shabab;ROSHN Saudi League;Belgium;89;84;82;88;63;73
+19743;Faustine Bataillard;20283;https://www.futbin.com/26/player/20283/faustine-bataillard;85;ultimate_scream;AS Saint Étienne;D1 Arkema;France;80;60;75;80;86;81
+19744;Karim Benzema;20282;https://www.futbin.com/26/player/20282/karim-benzema;86;ultimate_scream;Al Ittihad;ROSHN Saudi League;France;80;86;83;85;40;79
+19745;Phil Foden;20281;https://www.futbin.com/26/player/20281/phil-foden;87;ultimate_scream;Manchester City;Premier League;England;83;85;84;91;74;73
