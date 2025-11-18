@@ -1,251 +1,252 @@
 Nombre;Ritmo;Tiro;Pase;Regate;Defensa;Fisico;URL;Precio;RangoMaximo;Quimica
-Lee Kang In;88;83;85;87;55;70;https://www.futbin.com/26/player/20522/kang-in-lee;400.0;10000.0;Rematador
-Messi;80;86;86;91;34;66;https://www.futbin.com/26/player/20493/lionel-messi;109000.0;330000.0;Cazador
-Marcos Llorente;89;79;78;81;78;82;https://www.futbin.com/26/player/952/marcos-llorente-moreno;18000.0;30000.0;Ancla
-Dembélé;91;88;83;93;50;69;https://www.futbin.com/26/player/51/ousmane-dembele;672000.0;1400000.0;Cazador
-Doku;94;77;78;90;36;75;https://www.futbin.com/26/player/20498/jeremy-doku;55000.0;260000.0;Tirador preciso
-Hernández;90;76;78;83;79;83;https://www.futbin.com/26/player/712/theo-hernandez;19000.0;27500.0;Ancla
-Valverde;88;84;84;84;83;85;https://www.futbin.com/26/player/56/federico-valverde;129000.0;300000.0;Ancla
-Openda;95;81;69;81;31;80;https://www.futbin.com/26/player/18949/lois-openda;0.0;23000.0;Rematador
-Nico Williams;93;76;80;87;36;66;https://www.futbin.com/26/player/256/nicholas-williams-arthuer;46000.0;120000.0;Rematador
-Sørloth;87;90;80;84;40;90;https://www.futbin.com/26/player/20570/alexander-sorloth;1300.0;10000.0;Motor
-Renard;77;64;72;74;89;86;https://www.futbin.com/26/player/20573/wendie-renard;31000.0;95000.0;Sombra
-Vitinha;76;81;87;91;77;72;https://www.futbin.com/26/player/20491/vitor-machado-ferreira;78000.0;250000.0;Ancla
-Graham Hansen;89;87;88;90;47;76;https://www.futbin.com/26/player/117/caroline-graham-hansen;228000.0;550000.0;Cazador
-Di María;87;85;88;89;50;72;https://www.futbin.com/26/player/20523/angel-di-maria;800.0;10000.0;Cazador
+Ødegaard;83;83;88;87;73;70;https://www.futbin.com/26/player/20533/martin-odegaard;207000.0;470000.0;Cazador
+Doku;94;77;78;90;36;75;https://www.futbin.com/26/player/20498/jeremy-doku;58000.0;260000.0;Tirador preciso
+Aitana Bonmatí;85;87;86;91;77;75;https://www.futbin.com/26/player/111/aitana-bonmati-conca;306000.0;750000.0;Cazador
+Mbappé;97;90;81;92;37;76;https://www.futbin.com/26/player/40/kylian-mbappe;1869000.0;3500000.0;Tirador preciso
+Nico Williams;93;76;80;87;36;66;https://www.futbin.com/26/player/256/nicholas-williams-arthuer;46250.0;120000.0;Rematador
+Alexia Putellas;82;89;90;91;72;80;https://www.futbin.com/26/player/105/alexia-putellas-segura;180000.0;380000.0;Cazador
 Ibañez;87;32;47;61;83;85;https://www.futbin.com/26/player/752/roger-ibanez-da-silva;0.0;15000.0;Ancla
-Éder Militão;82;50;69;71;85;82;https://www.futbin.com/26/player/811/eder-gabriel-militao;6500.0;23000.0;Ancla
-Reijnders;79;79;82;85;77;77;https://www.futbin.com/26/player/259/tijjani-reijnders;27500.0;70000.0;Ancla
-Vini Jr.;95;84;81;91;29;69;https://www.futbin.com/26/player/47/vinicius-jose-de-oliveira-junior;373000.0;850000.0;Tirador preciso
-Frimpong;94;62;74;84;72;63;https://www.futbin.com/26/player/331/jeremie-frimpong;1500.0;10000.0;Básico
-Rodrygo;92;86;85;90;34;70;https://www.futbin.com/26/player/20311/rodrygo-silva-de-goes;60000.0;100000.0;Rematador
-Raphinha;91;84;85;87;53;75;https://www.futbin.com/26/player/83/raphael-dias-belloli;124000.0;290000.0;Cazador
-Ødegaard;83;83;88;87;73;70;https://www.futbin.com/26/player/20533/martin-odegaard;210000.0;470000.0;Cazador
-Mbappé;98;92;84;93;40;78;https://www.futbin.com/26/player/20515/kylian-mbappe;9600000.0;15000000.0;Rematador
-Alexia Putellas;82;89;90;91;72;80;https://www.futbin.com/26/player/105/alexia-putellas-segura;187000.0;380000.0;Cazador
-Aitana Bonmatí;85;87;86;91;77;75;https://www.futbin.com/26/player/111/aitana-bonmati-conca;310000.0;750000.0;Cazador
-Cristiano Ronaldo;83;92;80;84;38;81;https://www.futbin.com/26/player/20527/cristiano-ronaldo-dos-santos-aveiro;1500000.0;2600000.0;Motor
-Heaps;85;85;88;87;65;81;https://www.futbin.com/26/player/20530/lindsey-heaps;90000.0;400000.0;Motor
-Rashford;87;82;77;80;33;63;https://www.futbin.com/26/player/931/marcus-rashford;6200.0;50000.0;Rematador
-Henry;93;90;82;89;51;78;https://www.futbin.com/26/player/18710/henry;2700000.0;3300000.0;Rematador
-Williamson;82;51;80;78;89;84;https://www.futbin.com/26/player/20532/leah-williamson;120000.0;270000.0;Ancla
-Lamine Yamal;85;81;86;90;23;53;https://www.futbin.com/26/player/85/lamine-yamal-nasraoui-ebana;64000.0;190000.0;Cazador
-Messi;78;85;85;90;33;64;https://www.futbin.com/26/player/254/lionel-messi;8000.0;14000.0;Cazador
-Yoro;80;50;74;75;86;83;https://www.futbin.com/26/player/20097/leny-yoro;54000.0;140000.0;Sombra
-Rafael Leão;93;78;80;86;28;75;https://www.futbin.com/26/player/17332/rafael-da-conceicao-leao;12750.0;20000.0;Rematador
-Govou;89;89;80;88;55;70;https://www.futbin.com/26/player/18876/govou;130000.0;240000.0;Rematador
+Dembélé;91;88;83;93;50;69;https://www.futbin.com/26/player/51/ousmane-dembele;700000.0;1400000.0;Cazador
+Sørloth;87;90;80;84;40;90;https://www.futbin.com/26/player/20570/alexander-sorloth;1200.0;10000.0;Motor
+Renard;77;64;72;74;89;86;https://www.futbin.com/26/player/20573/wendie-renard;31000.0;95000.0;Sombra
+Di Lorenzo;88;75;77;81;84;84;https://www.futbin.com/26/player/20546/giovanni-di-lorenzo;61000.0;180000.0;Ancla
+Lee Kang In;88;83;85;87;55;70;https://www.futbin.com/26/player/20522/kang-in-lee;400.0;10000.0;Rematador
+Raphinha;91;84;85;87;53;75;https://www.futbin.com/26/player/83/raphael-dias-belloli;114000.0;290000.0;Cazador
+Salah;89;88;86;90;45;76;https://www.futbin.com/26/player/31/mohamed-salah;136000.0;290000.0;Cazador
+Messi;80;86;86;91;34;66;https://www.futbin.com/26/player/20493/lionel-messi;105000.0;330000.0;Cazador
+De Jong;82;71;85;87;78;77;https://www.futbin.com/26/player/218/frenkie-de-jong;66000.0;160000.0;Ancla
+Reijnders;79;79;82;85;77;77;https://www.futbin.com/26/player/259/tijjani-reijnders;29000.0;70000.0;Ancla
+Rashford;87;82;77;80;33;63;https://www.futbin.com/26/player/931/marcus-rashford;5900.0;50000.0;Rematador
+Vini Jr.;95;84;81;91;29;69;https://www.futbin.com/26/player/47/vinicius-jose-de-oliveira-junior;380000.0;850000.0;Tirador preciso
+Éder Militão;82;50;69;71;85;82;https://www.futbin.com/26/player/811/eder-gabriel-militao;6300.0;23000.0;Ancla
+Di María;87;85;88;89;50;72;https://www.futbin.com/26/player/20523/angel-di-maria;800.0;10000.0;Cazador
+Doku;91;71;72;87;32;68;https://www.futbin.com/26/player/481/jeremy-doku;10500.0;40000.0;Tirador
+Hernández;90;76;78;83;79;83;https://www.futbin.com/26/player/712/theo-hernandez;19000.0;27500.0;Ancla
+Salma Paralluelo;92;84;78;83;46;77;https://www.futbin.com/26/player/874/salma-celeste-paralluelo-ayingono;18750.0;50000.0;Rematador
 Griezmann;80;88;87;90;61;76;https://www.futbin.com/26/player/20343/antoine-griezmann;125000.0;270000.0;Cazador
-Kanté;77;65;73;80;85;79;https://www.futbin.com/26/player/730/ngolo-kante;3300.0;11000.0;Catalizador
-Cannavaro;80;44;62;67;93;83;https://www.futbin.com/26/player/18754/cannavaro;555000.0;1100000.0;Ancla
-Zambrotta;87;69;80;81;84;82;https://www.futbin.com/26/player/18810/zambrotta;270000.0;550000.0;Ancla
-Alvarez;86;88;83;88;58;81;https://www.futbin.com/26/player/20030/julian-alvarez;529000.0;900000.0;Cazador
-Kimmich;81;74;89;85;85;80;https://www.futbin.com/26/player/20222/joshua-kimmich;134000.0;250000.0;Sombra
-Ljungberg;90;82;83;87;47;80;https://www.futbin.com/26/player/20359/ljungberg;23000.0;50000.0;Motor
-Adama Traoré;94;65;67;81;37;82;https://www.futbin.com/26/player/18502/adama-traore-diarra;1300.0;10000.0;Rematador
-Mbeumo;89;87;81;86;51;78;https://www.futbin.com/26/player/20224/bryan-mbeumo;88000.0;170000.0;Cazador
-Maradona;90;91;91;96;40;77;https://www.futbin.com/26/player/18690/maradona;4700000.0;15000000.0;Tirador
-Pajor;88;89;76;89;23;77;https://www.futbin.com/26/player/20525/ewa-pajor;500000.0;1200000.0;Cazador
-Sissi;83;86;86;85;40;66;https://www.futbin.com/26/player/3/sissi;0.0;0.0;Motor
-De Jong;82;71;85;87;78;77;https://www.futbin.com/26/player/218/frenkie-de-jong;65500.0;160000.0;Ancla
-Gündoğan;80;83;86;84;81;78;https://www.futbin.com/26/player/20526/ilkay-gundogan;0.0;10000.0;Ancla
-Sissi;86;90;89;88;42;70;https://www.futbin.com/26/player/4/sissi;0.0;0.0;Básico
-Koundé;84;47;74;79;86;84;https://www.futbin.com/26/player/223/jules-kounde;49000.0;130000.0;Ancla
-Salma Paralluelo;92;84;78;83;46;77;https://www.futbin.com/26/player/874/salma-celeste-paralluelo-ayingono;17750.0;50000.0;Rematador
-Eze;83;83;84;89;53;71;https://www.futbin.com/26/player/20042/eberechi-eze;0.0;220000.0;Cazador
+Simons;84;83;86;89;63;72;https://www.futbin.com/26/player/20424/xavi-simons;71000.0;140000.0;Cazador
+Wirtz;80;82;88;90;54;67;https://www.futbin.com/26/player/41/florian-wirtz;27750.0;75000.0;Cazador
 Camavinga;80;68;81;84;78;80;https://www.futbin.com/26/player/894/eduardo-camavinga;1500.0;11000.0;Ancla
-Lacroix;88;40;57;67;80;82;https://www.futbin.com/26/player/17821/maxence-lacroix;2500.0;45000.0;Ancla
-Nuno Mendes;95;65;76;82;80;77;https://www.futbin.com/26/player/238/nuno-alexandre-tavares-mendes;39250.0;100000.0;Básico
-Leuchter;87;86;75;84;33;78;https://www.futbin.com/26/player/20497/romee-leuchter;11500.0;30000.0;Motor
-Salah;89;88;86;90;45;76;https://www.futbin.com/26/player/31/mohamed-salah;141000.0;290000.0;Cazador
-Claudia Pina;79;86;83;87;45;71;https://www.futbin.com/26/player/243/claudia-pina-medina;6500.0;14000.0;Cazador
-Bale;95;89;84;89;65;79;https://www.futbin.com/26/player/18787/bale;1920000.0;3100000.0;Rematador
-Pelé;73;75;77;86;37;55;https://www.futbin.com/26/player/20330/arantes-nascimento;6258000.0;6900000.0;Cazador
-Hakimi;92;79;82;83;82;79;https://www.futbin.com/26/player/91/achraf-hakimi;53500.0;150000.0;Ancla
-Van De Ven;90;49;64;72;82;80;https://www.futbin.com/26/player/466/micky-van-de-ven;38250.0;100000.0;Ancla
-Davies;94;66;78;85;74;76;https://www.futbin.com/26/player/1009/alphonso-davies;1500.0;10000.0;Básico
-Fernando Torres;89;87;75;85;43;75;https://www.futbin.com/26/player/18788/torres-sanz;620000.0;1300000.0;Cazador
-Mbappé;98;91;82;93;38;77;https://www.futbin.com/26/player/20335/kylian-mbappe;9600000.0;15000000.0;Rematador
-Szoboszlai;83;87;87;87;71;82;https://www.futbin.com/26/player/20534/dominik-szoboszlai;152000.0;390000.0;Motor
-Mbappé;97;90;81;92;37;76;https://www.futbin.com/26/player/40/kylian-mbappe;1800000.0;3500000.0;Tirador preciso
-Lampard;77;88;86;84;71;80;https://www.futbin.com/26/player/18794/lampard;216000.0;320000.0;Sombra
-Harder;85;83;82;89;28;80;https://www.futbin.com/26/player/20535/pernille-harder;11250.0;35000.0;Cazador
-Williamson;74;48;73;72;88;77;https://www.futbin.com/26/player/98/leah-williamson;12000.0;20000.0;Ancla
-Gusto;84;45;75;78;73;74;https://www.futbin.com/26/player/535/malo-gusto;1000.0;10000.0;Ancla
-Morata;84;87;83;85;37;82;https://www.futbin.com/26/player/20536/alvaro-borja-morata-martin;12000.0;30000.0;Rematador
-Musiala;80;82;80;90;66;65;https://www.futbin.com/26/player/46/jamal-musiala;15250.0;30000.0;Cazador
-João Neves;77;70;81;86;84;84;https://www.futbin.com/26/player/19983/joao-pedro-goncalves-neves;155000.0;300000.0;Ancla
-Thuram;82;80;81;84;85;85;https://www.futbin.com/26/player/19986/khephren-thuram;105000.0;180000.0;Ancla
-Mario Gila;87;56;71;78;83;81;https://www.futbin.com/26/player/20187/mario-gila-fuentes;14000.0;35000.0;Ancla
-Bonny;94;86;82;88;45;85;https://www.futbin.com/26/player/20429/yoan-bonny;156000.0;250000.0;Rematador
-Šeško;87;84;70;83;50;85;https://www.futbin.com/26/player/20517/benjamin-sesko;700.0;10000.0;Cazador
-Bernardo Silva;83;81;86;92;74;72;https://www.futbin.com/26/player/20538/bernardo-mota-carvalho-e-silva;212000.0;500000.0;Cazador
-Sissi;84;88;87;86;41;68;https://www.futbin.com/26/player/18809/lima-do-amor;230000.0;410000.0;Motor
-Van Dijk;78;60;76;77;90;88;https://www.futbin.com/26/player/20520/virgil-van-dijk;1900000.0;3700000.0;Sombra
-Li Songyi;47;40;60;58;61;75;https://www.futbin.com/26/player/3823/songyi-li;200.0;5100.0;Básico
-Parrott;76;73;64;73;44;71;https://www.futbin.com/26/player/12112/troy-parrott;5500.0;10000.0;Halcón
-Zubimendi;66;67;79;79;80;73;https://www.futbin.com/26/player/17366/martin-zubimendi-ibanez;800.0;10000.0;Ancla
-Igor Jesus;70;77;63;72;36;77;https://www.futbin.com/26/player/18375/igor-jesus-maciel-da-cruz;350.0;10000.0;Rematador
-Ibarbo;93;81;71;84;42;82;https://www.futbin.com/26/player/18880/victor-ibarbo;95000.0;170000.0;Rematador
-Garnacho;86;77;72;80;37;58;https://www.futbin.com/26/player/19315/alejandro-garnacho;350.0;10000.0;Rematador
-Unai López;82;83;87;87;80;80;https://www.futbin.com/26/player/20441/unai-lopez-cabrera;23000.0;35000.0;Ancla
-Girma;82;53;76;78;87;81;https://www.futbin.com/26/player/20540/naomi-girma;19750.0;370000.0;Ancla
-Van Dijk;73;60;72;72;90;87;https://www.futbin.com/26/player/62/virgil-van-dijk;54000.0;85000.0;Sombra
-Oblak;85;90;78;87;46;86;https://www.futbin.com/26/player/213/jan-oblak;;;Básico
-Gabriel Martinelli;90;77;75;83;46;72;https://www.futbin.com/26/player/376/gabriel-teodoro-martinelli-silva;900.0;10000.0;Rematador
-João Cancelo;83;73;84;84;78;74;https://www.futbin.com/26/player/735/joao-pedro-cavaco-cancelo;1300.0;10000.0;Ancla
-Andrew;75;73;77;77;45;73;https://www.futbin.com/26/player/4033/andrew-da-silva-ventura;;;Básico
-Gilmour;60;58;74;76;69;58;https://www.futbin.com/26/player/12263/billy-gilmour;450.0;10000.0;Básico
-Araujo;80;53;63;61;81;83;https://www.futbin.com/26/player/17377/ronald-araujo;1100.0;11000.0;Sombra
-Chiellini;78;55;62;63;92;89;https://www.futbin.com/26/player/18764/chiellini;820000.0;1800000.0;Sombra
-Kohler;71;51;63;62;91;90;https://www.futbin.com/26/player/18817/kohler;110000.0;110000.0;Sombra
-Beasley;91;77;79;86;73;74;https://www.futbin.com/26/player/18882/beasley;33000.0;55000.0;Rematador
-Naz;86;82;75;86;52;72;https://www.futbin.com/26/player/19888/jessica-naz;650.0;10000.0;Rematador
-Son;87;88;85;86;45;76;https://www.futbin.com/26/player/20031/heung-min-son;324000.0;550000.0;Motor
-Rashford;88;87;83;86;40;71;https://www.futbin.com/26/player/20361/marcus-rashford;6200.0;50000.0;Rematador
-Kluivert;86;48;70;78;82;84;https://www.futbin.com/26/player/20448/ruben-kluivert;13000.0;30000.0;Ancla
-Viggósdóttir;80;56;76;80;88;85;https://www.futbin.com/26/player/20541/glodis-perla-viggosdottir;16750.0;80000.0;Básico
-Lewandowski;74;89;79;85;44;84;https://www.futbin.com/26/player/63/robert-lewandowski;15750.0;27500.0;Cazador
-Kvaratskhelia;86;80;83;88;58;78;https://www.futbin.com/26/player/215/khvicha-kvaratskhelia;10750.0;21000.0;Cazador
-Milenković;57;46;63;62;84;86;https://www.futbin.com/26/player/381/nikola-milenkovic;750.0;10000.0;Sombra
-El Karouani;71;48;75;74;68;70;https://www.futbin.com/26/player/5570/souffian-el-karouani;350.0;10000.0;Sombra
-Smith;80;52;57;63;30;41;https://www.futbin.com/26/player/12597/lewis-smith;200.0;5100.0;Básico
-Oyarzabal;77;83;81;82;42;65;https://www.futbin.com/26/player/17433/mikel-oyarzabal-ugarte;750.0;10000.0;Motor
-Shevchenko;86;90;71;85;35;73;https://www.futbin.com/26/player/18766/shevchenko;174000.0;300000.0;Motor
-Abedi Pelé;91;83;87;91;48;66;https://www.futbin.com/26/player/18820/ayew;297000.0;600000.0;Tirador preciso
-Gervinho;94;75;78;86;41;70;https://www.futbin.com/26/player/18883/yao-kouassi;109000.0;230000.0;Rematador
-Debinha;86;81;87;92;47;77;https://www.futbin.com/26/player/19895/debora-c-de-oliveira;160000.0;230000.0;Cazador
-Romero;76;52;75;70;87;86;https://www.futbin.com/26/player/20040/cristian-romero;45000.0;70000.0;Sombra
-Cabal;82;50;80;76;85;80;https://www.futbin.com/26/player/20231/juan-david-cabal;62000.0;140000.0;Ancla
-Maignan;86;84;86;89;65;86;https://www.futbin.com/26/player/20374/mike-maignan;;;Básico
-Igor Jesus;84;87;74;85;45;86;https://www.futbin.com/26/player/20449/igor-jesus-maciel-da-cruz;17000.0;30000.0;Motor
-Tchouaméni;80;74;82;82;84;87;https://www.futbin.com/26/player/20542/aurelien-tchouameni;283000.0;650000.0;Sombra
-Kane;64;92;83;82;48;82;https://www.futbin.com/26/player/69/harry-kane;24750.0;37500.0;Cazador
-Aké;72;53;72;75;84;74;https://www.futbin.com/26/player/392/nathan-ake;850.0;10000.0;Sombra
-Isidor;81;71;60;70;31;72;https://www.futbin.com/26/player/5663/wilson-isidor;300.0;10000.0;Rematador
-Turner;51;28;39;40;58;71;https://www.futbin.com/26/player/13988/luke-turner;200.0;5100.0;Básico
-Chiesa;87;80;75;83;44;68;https://www.futbin.com/26/player/17505/federico-chiesa;1000.0;10000.0;Cazador
-Pelé;93;94;91;94;58;74;https://www.futbin.com/26/player/18691/arantes-nascimento;6258000.0;6900000.0;Halcón
-Koeman;76;86;85;78;88;84;https://www.futbin.com/26/player/18768/koeman;125000.0;250000.0;Sombra
-Paulo Futre;93;81;80;93;37;58;https://www.futbin.com/26/player/18828/dos-santos-futre;290000.0;490000.0;Rematador
-Doumbia;93;84;68;83;43;74;https://www.futbin.com/26/player/18887/seydou-doumbia;121000.0;220000.0;Rematador
-Ansu Fati;87;81;80;84;37;60;https://www.futbin.com/26/player/19910/anssumane-fati;27500.0;30000.0;Rematador
-Ekitiké;88;84;73;87;37;78;https://www.futbin.com/26/player/20041/hugo-ekitike;118000.0;190000.0;Cazador
-Alexia Putellas;83;90;91;92;74;81;https://www.futbin.com/26/player/20288/alexia-putellas-segura;286000.0;550000.0;Halcón
-Cavani;83;87;80;85;62;84;https://www.futbin.com/26/player/20377/edinson-cavani;350.0;10000.0;Tirador preciso
-Sørensen;77;55;70;73;84;89;https://www.futbin.com/26/player/20464/mads-bech-sorensen;300.0;10000.0;Sombra
-Fleming;84;80;83;86;82;67;https://www.futbin.com/26/player/20543/jessie-fleming;10750.0;30000.0;Ancla
-Wilson;92;87;79;89;45;81;https://www.futbin.com/26/player/74/sophia-wilson;31000.0;90000.0;Rematador
-Konsa;75;53;71;75;84;78;https://www.futbin.com/26/player/403/ezri-konsa;750.0;10000.0;Ancla
-Gabriel Pirani;73;58;68;71;39;54;https://www.futbin.com/26/player/5962/gabriel-pirani;200.0;10000.0;Básico
-Piette;57;22;55;55;68;78;https://www.futbin.com/26/player/15285/samuel-piette;350.0;10000.0;Básico
-Wan-Bissaka;80;51;69;77;78;73;https://www.futbin.com/26/player/17628/aaron-wan-bissaka;700.0;10000.0;Sombra
-Ronaldo;94;94;79;94;43;75;https://www.futbin.com/26/player/18692/nazario-de-lima;12400000.0;15000000.0;Motor
-Ferdinand;82;48;65;64;90;85;https://www.futbin.com/26/player/18772/ferdinand;1350000.0;2500000.0;Ancla
-Forlán;86;90;79;85;55;76;https://www.futbin.com/26/player/18830/forlan;140000.0;210000.0;Motor
-Gallagher;78;80;84;81;83;86;https://www.futbin.com/26/player/18907/conor-gallagher;900.0;10000.0;Sombra
-Zubimendi;75;70;83;83;86;76;https://www.futbin.com/26/player/19920/martin-zubimendi-ibanez;800.0;10000.0;Sombra
-Van De Ven;91;51;67;75;84;83;https://www.futbin.com/26/player/20293/micky-van-de-ven;202000.0;340000.0;Ancla
-Álvaro Carreras;89;72;82;86;81;87;https://www.futbin.com/26/player/20379/alvaro-fernandez-carreras;54500.0;80000.0;Ancla
-Stanciu;85;83;87;85;70;78;https://www.futbin.com/26/player/20544/nicolae-stanciu;12250.0;110000.0;Tirador
-Seger;75;75;86;82;81;76;https://www.futbin.com/26/player/11/caroline-seger;0.0;0.0;Ancla
-Hemp;91;77;84;87;63;70;https://www.futbin.com/26/player/78/lauren-hemp;10500.0;20000.0;Rematador
-Saliba;77;39;68;72;87;83;https://www.futbin.com/26/player/225/william-saliba;22000.0;80000.0;Sombra
-Mbeumo;88;84;79;84;49;76;https://www.futbin.com/26/player/413/bryan-mbeumo;3100.0;10000.0;Rematador
-Mendy;85;64;74;75;78;84;https://www.futbin.com/26/player/882/ferland-mendy;2400.0;24000.0;Sombra
-Iyoha;69;63;61;71;64;74;https://www.futbin.com/26/player/7628/emmanuel-iyoha;500.0;10000.0;Básico
-Scicluna;75;43;61;63;57;54;https://www.futbin.com/26/player/15345/dylan-scicluna;200.0;10000.0;Básico
-Amad;85;74;75;83;54;52;https://www.futbin.com/26/player/17791/amad-diallo;700.0;10000.0;Rematador
-Hamm;92;93;86;92;54;81;https://www.futbin.com/26/player/18696/hamm;9510000.0;10400000.0;Cazador
-Klose;86;87;73;80;40;79;https://www.futbin.com/26/player/18776/klose;94000.0;190000.0;Halcón
-Milito;83;89;75;84;43;80;https://www.futbin.com/26/player/18832/milito;43250.0;70000.0;Motor
-Haaland;87;92;72;81;47;89;https://www.futbin.com/26/player/18918/erling-haaland;0.0;650000.0;Motor
-Bruno Fernandes;75;84;90;85;70;77;https://www.futbin.com/26/player/19922/bruno-miguel-borges-fernandes;0.0;800000.0;Cazador
-Gakpo;86;84;83;85;50;77;https://www.futbin.com/26/player/20065/cody-gakpo;25750.0;45000.0;Halcón
-Cash;81;70;76;78;82;80;https://www.futbin.com/26/player/20298/matty-cash;26750.0;30000.0;Ancla
-Carpenter;85;55;82;80;84;82;https://www.futbin.com/26/player/20380/ellie-carpenter;13500.0;30000.0;Ancla
-Irene Paredes;81;52;76;77;88;86;https://www.futbin.com/26/player/20529/irene-paredes-hernandez;88000.0;410000.0;Sombra
-Asllani;84;84;86;83;50;66;https://www.futbin.com/26/player/20547/kosovare-asllani;10750.0;30000.0;Básico
-Seger;80;80;90;86;87;82;https://www.futbin.com/26/player/12/caroline-seger;0.0;0.0;Básico
-Alisson;86;85;86;89;56;90;https://www.futbin.com/26/player/79/alisson-ramses-becker;;;Básico
-Tah;63;38;60;63;87;86;https://www.futbin.com/26/player/227/jonathan-tah;10500.0;22000.0;Sombra
-Marmoush;89;85;76;86;34;71;https://www.futbin.com/26/player/417/omar-marmoush;2100.0;10000.0;Rematador
-Jiang Zhipeng;56;59;65;63;61;65;https://www.futbin.com/26/player/7990/zhipeng-jiang;200.0;5100.0;Básico
-Yang Zexiang;73;54;57;61;59;72;https://www.futbin.com/26/player/15528/zexiang-yang;200.0;5100.0;Básico
-Malen;86;78;72;82;35;67;https://www.futbin.com/26/player/17799/donyell-malen;700.0;10000.0;Rematador
-Puskás;90;94;89;91;45;74;https://www.futbin.com/26/player/18698/puskas;1599000.0;2900000.0;Motor
-Desailly;82;51;65;66;88;88;https://www.futbin.com/26/player/18782/desailly;575000.0;1500000.0;Sombra
-Kompany;80;60;68;70;90;86;https://www.futbin.com/26/player/18834/kompany;380000.0;750000.0;Sombra
-Marcos Llorente;91;81;81;83;81;85;https://www.futbin.com/26/player/18924/marcos-llorente-moreno;349000.0;600000.0;Ancla
-Renard;75;63;71;72;88;84;https://www.futbin.com/26/player/19928/wendie-renard;31000.0;95000.0;Sombra
-De Bruyne;77;84;93;87;70;76;https://www.futbin.com/26/player/20087/kevin-de-bruyne;214000.0;380000.0;Cazador
-Burkardt;87;86;78;85;51;83;https://www.futbin.com/26/player/20399/jonathan-burkardt;750.0;10000.0;Motor
 Ballard;79;45;70;73;85;90;https://www.futbin.com/26/player/20494/daniel-ballard;13000.0;85000.0;Sombra
-Højbjerg;81;77;85;80;86;84;https://www.futbin.com/26/player/20552/pierre-emile-hojbjerg;22750.0;80000.0;Sombra
-Gerrard;75;85;85;80;72;80;https://www.futbin.com/26/player/25/steven-gerrard;0.0;0.0;Sombra
-Gyökeres;90;86;73;81;36;91;https://www.futbin.com/26/player/234/viktor-gyokeres;10750.0;22000.0;Rematador
-Robinson;88;46;75;77;78;80;https://www.futbin.com/26/player/430/antonee-robinson;750.0;10000.0;Ancla
-Sohm;75;69;70;71;70;80;https://www.futbin.com/26/player/8763/simon-sohm;400.0;10000.0;Sombra
-Prohaska;66;65;66;66;28;67;https://www.futbin.com/26/player/15653/maddie-prohaska;;;Básico
-Beckenbauer;82;73;88;84;93;81;https://www.futbin.com/26/player/18703/franz-beckenbauer;1250000.0;2600000.0;Ancla
-Laudrup;84;80;88;90;40;63;https://www.futbin.com/26/player/18784/laudrup;107000.0;190000.0;Rematador
-Francescoli;86;88;83;90;44;72;https://www.futbin.com/26/player/18835/enzo-francescoli;175000.0;250000.0;Motor
-Philogene;91;81;79;87;47;70;https://www.futbin.com/26/player/18926/jaden-philogene;22500.0;37500.0;Rematador
-Tolisso;75;81;81;80;80;85;https://www.futbin.com/26/player/19931/corentin-tolisso;51500.0;80000.0;Sombra
-De Frutos;87;82;80;84;47;70;https://www.futbin.com/26/player/20089/jorge-de-frutos-sebastian;350.0;10000.0;Cazador
-Lozano;94;85;81;88;51;72;https://www.futbin.com/26/player/20312/hirving-lozano;400.0;10000.0;Tirador preciso
-Mbeumo;89;86;80;85;50;77;https://www.futbin.com/26/player/20400/bryan-mbeumo;88000.0;170000.0;Cazador
-Berardi;86;84;82;87;39;73;https://www.futbin.com/26/player/20496/domenico-berardi;11750.0;30000.0;Cazador
-Lewandowski;80;89;80;86;44;86;https://www.futbin.com/26/player/20531/robert-lewandowski;373000.0;1200000.0;Cazador
-Ayew;87;85;83;86;70;82;https://www.futbin.com/26/player/20557/jordan-ayew;10750.0;30000.0;Rematador
-Chiellini;80;55;65;65;93;90;https://www.futbin.com/26/player/28/giorgio-chiellini;0.0;0.0;Básico
-Hegerberg;72;86;76;85;39;79;https://www.futbin.com/26/player/84/ada-hegerberg;12000.0;20000.0;Cazador
-Dorgu;86;59;69;74;69;73;https://www.futbin.com/26/player/450/patrick-dorgu;6800.0;10000.0;Ancla
-Da Cunha;77;71;73;79;71;63;https://www.futbin.com/26/player/8766/lucas-da-cunha;350.0;10000.0;Básico
-Aurelio;83;63;63;66;61;74;https://www.futbin.com/26/player/16051/giuseppe-aurelio;600.0;10000.0;Básico
-Solet;79;43;62;68;77;85;https://www.futbin.com/26/player/18048/oumar-solet;650.0;10000.0;Sombra
-Van Persie;84;91;84;87;45;73;https://www.futbin.com/26/player/18786/van-persie;270000.0;490000.0;Motor
-Georges;85;48;66;67;87;86;https://www.futbin.com/26/player/18848/georges;124000.0;220000.0;Ancla
-Bergvall;79;70;81;82;78;79;https://www.futbin.com/26/player/18932/lucas-bergvall;23250.0;32500.0;Ancla
-Goretzka;81;77;85;83;77;79;https://www.futbin.com/26/player/19944/leon-goretzka;1700.0;10000.0;Ancla
-Messi;82;87;87;91;35;66;https://www.futbin.com/26/player/20090/lionel-messi;850000.0;1800000.0;Cazador
-Araujo;88;46;78;82;82;84;https://www.futbin.com/26/player/20321/julian-araujo;350.0;10000.0;Ancla
-Haaland;89;94;75;83;50;90;https://www.futbin.com/26/player/20411/erling-haaland;1555000.0;2400000.0;Motor
-Hume;87;48;73;80;82;84;https://www.futbin.com/26/player/20561/trai-hume;11000.0;30000.0;Ancla
-Palhinha;56;68;70;72;84;85;https://www.futbin.com/26/player/460/joao-maria-palhinha-goncalves;800.0;10000.0;Básico
-Thiaw;72;47;69;72;78;80;https://www.futbin.com/26/player/987/malick-thiaw;350.0;10000.0;Sombra
-Lingard;77;73;72;77;57;67;https://www.futbin.com/26/player/8874/jesse-lingard;800.0;10000.0;Cazador
-El Yamiq;85;53;53;63;72;80;https://www.futbin.com/26/player/16157/jawad-el-yamiq;9500.0;10000.0;Sombra
-Tomás Araújo;82;30;69;72;77;79;https://www.futbin.com/26/player/18074/tomas-lemos-araujo;650.0;10000.0;Sombra
-Eusébio;92;92;84;91;44;77;https://www.futbin.com/26/player/18711/da-silva-ferreira;3250000.0;4100000.0;Halcón
-Hamšík;83;87;87;86;75;83;https://www.futbin.com/26/player/18849/hamsik;289000.0;650000.0;Motor
-Donnarumma;90;83;70;90;52;87;https://www.futbin.com/26/player/18941/gianluigi-donnarumma;;;Básico
-Cristiano Ronaldo;82;91;79;83;37;80;https://www.futbin.com/26/player/19978/cristiano-ronaldo-dos-santos-aveiro;1000000.0;1400000.0;Motor
-Doué;85;82;80;91;57;77;https://www.futbin.com/26/player/20092/desire-doue;300000.0;550000.0;Cazador
-Saliba;81;40;70;74;88;84;https://www.futbin.com/26/player/20415/william-saliba;1256000.0;2200000.0;Sombra
-Dolores Silva;85;81;84;82;77;79;https://www.futbin.com/26/player/20564/dolores-isabel-jacome-da-silva;10500.0;30000.0;Arquitecto
-Saka;84;82;85;88;60;73;https://www.futbin.com/26/player/32/bukayo-saka;15000.0;25000.0;Cazador
-Pacho;80;34;62;62;86;86;https://www.futbin.com/26/player/249/willian-pacho;7700.0;27500.0;Sombra
-Weigandt;78;47;57;67;65;76;https://www.futbin.com/26/player/9342/marcelo-weigandt;600.0;10000.0;Básico
-Dimarco;80;78;84;82;79;77;https://www.futbin.com/26/player/17306/federico-dimarco;3000.0;10000.0;Sombra
-António Silva;80;37;64;69;78;80;https://www.futbin.com/26/player/18078/antonio-joao-tavares-silva;650.0;10000.0;Ancla
-Van Basten;84;92;74;87;37;73;https://www.futbin.com/26/player/18717/van-basten;250000.0;490000.0;Motor
-Smolarek;91;85;80;90;41;83;https://www.futbin.com/26/player/18857/smolarek;112000.0;200000.0;Rematador
-Gündoğan;54;79;83;80;74;67;https://www.futbin.com/26/player/18948/ilkay-gundogan;750.0;10000.0;Básico
-Alexander-Arnold;83;73;90;83;85;78;https://www.futbin.com/26/player/19979/trent-alexander-arnold;157000.0;260000.0;Sombra
-Dumfries;86;72;80;82;82;86;https://www.futbin.com/26/player/20096/denzel-dumfries;35000.0;80000.0;Ancla
-Ríos;85;83;85;89;80;87;https://www.futbin.com/26/player/20420/richard-rios;200000.0;210000.0;Ancla
-Zeballos;93;77;80;86;42;66;https://www.futbin.com/26/player/20505/exequiel-zeballos;11750.0;30000.0;Rematador
-Souček;81;81;77;81;86;86;https://www.futbin.com/26/player/20569/tomas-soucek;350.0;10000.0;Motor
-Pedri;77;73;85;91;78;77;https://www.futbin.com/26/player/94/pedro-gonzalez-lopez;21500.0;45000.0;Ancla
-Jones;74;74;76;82;72;76;https://www.futbin.com/26/player/488/curtis-jones;500.0;10000.0;Motor
-Zaha;82;75;72;79;37;72;https://www.futbin.com/26/player/1106/wilfried-zaha;650.0;10000.0;Rematador
-Suazo;68;59;69;71;70;75;https://www.futbin.com/26/player/9783/gabriel-suazo;350.0;10000.0;Básico
-Dumfries;84;70;75;79;79;84;https://www.futbin.com/26/player/17318/denzel-dumfries;1400.0;10000.0;Sombra
-Areola;78;75;74;78;55;76;https://www.futbin.com/26/player/18178/alphonse-areola;;;Básico
-Del Piero;83;90;87;91;41;66;https://www.futbin.com/26/player/18737/del-piero;579000.0;1100000.0;Motor
-Keane;87;88;76;88;45;76;https://www.futbin.com/26/player/18858/keane;140000.0;150000.0;Cazador
-Claudia Pina;81;88;85;88;46;72;https://www.futbin.com/26/player/19981/claudia-pina-medina;1650000.0;2800000.0;Cazador
+Saliba;77;39;68;72;87;83;https://www.futbin.com/26/player/225/william-saliba;22250.0;80000.0;Sombra
+Laia Aleixandri;82;42;73;70;87;81;https://www.futbin.com/26/player/20495/laia-aleixandri-lopez;12750.0;30000.0;Sombra
+Rodrygo;92;86;85;90;34;70;https://www.futbin.com/26/player/20311/rodrygo-silva-de-goes;58500.0;100000.0;Rematador
+Berardi;86;84;82;87;39;73;https://www.futbin.com/26/player/20496/domenico-berardi;12000.0;30000.0;Cazador
+Rüdiger;79;55;72;70;84;86;https://www.futbin.com/26/player/240/antonio-rudiger;7500.0;16000.0;Sombra
+Frimpong;94;62;74;84;72;63;https://www.futbin.com/26/player/331/jeremie-frimpong;1500.0;10000.0;Básico
+Collins;86;30;64;68;73;76;https://www.futbin.com/26/player/12250/nnamdi-collins;8900.0;10000.0;Ancla
+Jones;80;59;74;70;91;86;https://www.futbin.com/26/player/18761/jones;170000.0;360000.0;Sombra
+Carlos Alberto;84;70;65;74;77;70;https://www.futbin.com/26/player/20329/carlos-alberto-torres;1800000.0;3500000.0;Ancla
+Tchouaméni;80;74;82;82;84;87;https://www.futbin.com/26/player/20542/aurelien-tchouameni;276000.0;650000.0;Sombra
+Patri Guijarro;78;82;83;87;86;83;https://www.futbin.com/26/player/133/patricia-guijarro-gutierrez;20750.0;40000.0;Ancla
+Claudia Pina;79;86;83;87;45;71;https://www.futbin.com/26/player/243/claudia-pina-medina;6500.0;14000.0;Cazador
+Openda;95;81;69;81;31;80;https://www.futbin.com/26/player/18949/lois-openda;0.0;23000.0;Rematador
+Simeone;93;81;79;85;50;86;https://www.futbin.com/26/player/20459/giuliano-simeone;700.0;10000.0;Rematador
+Szoboszlai;83;86;87;86;71;81;https://www.futbin.com/26/player/20093/dominik-szoboszlai;98500.0;200000.0;Motor
+Rafael Leão;93;78;80;86;28;75;https://www.futbin.com/26/player/17332/rafael-da-conceicao-leao;12500.0;20000.0;Rematador
+Pulisic;89;85;84;90;49;70;https://www.futbin.com/26/player/20342/christian-pulisic;42000.0;120000.0;Rematador
+Pajor;88;89;76;89;23;77;https://www.futbin.com/26/player/20525/ewa-pajor;499000.0;1200000.0;Cazador
+Gündoğan;80;83;86;84;81;78;https://www.futbin.com/26/player/20526/ilkay-gundogan;0.0;10000.0;Ancla
+Lewandowski;80;89;80;86;44;86;https://www.futbin.com/26/player/20531/robert-lewandowski;370000.0;1200000.0;Cazador
+Rashford;88;87;83;86;40;71;https://www.futbin.com/26/player/20361/marcus-rashford;5900.0;50000.0;Rematador
+Ekitiké;88;84;73;87;37;78;https://www.futbin.com/26/player/20041/hugo-ekitike;117000.0;190000.0;Cazador
+Nuno Mendes;95;65;76;82;80;77;https://www.futbin.com/26/player/238/nuno-alexandre-tavares-mendes;38750.0;100000.0;Básico
+Bernardo Silva;83;81;86;92;74;72;https://www.futbin.com/26/player/20538/bernardo-mota-carvalho-e-silva;209000.0;500000.0;Cazador
+Lloris;78;76;69;77;54;77;https://www.futbin.com/26/player/1117/hugo-lloris;;;Básico
+Girma;82;53;76;78;87;81;https://www.futbin.com/26/player/20540/naomi-girma;39000.0;370000.0;Ancla
+Cherki;75;75;80;88;21;65;https://www.futbin.com/26/player/388/rayan-cherki;700.0;10000.0;Cazador
+Kimmich;81;74;89;85;85;80;https://www.futbin.com/26/player/20222/joshua-kimmich;136000.0;250000.0;Sombra
+Álvaro Carreras;89;72;82;86;81;87;https://www.futbin.com/26/player/20379/alvaro-fernandez-carreras;57500.0;80000.0;Ancla
+Mbeumo;89;87;81;86;51;78;https://www.futbin.com/26/player/20224/bryan-mbeumo;86000.0;170000.0;Cazador
+Burn;82;65;74;76;86;88;https://www.futbin.com/26/player/20454/dan-burn;259000.0;550000.0;Sombra
+Katoto;85;87;77;84;39;74;https://www.futbin.com/26/player/137/marie-katoto;14750.0;25000.0;Motor
+Rúben Dias;59;39;69;69;86;84;https://www.futbin.com/26/player/245/ruben-santos-gato-alves-dias;6400.0;13000.0;Sombra
+Ribéry;89;85;85;90;37;65;https://www.futbin.com/26/player/18773/ribery;900000.0;1900000.0;Cazador
+Thuram;82;80;81;84;85;85;https://www.futbin.com/26/player/19986/khephren-thuram;107000.0;180000.0;Ancla
+Mbappé;98;91;82;93;38;77;https://www.futbin.com/26/player/20335/kylian-mbappe;8526000.0;15000000.0;Rematador
+David Neres;89;80;78;89;50;65;https://www.futbin.com/26/player/20521/david-neres-campos;700.0;10000.0;Rematador
+Pulisic;88;82;80;86;46;65;https://www.futbin.com/26/player/17329/christian-pulisic;1500.0;10000.0;Rematador
 Mariona;80;86;88;90;76;79;https://www.futbin.com/26/player/20337/maria-francesca-caldentey-oliver;118000.0;250000.0;Ancla
-Højlund;90;87;70;84;44;90;https://www.futbin.com/26/player/20421/rasmus-hojlund;62000.0;110000.0;Rematador
-Shaw;91;84;83;84;53;75;https://www.futbin.com/26/player/20508/jaedyn-shaw;11750.0;30000.0;Rematador
-Wirtz;80;82;88;90;54;67;https://www.futbin.com/26/player/41/florian-wirtz;28000.0;75000.0;Cazador
+Dorgu;86;59;69;74;69;73;https://www.futbin.com/26/player/450/patrick-dorgu;6800.0;10000.0;Ancla
+Coulibaly;85;36;54;65;69;77;https://www.futbin.com/26/player/5656/soumaila-coulibaly;4700.0;10000.0;Sombra
+Park Ji Sung;86;81;84;87;79;82;https://www.futbin.com/26/player/20341/park;41500.0;80000.0;Ancla
+Yeremy Pino;91;84;86;86;45;63;https://www.futbin.com/26/player/20465/yeremy-jesus-pino-santos;0.0;0.0;Rematador
+Ter Stegen;84;84;89;85;47;84;https://www.futbin.com/26/player/820/marc-andre-ter-stegen;;;Básico
+Lookman;86;84;73;88;32;67;https://www.futbin.com/26/player/17333/ademola-lookman;1200.0;10000.0;Cazador
+Nørgaard;49;65;74;71;79;79;https://www.futbin.com/26/player/17652/christian-norgaard;400.0;10000.0;Básico
+Benzema;80;86;83;85;40;79;https://www.futbin.com/26/player/20282/karim-benzema;3100.0;11000.0;Motor
+Éder Militão;85;55;74;75;88;86;https://www.futbin.com/26/player/20416/eder-gabriel-militao;845000.0;1600000.0;Ancla
+Konaté;77;34;63;69;86;85;https://www.futbin.com/26/player/251/ibrahima-konate;6600.0;13000.0;Sombra
+Vitinha;76;81;87;91;77;72;https://www.futbin.com/26/player/20491/vitor-machado-ferreira;79500.0;250000.0;Ancla
+Reiten;88;82;85;87;60;69;https://www.futbin.com/26/player/90/guro-reiten;15000.0;25000.0;Halcón
+Tonali;79;74;82;80;81;83;https://www.futbin.com/26/player/255/sandro-tonali;6500.0;13000.0;Ancla
+Mendy;85;64;74;75;78;84;https://www.futbin.com/26/player/882/ferland-mendy;2400.0;24000.0;Sombra
+Bellingham;81;87;84;91;80;86;https://www.futbin.com/26/player/20289/jude-bellingham;115000.0;250000.0;Motor
+Pavlović;82;72;88;86;85;80;https://www.futbin.com/26/player/20422/aleksandar-pavlovic;285000.0;390000.0;Ancla
+Van De Ven;91;51;67;75;84;83;https://www.futbin.com/26/player/20293/micky-van-de-ven;197000.0;340000.0;Ancla
+Karchaoui;89;76;87;88;77;69;https://www.futbin.com/26/player/104/sakina-karchaoui;10500.0;20000.0;Ancla
+Koundé;84;47;74;79;86;84;https://www.futbin.com/26/player/223/jules-kounde;49500.0;130000.0;Ancla
+Scally;83;49;60;69;71;76;https://www.futbin.com/26/player/10924/joe-scally;400.0;10000.0;Sombra
+Araujo;80;53;63;61;81;83;https://www.futbin.com/26/player/17377/ronald-araujo;1100.0;11000.0;Sombra
+Gabriel;64;44;64;65;88;84;https://www.futbin.com/26/player/42/gabriel-dos-s-magalhaes;14750.0;25000.0;Sombra
+Olise;87;85;88;88;51;70;https://www.futbin.com/26/player/20037/michael-olise;169000.0;290000.0;Cazador
+Hume;87;48;73;80;82;84;https://www.futbin.com/26/player/20561/trai-hume;11000.0;30000.0;Ancla
+Catarina Macario;83;82;80;86;57;72;https://www.futbin.com/26/player/692/catarina-cantanhede-macario;900.0;10000.0;Cazador
+Sócrates;82;88;89;88;43;82;https://www.futbin.com/26/player/18755/vieira-de-oliveira;389000.0;800000.0;Motor
+Ekitiké;86;78;69;85;33;73;https://www.futbin.com/26/player/316/hugo-ekitike;900.0;10000.0;Rematador
+Ramírez;90;84;75;86;33;87;https://www.futbin.com/26/player/696/mayra-ramirez;2200.0;19000.0;Tirador preciso
+Marcos Llorente;89;79;78;81;78;82;https://www.futbin.com/26/player/952/marcos-llorente-moreno;19000.0;30000.0;Ancla
+Sissi;84;88;87;86;41;68;https://www.futbin.com/26/player/18809/lima-do-amor;230000.0;410000.0;Motor
+Howard;85;82;87;86;54;84;https://www.futbin.com/26/player/18884/howard;;;Básico
+Koné;81;82;82;88;84;86;https://www.futbin.com/26/player/20435/kouadio-manu-kone;80000.0;140000.0;Sombra
+David Raya;86;84;87;87;62;85;https://www.futbin.com/26/player/233/david-raya-martin;;;Básico
+Adeyemi;96;76;72;82;36;69;https://www.futbin.com/26/player/700/karim-adeyemi;4300.0;14000.0;Rematador
+Kaká;89;84;86;90;43;71;https://www.futbin.com/26/player/18758/dos-santos-leite;980000.0;2100000.0;Cazador
+Crouch;78;88;85;90;54;82;https://www.futbin.com/26/player/20217/crouch;27750.0;55000.0;Cazador
+Morata;84;87;83;85;37;82;https://www.futbin.com/26/player/20536/alvaro-borja-morata-martin;11750.0;30000.0;Rematador
+Grimaldo;72;73;87;85;74;67;https://www.futbin.com/26/player/1024/alejandro-grimaldo-garcia;1200.0;10000.0;Ancla
+Al Owairan;95;84;81;87;37;74;https://www.futbin.com/26/player/20219/al-owairan;270000.0;490000.0;Rematador
+Araujo;88;46;78;82;82;84;https://www.futbin.com/26/player/20321/julian-araujo;350.0;10000.0;Ancla
+Greenwood;79;68;84;77;87;86;https://www.futbin.com/26/player/20572/alex-greenwood;1300.0;10000.0;Sombra
+Cha Bum Kun;86;84;77;83;59;82;https://www.futbin.com/26/player/1/cha-bum-kun;0.0;0.0;Cazador
+Rodri;65;80;86;84;86;85;https://www.futbin.com/26/player/61/rodrigo-hernandez-cascante;26750.0;55000.0;Sombra
+Mariona;78;84;86;90;76;79;https://www.futbin.com/26/player/128/maria-francesca-caldentey-oliver;19750.0;35000.0;Ancla
+André Almeida;69;66;75;77;67;63;https://www.futbin.com/26/player/4215/domingos-andre-ribeiro-almeida;350.0;10000.0;Básico
+Honsak;86;70;68;74;54;69;https://www.futbin.com/26/player/8894/mathias-honsak;350.0;10000.0;Tirador preciso
+Thuram;86;83;76;82;50;80;https://www.futbin.com/26/player/17309/marcus-thuram;3000.0;10000.0;Halcón
+Raíllo;41;36;59;62;83;84;https://www.futbin.com/26/player/17550/antonio-jose-raillo-arenas;700.0;10000.0;Básico
+Ueki;70;78;67;77;46;67;https://www.futbin.com/26/player/18088/riko-ueki;350.0;10000.0;Básico
+Ibrahimovic;84;93;82;90;46;89;https://www.futbin.com/26/player/18720/ibrahimovic;3000000.0;4600000.0;Motor
+Kohler;71;51;63;62;91;90;https://www.futbin.com/26/player/18817/kohler;72000.0;110000.0;Sombra
+Meïté;80;82;73;80;35;81;https://www.futbin.com/26/player/18934/mohamed-kader-meite;30000.0;30000.0;Rematador
+Little;79;78;87;89;81;73;https://www.futbin.com/26/player/19980/kim-little;26500.0;70000.0;Ancla
+Bobb;89;80;85;90;45;65;https://www.futbin.com/26/player/20044/oscar-bobb;20750.0;32500.0;Cazador
+Debinha;87;82;87;92;48;78;https://www.futbin.com/26/player/20221/debora-c-de-oliveira;467000.0;1000000.0;Cazador
+Quiñones;92;84;77;84;41;87;https://www.futbin.com/26/player/20322/julian-quinones;700.0;10000.0;Rematador
+Maignan;86;84;86;89;65;86;https://www.futbin.com/26/player/20374/mike-maignan;;;Básico
+Aarons;87;55;74;83;80;83;https://www.futbin.com/26/player/20447/max-aarons;11250.0;30000.0;Ancla
+Mbappé;98;92;84;93;40;78;https://www.futbin.com/26/player/20515/kylian-mbappe;8526000.0;15000000.0;Rematador
+Cha Bum Kun;89;87;80;87;62;85;https://www.futbin.com/26/player/2/cha-bum-kun;0.0;0.0;Básico
+Lewandowski;74;89;79;85;44;84;https://www.futbin.com/26/player/63/robert-lewandowski;15500.0;27500.0;Cazador
+Diani;92;85;81;88;56;79;https://www.futbin.com/26/player/132/kadidiatou-diani;14500.0;27500.0;Tirador preciso
+Olise;78;80;84;87;50;66;https://www.futbin.com/26/player/242/michael-olise;6400.0;16000.0;Cazador
+Diaby;95;75;77;87;44;54;https://www.futbin.com/26/player/716/moussa-diaby;1200.0;10000.0;Rematador
+Rodman;91;81;78;83;43;82;https://www.futbin.com/26/player/1134/trinity-rodman;3200.0;11000.0;Rematador
+Ramírez;61;34;52;53;64;74;https://www.futbin.com/26/player/4409/ruben-ramirez;3500.0;10000.0;Básico
+Acheampong;91;68;64;73;44;73;https://www.futbin.com/26/player/9073/frank-acheampong;350.0;10000.0;Tirador preciso
+Gabriel Silva;96;69;67;74;29;61;https://www.futbin.com/26/player/12260/gabriel-silva-vieira;10000.0;10000.0;Rematador
+Dumfries;84;70;75;79;79;84;https://www.futbin.com/26/player/17318/denzel-dumfries;1300.0;10000.0;Sombra
+Fred;77;71;78;82;76;75;https://www.futbin.com/26/player/17557/frederico-de-paula-santos;700.0;10000.0;Básico
+Kalimuendo;80;80;63;78;29;71;https://www.futbin.com/26/player/18105/arnaud-kalimuendo;350.0;10000.0;Rematador
+Rivaldo;87;88;87;91;42;75;https://www.futbin.com/26/player/18723/borba-ferreira;409000.0;750000.0;Motor
+Chiellini;78;55;62;63;92;89;https://www.futbin.com/26/player/18764/chiellini;835000.0;1800000.0;Sombra
+Ginola;90;88;87;91;55;84;https://www.futbin.com/26/player/18822/ginola;1300000.0;2200000.0;Cazador
+Donnarumma;90;83;70;90;52;87;https://www.futbin.com/26/player/18941/gianluigi-donnarumma;;;Básico
+Adeyemi;97;82;78;86;42;75;https://www.futbin.com/26/player/19982/karim-adeyemi;285000.0;550000.0;Rematador
+Damnjanović;86;85;77;83;70;85;https://www.futbin.com/26/player/20049/jovana-damnjanovic;11250.0;30000.0;Rematador
+Osimhen;93;86;67;82;43;85;https://www.futbin.com/26/player/20451/victor-osimhen;547000.0;800000.0;Rematador
+Kane;81;94;85;86;52;86;https://www.futbin.com/26/player/20516/harry-kane;769000.0;1600000.0;Motor
+Sissi;86;90;89;88;42;70;https://www.futbin.com/26/player/4/sissi;0.0;0.0;Básico
+Haaland;86;91;70;80;45;88;https://www.futbin.com/26/player/67/erling-haaland;28000.0;60000.0;Motor
+Wood;53;83;68;72;40;81;https://www.futbin.com/26/player/391/chris-wood;1000.0;10000.0;Rematador
+Milinković-Savić;62;80;81;81;78;88;https://www.futbin.com/26/player/720/sergej-milinkovic-savic;1200.0;10000.0;Sombra
+Cascarino;93;75;79;88;38;61;https://www.futbin.com/26/player/1142/delphine-cascarino;3000.0;10000.0;Rematador
+Cirkin;78;55;64;68;67;63;https://www.futbin.com/26/player/4591/dennis-cirkin;250.0;10000.0;Motor
+Weigandt;78;47;57;67;65;76;https://www.futbin.com/26/player/9342/marcelo-weigandt;600.0;10000.0;Básico
+Karabec;73;65;69;74;34;64;https://www.futbin.com/26/player/12990/adam-karabec;350.0;10000.0;Básico
+Lawrence;82;67;82;80;82;76;https://www.futbin.com/26/player/17319/ashley-lawrence;1300.0;10000.0;Sombra
+Guerreiro;69;78;85;88;74;54;https://www.futbin.com/26/player/17576/raphael-guerreiro;1300.0;10000.0;Básico
+Aritz Elustondo;62;39;63;60;76;76;https://www.futbin.com/26/player/18415/aritz-elustondo;350.0;10000.0;Básico
+Seger;77;79;90;86;85;80;https://www.futbin.com/26/player/18728/seger;225000.0;450000.0;Ancla
+Ferdinand;82;48;65;64;90;85;https://www.futbin.com/26/player/18772/ferdinand;1350000.0;2500000.0;Ancla
+Tévez;85;89;80;86;46;89;https://www.futbin.com/26/player/18823/tevez;270000.0;400000.0;Cazador
+Ederson;83;82;91;83;64;83;https://www.futbin.com/26/player/18944/ederson-santana-de-moraes;;;Básico
+João Neves;77;70;81;86;84;84;https://www.futbin.com/26/player/19983/joao-pedro-goncalves-neves;149000.0;300000.0;Ancla
+Shaw;85;90;76;85;33;85;https://www.futbin.com/26/player/20086/khadija-shaw;84500.0;140000.0;Motor
+Beckenbauer;70;52;76;64;80;70;https://www.futbin.com/26/player/20333/franz-beckenbauer;1250000.0;2600000.0;Ancla
+Cambiaso;88;75;86;85;83;80;https://www.futbin.com/26/player/20404/andrea-cambiaso;400.0;10000.0;Ancla
+Šeško;87;84;70;83;50;85;https://www.futbin.com/26/player/20517/benjamin-sesko;700.0;10000.0;Cazador
+Otamendi;80;61;71;72;86;88;https://www.futbin.com/26/player/20545/nicolas-otamendi;29750.0;100000.0;Sombra
+Totti;81;86;85;85;36;71;https://www.futbin.com/26/player/5/francesco-totti;0.0;0.0;Cazador
+Wilson;92;87;79;89;45;81;https://www.futbin.com/26/player/74/sophia-wilson;32000.0;90000.0;Rematador
+Havertz;72;79;78;81;48;74;https://www.futbin.com/26/player/411/kai-havertz;750.0;10000.0;Tirador preciso
+Marta;70;83;84;88;44;75;https://www.futbin.com/26/player/1146/marta-vieira-da-silva;3000.0;10000.0;Básico
+Arroyo;75;29;57;61;68;76;https://www.futbin.com/26/player/5088/anderson-arroyo;4900.0;10000.0;Sombra
+Stehle;90;57;55;63;34;62;https://www.futbin.com/26/player/9378/simon-stehle;1900.0;5100.0;Rematador
+Gómez;83;63;70;75;64;87;https://www.futbin.com/26/player/14336/elias-gomez;900.0;10000.0;Ancla
+Zaccagni;88;78;77;87;57;66;https://www.futbin.com/26/player/17325/mattia-zaccagni;1200.0;10000.0;Rematador
+Mazraoui;75;66;76;80;77;72;https://www.futbin.com/26/player/17578/noussair-mazraoui;400.0;10000.0;Ancla
+Cuadrado;77;72;76;78;74;61;https://www.futbin.com/26/player/18441/juan-cuadrado;2000.0;30000.0;Básico
+Foudy;80;84;88;87;76;81;https://www.futbin.com/26/player/18734/foudy;175000.0;340000.0;Sombra
+Okocha;87;83;83;93;40;60;https://www.futbin.com/26/player/18825/okocha;279000.0;410000.0;Cazador
+De Frutos;87;82;80;84;47;70;https://www.futbin.com/26/player/20089/jorge-de-frutos-sebastian;350.0;10000.0;Cazador
+Pogba;76;78;83;85;86;84;https://www.futbin.com/26/player/20225/paul-pogba;750.0;10000.0;Sombra
+Salgado;85;61;81;82;86;88;https://www.futbin.com/26/player/20409/michel-salgado;305000.0;550000.0;Sombra
+Jones;76;55;70;66;86;82;https://www.futbin.com/26/player/7/steffi-jones;0.0;0.0;Sombra
+Hemp;91;77;84;87;63;70;https://www.futbin.com/26/player/78/lauren-hemp;10750.0;20000.0;Rematador
+Shaw;71;89;71;81;32;85;https://www.futbin.com/26/player/138/khadija-shaw;20000.0;37500.0;Cazador
+Dybala;80;85;84;87;41;64;https://www.futbin.com/26/player/246/paulo-dybala;6400.0;15000.0;Cazador
+Uche;68;73;69;73;68;83;https://www.futbin.com/26/player/426/chrisantus-uche;0.0;10000.0;Básico
+Sancet;76;83;80;85;70;82;https://www.futbin.com/26/player/807/oihan-sancet-tirapu;1300.0;10000.0;Motor
+Adnan;74;66;68;70;69;80;https://www.futbin.com/26/player/1346/ali-adnan;5000.0;10000.0;Básico
+Makengo;82;36;62;66;69;72;https://www.futbin.com/26/player/5647/jordy-makengo;1200.0;10000.0;Ancla
+Mendy;65;44;57;56;64;68;https://www.futbin.com/26/player/9475/nobel-mendy;7500.0;10000.0;Sombra
+Gomes;84;58;68;76;70;77;https://www.futbin.com/26/player/14344/claudio-gomes;2900.0;10000.0;Arquitecto
+Gabriel Jesus;81;79;74;86;39;71;https://www.futbin.com/26/player/17625/gabriel-fernando-de-jesus;700.0;10000.0;Cazador
+Cance;80;74;74;77;55;78;https://www.futbin.com/26/player/18443/laurie-cance;350.0;10000.0;Básico
+Kroos;71;82;91;86;76;74;https://www.futbin.com/26/player/18735/kroos;449000.0;600000.0;Sombra
+Scholes;74;86;89;78;62;80;https://www.futbin.com/26/player/18775/scholes;96000.0;180000.0;Motor
+Paulo Futre;93;81;80;93;37;58;https://www.futbin.com/26/player/18828/dos-santos-futre;276000.0;490000.0;Rematador
+Kolo Muani;90;79;71;80;38;65;https://www.futbin.com/26/player/18960/randal-kolo-muani;800.0;10000.0;Rematador
+Le Guilly;86;58;78;77;83;78;https://www.futbin.com/26/player/19991/jade-le-guilly;11500.0;30000.0;Ancla
+Rafael Leão;94;80;82;88;31;77;https://www.futbin.com/26/player/20228/rafael-da-conceicao-leao;897000.0;1600000.0;Rematador
+Lamine Yamal;88;85;86;92;23;53;https://www.futbin.com/26/player/20413/lamine-yamal-nasraoui-ebana;2699000.0;3800000.0;Cazador
+Pope;85;86;76;87;55;84;https://www.futbin.com/26/player/20461/nick-pope;;;Básico
+Asllani;84;84;86;83;50;66;https://www.futbin.com/26/player/20547/kosovare-asllani;10750.0;30000.0;Básico
+Jones;80;59;77;70;92;86;https://www.futbin.com/26/player/8/steffi-jones;0.0;0.0;Básico
+Alisson;86;85;86;89;56;90;https://www.futbin.com/26/player/79/alisson-ramses-becker;;;Básico
+Vlahović;78;84;69;77;29;82;https://www.futbin.com/26/player/187/dusan-vlahovic;750.0;10000.0;Halcón
+Bruno Guimarães;66;75;84;84;79;81;https://www.futbin.com/26/player/247/bruno-guimaraes-moura;6400.0;13000.0;Sombra
+Campbell;89;57;59;71;26;42;https://www.futbin.com/26/player/1617/cole-campbell;350.0;10000.0;Artista
+Coulibaly;63;30;41;43;60;61;https://www.futbin.com/26/player/9530/karim-coulibaly;200.0;5100.0;Básico
+Correa;59;72;57;67;31;76;https://www.futbin.com/26/player/14553/javier-correa;2100.0;10000.0;Básico
+Fermín;74;75;75;82;62;55;https://www.futbin.com/26/player/17640/fermin-lopez-marin;700.0;10000.0;Cazador
+Adama Traoré;94;65;67;81;37;82;https://www.futbin.com/26/player/18502/adama-traore-diarra;1200.0;10000.0;Rematador
+Schelin;91;89;82;89;46;82;https://www.futbin.com/26/player/18736/schelin;700000.0;1500000.0;Cazador
+Vieira;82;78;80;82;88;90;https://www.futbin.com/26/player/18779/vieira;1450000.0;3300000.0;Catalizador
+Brolin;87;88;83;90;59;69;https://www.futbin.com/26/player/18845/brolin;84500.0;160000.0;Cazador
+Yedlin;85;50;60;65;66;73;https://www.futbin.com/26/player/19092/yedlin;0.0;10000.0;Básico
+Bruno Guimarães;72;77;85;85;81;82;https://www.futbin.com/26/player/20006/bruno-guimaraes-moura;22000.0;40000.0;Sombra
+James;90;83;81;89;42;85;https://www.futbin.com/26/player/20095/lauren-james;312000.0;650000.0;Rematador
+Jordi Alba;89;80;86;88;83;80;https://www.futbin.com/26/player/20280/jordi-alba-ramos;16000.0;30000.0;Ancla
+Le Tissier;82;62;81;77;90;84;https://www.futbin.com/26/player/20414/maya-le-tissier;79000.0;130000.0;Ancla
+Robertson;85;72;84;81;86;83;https://www.futbin.com/26/player/20548/andrew-robertson;115000.0;320000.0;Sombra
+Kahn;93;86;70;95;57;89;https://www.futbin.com/26/player/10/oliver-kahn;;;Básico
+Guirassy;72;88;76;83;45;83;https://www.futbin.com/26/player/217/serhou-guirassy;10750.0;19000.0;Cazador
+Pacho;80;34;62;62;86;86;https://www.futbin.com/26/player/249/willian-pacho;7700.0;27500.0;Sombra
+Van De Ven;90;49;64;72;82;80;https://www.futbin.com/26/player/466/micky-van-de-ven;38250.0;100000.0;Ancla
+Marseiler;90;67;61;73;36;60;https://www.futbin.com/26/player/1858/luca-marseiler;8000.0;10000.0;Rematador
+Rossi;88;72;71;78;34;56;https://www.futbin.com/26/player/6416/diego-rossi;350.0;10000.0;Básico
+Scott;71;62;73;79;65;68;https://www.futbin.com/26/player/9721/alex-scott;700.0;10000.0;Básico
+Decker;69;41;55;58;57;60;https://www.futbin.com/26/player/14780/elias-decker;200.0;5100.0;Básico
+Mendy;69;61;67;70;74;83;https://www.futbin.com/26/player/18517/batista-mendy;0.0;10000.0;Básico
+Luís Figo;89;84;86;90;38;77;https://www.futbin.com/26/player/18739/madeira-caeiro-figo;243000.0;500000.0;Cazador
+Blanc;78;67;68;76;90;85;https://www.futbin.com/26/player/18781/blanc;588000.0;1100000.0;Sombra
+Hamšík;83;87;87;86;75;83;https://www.futbin.com/26/player/18849/hamsik;289000.0;650000.0;Motor
+Idumbo;78;61;61;69;27;56;https://www.futbin.com/26/player/19164/stanis-idumbo;350.0;10000.0;Básico
+Jordi Alba;88;76;84;86;79;76;https://www.futbin.com/26/player/20008/jordi-alba-ramos;16000.0;30000.0;Ancla
+Yoro;80;50;74;75;86;83;https://www.futbin.com/26/player/20097/leny-yoro;52000.0;140000.0;Sombra
+Sánchez;84;60;67;76;85;90;https://www.futbin.com/26/player/20490/davinson-sanchez;750.0;10000.0;Sombra
+Ream;80;54;81;74;85;86;https://www.futbin.com/26/player/20551/tim-ream;10750.0;30000.0;Sombra
+Lamine Yamal;85;81;86;90;23;53;https://www.futbin.com/26/player/85/lamine-yamal-nasraoui-ebana;63000.0;190000.0;Cazador
+Brackelmann;82;47;59;53;68;79;https://www.futbin.com/26/player/1956/calvin-brackelmann;2100.0;10000.0;Sombra
+Karlsson;77;74;71;80;35;52;https://www.futbin.com/26/player/6620/jesper-karlsson;0.0;10000.0;Básico
+Hansen-Aarøen;70;50;60;68;47;50;https://www.futbin.com/26/player/10004/isak-hansen-aaroen;4500.0;5100.0;Cazador
+Reid;85;32;51;60;47;63;https://www.futbin.com/26/player/14791/jayden-reid;200.0;5100.0;Básico
+Esther;80;84;72;83;31;72;https://www.futbin.com/26/player/17336/esther-gonzalez-rodriguez;1300.0;10000.0;Cazador
+Pogba;64;76;81;83;60;78;https://www.futbin.com/26/player/17721/paul-pogba;750.0;10000.0;Sombra
+Lavogez;73;75;76;74;51;71;https://www.futbin.com/26/player/18536/claire-lavogez;350.0;10000.0;Básico
+Nesta;76;44;63;68;92;84;https://www.futbin.com/26/player/18742/nesta;220000.0;470000.0;Ancla
+Fernando Hierro;74;67;74;68;92;84;https://www.futbin.com/26/player/18783/hierro-ruiz;144000.0;290000.0;Sombra
+Marchisio;82;81;85;86;80;82;https://www.futbin.com/26/player/18850/marchisio;205000.0;400000.0;Ancla
+Lee Kang In;88;83;85;87;55;70;;;;Básico
