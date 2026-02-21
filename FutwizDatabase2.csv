@@ -17786,7 +17786,7 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 17784;olivier giroud;23479;https://www.futwiz.com/fc26/player/olivier-giroud/23479;89;KNOCKOUT ROYALTY;Paris SG;FRA 1;;86;90;83;85;50;89
 17785;bruno guimaraes;23478;https://www.futwiz.com/fc26/player/bruno-guimaraes/23478;89;KNOCKOUT ROYALTY;Paris SG;FRA 1;;84;81;89;88;85;87
 17786;www.futwiz.com;23477;https://www.futwiz.com/fc26/player/dunga/23477;89;;;;;;;;;;
-17787;www.futwiz.com;23476;https://www.futwiz.com/fc26/player/frank-rijkaard/23476;89;;;;;;;;;;
+17787;frank rijkaard;23476;https://www.futwiz.com/fc26/player/frank-rijkaard/23476;89;KNOCKOUT ROYALTY;Paris SG;FRA 1;;84;80;85;86;89;88
 17788;keira walsh;23475;https://www.futwiz.com/fc26/player/keira-walsh/23475;89;KNOCKOUT ROYALTY;Paris SG;FRA 1;;85;59;90;88;88;84
 17789;www.futwiz.com;23474;https://www.futwiz.com/fc26/player/victor-osimhen/23474;90;;;;;;;;;;
 17790;www.futwiz.com;23473;https://www.futwiz.com/fc26/player/gheorghe-hagi/23473;90;;;;;;;;;;
@@ -17809,3 +17809,90 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 17807;www.futwiz.com;23456;https://www.futwiz.com/fc26/player/andres-iniesta/23456;93;;;;;;;;;;
 17808;www.futwiz.com;23455;https://www.futwiz.com/fc26/player/mia-hamm/23455;94;;;;;;;;;;
 17809;Rasmus Højlund;23074;https://www.futwiz.com/fc26/player/rasmus-hojlund/23074;87;TOTW;SSC Napoli;Serie A TIM;Denmark;92;88;72;87;45;90
+17810;Uli Hoeness;23588;https://www.futwiz.com/fc26/player/uli-hoeness/23588;86;HERO;Heroes;Nationality;;93;81;80;87;39;74
+17811;Oliver Bierhoff;23587;https://www.futwiz.com/fc26/player/oliver-bierhoff/23587;86;HERO;Heroes;Nationality;;79;85;68;77;39;82
+17812;Mats Deijl;23586;https://www.futwiz.com/fc26/player/mats-deijl/23586;87;FANTASY FC;Feyenoord;NED 1;;87;73;80;82;86;88
+17813;Ahmetcan Kaplan;23585;https://www.futwiz.com/fc26/player/ahmetcan-kaplan/23585;87;FANTASY FC;N.E.C. Nijmegen;NED 1;;84;45;76;75;87;89
+17814;Matheus Dias;23584;https://www.futwiz.com/fc26/player/matheus-dias/23584;87;FANTASY FC;Nacional;POR 1;;85;75;85;85;86;87
+17815;Gilberto Silva;23583;https://www.futwiz.com/fc26/player/gilberto-silva/23583;87;HERO;Heroes;Nationality;;76;72;78;81;87;87
+17816;Olivia Holdt;23582;https://www.futwiz.com/fc26/player/olivia-holdt/23582;87;FANTASY FC;Spurs;ENG 1;;88;85;86;87;70;80
+17817;Dunga;23581;https://www.futwiz.com/fc26/player/dunga/23581;87;ICON;Icons;ICO;;75;77;82;81;87;85
+17818;Hidemasa Morita;23580;https://www.futwiz.com/fc26/player/hidemasa-morita/23580;87;FANTASY FC;Sporting CP;POR 1;;80;82;86;87;82;87
+17819;Gianluca Scamacca;23579;https://www.futwiz.com/fc26/player/gianluca-scamacca/23579;87;FANTASY FC;Bergamo Calcio;ITA 1;;86;90;80;87;45;82
+17820;Alex Freeman;23578;https://www.futwiz.com/fc26/player/alex-freeman/23578;87;FANTASY FC;Villarreal CF;ESP 1;;91;75;84;86;84;89
+17821;Roy Makaay;23577;https://www.futwiz.com/fc26/player/roy-makaay/23577;87;HERO;Heroes;Nationality;;84;90;75;83;30;75
+17822;Claire Lavogez;23576;https://www.futwiz.com/fc26/player/claire-lavogez/23576;87;FANTASY FC;Real Sociedad;ESP 1;;86;89;87;87;60;83
+17823;Grace Kazadi;23575;https://www.futwiz.com/fc26/player/grace-kazadi/23575;87;FANTASY FC;Strasbourg;FRA 1;;87;70;80;87;86;83
+17824;Mohammed Noor;23574;https://www.futwiz.com/fc26/player/mohammed-noor/23574;88;FANTASY FC HERO;Heroes;Nationality;;85;87;87;88;67;83
+17825;Jorgen Strand Larsen;23573;https://www.futwiz.com/fc26/player/jorgen-strand-larsen/23573;88;FANTASY FC;Crystal Palace;ENG 1;;87;90;80;87;40;92
+17826;Francisco Moura;23572;https://www.futwiz.com/fc26/player/francisco-moura/23572;88;FANTASY FC;FC Porto;POR 1;;88;73;87;87;87;85
+17827;Kristin Kogel;23571;https://www.futwiz.com/fc26/player/kristin-kogel/23571;88;FANTASY FC;Leverkusen;GER 1;;92;87;85;88;60;75
+17828;Geoff Hurst;23570;https://www.futwiz.com/fc26/player/geoff-hurst/23570;88;ICON;Icons;ICO;;84;91;72;83;39;78
+17829;Giovane;23569;https://www.futwiz.com/fc26/player/giovane/23569;88;FANTASY FC;SSC Napoli;ITA 1;;89;87;85;91;60;83
+17830;Keven Schlotterbeck;23568;https://www.futwiz.com/fc26/player/keven-schlotterbeck/23568;88;FANTASY FC;FC Augsburg;GER 1;;85;40;78;73;90;87
+17831;Tomas Rosicky;23567;https://www.futwiz.com/fc26/player/tomas-rosicky/23567;88;FANTASY FC HERO;Heroes;Nationality;;87;86;88;90;60;72
+17832;Carolin Simon;23566;https://www.futwiz.com/fc26/player/carolin-simon/23566;88;FANTASY FC;FC Bayern München;GER 1;;87;70;85;87;89;86
+17833;Steph Catley;23565;https://www.futwiz.com/fc26/player/steph-catley/23565;89;FANTASY FC;Arsenal;ENG 1;;87;71;87;85;89;89
+17834;Clint Dempsey;23564;https://www.futwiz.com/fc26/player/clint-dempsey/23564;89;FANTASY FC HERO;Heroes;Nationality;;90;90;89;89;51;86
+17835;Ben Chilwell;23563;https://www.futwiz.com/fc26/player/ben-chilwell/23563;89;FANTASY FC;Strasbourg;FRA 1;;88;75;89;87;89;83
+17836;Ricardo Horta;23562;https://www.futwiz.com/fc26/player/ricardo-horta/23562;89;FANTASY FC;SC Braga;POR 1;;87;89;89;90;50;80
+17837;Donyell Malen;23561;https://www.futwiz.com/fc26/player/donyell-malen/23561;89;FANTASY FC;AS Roma;ITA 1;;92;88;85;91;50;82
+17838;Jill Scott;23560;https://www.futwiz.com/fc26/player/jill-scott/23560;89;FANTASY FC HERO;Heroes;Nationality;;87;82;90;86;87;93
+17839;Romee Leuchter;23559;https://www.futwiz.com/fc26/player/romee-leuchter/23559;89;FANTASY FC;Paris SG;FRA 1;;92;91;82;89;40;84
+17840;Noa Lang;23558;https://www.futwiz.com/fc26/player/noa-lang/23558;89;FANTASY FC;Galatasaray;TUR 1;;90;88;85;92;60;77
+17841;Tomas Brolin;23557;https://www.futwiz.com/fc26/player/tomas-brolin/23557;89;FANTASY FC HERO;Heroes;Nationality;;90;90;87;92;61;73
+17842;Joao Cancelo;23556;https://www.futwiz.com/fc26/player/joao-cancelo/23556;89;FANTASY FC;FC Barcelona;ESP 1;;90;80;90;90;88;87
+17843;Gervinho;23555;https://www.futwiz.com/fc26/player/gervinho/23555;89;FANTASY FC HERO;Heroes;Nationality;;96;85;86;90;45;75
+17844;Aleix Garcia;23554;https://www.futwiz.com/fc26/player/aleix-garcia/23554;89;FANTASY FC;Leverkusen;GER 1;;85;85;91;90;87;82
+17845;Unai Simon;23553;https://www.futwiz.com/fc26/player/unai-simon/23553;90;FANTASY FC;Athletic Club;ESP 1;;56;23;33;22;17;59
+17846;Deniz Undav;23552;https://www.futwiz.com/fc26/player/deniz-undav/23552;90;FANTASY FC;VfB Stuttgart;GER 1;;88;92;85;91;43;87
+17847;Moussa Diaby;23551;https://www.futwiz.com/fc26/player/moussa-diaby/23551;90;FANTASY FC;Al Ittihad;SAU 1;;96;86;88;93;50;70
+17848;Paulo Futre;23550;https://www.futwiz.com/fc26/player/paulo-futre/23550;90;FANTASY FC HERO;Heroes;Nationality;;95;85;82;95;40;70
+17849;Douglas Luiz;23549;https://www.futwiz.com/fc26/player/douglas-luiz/23549;90;FANTASY FC;Aston Villa;ENG 1;;86;86;92;90;87;85
+17850;Saeed Al Owairan;23548;https://www.futwiz.com/fc26/player/saeed-al-owairan/23548;90;FANTASY FC HERO;Heroes;Nationality;;96;88;85;91;45;80
+17851;Antoine Semenyo;23547;https://www.futwiz.com/fc26/player/antoine-semenyo/23547;90;FANTASY FC;Manchester City;ENG 1;;92;90;85;91;60;89
+17852;Robert Lewandowski;23546;https://www.futwiz.com/fc26/player/robert-lewandowski/23546;91;FANTASY FC;FC Barcelona;ESP 1;;87;92;84;90;47;90
+17853;Endrick;23545;https://www.futwiz.com/fc26/player/endrick/23545;91;FANTASY FC;OL;FRA 1;;94;91;85;91;46;85
+17854;Joao Felix;23544;https://www.futwiz.com/fc26/player/joao-felix/23544;91;FANTASY FC;Al Nassr;SAU 1;;90;91;90;93;60;83
+17855;Salma Paralluelo;23543;https://www.futwiz.com/fc26/player/salma-paralluelo/23543;91;FANTASY FC;FC Barcelona;ESP 1;;95;91;86;90;60;85
+17856;Jaap Stam;23542;https://www.futwiz.com/fc26/player/jaap-stam/23542;91;FANTASY FC HERO;Heroes;Nationality;;87;56;70;77;93;92
+17857;Bruno Fernandes;23541;https://www.futwiz.com/fc26/player/bruno-fernandes/23541;92;FANTASY FC;Man Utd;ENG 1;;88;90;94;91;74;80
+17858;Yaya Toure;23540;https://www.futwiz.com/fc26/player/yaya-toure/23540;92;FANTASY FC HERO;Heroes;Nationality;;87;88;91;90;87;93
+17859;Antonio Di Natale;23539;https://www.futwiz.com/fc26/player/antonio-di-natale/23539;92;FANTASY FC HERO;Heroes;Nationality;;94;95;90;94;53;77
+17860;Rafael Leao;23538;https://www.futwiz.com/fc26/player/rafael-leao/23538;92;FANTASY FC;Milano FC;ITA 1;;96;88;88;93;40;85
+17861;Cole Palmer;23537;https://www.futwiz.com/fc26/player/cole-palmer/23537;92;FANTASY FC;Chelsea;ENG 1;;90;90;92;93;55;75
+17862;Ademola Lookman;23536;https://www.futwiz.com/fc26/player/ademola-lookman/23536;88;KNOCKOUT ROYALTY;Atlético de Madrid;ESP 1;;90;88;80;92;37;76
+17863;Santi Garcia;23535;https://www.futwiz.com/fc26/player/santi-garcia/23535;84;TOTW;Gil Vicente;POR 1;;83;80;83;86;70;84
+17864;Jorthy Mokio;23534;https://www.futwiz.com/fc26/player/jorthy-mokio/23534;84;TOTW;Ajax;NED 1;;84;68;81;85;84;82
+17865;Nobel Mendy;23533;https://www.futwiz.com/fc26/player/nobel-mendy/23533;84;TOTW;Rayo Vallecano;ESP 1;;83;62;77;75;83;86
+17866;Vladimir Coufal;23532;https://www.futwiz.com/fc26/player/vladimir-coufal/23532;84;TOTW;TSG Hoffenheim;GER 1;;84;67;82;81;85;83
+17867;Wifi;23531;https://www.futwiz.com/fc26/player/wifi/23531;84;TOTW;Sevilla FC;ESP 1;;90;85;76;89;51;77
+17868;Haji Wright;23530;https://www.futwiz.com/fc26/player/haji-wright/23530;84;TOTW;Coventry City;ENG 2;;92;84;75;84;44;87
+17869;Junior Brumado;23529;https://www.futwiz.com/fc26/player/junior-brumado/23529;84;TOTW;FC Midtjylland;DEN 1;;83;84;75;87;47;92
+17870;Yakou Meite;23528;https://www.futwiz.com/fc26/player/yakou-meite/23528;84;TOTW;Damac;SAU 1;;92;84;75;81;62;89
+17871;Fatih Kaya;23527;https://www.futwiz.com/fc26/player/fatih-kaya/23527;84;TOTW;Wehen Wiesbaden;GER 3;;88;82;75;84;47;88
+17872;Louis Reed;23526;https://www.futwiz.com/fc26/player/louis-reed/23526;84;TOTW;Mansfield Town;ENG 3;;80;74;83;82;81;86
+17873;Brice Samba;23525;https://www.futwiz.com/fc26/player/brice-samba/23525;85;TOTW;Stade Rennais FC;FRA 1;;60;20;37;31;14;57
+17874;Pedro Neto;23524;https://www.futwiz.com/fc26/player/pedro-neto/23524;85;TOTW;Chelsea;ENG 1;;93;81;80;87;45;75
+17875;Wesley Said;23523;https://www.futwiz.com/fc26/player/wesley-said/23523;86;TOTW;RC Lens;FRA 1;;86;87;83;90;45;75
+17876;Youssef Chermiti;23522;https://www.futwiz.com/fc26/player/youssef-chermiti/23522;86;TOTW;Rangers;SPFL;;87;89;74;86;47;86
+17877;Julian Ryerson;23521;https://www.futwiz.com/fc26/player/julian-ryerson/23521;86;TOTW;Borussia Dortmund;GER 1;;84;70;82;84;87;89
+17878;Maika Hamano;23520;https://www.futwiz.com/fc26/player/maika-hamano/23520;86;TOTW;Spurs;ENG 1;;84;82;81;88;58;65
+17879;Yui Hasegawa;23519;https://www.futwiz.com/fc26/player/yui-hasegawa/23519;87;TOTW;Manchester City;ENG 1;;83;73;87;88;83;73
+17880;Ederson;23518;https://www.futwiz.com/fc26/player/ederson/23518;87;TOTW;Bergamo Calcio;ITA 1;;84;79;83;86;85;87
+17881;Mauro Icardi;23517;https://www.futwiz.com/fc26/player/mauro-icardi/23517;87;TOTW;Galatasaray;TUR 1;;86;88;78;84;45;80
+17882;Geraldine Reuteler;23516;https://www.futwiz.com/fc26/player/geraldine-reuteler/23516;87;TOTW;Frankfurt;GER 1;;93;87;84;88;63;80
+17883;Sandro Tonali;23515;https://www.futwiz.com/fc26/player/sandro-tonali/23515;87;TOTW;Newcastle Utd;ENG 1;;81;78;83;83;82;84
+17884;Jess Carter;23514;https://www.futwiz.com/fc26/player/jess-carter/23514;88;KNOCKOUT ROYALTY;Gotham FC;USA F;;88;55;76;78;88;88
+17885;Julian Alvarez;23513;https://www.futwiz.com/fc26/player/julian-alvarez/23513;88;TOTW;Atlético de Madrid;ESP 1;;87;88;84;89;58;81
+17886;Virgil van Dijk;23512;https://www.futwiz.com/fc26/player/virgil-van-dijk/23512;91;TOTW;Liverpool;ENG 1;;80;61;74;75;91;88
+17887;Julie Swierot;23511;https://www.futwiz.com/fc26/player/julie-swierot/23511;61;ICON SWAPS TOKEN;FC Nantes;FRA 1;;68;59;58;65;48;61
+17888;Ansgar Knauff;23510;https://www.futwiz.com/fc26/player/ansgar-knauff/23510;88;KNOCKOUT ROYALTY;Frankfurt;GER 1;;95;86;83;88;75;76
+17889;Crystal Dunn;23509;https://www.futwiz.com/fc26/player/crystal-dunn/23509;89;END OF AN ERA;Paris SG;FRA 1;;91;84;87;89;84;86
+17890;Endrick;23508;https://www.futwiz.com/fc26/player/endrick/23508;87;POTM LIGUE 1;OL;FRA 1;;93;87;74;88;42;81
+17891;Henrikh Mkhitaryan;23507;https://www.futwiz.com/fc26/player/henrikh-mkhitaryan/23507;88;KNOCKOUT ROYALTY;Lombardia FC;ITA 1;;84;85;88;89;81;82
+17892;Eva Navarro;23506;https://www.futwiz.com/fc26/player/eva-navarro/23506;89;SHOWDOWN UPGRADED;Real Madrid;ESP 1;;92;88;84;90;42;85
+17893;Oceane Picard;23505;https://www.futwiz.com/fc26/player/oceane-picard/23505;87;SHOWDOWN;Paris FC;FRA 1;;84;85;88;89;84;82
+17894;Beth Mead;23504;https://www.futwiz.com/fc26/player/beth-mead/23504;89;KNOCKOUT ROYALTY;Arsenal;ENG 1;;89;88;87;90;70;77
+17895;Fredrik Aursnes;23503;https://www.futwiz.com/fc26/player/fredrik-aursnes/23503;87;SHOWDOWN;SL Benfica;POR 1;;84;83;87;89;86;90
+17896;Franco Mastantuono;23502;https://www.futwiz.com/fc26/player/franco-mastantuono/23502;89;SHOWDOWN UPGRADED;Real Madrid;ESP 1;;92;88;89;92;62;77
