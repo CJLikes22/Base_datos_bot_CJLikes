@@ -18290,7 +18290,7 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18288;Diogo Costa;24379;https://www.futbin.com/26/player/24379/diogo-meireles-costa;91;uel_rttf;FC Porto;Liga Portugal;Portugal;90;85;90;93;43;90
 18289;Federico Bernardeschi;24380;https://www.futbin.com/26/player/24380/federico-bernardeschi;91;uel_rttf;Bologna;Serie A TIM;Italy;91;90;91;93;70;83
 18290;Troy Parrott;24377;https://www.futbin.com/26/player/24377/troy-parrott;91;uecl_rttf;AZ;Eredivisie;Republic of Ireland;92;92;85;90;62;83
-18291;Ryan Yates;24378;https://www.futbin.com/26/player/24378/ryan-yates;91;uel_rttf;Nott'm Forest;Premier League;England;88;80;90;87;91;93
+18291;Ryan Yates;24378;https://www.futbin.com/26/player/24378/ryan-yates;92;uel_rttf;Nott'm Forest;Premier League;England;02/05/2026
 18292;Naomie Feller;24375;https://www.futbin.com/26/player/24375/naomie-feller;88;uwcl_rttf;Real Madrid;Liga F;France;95;88;83;89;45;85
 18293;Janina Minge;24376;https://www.futbin.com/26/player/24376/janina-minge;88;uwcl_rttf;VfL Wolfsburg;GPFBL;Germany;88;85;87;88;86;85
 18294;Sara Holmgaard;24374;https://www.futbin.com/26/player/24374/sara-holmgaard;88;uwcl_rttf;Real Madrid;Liga F;Denmark;88;70;88;87;90;87
@@ -18301,15 +18301,15 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18299;Elisabeth Terland;24370;https://www.futbin.com/26/player/24370/elisabeth-terland;90;uwcl_rttf;Manchester Utd;Barclays WSL;Norway;91;91;85;90;45;80
 18300;Irene Paredes;24368;https://www.futbin.com/26/player/24368/irene-paredes-hernandez;92;uwcl_rttf;FC Barcelona;Liga F;Spain;86;56;82;82;93;91
 18301;Morten Hjulmand;24365;https://www.futbin.com/26/player/24365/morten-hjulmand;88;ucl_rttf;Sporting CP;Liga Portugal;Denmark;84;84;86;84;88;88
-18302;Lucas Beraldo;24366;https://www.futbin.com/26/player/24366/lucas-lopes-beraldo;88;ucl_rttf;Paris SG;Ligue 1 McDonald's;Brazil;85;50;80;82;89;88
+18302;Lucas Beraldo;24366;https://www.futbin.com/26/player/24366/lucas-lopes-beraldo;89;ucl_rttf;Paris SG;Ligue 1 McDonald's;Brazil;86;51;81;83;90;89
 18303;Klara Bühl;24367;https://www.futbin.com/26/player/24367/klara-buhl;93;uwcl_rttf;FC Bayern München;GPFBL;Germany;92;92;91;93;76;86
 18304;Maximiliano Araújo;24364;https://www.futbin.com/26/player/24364/maximiliano-araujo;89;ucl_rttf;Sporting CP;Liga Portugal;Uruguay;94;85;87;91;85;80
-18305;Nahuel Molina;24363;https://www.futbin.com/26/player/24363/nahuel-molina;90;ucl_rttf;Atlético de Madrid;LALIGA EA SPORTS;Argentina;93;82;87;88;90;85
+18305;Nahuel Molina;24363;https://www.futbin.com/26/player/24363/nahuel-molina;91;ucl_rttf;Atlético de Madrid;LALIGA EA SPORTS;Argentina;94;83;88;89;91;86
 18306;Konrad Laimer;24362;https://www.futbin.com/26/player/24362/konrad-laimer;90;ucl_rttf;FC Bayern München;Bundesliga;Austria;90;81;85;85;90;90
 18307;Piero Hincapié;24361;https://www.futbin.com/26/player/24361/piero-hincapie;91;ucl_rttf;Arsenal;Premier League;Ecuador;92;50;83;86;92;90
 18308;Alexandre Zurawski;24360;https://www.futbin.com/26/player/24360/alexandre-zurawski;88;uecl_rttf;Rayo Vallecano;LALIGA EA SPORTS;Brazil;87;88;84;87;40;90
 18309;Eberechi Eze;24358;https://www.futbin.com/26/player/24358/eberechi-eze;91;ucl_rttf;Arsenal;Premier League;England;90;91;91;92;57;80
-18310;Alexander Sørloth;24359;https://www.futbin.com/26/player/24359/alexander-sorloth;91;ucl_rttf;Atlético de Madrid;LALIGA EA SPORTS;Norway;92;93;86;90;44;93
+18310;Alexander Sørloth;24359;https://www.futbin.com/26/player/24359/alexander-sorloth;92;ucl_rttf;Atlético de Madrid;LALIGA EA SPORTS;Norway;93;94;87;91;45;94
 18311;Alexis Mac Allister;24357;https://www.futbin.com/26/player/24357/alexis-mac-allister;91;ucl_rttf;Liverpool;Premier League;Argentina;88;90;91;90;90;85
 18312;Désiré Doué;24355;https://www.futbin.com/26/player/24355/desire-doue;92;ucl_rttf;Paris SG;Ligue 1 McDonald's;France;92;91;88;96;63;84
 18313;Marcus Rashford;24356;https://www.futbin.com/26/player/24356/marcus-rashford;92;ucl_rttf;FC Barcelona;LALIGA EA SPORTS;England;95;90;92;92;50;85
@@ -18576,4 +18576,88 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18574;74;24676;https://www.futbin.com/26/player/24676/jacob-trenskow;74;honourable_mentions;sc Heerenveen;Eredivisie;Denmark;80;74;76;79;60;63
 18575;92;24675;https://www.futbin.com/26/player/24675/domenico-berardi;92;honourable_mentions;Sassuolo;Serie A TIM;Italy;94;93;91;93;50;88
 18576;91;24674;https://www.futbin.com/26/player/24674/stanislav-lobotka;91;honourable_mentions;SSC Napoli;Serie A TIM;Slovakia;87;82;91;90;89;88
+18577;deniz undav;25067;https://www.futbin.com/26/player/25067/deniz-undav;92;team_of_the_season;VfB Stuttgart;Bundesliga;Germany;90;95;88;93;46;92
+18578;kalidou koulibaly;25063;https://www.futbin.com/26/player/25063/kalidou-koulibaly;92;team_of_the_season;Al Hilal;ROSHN Saudi League;Senegal;88;59;78;84;92;95
+18579;ivan toney;25064;https://www.futbin.com/26/player/25064/ivan-toney;92;team_of_the_season;Al Ahli;ROSHN Saudi League;England;90;93;85;91;62;91
+18580;yan diomande;25061;https://www.futbin.com/26/player/25061/yan-diomande;92;tots_highlights;RB Leipzig;Bundesliga;Côte d'Ivoire;94;92;93;94;55;88
+18581;al dawsari;25062;https://www.futbin.com/26/player/25062/salem-al-dawsari;92;team_of_the_season;Al Hilal;ROSHN Saudi League;Saudi Arabia;93;90;90;92;67;90
+18582;david raum;25058;https://www.futbin.com/26/player/25058/david-raum;92;team_of_the_season;RB Leipzig;Bundesliga;Germany;95;71;92;90;90;90
+18583;92;25059;https://www.futbin.com/26/player/25059/lachlan-bayliss;92;team_of_the_season;Newcastle Jets;A-League;New Zealand;90;90;92;92;66;81
+18584;92;25060;https://www.futbin.com/26/player/25060/camilla-kuver;92;team_of_the_season;VfL Wolfsburg;GPFBL;Germany;87;80;88;88;92;90
+18585;92;25057;https://www.futbin.com/26/player/25057/mailson-tenorio-dos-santos;92;team_of_the_season;Al Taawoun;ROSHN Saudi League;Brazil;91;92;91;91;70;92
+18586;aleksandar pavlovic;25054;https://www.futbin.com/26/player/25054/aleksandar-pavlovic;93;team_of_the_season;FC Bayern München;Bundesliga;Germany;90;85;95;93;91;88
+18587;mohamed simakan;25055;https://www.futbin.com/26/player/25055/mohamed-simakan;93;team_of_the_season;Al Nassr;ROSHN Saudi League;France;90;57;85;86;93;92
+18588;upamecano;25056;https://www.futbin.com/26/player/25056/dayot-upamecano;93;team_of_the_season;FC Bayern München;Bundesliga;France;90;54;82;85;93;94
+18589;93;25051;https://www.futbin.com/26/player/25051/christoph-baumgartner;93;team_of_the_season;RB Leipzig;Bundesliga;Austria;92;90;90;95;75;87
+18590;julian ryerson;25052;https://www.futbin.com/26/player/25052/julian-ryerson;93;team_of_the_season;Borussia Dortmund;Bundesliga;Norway;91;80;92;91;94;95
+18591;pablo ibañez;25053;https://www.futbin.com/26/player/25053/roger-ibanez-da-silva;93;team_of_the_season;Al Ahli;ROSHN Saudi League;Brazil;92;40;83;84;93;90
+18592;74;25050;https://www.futbin.com/26/player/25050/lotta-wrede;74;honourable_mentions;Hamburger SV;GPFBL;Germany;84;80;63;75;41;61
+18593;aleix garcia;25048;https://www.futbin.com/26/player/25048/aleix-garcia-serrano;93;team_of_the_season;Leverkusen;Bundesliga;Spain;90;90;95;94;91;88
+18594;93;25049;https://www.futbin.com/26/player/25049/laura-dick;93;team_of_the_season;TSG Hoffenheim;GPFBL;Germany;92;93;88;95;70;92
+18595;91;25045;https://www.futbin.com/26/player/25045/sebastian-coates;91;honourable_mentions;Nacional;Libertadores;Uruguay;86;70;80;80;91;93
+18596;93;25046;https://www.futbin.com/26/player/25046/sang-yoon-kang;93;tots_highlights;Jeonbuk Hyundai;K League 1;Korea Republic;91;91;92;93;87;85
+18597;93;25047;https://www.futbin.com/26/player/25047/nicolas-lopez;93;team_of_the_season;Nacional;Libertadores;Uruguay;91;93;91;93;35;82
+18598;93;25043;https://www.futbin.com/26/player/25043/stine-ballisager;93;team_of_the_season;FC Bayern München;GPFBL;Denmark;85;70;83;88;94;90
+18599;93;25044;https://www.futbin.com/26/player/25044/santiago-sosa;93;team_of_the_season;Racing Club;LPF;Argentina;88;67;85;86;93;93
+18600;93;25042;https://www.futbin.com/26/player/25042/nina-luhren;93;team_of_the_season;Frankfurt;GPFBL;Germany;90;85;93;91;90;92
+18601;vanessa gilles;25041;https://www.futbin.com/26/player/25041/vanessa-gilles;94;team_of_the_season;FC Bayern München;GPFBL;Canada;87;50;87;90;94;94
+18602;Quiñones;25039;https://www.futbin.com/26/player/25039/julian-quinones;94;team_of_the_season;Al Qadisiyah;ROSHN Saudi League;Mexico;94;94;86;92;50;93
+18603;angelo stiller;25040;https://www.futbin.com/26/player/25040/angelo-stiller;94;team_of_the_season;VfB Stuttgart;Bundesliga;Germany;90;80;94;95;94;90
+18604;lee dong kyeong;25037;https://www.futbin.com/26/player/25037/dong-kyeong-lee;94;team_of_the_season;Ulsan Hyundai;K League 1;Korea Republic;91;94;94;93;70;83
+18605;riveros;25038;https://www.futbin.com/26/player/25038/blas-riveros;94;team_of_the_season;Cerro Porteño;Libertadores;Paraguay;90;76;94;90;94;90
+18606;91;25036;https://www.futbin.com/26/player/25036/andrej-kramaric;91;honourable_mentions;TSG Hoffenheim;Bundesliga;Croatia;90;92;91;94;44;85
+18607;fernando muslera;25034;https://www.futbin.com/26/player/25034/fernando-muslera;94;team_of_the_season;Estudiantes;LPF;Uruguay;94;94;90;92;70;92
+18608;fortounis;25035;https://www.futbin.com/26/player/25035/konstantinos-fortounis;94;team_of_the_season;Al Khaleej;ROSHN Saudi League;Greece;91;94;94;92;60;85
+18609;91;25031;https://www.futbin.com/26/player/25031/fisnik-asllani;91;honourable_mentions;TSG Hoffenheim;Bundesliga;Kosovo;90;92;83;91;46;91
+18610;luka vuskovic;25033;https://www.futbin.com/26/player/25033/luka-vuskovic;94;team_of_the_season;Hamburger SV;Bundesliga;Croatia;91;80;82;86;93;96
+18611;selina cerci;25032;https://www.futbin.com/26/player/25032/selina-cerci;95;team_of_the_season;TSG Hoffenheim;GPFBL;Germany;95;94;87;95;64;90
+18612;94;25029;https://www.futbin.com/26/player/25029/lennart-karl;94;tots_highlights;FC Bayern München;Bundesliga;Germany;95;92;92;95;70;73
+18613;ruben neves;25028;https://www.futbin.com/26/player/25028/ruben-diogo-da-silva-neves;95;team_of_the_season;Al Hilal;ROSHN Saudi League;Portugal;88;87;95;91;95;88
+18614;kobel;25030;https://www.futbin.com/26/player/25030/gregor-kobel;95;team_of_the_season;Borussia Dortmund;Bundesliga;Switzerland;95;91;73;95;73;94
+18615;marcelino moreno;25026;https://www.futbin.com/26/player/25026/marcelino-moreno;95;team_of_the_season;Lanús;LPF;Argentina;95;93;92;95;63;84
+18616;95;25027;https://www.futbin.com/26/player/25027/cristiano-ronaldo-dos-santos-aveiro;95;team_of_the_season;Al Nassr;ROSHN Saudi League;Portugal;93;96;87;93;45;88
+18617;94;25025;https://www.futbin.com/26/player/25025/angel-di-maria;94;honourable_mentions;Rosario Central;LPF;Argentina;94;92;94;95;60;81
+18618;jonathan tah;25023;https://www.futbin.com/26/player/25023/jonathan-tah;95;team_of_the_season;FC Bayern München;Bundesliga;Germany;90;50;80;88;95;94
+18619;georgia stanway;25024;https://www.futbin.com/26/player/25024/georgia-stanway;95;team_of_the_season;FC Bayern München;GPFBL;England;92;90;94;95;91;90
+18620;95;25021;https://www.futbin.com/26/player/25021/luis-diaz;95;team_of_the_season;FC Bayern München;Bundesliga;Colombia;96;92;90;95;65;88
+18621;yazan al arab;25022;https://www.futbin.com/26/player/25022/yazan-al-arab;95;team_of_the_season;FC Seoul;K League 1;Jordan;88;38;76;85;95;93
+18622;96;25019;https://www.futbin.com/26/player/25019/michael-olise;96;team_of_the_season;FC Bayern München;Bundesliga;France;96;94;96;97;65;83
+18623;96;25020;https://www.futbin.com/26/player/25020/mata-garcia;96;team_of_the_season;Melb. Victory;A-League;Spain;91;90;96;95;70;83
+18624;96;25017;https://www.futbin.com/26/player/25017/vanessa-fudalla;96;team_of_the_season;Leverkusen;GPFBL;Germany;96;96;90;95;70;88
+18625;96;25018;https://www.futbin.com/26/player/25018/nico-schlotterbeck;96;team_of_the_season;Borussia Dortmund;Bundesliga;Germany;88;70;90;85;96;94
+18626;96;25015;https://www.futbin.com/26/player/25015/joshua-kimmich;96;team_of_the_season;FC Bayern München;Bundesliga;Germany;90;80;96;94;94;90
+18627;pernille harder;25016;https://www.futbin.com/26/player/25016/pernille-harder;96;team_of_the_season;FC Bayern München;GPFBL;Denmark;96;92;90;95;40;88
+18628;96;25014;https://www.futbin.com/26/player/25014/joao-felix-sequeira;96;team_of_the_season;Al Nassr;ROSHN Saudi League;Portugal;93;96;93;96;65;86
+18629;97;25013;https://www.futbin.com/26/player/25013/harry-kane;97;team_of_the_season;FC Bayern München;Bundesliga;England;91;98;94;95;62;93
+18630;97;25012;https://www.futbin.com/26/player/25012/klara-buhl;97;team_of_the_season;FC Bayern München;GPFBL;Germany;93;93;95;97;78;88
+18631;50;25011;https://www.futbin.com/26/player/25011/ravi-kumar;50;bronze;Jamshedpur FC;Hero ISL;India;48;50;48;51;22;51
+18632;52;25009;https://www.futbin.com/26/player/25009/saurabh-bhanwala;52;bronze;Odisha FC;Hero ISL;India;57;22;26;29;54;61
+18633;52;25010;https://www.futbin.com/26/player/25010/will-johnson;52;bronze;Waterford;SSE Airtricity PD;England;61;24;32;36;51;66
+18634;53;25008;https://www.futbin.com/26/player/25008/malachi-molina;53;bronze;Nashville SC;MLS;Jamaica;87;52;40;53;47;45
+18635;57;25006;https://www.futbin.com/26/player/25006/marcus-dackers;57;bronze;Daegu FC;K League 1;Wales;54;56;41;50;29;74
+18636;57;25007;https://www.futbin.com/26/player/25007/gabriel-segal;57;bronze;D.C. United;MLS;United States;58;59;40;54;30;57
+18637;57;25004;https://www.futbin.com/26/player/25004/henry-caparo;57;bronze;Cienciano;Sudamericana;Peru;61;41;51;56;57;50
+18638;57;25005;https://www.futbin.com/26/player/25005/vanspaul;57;bronze;Odisha FC;Hero ISL;India;63;37;51;56;49;71
+18639;58;25003;https://www.futbin.com/26/player/25003/eddie-beach;58;bronze;Derry City;SSE Airtricity PD;Wales;59;55;54;60;30;56
+18640;58;25002;https://www.futbin.com/26/player/25002/magnus-brondbo;58;bronze;Pescara Calcio;Serie BKT;Norway;58;56;57;59;34;56
+18641;58;25001;https://www.futbin.com/26/player/25001/alexandro-maidana;58;bronze;Talleres;LPF;Paraguay;73;45;54;56;51;55
+18642;59;25000;https://www.futbin.com/26/player/25000/ethan-kohler;59;bronze;New England;MLS;United States;63;42;55;57;57;55
+18643;59;24999;https://www.futbin.com/26/player/24999/lucas-herrington;59;bronze;Colorado Rapids;MLS;Australia;65;32;42;45;57;66
+18644;60;24998;https://www.futbin.com/26/player/24998/reed-baker-whiting;60;bronze;Nashville SC;MLS;United States;74;57;55;61;53;62
+18645;61;24996;https://www.futbin.com/26/player/24996/tunmise-sobowale;61;bronze;Shamrock Rovers;SSE Airtricity PD;Republic of Ireland;81;49;51;58;54;74
+18646;61;24997;https://www.futbin.com/26/player/24997/viktor-andersson;61;bronze;IFK Göteborg;Allsvenskan;Sweden;59;58;64;63;27;59
+18647;62;24993;https://www.futbin.com/26/player/24993/tyler-miller;62;bronze;Charlotte FC;MLS;United States;61;61;60;62;35;62
+18648;62;24994;https://www.futbin.com/26/player/24994/ludvig-fritzson;62;bronze;Degerfors IF;Allsvenskan;Sweden;73;58;59;63;60;73
+18649;62;24995;https://www.futbin.com/26/player/24995/zeno-ibsen-rossi;62;bronze;Shelbourne;SSE Airtricity PD;England;59;31;46;44;61;72
+18650;62;24991;https://www.futbin.com/26/player/24991/havar-grontvedt-jenssen;62;bronze;KFUM-Kameratene;Eliteserien;Norway;62;61;59;61;23;60
+18651;62;24992;https://www.futbin.com/26/player/24992/lukas-bergquist;62;bronze;AIK;Allsvenskan;Sweden;67;43;55;59;58;63
+18652;64;24990;https://www.futbin.com/26/player/24990/jose-manuel-hernandez;64;bronze;Puerto Cabello;Sudamericana;Venezuela;71;62;61;65;38;59
+18653;65;24988;https://www.futbin.com/26/player/24988/amin-boudri;65;silver;LAFC;MLS;Sweden;69;62;63;68;51;59
+18654;65;24989;https://www.futbin.com/26/player/24989/patriot-sejdiu;65;silver;UTA Arad;SUPERLIGA;Sweden;76;65;57;68;29;48
+18655;67;24987;https://www.futbin.com/26/player/24987/victor-lind;67;silver;Hammarby IF;Allsvenskan;Denmark;83;66;60;67;42;66
+18656;68;24985;https://www.futbin.com/26/player/24985/catalin-cabuz;68;silver;FC Argeş;SUPERLIGA;Romania;68;64;64;72;35;64
+18657;68;24986;https://www.futbin.com/26/player/24986/juan-arias;68;silver;Real Salt Lake;MLS;Colombia;62;26;43;46;69;68
+18658;68;24983;https://www.futbin.com/26/player/24983/ivan-morales;68;silver;Argentinos Jrs.;LPF;Chile;64;67;55;68;32;77
+18659;68;24984;https://www.futbin.com/26/player/24984/matias-tissera;68;silver;Instituto;LPF;Argentina;66;69;48;65;23;64
+18660;68;24982;https://www.futbin.com/26/player/24982/enzo-roco;68;silver;Palestino;Sudamericana;Chile;34;41;54;56;68;66
 
