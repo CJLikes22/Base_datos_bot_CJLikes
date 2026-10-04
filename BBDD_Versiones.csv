@@ -1,7 +1,8 @@
 Version;Version_futwiz;Version_futbin;vetada;color1;color2;modo;letra
+Common;;Normal;no;#FFE900;#D7961C;normal;white
 Rare;;Normal;no;#FFE900;#D7961C;normal;white
 Icon;;Icon;no;#E1D7A1;#FFFFFF;esquina;black
-Team of the Week;;;no;#0F1216;#ECCC19;esquina;white
-Heroes;;;no;#E55897;#F39C26;normal;white
-Heroes;;;no;#E55897;#F39C26;normal;white
+Team of the Week;;TOTW;no;#0F1216;#ECCC19;esquina;white
+Heroes;;Base Hero;no;#E55897;#F39C26;normal;white
 Hall of FUT;;Hall of FUT;no;#1E2A44;#D4AF37;esquina;white
+Destined for Glory;;Destined for Glory;no;#1E2A44;#D4AF37;esquina;white
