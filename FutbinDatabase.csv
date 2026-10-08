@@ -1,4 +1,4 @@
-ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -498,10 +498,8 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 496;Felix Nmecha;Felix Nmecha;22765;https://www.futbin.com/27/player/22765/felix-nmecha;https://ratings-images-prod.pulse.ea.com/FC27/components/items/246863_es-ES.webp;86;TOTW;Borussia Dortmund;Bundesliga;Germany;84;80;80;85;83;89
 497;Lucy Bronze;Lucy Bronze;22766;https://www.futbin.com/27/player/22766/lucy-bronze;https://ratings-images-prod.pulse.ea.com/FC27/components/items/227246_es-ES.webp;86;TOTW;Chelsea;Barclays WSL;England;73;70;82;82;86;88
 498;Lucy Bronze;Lucy Bronze;22767;https://www.futbin.com/27/player/22767/lucy-bronze;https://ratings-images-prod.pulse.ea.com/FC27/components/items/227246_es-ES.webp;86;TOTW;Chelsea;Barclays WSL;England;73;70;82;82;86;88
-499;Marcus Thuram;Marcus Thuram;22768;https://www.futbin.com/27/player/22768/marcus-thuram;https://ratings-images-prod.pulse.ea.com/FC27/components/items/228093_es-ES.webp;86;TOTW;Lombardia FC;Serie A TIM;France;87;84;77;83;51;83
 500;Marcus Thuram;Marcus Thuram;22769;https://www.futbin.com/27/player/22769/marcus-thuram;https://ratings-images-prod.pulse.ea.com/FC27/components/items/228093_es-ES.webp;86;TOTW;Lombardia FC;Serie A TIM;France;87;84;77;83;51;83
 501;Antoine Semenyo;Antoine Semenyo;22957;https://www.futbin.com/27/player/22957/antoine-semenyo;https://ratings-images-prod.pulse.ea.com/FC27/components/items/241236_es-ES.webp;86;TOTW;Manchester City;Premier League;Ghana;84;86;81;85;47;82
-502;Antoine Semenyo;Antoine Semenyo;22958;https://www.futbin.com/27/player/22958/antoine-semenyo;https://ratings-images-prod.pulse.ea.com/FC27/components/items/241236_es-ES.webp;86;TOTW;Manchester City;Premier League;Ghana;84;86;81;85;47;82
 503;Orkun Kökçü;Orkun Kökçü;23006;https://www.futbin.com/27/player/23006/orkun-kokcu;https://ratings-images-prod.pulse.ea.com/FC27/components/items/243245_es-ES.webp;86;Destined for Glory;Beşiktaş;Trendyol Süper Lig;Türkiye;77;84;87;84;74;84
 504;Orkun Kökçü;Orkun Kökçü;23007;https://www.futbin.com/27/player/23007/orkun-kokcu;https://ratings-images-prod.pulse.ea.com/FC27/components/items/243245_es-ES.webp;86;Destined for Glory;Beşiktaş;Trendyol Süper Lig;Türkiye;77;84;87;84;74;84
 505;Pierre-Emerick Aubameyang;Pierre-Emerick Aubameyang;23008;https://www.futbin.com/27/player/23008/pierre-emerick-aubameyang;https://ratings-images-prod.pulse.ea.com/FC27/components/items/188567_es-ES.webp;86;Destined for Glory;RC Deportivo;LALIGA EA SPORTS;Gabon;87;86;78;84;43;73
@@ -615,11 +613,9 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 613;Andrei Rațiu;Andrei Rațiu;23014;https://www.futbin.com/27/player/23014/andrei-ratiu;https://ratings-images-prod.pulse.ea.com/FC27/components/items/248165_es-ES.webp;85;Destined for Glory;Rayo Vallecano;LALIGA EA SPORTS;Romania;95;73;80;85;79;76
 614;Saud Abdulhamid;Saud Abdulhamid;23015;https://www.futbin.com/27/player/23015/saud-abdulhamid;;85;Destined for Glory;RC Lens;Ligue 1 McDonald's;Saudi Arabia;90;58;75;83;80;79
 615;Yann Aurel Bisseck;Yann Aurel Bisseck;23016;https://www.futbin.com/27/player/23016/yann-aurel-bisseck;https://ratings-images-prod.pulse.ea.com/FC27/components/items/241736_es-ES.webp;85;Destined for Glory;Lombardia FC;Serie A TIM;Germany;81;64;71;77;84;86
-616;Saud Abdulhamid;Saud Abdulhamid;23017;https://www.futbin.com/27/player/23017/saud-abdulhamid;;85;Destined for Glory;RC Lens;Ligue 1 McDonald's;Saudi Arabia;90;58;75;83;80;79
 617;Joey Veerman;Joey Veerman;23018;https://www.futbin.com/27/player/23018/joey-veerman;https://ratings-images-prod.pulse.ea.com/FC27/components/items/253109_es-ES.webp;85;Destined for Glory;Borussia Dortmund;Bundesliga;Netherlands;74;83;88;86;70;76
 618;Antonio Nusa;Antonio Nusa;23019;https://www.futbin.com/27/player/23019/antonio-nusa;https://ratings-images-prod.pulse.ea.com/FC27/components/items/262863_es-ES.webp;85;Destined for Glory;RB Leipzig;Bundesliga;Norway;88;80;77;88;50;72
 619;Mikel Jauregizar Alboniga;Mikel Jauregizar Alboniga;23020;https://www.futbin.com/27/player/23020/mikel-jauregizar-alboniga;;85;Destined for Glory;Athletic Club;LALIGA EA SPORTS;Spain;80;77;82;83;84;86
-620;Joey Veerman;Joey Veerman;23021;https://www.futbin.com/27/player/23021/joey-veerman;https://ratings-images-prod.pulse.ea.com/FC27/components/items/253109_es-ES.webp;85;Destined for Glory;Borussia Dortmund;Bundesliga;Netherlands;74;83;88;86;70;76
 621;Mikel Jauregizar Alboniga;Mikel Jauregizar Alboniga;23022;https://www.futbin.com/27/player/23022/mikel-jauregizar-alboniga;;85;Destined for Glory;Athletic Club;LALIGA EA SPORTS;Spain;80;77;82;83;84;86
 622;Yann Aurel Bisseck;Yann Aurel Bisseck;23023;https://www.futbin.com/27/player/23023/yann-aurel-bisseck;https://ratings-images-prod.pulse.ea.com/FC27/components/items/241736_es-ES.webp;85;Destined for Glory;Lombardia FC;Serie A TIM;Germany;81;64;71;77;84;86
 623;Andrei Rațiu;Andrei Rațiu;23024;https://www.futbin.com/27/player/23024/andrei-ratiu;https://ratings-images-prod.pulse.ea.com/FC27/components/items/248165_es-ES.webp;85;Destined for Glory;Rayo Vallecano;LALIGA EA SPORTS;Romania;95;73;80;85;79;76
@@ -716,8 +712,7 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 714;Matvey Safonov;Matvey Safonov;22773;https://www.futbin.com/27/player/22773/matvey-safonov;https://ratings-images-prod.pulse.ea.com/FC27/components/items/240225_es-ES.webp;84;TOTW;Paris SG;Ligue 1 McDonald's;Russia;83;78;81;87;52;85
 715;Erëleta Memeti;Erëleta Memeti;22774;https://www.futbin.com/27/player/22774/ereleta-memeti;https://ratings-images-prod.pulse.ea.com/FC27/components/items/265058_es-ES.webp;84;TOTW;Frankfurt;GPFBL;Kosovo;87;81;82;84;58;68
 716;Erëleta Memeti;Erëleta Memeti;22775;https://www.futbin.com/27/player/22775/ereleta-memeti;https://ratings-images-prod.pulse.ea.com/FC27/components/items/265058_es-ES.webp;84;TOTW;Frankfurt;GPFBL;Kosovo;87;81;82;84;58;68
-717;Alberto Moleiro González;Alberto Moleiro González;22959;https://www.futbin.com/27/player/22959/alberto-moleiro-gonzalez;;84;TOTW;Villarreal CF;LALIGA EA SPORTS;Spain;88;80;80;86;53;72
-718;Alberto Moleiro González;Alberto Moleiro González;22960;https://www.futbin.com/27/player/22960/alberto-moleiro-gonzalez;;84;TOTW;Villarreal CF;LALIGA EA SPORTS;Spain;88;80;80;86;53;72
+717;Alberto Moleiro González;Moleiro;22959;https://www.futbin.com/27/player/22959/alberto-moleiro-gonzalez;;84;TOTW;Villarreal CF;LALIGA EA SPORTS;Spain;88;80;80;86;53;72
 719;Corentin Tolisso;Corentin Tolisso;22962;https://www.futbin.com/27/player/22962/corentin-tolisso;https://ratings-images-prod.pulse.ea.com/FC27/components/items/219683_es-ES.webp;84;TOTW;OL;Ligue 1 McDonald's;France;74;81;82;80;81;84
 720;Édouard Michut;Édouard Michut;23025;https://www.futbin.com/27/player/23025/edouard-michut;https://ratings-images-prod.pulse.ea.com/FC27/components/items/261249_es-ES.webp;84;Squad Foundations;Fortuna Sittard;Eredivisie;France;79;70;81;84;76;77
 721;Renato Palma Veiga;Renato Palma Veiga;23027;https://www.futbin.com/27/player/23027/renato-palma-veiga;;84;Destined for Glory;Villarreal CF;LALIGA EA SPORTS;Portugal;80;66;77;78;83;87
@@ -22255,19 +22250,16 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 22253;Felicia Schröder;Felicia Schröder Vota;23073;https://www.futbin.com/27/player/23073/felicia-schroder;;82;Team of the Week;Real Madrid;Liga F Moeve;Sweden;83;84;68;83;29;73
 22254;Felicia Schröder;Felicia Schröder Vota;23072;https://www.futbin.com/27/player/23072/felicia-schroder;;82;Team of the Week;Real Madrid;Liga F Moeve;Sweden;83;84;68;83;29;73
 22255;Heung Min Son;Son Heung Min;23071;https://www.futbin.com/27/player/23071/heung-min-son;;83;Team of the Week;LAFC;MLS;Korea Republic;83;84;82;82;43;78
-22256;Michael Kayode;Michael Kayode;23070;https://www.futbin.com/27/player/23070/michael-kayode;;83;Team of the Week;Brentford;Premier League;Italy;84;52;76;78;80;83
 22257;Michael Kayode;Michael Kayode;23069;https://www.futbin.com/27/player/23069/michael-kayode;;83;Team of the Week;Brentford;Premier League;Italy;84;52;76;78;80;83
 22258;Heung Min Son;Son Heung Min;23068;https://www.futbin.com/27/player/23068/heung-min-son;;83;Team of the Week;LAFC;MLS;Korea Republic;83;84;82;82;43;78
 22259;João Félix Sequeira;João Félix;23067;https://www.futbin.com/27/player/23067/joao-felix-sequeira;;84;Team of the Week;Al Nassr;ROSHN Saudi League;Portugal;83;83;80;85;46;73
 22260;Alejandro Baena Rodríguez;Álex Baena;23066;https://www.futbin.com/27/player/23066/alejandro-baena-rodriguez;;84;Team of the Week;Atlético de Madrid;LALIGA EA SPORTS;Spain;81;78;85;83;67;70
 22261;Alejandro Baena Rodríguez;Álex Baena;23065;https://www.futbin.com/27/player/23065/alejandro-baena-rodriguez;;84;Team of the Week;Atlético de Madrid;LALIGA EA SPORTS;Spain;81;78;85;83;67;70
 22262;João Félix Sequeira;João Félix;23064;https://www.futbin.com/27/player/23064/joao-felix-sequeira;;84;Team of the Week;Al Nassr;ROSHN Saudi League;Portugal;83;83;80;85;46;73
-22263;Luka Modrić;Luka Modrić;23063;https://www.futbin.com/27/player/23063/luka-modric;;86;Team of the Week;Milano FC;Serie A Enilive;Croatia;75;77;88;87;74;65
 22264;Ellie Carpenter;Ellie Carpenter;23062;https://www.futbin.com/27/player/23062/ellie-carpenter;;86;Team of the Week;Chelsea;Barclays WSL;Australia;86;52;80;79;82;85
 22265;Luka Modrić;Luka Modrić;23061;https://www.futbin.com/27/player/23061/luka-modric;;86;Team of the Week;Milano FC;Serie A Enilive;Croatia;75;77;88;87;74;65
 22266;Ellie Carpenter;Ellie Carpenter;23060;https://www.futbin.com/27/player/23060/ellie-carpenter;;86;Team of the Week;Chelsea;Barclays WSL;Australia;86;52;80;79;82;85
 22267;Martin Ødegaard;Martin Ødegaard;23059;https://www.futbin.com/27/player/23059/martin-odegaard;;87;Team of the Week;Arsenal;Premier League;Norway;76;80;89;88;67;68
-22268;Viktor Gyökeres;Viktor Gyökeres;23058;https://www.futbin.com/27/player/23058/viktor-gyokeres;;87;Team of the Week;Arsenal;Premier League;Sweden;83;88;74;80;45;88
 22269;Martin Ødegaard;Martin Ødegaard;23057;https://www.futbin.com/27/player/23057/martin-odegaard;;87;Team of the Week;Arsenal;Premier League;Norway;76;80;89;88;67;68
 22270;Viktor Gyökeres;Viktor Gyökeres;23056;https://www.futbin.com/27/player/23056/viktor-gyokeres;;87;Team of the Week;Arsenal;Premier League;Sweden;83;88;74;80;45;88
 22271;Temwa Chawinga;Temwa Chawinga;23054;https://www.futbin.com/27/player/23054/temwa-chawinga;;90;Team of the Week;KC Current;NWSL;Malawi;92;84;83;87;48;86
