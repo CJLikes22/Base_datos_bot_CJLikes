@@ -1,4 +1,4 @@
-ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -449,7 +449,7 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 447;Gutiérrez Hernández;Guti;21674;https://www.futbin.com/27/player/21674/gutierrez-hernandez;;86;Base Heroes;HERO;LALIGA EA SPORTS;Spain;77;82;88;85;63;73
 448;Giuly;Giuly;21675;https://www.futbin.com/27/player/21675/giuly;;86;Base Heroes;HERO;Ligue 1 McDonald's;France;88;83;81;85;49;64
 449;Riise;Riise;21676;https://www.futbin.com/27/player/21676/riise;;86;Base Heroes;HERO;Premier League;Norway;83;81;81;80;81;86
-450;Ljungberg;Ljungberg;21677;https://www.futbin.com/27/player/21677/ljungberg;;86;Base Heroes;HERO;Premier League;Sweden;87;82;82;86;45;77
+450;Ljungberg;Ljungberg;21679;https://www.futbin.com/27/player/21679/ljungberg;;86;Base Heroes;HERO;Premier League;Sweden;87;82;82;86;45;77
 451;Hernández;Hernández;21680;https://www.futbin.com/27/player/21680/hernandez;;86;Base Heroes;HERO;LIGA MX;Mexico;89;85;71;86;45;67
 452;Donovan;Donovan;21681;https://www.futbin.com/27/player/21681/donovan;;86;Base Heroes;HERO;MLS;United States;89;86;81;85;46;70
 453;Solskjær;Solskjær;21683;https://www.futbin.com/27/player/21683/solskjaer;;86;Base Heroes;HERO;Premier League;Norway;85;88;75;84;45;66
@@ -582,9 +582,9 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 580;Theo Walcott;Theo Walcott;20959;https://www.futbin.com/27/player/20959/theo-walcott;;85;Hall of FUT;EA FC HoF;Premier League;England;96;79;74;85;39;65
 581;Antonio Valencia;Antonio Valencia;20960;https://www.futbin.com/27/player/20960/antonio-valencia;;85;Hall of FUT;EA FC HoF;Premier League;Ecuador;90;75;81;83;79;87
 582;Hulk;Hulk;20965;https://www.futbin.com/27/player/20965/hulk;;85;Hall of FUT;EA FC HoF;Liga Portugal;Brazil;89;86;81;86;46;87
-583;Tim Howard;Tim Howard;21725;https://www.futbin.com/27/player/21725/tim-howard;;85;Base Heroes;HERO;Premier League;United States;85;82;87;86;54;84
+583;Tim Howard;Tim Howard;21730;https://www.futbin.com/27/player/21730/tim-howard;;85;Base Heroes;HERO;Premier League;United States;85;82;87;86;54;84
 584;Scott;Scott;21726;https://www.futbin.com/27/player/21726/scott;;85;Base Heroes;HERO;Barclays WSL;England;86;70;79;78;84;80
-585;Crouch;Crouch;21727;https://www.futbin.com/27/player/21727/crouch;;85;Base Heroes;HERO;Premier League;England;74;87;75;78;52;80
+585;Crouch;Crouch;21733;https://www.futbin.com/27/player/21733/crouch;;85;Base Heroes;HERO;Premier League;England;74;87;75;78;52;80
 586;Cahill;Cahill;21728;https://www.futbin.com/27/player/21728/cahill;;85;Base Heroes;HERO;Premier League;Australia;80;85;76;81;62;86
 587;Scott;Scott;21729;https://www.futbin.com/27/player/21729/scott;;85;Base Heroes;HERO;Barclays WSL;England;80;78;82;79;82;89
 588;Scott;Scott;21731;https://www.futbin.com/27/player/21731/scott;;85;Base Heroes;HERO;Barclays WSL;England;86;70;79;78;84;80
