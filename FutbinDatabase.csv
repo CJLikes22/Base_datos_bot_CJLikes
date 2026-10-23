@@ -1,4 +1,4 @@
-ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -394,7 +394,7 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 392;Nécib-Cadamuro;Nécib-Cadamuro;21650;https://www.futbin.com/27/player/21650/necib-cadamuro;;87;Base Heroes;HERO;D1 Arkema;France;84;83;87;90;44;70
 393;Kluivert;Kluivert;21651;https://www.futbin.com/27/player/21651/kluivert;;87;Base Heroes;HERO;LALIGA EA SPORTS;Netherlands;84;86;76;81;40;80
 394;César Costa;Rui Costa;21652;https://www.futbin.com/27/player/21652/cesar-costa;;87;Base Heroes;HERO;Serie A TIM;Portugal;83;80;88;86;43;76
-395;Aimar;Aimar;21653;https://www.futbin.com/27/player/21653/aimar;;87;Base Heroes;HERO;LALIGA EA SPORTS;Argentina;84;79;87;88;46;65
+395;Aimar;Aimar;21657;https://www.futbin.com/27/player/21657/aimar;;87;Base Heroes;HERO;LALIGA EA SPORTS;Argentina;84;79;87;88;46;65
 396;Barzagli;Barzagli;21655;https://www.futbin.com/27/player/21655/barzagli;;87;Base Heroes;HERO;Serie A TIM;Italy;78;48;64;68;91;85
 397;Córdoba;Córdoba;21658;https://www.futbin.com/27/player/21658/cordoba;;87;Base Heroes;HERO;Serie A TIM;Colombia;86;63;65;68;90;87
 398;Kewell;Kewell;21660;https://www.futbin.com/27/player/21660/kewell;;87;Base Heroes;HERO;Premier League;Australia;90;85;88;88;52;69
