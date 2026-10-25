@@ -1,4 +1,4 @@
-ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -22572,16 +22572,16 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 22570;C. Ronaldo dos Santos Aveiro;Cristiano Ronaldo;23594;https://www.futbin.com/27/player/23594/c-ronaldo-dos-santos-aveiro;;89;Ultimate Scream;Al Nassr;ROSHN Saudi League;Portugal;90;89;79;87;37;77
 22571;Raphael Dias Belloli;Raphinha;23593;https://www.futbin.com/27/player/23593/raphael-dias-belloli;;90;Ultimate Scream;FC Barcelona;LALIGA EA SPORTS;Brazil;78;79;74;84;39;68
 22572;Raphael Dias Belloli;Raphinha;23592;https://www.futbin.com/27/player/23592/raphael-dias-belloli;;90;Ultimate Scream;FC Barcelona;LALIGA EA SPORTS;Brazil;93;88;90;89;57;79
-22573;Gary Medel;Gary Medel;23591;https://www.futbin.com/27/player/23591/gary-medel;;68;FIFA 20 Ultimate Scream;Uni. Católica;Libertadores;Chile;48;49;58;63;68;71
-22574;Xherdan Shaqiri;Xherdan Shaqiri Vota;23590;https://www.futbin.com/27/player/23590/xherdan-shaqiri;;76;FIFA 19 Ultimate Scream;FC Basel 1893;Brack Super League;Switzerland;67;79;78;78;40;71
-22575;Héctor Bellerín Moruno;Héctor Bellerín Vota;23589;https://www.futbin.com/27/player/23589/hector-bellerin-moruno;;76;FIFA 17 Ultimate Scream;Real Betis;LALIGA EA SPORTS;Spain;78;54;70;74;72;65
-22576;Tyrone Mings;Tyrone Mings Vota;23588;https://www.futbin.com/27/player/23588/tyrone-mings;;77;FIFA 19 Ultimate Scream;Aston Villa;Premier League;England;57;44;67;61;76;77
-22577;Edin Džeko;Edin Džeko;23587;https://www.futbin.com/27/player/23587/edin-dzeko;;78;FIFA 20 Ultimate Scream;FC Schalke 04;Bundesliga;Bosnia and Herzegovina;47;81;73;76;40;75
-22578;Nicolás Otamendi;Nicolás Otamendi;23586;https://www.futbin.com/27/player/23586/nicolas-otamendi;;78;FIFA 20 Ultimate Scream;River Plate;LPF;Argentina;35;57;65;61;79;84
-22579;Ethan Ampadu;Ethan Ampadu;23585;https://www.futbin.com/27/player/23585/ethan-ampadu;;80;FIFA 19 Ultimate Scream;Leeds United;Premier League;Wales;68;55;75;73;78;79
-22580;Thomas Müller;Thomas Müller;23584;https://www.futbin.com/27/player/23584/thomas-muller;;80;FIFA 17 Ultimate Scream;Whitecaps FC;MLS;Germany;57;79;82;77;55;65
-22581;Hakan Çalhanoğlu;Hakan Çalhanoğlu;23583;https://www.futbin.com/27/player/23583/hakan-calhanoglu;;85;FIFA 19 Ultimate Scream;Lombardia FC;Serie A Enilive;Türkiye;68;81;85;82;81;68
-22582;Mohamed Salah;Mohamed Salah;23582;https://www.futbin.com/27/player/23582/mohamed-salah;;87;FIFA 17 Ultimate Scream;Trabzonspor;Trendyol Süper Lig;Egypt;84;83;83;86;45;72
+22573;Gary Medel;Gary Medel;23591;https://www.futbin.com/27/player/23591/gary-medel;;68;Ultimate Scream;Uni. Católica;Libertadores;Chile;48;49;58;63;68;71
+22574;Xherdan Shaqiri;Xherdan Shaqiri Vota;23590;https://www.futbin.com/27/player/23590/xherdan-shaqiri;;76;Ultimate Scream;FC Basel 1893;Brack Super League;Switzerland;67;79;78;78;40;71
+22575;Héctor Bellerín Moruno;Héctor Bellerín Vota;23589;https://www.futbin.com/27/player/23589/hector-bellerin-moruno;;76;Ultimate Scream;Real Betis;LALIGA EA SPORTS;Spain;78;54;70;74;72;65
+22576;Tyrone Mings;Tyrone Mings Vota;23588;https://www.futbin.com/27/player/23588/tyrone-mings;;77;Ultimate Scream;Aston Villa;Premier League;England;57;44;67;61;76;77
+22577;Edin Džeko;Edin Džeko;23587;https://www.futbin.com/27/player/23587/edin-dzeko;;78;Ultimate Scream;FC Schalke 04;Bundesliga;Bosnia and Herzegovina;47;81;73;76;40;75
+22578;Nicolás Otamendi;Nicolás Otamendi;23586;https://www.futbin.com/27/player/23586/nicolas-otamendi;;78;Ultimate Scream;River Plate;LPF;Argentina;35;57;65;61;79;84
+22579;Ethan Ampadu;Ethan Ampadu;23585;https://www.futbin.com/27/player/23585/ethan-ampadu;;80;Ultimate Scream;Leeds United;Premier League;Wales;68;55;75;73;78;79
+22580;Thomas Müller;Thomas Müller;23584;https://www.futbin.com/27/player/23584/thomas-muller;;80;Ultimate Scream;Whitecaps FC;MLS;Germany;57;79;82;77;55;65
+22581;Hakan Çalhanoğlu;Hakan Çalhanoğlu;23583;https://www.futbin.com/27/player/23583/hakan-calhanoglu;;85;Ultimate Scream;Lombardia FC;Serie A Enilive;Türkiye;68;81;85;82;81;68
+22582;Mohamed Salah;Mohamed Salah;23582;https://www.futbin.com/27/player/23582/mohamed-salah;;87;Ultimate Scream;Trabzonspor;Trendyol Süper Lig;Egypt;84;83;83;86;45;72
 22583;Marcus Rashford;Marcus Rashford;23581;https://www.futbin.com/27/player/23581/marcus-rashford;;86;FC Heritage;Manchester Utd;Premier League;England;93;84;80;82;39;71
 22584;Mallory Swanson;Mallory Swanson;23580;https://www.futbin.com/27/player/23580/mallory-swanson;;86;FC Heritage;Chicago Stars FC;NWSL;United States;90;82;84;85;48;62
 22585;Ferland Mendy;Ferland Mendy;23579;https://www.futbin.com/27/player/23579/ferland-mendy;;85;FC Heritage;Real Madrid;LALIGA EA SPORTS;France;89;70;79;81;79;83
