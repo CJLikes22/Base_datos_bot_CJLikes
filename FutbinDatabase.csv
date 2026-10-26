@@ -1,4 +1,4 @@
-ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -1963,7 +1963,7 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 1961;Elvira Herzog;Elvira Herzog Vota;1607;https://www.futbin.com/27/player/1607/elvira-herzog;https://ratings-images-prod.pulse.ea.com/FC27/components/items/265086_es-ES.webp;77;Normal;RB Leipzig;GPFBL;Switzerland;76;75;73;77;47;76
 1962;Lisa Doorn;Lisa Doorn Vota;1608;https://www.futbin.com/27/player/1608/lisa-doorn;https://ratings-images-prod.pulse.ea.com/FC27/components/items/265703_es-ES.webp;77;Normal;TSG Hoffenheim;GPFBL;Netherlands;53;56;61;60;77;77
 1963;Jill Janssens;Jill Janssens Vota;1609;https://www.futbin.com/27/player/1609/jill-janssens;https://ratings-images-prod.pulse.ea.com/FC27/components/items/268451_es-ES.webp;77;Normal;Union Berlin;GPFBL;Belgium;87;72;71;75;70;53
-1964;Selina Vobian;Selina Vobian Vota;1610;https://www.futbin.com/27/player/1610/selina-vobian;https://ratings-images-prod.pulse.ea.com/FC27/components/items/271839_es-ES.webp;77;Normal;SC Freiburg;GPFBL;Germany;78;71;77;78;44;57
+1964;Selina Vobian;Selina Vobian;1610;https://www.futbin.com/27/player/1610/selina-vobian;https://ratings-images-prod.pulse.ea.com/FC27/components/items/271839_es-ES.webp;77;Normal;SC Freiburg;GPFBL;Germany;78;71;77;78;44;57
 1965;Stine Ballisager;Stine Ballisager Vota;1611;https://www.futbin.com/27/player/1611/stine-ballisager;https://ratings-images-prod.pulse.ea.com/FC27/components/items/273168_es-ES.webp;77;Normal;FC Bayern München;GPFBL;Denmark;47;47;64;60;81;72
 1966;Danique Tolhoek;Danique Tolhoek Vota;1612;https://www.futbin.com/27/player/1612/danique-tolhoek;https://ratings-images-prod.pulse.ea.com/FC27/components/items/277815_es-ES.webp;77;Normal;Frankfurt;GPFBL;Netherlands;74;80;57;72;46;65
 1967;Nadia Krezyman;Nadia Krezyman Vota;1613;https://www.futbin.com/27/player/1613/nadia-krezyman;https://ratings-images-prod.pulse.ea.com/FC27/components/items/73677_es-ES.webp;77;Normal;Brighton;Barclays WSL;Poland;89;57;71;72;43;64
@@ -22543,7 +22543,7 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 22541;Corentin Tolisso;Corentin Tolisso;23619;https://www.futbin.com/27/player/23619/corentin-tolisso;;86;Ultimate Scream;OL;Ligue 1 McDonald's;France;80;87;87;84;82;85
 22542;Hakan Çalhanoğlu;Hakan Çalhanoğlu;23618;https://www.futbin.com/27/player/23618/hakan-calhanoglu;;86;Ultimate Scream;Lombardia FC;Serie A Enilive;Türkiye;78;86;88;85;82;75
 22543;Hakan Çalhanoğlu;Hakan Çalhanoğlu;23616;https://www.futbin.com/27/player/23616/hakan-calhanoglu;;86;Ultimate Scream;Lombardia FC;Serie A Enilive;Türkiye;78;86;88;85;82;75
-22544;Selina Vobian;Selina Vobian Vota;23614;https://www.futbin.com/27/player/23614/selina-vobian;;86;Ultimate Scream;SC Freiburg;GPFBL;Germany;88;83;86;87;60;75
+22544;Selina Vobian;Selina Vobian;23614;https://www.futbin.com/27/player/23614/selina-vobian;;86;Ultimate Scream;SC Freiburg;GPFBL;Germany;88;83;86;87;60;75
 22545;Enzo Le Fée;Enzo Le Fée;23613;https://www.futbin.com/27/player/23613/enzo-le-fee;;86;Ultimate Scream;Sunderland;Premier League;France;87;82;84;88;74;68
 22546;Geoffrey Kondogbia;Geoffrey Kondogbia Vota;23612;https://www.futbin.com/27/player/23612/geoffrey-kondogbia;;86;Ultimate Scream;OM;Ligue 1 McDonald's;Central African Republic;77;75;79;81;86;88
 22547;Mandžukic;Mandžukic;23611;https://www.futbin.com/27/player/23611/mandzukic;;87;Hero;HERO;Bundesliga;Croatia;88;87;87;83;64;89
