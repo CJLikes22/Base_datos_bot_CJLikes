@@ -1,4 +1,4 @@
-ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -333,7 +333,7 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 331;Marcos Aoás Corrêa;Marcos Aoás Corrêa;22955;https://www.futbin.com/27/player/22955/marcos-aoas-correa;;88;TOTW;Paris SG;Ligue 1 McDonald's;Brazil;76;57;76;75;90;80
 332;Marcos Aoás Corrêa;Marcos Aoás Corrêa;22956;https://www.futbin.com/27/player/22956/marcos-aoas-correa;;88;TOTW;Paris SG;Ligue 1 McDonald's;Brazil;76;57;76;75;90;80
 333;Alexander Isak;Alexander Isak;22998;https://www.futbin.com/27/player/22998/alexander-isak;https://ratings-images-prod.pulse.ea.com/FC27/components/items/233731_es-ES.webp;88;Destined for Glory;Liverpool;Premier League;Sweden;83;89;75;85;40;75
-334;Pernille Harder;Pernille Harder;22999;https://www.futbin.com/27/player/22999/pernille-harder;https://ratings-images-prod.pulse.ea.com/FC27/components/items/259287_es-ES.webp;88;Destined for Glory;FC Bayern München;GPFBL;Denmark;83;83;82;90;29;80
+334;Pernille Harder;Pernille Harder;22999;https://www.futbin.com/27/player/22999/pernille-harder;https://ratings-images-prod.pulse.ea.com/FC27/components/items/259287_es-ES.webp;88;Destined for Glory;FC Bayern München;GPFBL;Denmark;83;84;83;90;29;80
 335;Alexander Isak;Alexander Isak;23001;https://www.futbin.com/27/player/23001/alexander-isak;https://ratings-images-prod.pulse.ea.com/FC27/components/items/233731_es-ES.webp;88;Destined for Glory;Liverpool;Premier League;Sweden;83;89;75;85;40;75
 336;Débora C. de Oliveira;Debinha;50;https://www.futbin.com/27/player/50/debora-c-de-oliveira;https://ratings-images-prod.pulse.ea.com/FC27/components/items/226893_es-ES.webp;87;Normal;KC Current;NWSL;Brazil;85;79;85;89;46;57
 337;Irene Paredes Hernández;Irene Paredes;51;https://www.futbin.com/27/player/51/irene-paredes-hernandez;https://ratings-images-prod.pulse.ea.com/FC27/components/items/227190_es-ES.webp;87;Normal;FC Barcelona;Liga F;Spain;74;52;67;70;88;84
