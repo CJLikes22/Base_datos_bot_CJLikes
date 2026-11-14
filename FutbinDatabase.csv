@@ -1,4 +1,4 @@
-﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -22714,84 +22714,182 @@
 22712;Timothy Weah;Timothy Weah;24077;https://www.futbin.com/27/player/24077/timothy-weah;;85;UEL RTTK;OM;Ligue 1 McDonald's;United States;92;81;81;83;81;78
 22713;Aleix García Serrano;Aleix García;24076;https://www.futbin.com/27/player/24076/aleix-garcia-serrano;;85;UEL RTTK;Leverkusen;Bundesliga;Spain;80;78;86;86;82;80
 22714;Géraldine Reuteler;Géraldine Reuteler;24075;https://www.futbin.com/27/player/24075/geraldine-reuteler;;86;UWCL RTTK;Arsenal;Barclays WSL;Switzerland;91;84;85;87;75;82
-22715;Maxim De Cuyper;Maxim De Cuyper;24072;https://www.futbin.com/27/player/24072/maxim-de-cuyper;;86;UECL RTTK;Brighton;Premier League;Belgium;86;81;86;83;81;82
-22716;Fikayo Tomori;Fikayo Tomori;24071;https://www.futbin.com/27/player/24071/fikayo-tomori;;86;UEL RTTK;Milano FC;Serie A Enilive;England;86;45;68;73;85;84
-22717;Matthias Ginter;Matthias Ginter;24069;https://www.futbin.com/27/player/24069/matthias-ginter;;86;UECL RTTK;SC Freiburg;Bundesliga;Germany;78;62;75;74;88;84
-22718;Géraldine Reuteler;Géraldine Reuteler;24068;https://www.futbin.com/27/player/24068/geraldine-reuteler;;86;UWCL RTTK;Arsenal;Barclays WSL;Switzerland;91;84;85;87;75;82
-22719;Andreia de Jesus Jacinto;Andreia Jacinto;24067;https://www.futbin.com/27/player/24067/andreia-de-jesus-jacinto;;86;UWCL RTTK;Real Madrid;Liga F Moeve;Portugal;84;75;85;86;81;80
-22720;Senne Lammens;Senne Lammens;24066;https://www.futbin.com/27/player/24066/senne-lammens;;86;UCL RTTK;Manchester Utd;Premier League;Belgium;84;87;81;87;63;86
-22721;Maxim De Cuyper;Maxim De Cuyper;24065;https://www.futbin.com/27/player/24065/maxim-de-cuyper;;86;UECL RTTK;Brighton;Premier League;Belgium;86;81;86;83;81;82
-22722;Fikayo Tomori;Fikayo Tomori;24064;https://www.futbin.com/27/player/24064/fikayo-tomori;;86;UEL RTTK;Milano FC;Serie A Enilive;England;86;45;68;73;85;84
-22723;André-Franck Zambo Anguissa;André-Franck Zambo Anguissa;24063;https://www.futbin.com/27/player/24063/andre-franck-zambo-anguissa;;86;UCL RTTK;SSC Napoli;Serie A Enilive;Cameroon;78;81;80;85;83;86
-22724;Matthias Ginter;Matthias Ginter;24062;https://www.futbin.com/27/player/24062/matthias-ginter;;86;UECL RTTK;SC Freiburg;Bundesliga;Germany;78;62;75;74;88;84
-22725;Rafael da Conceição Leão;Rafael Leão;24061;https://www.futbin.com/27/player/24061/rafael-da-conceicao-leao;;87;UCL RTTK;Galatasaray;Trendyol Süper Lig;Portugal;94;83;83;88;34;77
-22726;Alyssa Thompson;Alyssa Thompson;24060;https://www.futbin.com/27/player/24060/alyssa-thompson;;87;UWCL RTTK;Chelsea;Barclays WSL;United States;95;83;81;85;49;70
-22727;Francisco Conceição;Francisco Conceição;24059;https://www.futbin.com/27/player/24059/francisco-conceicao;;87;UEL RTTK;Juventus;Serie A Enilive;Portugal;90;82;83;89;51;62
-22728;Jérémy Doku;Jérémy Doku;24058;https://www.futbin.com/27/player/24058/jeremy-doku;;87;UCL RTTK;Manchester City;Premier League;Belgium;92;81;81;90;42;76
-22729;Rafael da Conceição Leão;Rafael Leão;24057;https://www.futbin.com/27/player/24057/rafael-da-conceicao-leao;;87;UCL RTTK;Galatasaray;Trendyol Süper Lig;Portugal;94;83;83;88;34;77
-22730;Romelu Lukaku;Romelu Lukaku;24056;https://www.futbin.com/27/player/24056/romelu-lukaku;;87;UCL RTTK;Fenerbahçe;Trendyol Süper Lig;Belgium;84;88;80;82;46;87
-22731;Alyssa Thompson;Alyssa Thompson;24055;https://www.futbin.com/27/player/24055/alyssa-thompson;;87;UWCL RTTK;Chelsea;Barclays WSL;United States;95;83;81;85;49;70
-22732;Francisco Conceição;Francisco Conceição;24054;https://www.futbin.com/27/player/24054/francisco-conceicao;;87;UEL RTTK;Juventus;Serie A Enilive;Portugal;90;82;83;89;51;62
-22733;Jérémy Doku;Jérémy Doku;24053;https://www.futbin.com/27/player/24053/jeremy-doku;;87;UCL RTTK;Manchester City;Premier League;Belgium;92;81;81;90;42;76
-22734;Romelu Lukaku;Romelu Lukaku;24052;https://www.futbin.com/27/player/24052/romelu-lukaku;;87;UCL RTTK;Fenerbahçe;Trendyol Süper Lig;Belgium;84;88;80;82;46;87
-22735;Alessandro Bastoni;Alessandro Bastoni;24051;https://www.futbin.com/27/player/24051/alessandro-bastoni;;88;UCL RTTK;Lombardia FC;Serie A Enilive;Italy;86;89;72;83;42;79
-22736;Ryan Gravenberch;Ryan Gravenberch;24050;https://www.futbin.com/27/player/24050/ryan-gravenberch;;88;UCL RTTK;Liverpool;Premier League;Netherlands;70;60;72;70;89;85
-22737;Alessandro Bastoni;Alessandro Bastoni;24049;https://www.futbin.com/27/player/24049/alessandro-bastoni;;88;UCL RTTK;Lombardia FC;Serie A Enilive;Italy;82;48;81;80;88;84
-22738;Sakina Karchaoui;Sakina Karchaoui;24048;https://www.futbin.com/27/player/24048/sakina-karchaoui;;88;UWCL RTTK;Paris SG;Arkema Première Ligue;France;85;48;66;67;87;86
-22739;Marcos Llorente Moreno;Marcos Llorente;24047;https://www.futbin.com/27/player/24047/marcos-llorente-moreno;;88;UCL RTTK;Atlético de Madrid;LALIGA EA SPORTS;Spain;83;64;77;76;89;87
-22740;Ryan Gravenberch;Ryan Gravenberch;24046;https://www.futbin.com/27/player/24046/ryan-gravenberch;;88;UCL RTTK;Liverpool;Premier League;Netherlands;83;81;85;88;83;83
-22741;Sakina Karchaoui;Sakina Karchaoui;24045;https://www.futbin.com/27/player/24045/sakina-karchaoui;;88;UWCL RTTK;Paris SG;Arkema Première Ligue;France;90;78;88;89;81;74
-22742;Marcos Llorente Moreno;Marcos Llorente;24044;https://www.futbin.com/27/player/24044/marcos-llorente-moreno;;88;UCL RTTK;Atlético de Madrid;LALIGA EA SPORTS;Spain;92;82;83;85;81;84
-22743;Yui Hasegawa;Yui Hasegawa;24042;https://www.futbin.com/27/player/24042/yui-hasegawa;;89;UWCL RTTK;Manchester City;Barclays WSL;Japan;84;85;80;83;19;81
-22744;Tabitha Chawinga;Tabitha Chawinga;24041;https://www.futbin.com/27/player/24041/tabitha-chawinga;;89;UWCL RTTK;OL;Arkema Première Ligue;Malawi;95;84;80;88;37;84
-22745;Yui Hasegawa;Yui Hasegawa;24040;https://www.futbin.com/27/player/24040/yui-hasegawa;;89;UWCL RTTK;Manchester City;Barclays WSL;Japan;81;75;89;89;84;78
-22746;Luis Díaz;Luis Díaz;24038;https://www.futbin.com/27/player/24038/luis-diaz;;90;UCL RTTK;FC Bayern München;Bundesliga;Colombia;88;86;87;90;46;78
-22747;Aitana Bonmatí Conca;Aitana Bonmatí;24037;https://www.futbin.com/27/player/24037/aitana-bonmati-conca;;90;UWCL RTTK;FC Barcelona;Liga F Moeve;Spain;90;86;87;91;53;66
-22748;Aitana Bonmatí Conca;Aitana Bonmatí;24036;https://www.futbin.com/27/player/24036/aitana-bonmati-conca;;90;UWCL RTTK;FC Barcelona;Liga F Moeve;Spain;83;85;86;90;80;72
-22749;Jude Bellingham;Jude Bellingham;24035;https://www.futbin.com/27/player/24035/jude-bellingham;;91;UCL RTTK;Real Madrid;LALIGA EA SPORTS;England;75;72;89;80;77;72
-22750;Jude Bellingham;Jude Bellingham;24034;https://www.futbin.com/27/player/24034/jude-bellingham;;91;UCL RTTK;Real Madrid;LALIGA EA SPORTS;England;80;90;87;91;80;86
-22751;Pedro González López;Pedri;24033;https://www.futbin.com/27/player/24033/pedro-gonzalez-lopez;;91;UCL RTTK;FC Barcelona;LALIGA EA SPORTS;Spain;87;85;88;94;40;63
-22752;Ousmane Dembélé;Ousmane Dembélé;24032;https://www.futbin.com/27/player/24032/ousmane-dembele;;91;UCL RTTK;Paris SG;Ligue 1 McDonald's;France;91;90;88;92;56;85
-22753;Pedro González López;Pedri;24031;https://www.futbin.com/27/player/24031/pedro-gonzalez-lopez;;91;UCL RTTK;FC Barcelona;LALIGA EA SPORTS;Spain;80;81;91;92;82;80
-22754;Ousmane Dembélé;Ousmane Dembélé;24030;https://www.futbin.com/27/player/24030/ousmane-dembele;;91;UCL RTTK;Paris SG;Ligue 1 McDonald's;France;91;90;85;94;56;71
-22755;Antonio Nusa;Antonio Nusa;24029;https://www.futbin.com/27/player/24029/antonio-nusa;;80;Team of the Week;RB Leipzig;Bundesliga;Norway;87;77;73;86;45;67
-22756;Samuel Mbangula;Samuel Mbangula;24028;https://www.futbin.com/27/player/24028/samuel-mbangula;;80;Team of the Week;Bologna;Serie A Enilive;Belgium;87;80;76;83;41;63
-22757;Lautaro Di Lollo;Lautaro Di Lollo;24027;https://www.futbin.com/27/player/24027/lautaro-di-lollo;;80;Team of the Week;Boca Juniors;LPF;Argentina;81;35;57;60;80;87
-22758;Selen Altunkulak;Selen Altunkulak;24026;https://www.futbin.com/27/player/24026/selen-altunkulak;;80;Team of the Week;Toulouse FC;Arkema Première Ligue;Türkiye;84;82;76;84;67;65
-22759;Liel Abada;Liel Abada;24025;https://www.futbin.com/27/player/24025/liel-abada;;80;Team of the Week;Charlotte FC;MLS;Israel;89;78;75;80;51;70
-22760;Antonio Nusa;Antonio Nusa;24024;https://www.futbin.com/27/player/24024/antonio-nusa;;80;Team of the Week;RB Leipzig;Bundesliga;Norway;87;77;73;86;45;67
-22761;Samuel Ballet;Samuel Ballet;24023;https://www.futbin.com/27/player/24023/samuel-ballet;;80;Team of the Week;Amed Sportif Faaliyetler;Trendyol Süper Lig;Switzerland;87;78;75;83;40;83
-22762;Borja Sainz Eguskiza;Borja Sainz;24022;https://www.futbin.com/27/player/24022/borja-sainz-eguskiza;;80;Team of the Week;FC Porto;Liga Portugal;Spain;86;80;78;81;60;75
-22763;Bartosz Nowak;Bartosz Nowak;24021;https://www.futbin.com/27/player/24021/bartosz-nowak;;80;Team of the Week;GKS Katowice;PKO BP Ekstraklasa;Poland;78;79;81;81;50;72
-22764;Mads Pedersen;Mads Pedersen;24020;https://www.futbin.com/27/player/24020/mads-pedersen;;80;Team of the Week;Hertha Berlin;Bundesliga 2;Denmark;82;62;76;81;78;78
-22765;Aaron Collins;Aaron Collins;24019;https://www.futbin.com/27/player/24019/aaron-collins;;80;Team of the Week;MK Dons;EFL League One;Wales;84;80;77;80;51;80
-22766;Samuel Mbangula;Samuel Mbangula;24018;https://www.futbin.com/27/player/24018/samuel-mbangula;;80;Team of the Week;Bologna;Serie A Enilive;Belgium;87;80;76;83;41;63
-22767;Gessime Yassine;Gessime Yassine;24017;https://www.futbin.com/27/player/24017/gessime-yassine;;80;Team of the Week;Strasbourg;Ligue 1 McDonald's;Morocco;83;78;80;88;50;65
-22768;Lautaro Di Lollo;Lautaro Di Lollo;24016;https://www.futbin.com/27/player/24016/lautaro-di-lollo;;80;Team of the Week;Boca Juniors;LPF;Argentina;81;35;57;60;80;87
-22769;Selen Altunkulak;Selen Altunkulak;24015;https://www.futbin.com/27/player/24015/selen-altunkulak;;80;Team of the Week;Toulouse FC;Arkema Première Ligue;Türkiye;84;82;76;84;67;65
-22770;Liel Abada;Liel Abada;24014;https://www.futbin.com/27/player/24014/liel-abada;;80;Team of the Week;Charlotte FC;MLS;Israel;89;78;75;80;51;70
-22771;Samuel Ballet;Samuel Ballet;24013;https://www.futbin.com/27/player/24013/samuel-ballet;;80;Team of the Week;Amed Sportif Faaliyetler;Trendyol Süper Lig;Switzerland;87;78;75;83;40;83
-22772;Borja Sainz Eguskiza;Borja Sainz;24012;https://www.futbin.com/27/player/24012/borja-sainz-eguskiza;;80;Team of the Week;FC Porto;Liga Portugal;Spain;86;80;78;81;60;75
-22773;Bartosz Nowak;Bartosz Nowak;24011;https://www.futbin.com/27/player/24011/bartosz-nowak;;80;Team of the Week;GKS Katowice;PKO BP Ekstraklasa;Poland;78;79;81;81;50;72
-22774;Mads Pedersen;Mads Pedersen;24010;https://www.futbin.com/27/player/24010/mads-pedersen;;80;Team of the Week;Hertha Berlin;Bundesliga 2;Denmark;82;62;76;81;78;78
-22775;Aaron Collins;Aaron Collins;24009;https://www.futbin.com/27/player/24009/aaron-collins;;80;Team of the Week;MK Dons;EFL League One;Wales;84;80;77;80;51;80
-22776;Gessime Yassine;Gessime Yassine;24008;https://www.futbin.com/27/player/24008/gessime-yassine;;80;Team of the Week;Strasbourg;Ligue 1 McDonald's;Morocco;83;78;80;88;50;65
-22777;Diego Manuel J. da Silva Moreira;Diego Moreira;24007;https://www.futbin.com/27/player/24007/diego-manuel-j-da-silva-moreira;;81;Team of the Week;Milano FC;Serie A Enilive;Belgium;90;73;75;85;67;72
-22778;Yasin Ayari;Yasin Ayari;24006;https://www.futbin.com/27/player/24006/yasin-ayari;;81;Team of the Week;Brighton;Premier League;Sweden;77;79;80;82;77;70
-22779;Diego Manuel J. da Silva Moreira;Diego Moreira;24005;https://www.futbin.com/27/player/24005/diego-manuel-j-da-silva-moreira;;81;Team of the Week;Milano FC;Serie A Enilive;Belgium;90;73;75;85;67;72
-22780;Yasin Ayari;Yasin Ayari;24004;https://www.futbin.com/27/player/24004/yasin-ayari;;81;Team of the Week;Brighton;Premier League;Sweden;77;79;80;82;77;70
-22781;Ermedin Demirović;Ermedin Demirović;24003;https://www.futbin.com/27/player/24003/ermedin-demirovic;;82;Team of the Week;VfB Stuttgart;Bundesliga;Bosnia and Herzegovina;79;85;75;82;44;80
-22782;Ermedin Demirović;Ermedin Demirović;24002;https://www.futbin.com/27/player/24002/ermedin-demirovic;;82;Team of the Week;VfB Stuttgart;Bundesliga;Bosnia and Herzegovina;79;85;75;82;44;80
-22783;Victoria Pelova;Victoria Pelova;24001;https://www.futbin.com/27/player/24001/victoria-pelova;;82;Team of the Week;Spurs;Barclays WSL;Netherlands;81;78;80;84;74;70
-22784;Wout Weghorst;Wout Weghorst;24000;https://www.futbin.com/27/player/24000/wout-weghorst;;82;Team of the Week;FC Twente;Eredivisie;Netherlands;80;83;70;75;62;88
-22785;Victoria Pelova;Victoria Pelova;23999;https://www.futbin.com/27/player/23999/victoria-pelova;;82;Team of the Week;Spurs;Barclays WSL;Netherlands;81;78;80;84;74;70
-22786;Wout Weghorst;Wout Weghorst;23998;https://www.futbin.com/27/player/23998/wout-weghorst;;82;Team of the Week;FC Twente;Eredivisie;Netherlands;80;83;70;75;62;88
-22787;Jan Paul van Hecke;Jan Paul van Hecke;23997;https://www.futbin.com/27/player/23997/jan-paul-van-hecke;;83;Team of the Week;Spurs;Premier League;Netherlands;76;49;78;74;84;83
-22788;Jan Paul van Hecke;Jan Paul van Hecke;23996;https://www.futbin.com/27/player/23996/jan-paul-van-hecke;;83;Team of the Week;Spurs;Premier League;Netherlands;76;49;78;74;84;83
-22789;Yannick Carrasco;Yannick Carrasco;23995;https://www.futbin.com/27/player/23995/yannick-carrasco;;84;Team of the Week;Al Shabab;ROSHN Saudi League;Belgium;89;83;81;86;60;75
-22790;Martín Ojeda;Martín Ojeda;23994;https://www.futbin.com/27/player/23994/martin-ojeda;;84;Ultimate Scream;Orlando City;MLS;Argentina;87;85;81;82;42;76
-22791;Yannick Carrasco;Yannick Carrasco;23993;https://www.futbin.com/27/player/23993/yannick-carrasco;;84;Team of the Week;Al Shabab;ROSHN Saudi League;Belgium;89;83;81;86;60;75
-22792;Unai Simón Mendibil;Unai Simón;23985;https://www.futbin.com/27/player/23985/unai-simon-mendibil;https://ratings-images-prod.pulse.ea.com/FC27/components/items/230869_es-ES.webp;86;Team of the Week;Athletic Club;LALIGA EA SPORTS;Spain;86;83;78;86;50;84
-22793;Fermín López Marín;Fermín;23987;https://www.futbin.com/27/player/23987/fermin-lopez-marin;https://ratings-images-prod.pulse.ea.com/FC27/components/items/277179_es-ES.webp;86;Team of the Week;FC Barcelona;LALIGA EA SPORTS;Spain;83;85;82;86;65;75
-22794;Kerolin Nicoli Israel Ferraz;Kerolin Nicoli;23986;https://www.futbin.com/27/player/23986/kerolin-nicoli-israel-ferraz;https://ratings-images-prod.pulse.ea.com/FC27/components/items/267234_es-ES.webp;86;Team of the Week;FC Barcelona;Liga F;Brazil;86;80;83;86;44;79
-22795;Morgan Rogers;Morgan Rogers;23991;https://www.futbin.com/27/player/23991/morgan-rogers;https://ratings-images-prod.pulse.ea.com/FC27/components/items/260247_es-ES.webp;85;Team of the Week;Chelsea;Premier League;England;80;84;83;85;68;80
+22715;Fikayo Tomori;Fikayo Tomori;24071;https://www.futbin.com/27/player/24071/fikayo-tomori;;86;UEL RTTK;Milano FC;Serie A Enilive;England;86;45;68;73;85;84
+22716;Matthias Ginter;Matthias Ginter;24069;https://www.futbin.com/27/player/24069/matthias-ginter;;86;UECL RTTK;SC Freiburg;Bundesliga;Germany;78;62;75;74;88;84
+22717;Géraldine Reuteler;Géraldine Reuteler;24068;https://www.futbin.com/27/player/24068/geraldine-reuteler;;86;UWCL RTTK;Arsenal;Barclays WSL;Switzerland;91;84;85;87;75;82
+22718;Andreia de Jesus Jacinto;Andreia Jacinto;24067;https://www.futbin.com/27/player/24067/andreia-de-jesus-jacinto;;86;UWCL RTTK;Real Madrid;Liga F Moeve;Portugal;84;75;85;86;81;80
+22719;Senne Lammens;Senne Lammens;24066;https://www.futbin.com/27/player/24066/senne-lammens;;86;UCL RTTK;Manchester Utd;Premier League;Belgium;84;87;81;87;63;86
+22720;Maxim De Cuyper;Maxim De Cuyper;24065;https://www.futbin.com/27/player/24065/maxim-de-cuyper;;86;UECL RTTK;Brighton;Premier League;Belgium;86;81;86;83;81;82
+22721;Fikayo Tomori;Fikayo Tomori;24064;https://www.futbin.com/27/player/24064/fikayo-tomori;;86;UEL RTTK;Milano FC;Serie A Enilive;England;86;45;68;73;85;84
+22722;André-Franck Zambo Anguissa;André-Franck Zambo Anguissa;24063;https://www.futbin.com/27/player/24063/andre-franck-zambo-anguissa;;86;UCL RTTK;SSC Napoli;Serie A Enilive;Cameroon;78;81;80;85;83;86
+22723;Matthias Ginter;Matthias Ginter;24062;https://www.futbin.com/27/player/24062/matthias-ginter;;86;UECL RTTK;SC Freiburg;Bundesliga;Germany;78;62;75;74;88;84
+22724;Rafael da Conceição Leão;Rafael Leão;24061;https://www.futbin.com/27/player/24061/rafael-da-conceicao-leao;;87;UCL RTTK;Galatasaray;Trendyol Süper Lig;Portugal;94;83;83;88;34;77
+22725;Alyssa Thompson;Alyssa Thompson;24060;https://www.futbin.com/27/player/24060/alyssa-thompson;;87;UWCL RTTK;Chelsea;Barclays WSL;United States;95;83;81;85;49;70
+22726;Jérémy Doku;Jérémy Doku;24058;https://www.futbin.com/27/player/24058/jeremy-doku;;87;UCL RTTK;Manchester City;Premier League;Belgium;92;81;81;90;42;76
+22727;Rafael da Conceição Leão;Rafael Leão;24057;https://www.futbin.com/27/player/24057/rafael-da-conceicao-leao;;87;UCL RTTK;Galatasaray;Trendyol Süper Lig;Portugal;94;83;83;88;34;77
+22728;Romelu Lukaku;Romelu Lukaku;24056;https://www.futbin.com/27/player/24056/romelu-lukaku;;87;UCL RTTK;Fenerbahçe;Trendyol Süper Lig;Belgium;84;88;80;82;46;87
+22729;Alyssa Thompson;Alyssa Thompson;24055;https://www.futbin.com/27/player/24055/alyssa-thompson;;87;UWCL RTTK;Chelsea;Barclays WSL;United States;95;83;81;85;49;70
+22730;Francisco Conceição;Francisco Conceição;24054;https://www.futbin.com/27/player/24054/francisco-conceicao;;87;UEL RTTK;Juventus;Serie A Enilive;Portugal;90;82;83;89;51;62
+22731;Jérémy Doku;Jérémy Doku;24053;https://www.futbin.com/27/player/24053/jeremy-doku;;87;UCL RTTK;Manchester City;Premier League;Belgium;92;81;81;90;42;76
+22732;Romelu Lukaku;Romelu Lukaku;24052;https://www.futbin.com/27/player/24052/romelu-lukaku;;87;UCL RTTK;Fenerbahçe;Trendyol Süper Lig;Belgium;84;88;80;82;46;87
+22733;Alessandro Bastoni;Alessandro Bastoni;24051;https://www.futbin.com/27/player/24051/alessandro-bastoni;;88;UCL RTTK;Lombardia FC;Serie A Enilive;Italy;86;89;72;83;42;79
+22734;Ryan Gravenberch;Ryan Gravenberch;24050;https://www.futbin.com/27/player/24050/ryan-gravenberch;;88;UCL RTTK;Liverpool;Premier League;Netherlands;70;60;72;70;89;85
+22735;Alessandro Bastoni;Alessandro Bastoni;24049;https://www.futbin.com/27/player/24049/alessandro-bastoni;;88;UCL RTTK;Lombardia FC;Serie A Enilive;Italy;82;48;81;80;88;84
+22736;Sakina Karchaoui;Sakina Karchaoui;24048;https://www.futbin.com/27/player/24048/sakina-karchaoui;;88;UWCL RTTK;Paris SG;Arkema Première Ligue;France;85;48;66;67;87;86
+22737;Marcos Llorente Moreno;Marcos Llorente;24047;https://www.futbin.com/27/player/24047/marcos-llorente-moreno;;88;UCL RTTK;Atlético de Madrid;LALIGA EA SPORTS;Spain;83;64;77;76;89;87
+22738;Ryan Gravenberch;Ryan Gravenberch;24046;https://www.futbin.com/27/player/24046/ryan-gravenberch;;88;UCL RTTK;Liverpool;Premier League;Netherlands;83;81;85;88;83;83
+22739;Sakina Karchaoui;Sakina Karchaoui;24045;https://www.futbin.com/27/player/24045/sakina-karchaoui;;88;UWCL RTTK;Paris SG;Arkema Première Ligue;France;90;78;88;89;81;74
+22740;Marcos Llorente Moreno;Marcos Llorente;24044;https://www.futbin.com/27/player/24044/marcos-llorente-moreno;;88;UCL RTTK;Atlético de Madrid;LALIGA EA SPORTS;Spain;92;82;83;85;81;84
+22741;Yui Hasegawa;Yui Hasegawa;24042;https://www.futbin.com/27/player/24042/yui-hasegawa;;89;UWCL RTTK;Manchester City;Barclays WSL;Japan;84;85;80;83;19;81
+22742;Tabitha Chawinga;Tabitha Chawinga;24041;https://www.futbin.com/27/player/24041/tabitha-chawinga;;89;UWCL RTTK;OL;Arkema Première Ligue;Malawi;95;84;80;88;37;84
+22743;Yui Hasegawa;Yui Hasegawa;24040;https://www.futbin.com/27/player/24040/yui-hasegawa;;89;UWCL RTTK;Manchester City;Barclays WSL;Japan;81;75;89;89;84;78
+22744;Luis Díaz;Luis Díaz;24038;https://www.futbin.com/27/player/24038/luis-diaz;;90;UCL RTTK;FC Bayern München;Bundesliga;Colombia;88;86;87;90;46;78
+22745;Aitana Bonmatí Conca;Aitana Bonmatí;24037;https://www.futbin.com/27/player/24037/aitana-bonmati-conca;;90;UWCL RTTK;FC Barcelona;Liga F Moeve;Spain;90;86;87;91;53;66
+22746;Aitana Bonmatí Conca;Aitana Bonmatí;24036;https://www.futbin.com/27/player/24036/aitana-bonmati-conca;;90;UWCL RTTK;FC Barcelona;Liga F Moeve;Spain;83;85;86;90;80;72
+22747;Jude Bellingham;Jude Bellingham;24035;https://www.futbin.com/27/player/24035/jude-bellingham;;91;UCL RTTK;Real Madrid;LALIGA EA SPORTS;England;75;72;89;80;77;72
+22748;Jude Bellingham;Jude Bellingham;24034;https://www.futbin.com/27/player/24034/jude-bellingham;;91;UCL RTTK;Real Madrid;LALIGA EA SPORTS;England;80;90;87;91;80;86
+22749;Pedro González López;Pedri;24033;https://www.futbin.com/27/player/24033/pedro-gonzalez-lopez;;91;UCL RTTK;FC Barcelona;LALIGA EA SPORTS;Spain;87;85;88;94;40;63
+22750;Ousmane Dembélé;Ousmane Dembélé;24032;https://www.futbin.com/27/player/24032/ousmane-dembele;;91;UCL RTTK;Paris SG;Ligue 1 McDonald's;France;91;90;88;92;56;85
+22751;Pedro González López;Pedri;24031;https://www.futbin.com/27/player/24031/pedro-gonzalez-lopez;;91;UCL RTTK;FC Barcelona;LALIGA EA SPORTS;Spain;80;81;91;92;82;80
+22752;Ousmane Dembélé;Ousmane Dembélé;24030;https://www.futbin.com/27/player/24030/ousmane-dembele;;91;UCL RTTK;Paris SG;Ligue 1 McDonald's;France;91;90;85;94;56;71
+22753;Antonio Nusa;Antonio Nusa;24029;https://www.futbin.com/27/player/24029/antonio-nusa;;80;Team of the Week;RB Leipzig;Bundesliga;Norway;87;77;73;86;45;67
+22754;Samuel Mbangula;Samuel Mbangula;24028;https://www.futbin.com/27/player/24028/samuel-mbangula;;80;Team of the Week;Bologna;Serie A Enilive;Belgium;87;80;76;83;41;63
+22755;Lautaro Di Lollo;Lautaro Di Lollo;24027;https://www.futbin.com/27/player/24027/lautaro-di-lollo;;80;Team of the Week;Boca Juniors;LPF;Argentina;81;35;57;60;80;87
+22756;Selen Altunkulak;Selen Altunkulak;24026;https://www.futbin.com/27/player/24026/selen-altunkulak;;80;Team of the Week;Toulouse FC;Arkema Première Ligue;Türkiye;84;82;76;84;67;65
+22757;Liel Abada;Liel Abada;24025;https://www.futbin.com/27/player/24025/liel-abada;;80;Team of the Week;Charlotte FC;MLS;Israel;89;78;75;80;51;70
+22758;Antonio Nusa;Antonio Nusa;24024;https://www.futbin.com/27/player/24024/antonio-nusa;;80;Team of the Week;RB Leipzig;Bundesliga;Norway;87;77;73;86;45;67
+22759;Samuel Ballet;Samuel Ballet;24023;https://www.futbin.com/27/player/24023/samuel-ballet;;80;Team of the Week;Amed Sportif Faaliyetler;Trendyol Süper Lig;Switzerland;87;78;75;83;40;83
+22760;Borja Sainz Eguskiza;Borja Sainz;24022;https://www.futbin.com/27/player/24022/borja-sainz-eguskiza;;80;Team of the Week;FC Porto;Liga Portugal;Spain;86;80;78;81;60;75
+22761;Bartosz Nowak;Bartosz Nowak;24021;https://www.futbin.com/27/player/24021/bartosz-nowak;;80;Team of the Week;GKS Katowice;PKO BP Ekstraklasa;Poland;78;79;81;81;50;72
+22762;Mads Pedersen;Mads Pedersen;24020;https://www.futbin.com/27/player/24020/mads-pedersen;;80;Team of the Week;Hertha Berlin;Bundesliga 2;Denmark;82;62;76;81;78;78
+22763;Aaron Collins;Aaron Collins;24019;https://www.futbin.com/27/player/24019/aaron-collins;;80;Team of the Week;MK Dons;EFL League One;Wales;84;80;77;80;51;80
+22764;Samuel Mbangula;Samuel Mbangula;24018;https://www.futbin.com/27/player/24018/samuel-mbangula;;80;Team of the Week;Bologna;Serie A Enilive;Belgium;87;80;76;83;41;63
+22765;Gessime Yassine;Gessime Yassine;24017;https://www.futbin.com/27/player/24017/gessime-yassine;;80;Team of the Week;Strasbourg;Ligue 1 McDonald's;Morocco;83;78;80;88;50;65
+22766;Lautaro Di Lollo;Lautaro Di Lollo;24016;https://www.futbin.com/27/player/24016/lautaro-di-lollo;;80;Team of the Week;Boca Juniors;LPF;Argentina;81;35;57;60;80;87
+22767;Selen Altunkulak;Selen Altunkulak;24015;https://www.futbin.com/27/player/24015/selen-altunkulak;;80;Team of the Week;Toulouse FC;Arkema Première Ligue;Türkiye;84;82;76;84;67;65
+22768;Liel Abada;Liel Abada;24014;https://www.futbin.com/27/player/24014/liel-abada;;80;Team of the Week;Charlotte FC;MLS;Israel;89;78;75;80;51;70
+22769;Samuel Ballet;Samuel Ballet;24013;https://www.futbin.com/27/player/24013/samuel-ballet;;80;Team of the Week;Amed Sportif Faaliyetler;Trendyol Süper Lig;Switzerland;87;78;75;83;40;83
+22770;Borja Sainz Eguskiza;Borja Sainz;24012;https://www.futbin.com/27/player/24012/borja-sainz-eguskiza;;80;Team of the Week;FC Porto;Liga Portugal;Spain;86;80;78;81;60;75
+22771;Bartosz Nowak;Bartosz Nowak;24011;https://www.futbin.com/27/player/24011/bartosz-nowak;;80;Team of the Week;GKS Katowice;PKO BP Ekstraklasa;Poland;78;79;81;81;50;72
+22772;Mads Pedersen;Mads Pedersen;24010;https://www.futbin.com/27/player/24010/mads-pedersen;;80;Team of the Week;Hertha Berlin;Bundesliga 2;Denmark;82;62;76;81;78;78
+22773;Aaron Collins;Aaron Collins;24009;https://www.futbin.com/27/player/24009/aaron-collins;;80;Team of the Week;MK Dons;EFL League One;Wales;84;80;77;80;51;80
+22774;Gessime Yassine;Gessime Yassine;24008;https://www.futbin.com/27/player/24008/gessime-yassine;;80;Team of the Week;Strasbourg;Ligue 1 McDonald's;Morocco;83;78;80;88;50;65
+22775;Diego Manuel J. da Silva Moreira;Diego Moreira;24007;https://www.futbin.com/27/player/24007/diego-manuel-j-da-silva-moreira;;81;Team of the Week;Milano FC;Serie A Enilive;Belgium;90;73;75;85;67;72
+22776;Yasin Ayari;Yasin Ayari;24006;https://www.futbin.com/27/player/24006/yasin-ayari;;81;Team of the Week;Brighton;Premier League;Sweden;77;79;80;82;77;70
+22777;Diego Manuel J. da Silva Moreira;Diego Moreira;24005;https://www.futbin.com/27/player/24005/diego-manuel-j-da-silva-moreira;;81;Team of the Week;Milano FC;Serie A Enilive;Belgium;90;73;75;85;67;72
+22778;Yasin Ayari;Yasin Ayari;24004;https://www.futbin.com/27/player/24004/yasin-ayari;;81;Team of the Week;Brighton;Premier League;Sweden;77;79;80;82;77;70
+22779;Ermedin Demirović;Ermedin Demirović;24003;https://www.futbin.com/27/player/24003/ermedin-demirovic;;82;Team of the Week;VfB Stuttgart;Bundesliga;Bosnia and Herzegovina;79;85;75;82;44;80
+22780;Ermedin Demirović;Ermedin Demirović;24002;https://www.futbin.com/27/player/24002/ermedin-demirovic;;82;Team of the Week;VfB Stuttgart;Bundesliga;Bosnia and Herzegovina;79;85;75;82;44;80
+22781;Victoria Pelova;Victoria Pelova;24001;https://www.futbin.com/27/player/24001/victoria-pelova;;82;Team of the Week;Spurs;Barclays WSL;Netherlands;81;78;80;84;74;70
+22782;Wout Weghorst;Wout Weghorst;24000;https://www.futbin.com/27/player/24000/wout-weghorst;;82;Team of the Week;FC Twente;Eredivisie;Netherlands;80;83;70;75;62;88
+22783;Victoria Pelova;Victoria Pelova;23999;https://www.futbin.com/27/player/23999/victoria-pelova;;82;Team of the Week;Spurs;Barclays WSL;Netherlands;81;78;80;84;74;70
+22784;Wout Weghorst;Wout Weghorst;23998;https://www.futbin.com/27/player/23998/wout-weghorst;;82;Team of the Week;FC Twente;Eredivisie;Netherlands;80;83;70;75;62;88
+22785;Jan Paul van Hecke;Jan Paul van Hecke;23997;https://www.futbin.com/27/player/23997/jan-paul-van-hecke;;83;Team of the Week;Spurs;Premier League;Netherlands;76;49;78;74;84;83
+22786;Jan Paul van Hecke;Jan Paul van Hecke;23996;https://www.futbin.com/27/player/23996/jan-paul-van-hecke;;83;Team of the Week;Spurs;Premier League;Netherlands;76;49;78;74;84;83
+22787;Yannick Carrasco;Yannick Carrasco;23995;https://www.futbin.com/27/player/23995/yannick-carrasco;;84;Team of the Week;Al Shabab;ROSHN Saudi League;Belgium;89;83;81;86;60;75
+22788;Martín Ojeda;Martín Ojeda;23994;https://www.futbin.com/27/player/23994/martin-ojeda;;84;Ultimate Scream;Orlando City;MLS;Argentina;87;85;81;82;42;76
+22789;Yannick Carrasco;Yannick Carrasco;23993;https://www.futbin.com/27/player/23993/yannick-carrasco;;84;Team of the Week;Al Shabab;ROSHN Saudi League;Belgium;89;83;81;86;60;75
+22790;Unai Simón Mendibil;Unai Simón;23985;https://www.futbin.com/27/player/23985/unai-simon-mendibil;https://ratings-images-prod.pulse.ea.com/FC27/components/items/230869_es-ES.webp;86;Team of the Week;Athletic Club;LALIGA EA SPORTS;Spain;86;83;78;86;50;84
+22791;Fermín López Marín;Fermín;23987;https://www.futbin.com/27/player/23987/fermin-lopez-marin;https://ratings-images-prod.pulse.ea.com/FC27/components/items/277179_es-ES.webp;86;Team of the Week;FC Barcelona;LALIGA EA SPORTS;Spain;83;85;82;86;65;75
+22792;Kerolin Nicoli Israel Ferraz;Kerolin Nicoli;23986;https://www.futbin.com/27/player/23986/kerolin-nicoli-israel-ferraz;https://ratings-images-prod.pulse.ea.com/FC27/components/items/267234_es-ES.webp;86;Team of the Week;FC Barcelona;Liga F;Brazil;86;80;83;86;44;79
+22793;Morgan Rogers;Morgan Rogers;23991;https://www.futbin.com/27/player/23991/morgan-rogers;https://ratings-images-prod.pulse.ea.com/FC27/components/items/260247_es-ES.webp;85;Team of the Week;Chelsea;Premier League;England;80;84;83;85;68;80
+22794;Brajan Gruda;Brajan Gruda;24205;https://www.futbin.com/27/player/24205/brajan-gruda;;80;Team of the Week;RB Leipzig;Bundesliga;Germany;85;77;80;85;35;70
+22795;Ringo Meerveld;Ringo Meerveld;24204;https://www.futbin.com/27/player/24204/ringo-meerveld;;80;Team of the Week;sc Heerenveen;Eredivisie;Netherlands;87;79;78;84;58;74
+22796;Sydie Peck;Sydie Peck;24203;https://www.futbin.com/27/player/24203/sydie-peck;;80;Team of the Week;Sheffield Utd;EFL Championship;England;78;70;78;80;75;82
+22797;Thierno Barry;Thierno Barry;24202;https://www.futbin.com/27/player/24202/thierno-barry;;80;Team of the Week;Everton;Premier League;France;84;80;72;79;29;78
+22798;Terry Devlin;Terry Devlin;24201;https://www.futbin.com/27/player/24201/terry-devlin;;80;Team of the Week;Portsmouth;EFL Championship;Northern Ireland;82;70;73;75;78;86
+22799;Brajan Gruda;Brajan Gruda;24200;https://www.futbin.com/27/player/24200/brajan-gruda;;80;Team of the Week;RB Leipzig;Bundesliga;Germany;85;77;80;85;35;70
+22800;Ringo Meerveld;Ringo Meerveld;24199;https://www.futbin.com/27/player/24199/ringo-meerveld;;80;Team of the Week;sc Heerenveen;Eredivisie;Netherlands;87;79;78;84;58;74
+22801;Albert Grønbæk;Albert Grønbæk;24198;https://www.futbin.com/27/player/24198/albert-gronbaek;;80;Team of the Week;Hamburger SV;Bundesliga;Denmark;80;75;80;83;70;75
+22802;Al Hassan Touré;Al Hassan Touré;24197;https://www.futbin.com/27/player/24197/al-hassan-toure;;80;Team of the Week;Sydney FC;Isuzu UTE A League;Australia;93;78;75;80;48;81
+22803;Evangelos Patoulidis;Evangelos Patoulidis;24196;https://www.futbin.com/27/player/24196/evangelos-patoulidis;;80;Team of the Week;Sandefjord;Eliteserien;Belgium;86;79;80;83;47;67
+22804;Dennis Eckert Ayensa;Dennis Eckert Ayensa;24195;https://www.futbin.com/27/player/24195/dennis-eckert-ayensa;;80;Team of the Week;Standard Liège;1A Pro League;Iran;81;81;67;80;36;78
+22805;Sam Surridge;Sam Surridge;24194;https://www.futbin.com/27/player/24194/sam-surridge;;80;Team of the Week;Nashville SC;MLS;England;80;82;67;80;33;81
+22806;Murilo de Souza Costa;Murilo;24193;https://www.futbin.com/27/player/24193/murilo-de-souza-costa;;80;Team of the Week;Gil Vicente;Liga Portugal;Brazil;87;80;78;82;31;75
+22807;Soriba Diaoune;Soriba Diaoune;24192;https://www.futbin.com/27/player/24192/soriba-diaoune;;80;Team of the Week;LOSC Lille;Ligue 1 McDonald's;France;86;77;79;82;49;70
+22808;Sydie Peck;Sydie Peck;24191;https://www.futbin.com/27/player/24191/sydie-peck;;80;Team of the Week;Sheffield Utd;EFL Championship;England;78;70;78;80;75;82
+22809;Thierno Barry;Thierno Barry;24190;https://www.futbin.com/27/player/24190/thierno-barry;;80;Team of the Week;Everton;Premier League;France;84;80;72;79;29;78
+22810;Terry Devlin;Terry Devlin;24189;https://www.futbin.com/27/player/24189/terry-devlin;;80;Team of the Week;Portsmouth;EFL Championship;Northern Ireland;82;70;73;75;78;86
+22811;Albert Grønbæk;Albert Grønbæk;24188;https://www.futbin.com/27/player/24188/albert-gronbaek;;80;Team of the Week;Hamburger SV;Bundesliga;Denmark;80;75;80;83;70;75
+22812;Al Hassan Touré;Al Hassan Touré;24187;https://www.futbin.com/27/player/24187/al-hassan-toure;;80;Team of the Week;Sydney FC;Isuzu UTE A League;Australia;93;78;75;80;48;81
+22813;Evangelos Patoulidis;Evangelos Patoulidis;24186;https://www.futbin.com/27/player/24186/evangelos-patoulidis;;80;Team of the Week;Sandefjord;Eliteserien;Belgium;86;79;80;83;47;67
+22814;Dennis Eckert Ayensa;Dennis Eckert Ayensa;24185;https://www.futbin.com/27/player/24185/dennis-eckert-ayensa;;80;Team of the Week;Standard Liège;1A Pro League;Iran;81;81;67;80;36;78
+22815;Sam Surridge;Sam Surridge;24184;https://www.futbin.com/27/player/24184/sam-surridge;;80;Team of the Week;Nashville SC;MLS;England;80;82;67;80;33;81
+22816;Murilo de Souza Costa;Murilo;24183;https://www.futbin.com/27/player/24183/murilo-de-souza-costa;;80;Team of the Week;Gil Vicente;Liga Portugal;Brazil;87;80;78;82;31;75
+22817;Soriba Diaoune;Soriba Diaoune;24182;https://www.futbin.com/27/player/24182/soriba-diaoune;;80;Team of the Week;LOSC Lille;Ligue 1 McDonald's;France;86;77;79;82;49;70
+22818;Isabel Corte Peláez;Isina Corte;24181;https://www.futbin.com/27/player/24181/isabel-corte-pelaez;;82;Team of the Week;Logroño United;Liga F Moeve;Spain;89;81;79;83;38;77
+22819;Elia Caprile;Elia Caprile;24180;https://www.futbin.com/27/player/24180/elia-caprile;;82;Team of the Week;Cagliari;Serie A Enilive;Italy;82;79;80;87;55;82
+22820;Isabel Corte Peláez;Isina Corte;24179;https://www.futbin.com/27/player/24179/isabel-corte-pelaez;;82;Team of the Week;Logroño United;Liga F Moeve;Spain;89;81;79;83;38;77
+22821;Elia Caprile;Elia Caprile;24178;https://www.futbin.com/27/player/24178/elia-caprile;;82;Team of the Week;Cagliari;Serie A Enilive;Italy;82;79;80;87;55;82
+22822;Jair Paula da Cunha Filho;Jair Cunha;24177;https://www.futbin.com/27/player/24177/jair-paula-da-cunha-filho;;82;Team of the Week;Nott'm Forest;Premier League;Brazil;77;50;70;71;82;86
+22823;Ella Peddemors;Ella Peddemors;24176;https://www.futbin.com/27/player/24176/ella-peddemors;;82;Team of the Week;VfL Wolfsburg;GPFBL;Netherlands;79;77;80;82;78;76
+22824;Jair Paula da Cunha Filho;Jair Cunha;24175;https://www.futbin.com/27/player/24175/jair-paula-da-cunha-filho;;82;Team of the Week;Nott'm Forest;Premier League;Brazil;77;50;70;71;82;86
+22825;Ella Peddemors;Ella Peddemors;24174;https://www.futbin.com/27/player/24174/ella-peddemors;;82;Team of the Week;VfL Wolfsburg;GPFBL;Netherlands;79;77;80;82;78;76
+22826;Mario Hermoso Canseco;Mario Hermoso;24173;https://www.futbin.com/27/player/24173/mario-hermoso-canseco;;83;Team of the Week;AS Roma;Serie A Enilive;Spain;77;54;75;72;84;83
+22827;Mario Hermoso Canseco;Mario Hermoso;24172;https://www.futbin.com/27/player/24172/mario-hermoso-canseco;;83;Team of the Week;AS Roma;Serie A Enilive;Spain;77;54;75;72;84;83
+22828;Leandro Trossard;Leandro Trossard;24170;https://www.futbin.com/27/player/24170/leandro-trossard;;84;Team of the Week;Beşiktaş;Trendyol Süper Lig;Belgium;80;84;82;87;32;65
+22829;Arda Güler;Arda Güler;24169;https://www.futbin.com/27/player/24169/arda-guler;;84;Team of the Week;Real Madrid;LALIGA EA SPORTS;Türkiye;80;81;86;85;56;62
+22830;Leandro Trossard;Leandro Trossard;24168;https://www.futbin.com/27/player/24168/leandro-trossard;;84;Team of the Week;Beşiktaş;Trendyol Süper Lig;Belgium;80;84;82;87;32;65
+22831;Jule Brand;Jule Brand;24167;https://www.futbin.com/27/player/24167/jule-brand;;85;Team of the Week;OL;Arkema Première Ligue;Germany;92;78;81;85;57;76
+22832;Ethan Nwaneri;Ethan Nwaneri;24166;https://www.futbin.com/27/player/24166/ethan-nwaneri;;85;UCL RTTK;Borussia Dortmund;Bundesliga;England;86;82;85;86;56;70
+22833;Jule Brand;Jule Brand;24165;https://www.futbin.com/27/player/24165/jule-brand;;85;Team of the Week;OL;Arkema Première Ligue;Germany;92;78;81;85;57;76
+22834;Grace Geyoro;Grace Geyoro;24163;https://www.futbin.com/27/player/24163/grace-geyoro;;85;Team of the Week;London City Lionesses;Barclays WSL;France;90;74;81;83;83;80
+22835;Florian Wirtz;Florian Wirtz;24162;https://www.futbin.com/27/player/24162/florian-wirtz;;87;Team of the Week;Liverpool;Premier League;Germany;81;82;87;89;55;65
+22836;Florian Wirtz;Florian Wirtz;24161;https://www.futbin.com/27/player/24161/florian-wirtz;;87;Team of the Week;Liverpool;Premier League;Germany;81;82;87;89;55;65
+22837;Khadija Shaw;Khadija Shaw;24159;https://www.futbin.com/27/player/24159/khadija-shaw;;91;Team of the Week;Manchester City;Barclays WSL;Jamaica;84;91;75;86;43;89
+22838;Ainhoa Marín Martín;Ainhoa Marín;24158;https://www.futbin.com/27/player/24158/ainhoa-marin-martin;;85;POTM Liga F;Real Sociedad;Liga F Moeve;Spain;91;80;78;88;44;70
+22839;Archie Brown;Archie Brown;24157;https://www.futbin.com/27/player/24157/archie-brown;;85;Star Performer;Fenerbahçe;Trendyol Süper Lig;England;88;75;80;80;81;85
+22840;Camilo Durán;Camilo Durán;24156;https://www.futbin.com/27/player/24156/camilo-duran;;85;Star Performer;Celtic;Scottish Premiership;Colombia;88;85;78;85;44;75
+22841;Shea Lacey;Shea Lacey;24155;https://www.futbin.com/27/player/24155/shea-lacey;;85;Star Performer;Manchester Utd;Premier League;England;90;81;83;85;42;70
+22842;Archie Brown;Archie Brown;24154;https://www.futbin.com/27/player/24154/archie-brown;;85;Star Performer;Fenerbahçe;Trendyol Süper Lig;England;88;75;80;80;81;85
+22843;Brian Brobbey;Brian Brobbey;24153;https://www.futbin.com/27/player/24153/brian-brobbey;;85;UEL RTTK;Sunderland;Premier League;Netherlands;86;85;70;81;35;90
+22844;Camilo Durán;Camilo Durán;24152;https://www.futbin.com/27/player/24152/camilo-duran;;85;Star Performer;Celtic;Scottish Premiership;Colombia;88;85;78;85;44;75
+22845;Tasos Douvikas;Tasos Douvikas;24151;https://www.futbin.com/27/player/24151/tasos-douvikas;;86;Star Performer;Como;Serie A Enilive;Greece;85;87;78;83;40;78
+22846;Tasos Douvikas;Tasos Douvikas;24150;https://www.futbin.com/27/player/24150/tasos-douvikas;;86;Star Performer;Como;Serie A Enilive;Greece;85;87;78;83;40;78
+22847;Konrad Laimer;Konrad Laimer;24149;https://www.futbin.com/27/player/24149/konrad-laimer;;86;Star Performer;FC Bayern München;Bundesliga;Austria;87;81;81;80;82;80
+22848;Konrad Laimer;Konrad Laimer;24148;https://www.futbin.com/27/player/24148/konrad-laimer;;86;Star Performer;FC Bayern München;Bundesliga;Austria;87;81;81;80;82;80
+22849;Fabián Ruiz Peña;Fabián Ruiz;24147;https://www.futbin.com/27/player/24147/fabian-ruiz-pena;;87;Star Performer;Paris SG;Ligue 1 McDonald's;Spain;78;83;87;87;82;82
+22850;Fabián Ruiz Peña;Fabián Ruiz;24146;https://www.futbin.com/27/player/24146/fabian-ruiz-pena;;87;Star Performer;Paris SG;Ligue 1 McDonald's;Spain;78;83;87;87;82;82
+22851;Kylian Mbappé;Kylian Mbappé;24145;https://www.futbin.com/27/player/24145/kylian-mbappe;;92;LaLiga POTM;Real Madrid;LALIGA EA SPORTS;France;97;92;81;93;30;77
+22852;Riccardo Calafiori;Riccardo Calafiori;24144;https://www.futbin.com/27/player/24144/riccardo-calafiori;;86;UCL RTTK;Arsenal;Premier League;Italy;82;74;80;82;85;86
+22853;Franziska Kett;Franziska Kett;24143;https://www.futbin.com/27/player/24143/franziska-kett;;83;Showdown;FC Bayern München;GPFBL;Germany;83;74;82;82;83;76
+22854;Naomie Feller;Naomie Feller;24142;https://www.futbin.com/27/player/24142/naomie-feller;;83;Showdown;Paris SG;Arkema Première Ligue;France;88;83;76;83;41;77
+22855;Sydney Schertenleib;Sydney Schertenleib;24141;https://www.futbin.com/27/player/24141/sydney-schertenleib;;84;Showdown;FC Barcelona;Liga F Moeve;Switzerland;84;74;82;84;83;77
+22856;Olivia Smith;Olivia Smith;24140;https://www.futbin.com/27/player/24140/olivia-smith;;84;Showdown;Arsenal;Barclays WSL;Canada;87;83;81;86;37;74
+22857;Tiago Emanuel Embaló Djaló;Tiago Djaló;24139;https://www.futbin.com/27/player/24139/tiago-emanuel-embalo-djalo;;84;UEL RTTK;Beşiktaş;Trendyol Süper Lig;Portugal;82;54;73;74;83;85
+22858;Victor Ibarbo;Victor Ibarbo;24248;https://www.futbin.com/27/player/24248/victor-ibarbo;;86;Hall of FUT;EA FC HoF;Serie A Enilive;Colombia;94;84;75;86;45;85
+22859;Loic Remy;Loic Remy;24246;https://www.futbin.com/27/player/24246/loic-remy;;86;Hall of FUT;EA FC HoF;Ligue 1 McDonald's;France;92;86;74;82;40;75
+22860;Eljero Elia;Eljero Elia;24244;https://www.futbin.com/27/player/24244/eljero-elia;;86;Hall of FUT;EA FC HoF;Bundesliga;Netherlands;92;83;80;89;36;72
+22861;Adebayo Akinfenwa;Adebayo Akinfenwa;24243;https://www.futbin.com/27/player/24243/adebayo-akinfenwa;;86;Hall of FUT;EA FC HoF;EFL Championship;England;85;92;70;84;40;95
+22862;Victor Ibarbo;Victor Ibarbo;24242;https://www.futbin.com/27/player/24242/victor-ibarbo;;86;Hall of FUT;EA FC HoF;Serie A Enilive;Colombia;94;84;75;86;45;85
+22863;Emmanuel Emenike;Emmanuel Emenike;24241;https://www.futbin.com/27/player/24241/emmanuel-emenike;;86;Hall of FUT;EA FC HoF;Trendyol Süper Lig;Nigeria;90;85;65;83;32;87
+22864;Loic Remy;Loic Remy;24240;https://www.futbin.com/27/player/24240/loic-remy;;86;Hall of FUT;EA FC HoF;Ligue 1 McDonald's;France;92;86;74;82;40;75
+22865;Miguel Layún;Miguel Layún;24239;https://www.futbin.com/27/player/24239/miguel-layun;;86;Hall of FUT;EA FC HoF;Liga BBVA MX;Mexico;88;78;82;83;83;80
+22866;Eljero Elia;Eljero Elia;24238;https://www.futbin.com/27/player/24238/eljero-elia;;86;Hall of FUT;EA FC HoF;Bundesliga;Netherlands;92;83;80;89;36;72
+22867;Adebayo Akinfenwa;Adebayo Akinfenwa;24237;https://www.futbin.com/27/player/24237/adebayo-akinfenwa;;86;Hall of FUT;EA FC HoF;EFL Championship;England;85;92;70;84;40;95
+22868;Aiden McGeady;Aiden McGeady;24236;https://www.futbin.com/27/player/24236/aiden-mcgeady;;86;Hall of FUT;EA FC HoF;Premier League;Republic of Ireland;91;82;85;88;44;67
+22869;Gervais Yao Kouassi;Gervais Yao Kouassi;24235;https://www.futbin.com/27/player/24235/gervais-yao-kouassi;;87;Hall of FUT;EA FC HoF;Serie A Enilive;Côte d'Ivoire;96;83;82;88;45;74
+22870;Giovani Dos Santos;Giovani Dos Santos;24234;https://www.futbin.com/27/player/24234/giovani-dos-santos;;87;Hall of FUT;EA FC HoF;LALIGA EA SPORTS;Mexico;90;87;80;91;36;63
+22871;Micah Richards;Micah Richards;24233;https://www.futbin.com/27/player/24233/micah-richards;;87;Hall of FUT;EA FC HoF;Premier League;England;87;60;77;79;86;91
+22872;Alessandro Florenzi;Alessandro Florenzi;24231;https://www.futbin.com/27/player/24231/alessandro-florenzi;;87;Hall of FUT;EA FC HoF;Serie A Enilive;Italy;90;83;83;85;84;80
+22873;Gervais Yao Kouassi;Gervais Yao Kouassi;24230;https://www.futbin.com/27/player/24230/gervais-yao-kouassi;;87;Hall of FUT;EA FC HoF;Serie A Enilive;Côte d'Ivoire;96;83;82;88;45;74
+22874;Giovani Dos Santos;Giovani Dos Santos;24229;https://www.futbin.com/27/player/24229/giovani-dos-santos;;87;Hall of FUT;EA FC HoF;LALIGA EA SPORTS;Mexico;90;87;80;91;36;63
+22875;Micah Richards;Micah Richards;24228;https://www.futbin.com/27/player/24228/micah-richards;;87;Hall of FUT;EA FC HoF;Premier League;England;87;60;77;79;86;91
+22876;Jakub Błaszczykowski;Jakub Błaszczykowski;24227;https://www.futbin.com/27/player/24227/jakub-baszczykowski;;87;Hall of FUT;EA FC HoF;Bundesliga;Poland;94;85;83;87;60;78
+22877;Seydou Doumbia;Seydou Doumbia;24226;https://www.futbin.com/27/player/24226/seydou-doumbia;;88;Hall of FUT;EA FC HoF;Serie A Enilive;Côte d'Ivoire;96;83;82;88;45;74
+22878;Mario Balotelli;Mario Balotelli;24225;https://www.futbin.com/27/player/24225/mario-balotelli;;88;Hall of FUT;EA FC HoF;Serie A Enilive;Italy;86;89;72;83;42;79
+22879;Marouane Fellaini;Marouane Fellaini;24223;https://www.futbin.com/27/player/24223/marouane-fellaini;;88;Hall of FUT;EA FC HoF;Premier League;Belgium;91;84;85;93;37;69
+22880;Fredy Guarin;Fredy Guarin;24222;https://www.futbin.com/27/player/24222/fredy-guarin;;88;Hall of FUT;EA FC HoF;Serie A Enilive;Colombia;86;63;65;68;90;87
+22881;Seydou Doumbia;Seydou Doumbia;24221;https://www.futbin.com/27/player/24221/seydou-doumbia;;88;Hall of FUT;EA FC HoF;Serie A Enilive;Côte d'Ivoire;94;88;75;87;47;78
+22882;Mario Balotelli;Mario Balotelli;24220;https://www.futbin.com/27/player/24220/mario-balotelli;;88;Hall of FUT;EA FC HoF;Serie A Enilive;Italy;88;90;76;88;37;85
+22883;Alexandre Pato;Alexandre Pato;24219;https://www.futbin.com/27/player/24219/alexandre-pato;;88;Hall of FUT;EA FC HoF;Serie A Enilive;Brazil;92;88;76;89;36;76
+22884;Marouane Fellaini;Marouane Fellaini;24218;https://www.futbin.com/27/player/24218/marouane-fellaini;;88;Hall of FUT;EA FC HoF;Premier League;Belgium;81;83;84;82;88;92
+22885;Fredy Guarin;Fredy Guarin;24217;https://www.futbin.com/27/player/24217/fredy-guarin;;88;Hall of FUT;EA FC HoF;Serie A Enilive;Colombia;84;89;87;88;78;90
+22886;David Luiz;David Luiz;24214;https://www.futbin.com/27/player/24214/david-luiz;;89;Hall of FUT;EA FC HoF;Ligue 1 McDonald's;Brazil;84;75;83;79;89;87
+22887;Antonio Valencia;Antonio Valencia;24213;https://www.futbin.com/27/player/24213/antonio-valencia;;89;Hall of FUT;EA FC HoF;Premier League;Ecuador;92;80;85;86;84;89
+22888;Theo Walcott;Theo Walcott;24211;https://www.futbin.com/27/player/24211/theo-walcott;;90;Hall of FUT;EA FC HoF;Premier League;England;88;84;86;90;51;72
+22889;Hulk;Hulk;24210;https://www.futbin.com/27/player/24210/hulk;;90;Hall of FUT;EA FC HoF;Liga Portugal;Brazil;92;90;85;90;50;90
+22890;Theo Walcott;Theo Walcott;24209;https://www.futbin.com/27/player/24209/theo-walcott;;90;Hall of FUT;EA FC HoF;Premier League;England;98;86;80;90;44;70
+22891;Nicolas Jackson;Nicolas Jackson;24208;https://www.futbin.com/27/player/24208/nicolas-jackson;;85;Premier League POTM;Aston Villa;Premier League;Senegal;84;85;75;85;46;82
+22892;Niclas Füllkrug;Niclas Füllkrug;24207;https://www.futbin.com/27/player/24207/niclas-fullkrug;;85;Bundesliga POTM;SV Werder Bremen;Bundesliga;Germany;74;90;79;86;60;89
+22893;Giacomo Calò;Giacomo Calò;24206;https://www.futbin.com/27/player/24206/giacomo-calo;;85;Serie A POTM;Frosinone;Serie A Enilive;Italy;80;67;82;86;82;88
