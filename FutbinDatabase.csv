@@ -1,4 +1,4 @@
-ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
+﻿ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;Defensa;Fisico
 0;Maradona;Maradona;21487;https://www.futbin.com/27/player/21487/maradona;;95;Icon;EA FC ICONS;Icons;Argentina;90;91;91;96;40;77
 1;Pele;Pele;21488;https://www.futbin.com/27/player/21488/pele;;95;Icon;EA FC ICONS;Icons;Brazil;93;94;91;94;58;74
 2;Zidane;Zidane;21491;https://www.futbin.com/27/player/21491/zidane;;94;Icon;EA FC ICONS;Icons;France;83;90;94;94;73;84
@@ -22490,7 +22490,7 @@ ID;Nombre;NombreBusqueda;IdFutbin;Enlace;Imagen;Media;Calidad;Equipo;Liga;Pais;R
 22488;Franco Mastantuono;Franco Mastantuono ;23416;https://www.futbin.com/27/player/23416/franco-mastantuono;;88;Future Stars;Fiorentina;Serie A Enilive;Argentina;88;85;87;90;60;77
 22489;Paris Brunner;Paris Brunner;23413;https://www.futbin.com/27/player/23413/paris-brunner;;88;Future Stars;AS Monaco;Ligue 1 McDonald's;Germany;86;88;75;88;39;74
 22490;Kobbie Mainoo;Kobbie Mainoo;23412;https://www.futbin.com/27/player/23412/kobbie-mainoo;;89;Future Stars;Manchester Utd;Premier League;England;81;76;85;90;88;85
-22491;Marc Pubill Pagès;Pubill;23411;https://www.futbin.com/27/player/23411/marc-pubill-pages;;89;Future Stars;Atlético de Madrid;LALIGA EA SPORTS;Spain;84;88;77;83;45;85
+22491;Fernando Morientes;Fernando Morientes;21665;https://www.futbin.com/27/player/21665/morientes-sanchez;;87;Base Heroes;Atlético de Madrid;LALIGA EA SPORTS;Spain;84;88;77;83;45;85
 22492;Marc Pubill Pagès;Pubill;23410;https://www.futbin.com/27/player/23410/marc-pubill-pages;;89;Future Stars;Atlético de Madrid;LALIGA EA SPORTS;Spain;83;64;77;76;89;87
 22493;Kobbie Mainoo;Kobbie Mainoo;23409;https://www.futbin.com/27/player/23409/kobbie-mainoo;;89;Future Stars;Manchester Utd;Premier League;England;88;84;86;90;51;72
 22494;Rayan Vitor Simplício Rocha;Rayan;23408;https://www.futbin.com/27/player/23408/rayan-vitor-simplicio-rocha;;90;Future Stars;AFC Bournemouth;Premier League;Brazil;91;87;84;90;45;80
