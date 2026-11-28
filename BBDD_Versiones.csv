@@ -1,6 +1,6 @@
 Version;Version_futwiz;Version_futbin;vetada;color1;color2;modo;letra
 Rare;;Normal;no;#FFE900;#D7961C;normal;white
-Icon;;Icon;no;#E1D7A1;#FFFFFF;esquina;black
+Base Icon;;Icon;no;#E1D7A1;#FFFFFF;esquina;black
 Team of the Week;;TOTW;no;#0F1216;#ECCC19;esquina;white
 Heroes;;Base Hero;no;#E55897;#F39C26;normal;white
 Hall of FUT;;Hall of FUT;no;#1E2A44;#D4AF37;esquina;white
@@ -14,3 +14,4 @@ UEFA Europa League RTTK;;UEL RTTK;no;#ff0000;#ff0000;esquina;white
 UEFA Women's Champions League RTTK;;UWCL RTTK;no;#ff0000;#ff0000;esquina;white
 Hall of FUT: Unleashed;;UWCL RTTK;no;#ff0000;#ff0000;esquina;white
 Thunderstruck;;Thunderstruck;no;#ff0000;#ff0000;esquina;white
+Thunderstruck ICON;;ICONS;no;#ff0000;#ff0000;esquina;white
